@@ -27,4 +27,4 @@
 
 Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)
 ---          | ---       | ---           | ---             | ---
-Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/white.png" height="22" width="22"/>
+Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/white.png" height="23" width="23"/>
