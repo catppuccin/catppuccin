@@ -15,3 +15,8 @@
     <a href="https://github.com/catppuccin/catppuccin/issues"><img src="https://img.shields.io/github/issues/catppuccin/catppuccin?colorA=221e2f&colorB=e7a988&style=for-the-badge&logo=bugatti"></a>
     <a href="https://github.com/catppuccin/catppuccin/network/members"><img src="https://img.shields.io/github/forks/catppuccin/catppuccin?colorA=221e2f&colorB=f0a8e4&style=for-the-badge&logo=github"></a>
 </p>
+
+## Color Palette
+Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)
+---          | ---       | ---           | ---             | ---
+Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
