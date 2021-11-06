@@ -17,6 +17,9 @@
 </p>
 
 ## Color Palette
-Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)
----          | ---       | ---           | ---             | ---
-Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
+
+| Palette                                                                                            | Hex     | RGB           | HSL           |
+|----------------------------------------------------------------------------------------------------|---------|---------------|---------------|
+| ![white](https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/white.png) | #F0F0F5 | 240, 240, 245 | 240, 20%, 95% |
+|                                                                                                    |         |               |               |
+|                                                                                                    |         |               |               |
