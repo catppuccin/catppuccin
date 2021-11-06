@@ -23,3 +23,8 @@
 | <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/white.png" width="20" /></p>| #F0F0F5 | 240, 240, 245 | 240, 20%, 95% |
 |                                                                                                                    |         |               |               |
 |                                                                                                                    |         |               |               |
+
+
+Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)
+---          | ---       | ---           | ---             | ---
+Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/white.png" height="22" width="22"/>
