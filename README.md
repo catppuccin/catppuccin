@@ -18,8 +18,8 @@
 
 ## Color Palette
 
-| Palette                                                                                            | Hex     | RGB           | HSL           |
-|----------------------------------------------------------------------------------------------------|---------|---------------|---------------|
-| ![white](https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/white.png) | #F0F0F5 | 240, 240, 245 | 240, 20%, 95% |
-|                                                                                                    |         |               |               |
-|                                                                                                    |         |               |               |
+| Palette                                                                                                            | Hex     | RGB           | HSL           |
+|--------------------------------------------------------------------------------------------------------------------|---------|---------------|---------------|
+| <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/white.png" width="20" /></p>| #F0F0F5 | 240, 240, 245 | 240, 20%, 95% |
+|                                                                                                                    |         |               |               |
+|                                                                                                                    |         |               |               |
