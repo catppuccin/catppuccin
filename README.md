@@ -18,6 +18,7 @@
 
 ## Color Palette
 
+<p align="center">
 | Palette                                                                                                                              | Hex       | RGB             | HSL             |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|-----------------|
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_0.png" height="23" width="23"/>  | `#F0F0F5` | `240, 240, 245` | `240, 20%, 95%` |
@@ -36,3 +37,4 @@
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_13.png" height="23" width="23"/> | `#6F6A8A` | `111, 106, 138` | `249, 13%, 48%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_14.png" height="23" width="23"/> | `#84A5CB` | `132, 165, 203` | `212, 41%, 66%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_15.png" height="23" width="23"/> | `#B9C4E3` | `185, 196, 227` | `224, 43%, 81%` |
+</p>
