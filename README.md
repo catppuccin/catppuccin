@@ -16,7 +16,7 @@
     <a href="https://github.com/catppuccin/catppuccin/network/members"><img src="https://img.shields.io/github/forks/catppuccin/catppuccin?colorA=221e2f&colorB=f0a8e4&style=for-the-badge&logo=github"></a>
 </p>
 
-## 🖌️ Palette
+## 🎨 Palette
 
 |                                                                                                                               | Hex       | RGB             | HSL             | CMYK                |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|-----------------|---------------------|
