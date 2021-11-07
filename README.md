@@ -18,7 +18,7 @@
 
 ## Color Palette
 
-| C                                                                                                                              | Hex       | RGB             | HSL             | CMYK                |
+|                                                                                                                               | Hex       | RGB             | HSL             | CMYK                |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|-----------------|---------------------|
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_0.png" height="23" width="23"/>  | `#F0F0F5` | `240, 240, 245` | `240, 20%, 95%` | `2%, 2%, 0%, 4%`    |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_1.png" height="23" width="23"/>  | `#EA31B5` | `234, 49, 181`  | `317, 81%, 55%` | `0%, 79%, 23%, 8%`  |
@@ -36,3 +36,12 @@
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_13.png" height="23" width="23"/> | `#6F6A8A` | `111, 106, 138` | `249, 13%, 48%` | `20%, 23%, 0%, 46%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_14.png" height="23" width="23"/> | `#84A5CB` | `132, 165, 203` | `212, 41%, 66%` | `35%, 19%, 0%, 20%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_15.png" height="23" width="23"/> | `#B9C4E3` | `185, 196, 227` | `224, 43%, 81%` | `19%, 14%, 0%, 11%` |
+
+## Development
+
+## Gratitude
+
+Thanks to the following tools developing this project is possible:
+
+- [coolors.co](https://coolors.co/): A tool for creating and collecting color palettes.
+- [colors_converter.asp](https://www.w3schools.com/colors/colors_converter.asp): Convert colors to different formats.
