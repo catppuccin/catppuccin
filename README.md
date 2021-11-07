@@ -16,7 +16,7 @@
     <a href="https://github.com/catppuccin/catppuccin/network/members"><img src="https://img.shields.io/github/forks/catppuccin/catppuccin?colorA=221e2f&colorB=f0a8e4&style=for-the-badge&logo=github"></a>
 </p>
 
-## Color Palette
+## 🖌️ Palette
 
 |                                                                                                                               | Hex       | RGB             | HSL             | CMYK                |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|-----------------|---------------------|
@@ -37,12 +37,12 @@
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_14.png" height="23" width="23"/> | `#84A5CB` | `132, 165, 203` | `212, 41%, 66%` | `35%, 19%, 0%, 20%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_15.png" height="23" width="23"/> | `#B9C4E3` | `185, 196, 227` | `224, 43%, 81%` | `19%, 14%, 0%, 11%` |
 
-# 👐 Contribute
+## 👐 Contribute
 
 See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/dev/CONTRIBUTING.md).
 
 
-# 📜 License
+## 📜 License
 
 Catppuccin is released under the MIT license, which grants the following permissions:
 
