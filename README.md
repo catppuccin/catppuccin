@@ -16,6 +16,10 @@
     <a href="https://github.com/catppuccin/catppuccin/network/members"><img src="https://img.shields.io/github/forks/catppuccin/catppuccin?colorA=221e2f&colorB=f0a8e4&style=for-the-badge&logo=github"></a>
 </p>
 
+## About
+
+Catppuccin is a community-driven mid-tone dark theme that aims to be the middle ground between low and high contrast themes, providing a warm color palette with 16 eye-candy colors that are bright enough to be visible during the day, yet pale enough to be easy on your eyes throughout the night. This repository tracks the development of the actual color palette, organization-wide assets, and general TODOs.
+
 ## 🎨 Palette
 
 |                                                                                                                               | Hex       | RGB             | HSL             | CMYK                |
@@ -53,9 +57,10 @@ Catppuccin is released under the MIT license, which grants the following permiss
 
 For more convoluted language, see the [LICENSE file](https://github.com/catppuccin/catppuccin/blob/main/LICENSE.md).
 
-# 🤗 Gratitude
+## 💝 Gratitude
 
 Thanks to the following tools developing this project is possible:
 
 - [coolors.co](https://coolors.co/): A tool for creating and collecting color palettes.
+- [InkScape](https://inkscape.org/): free and open-source vector graphics editor.
 - [colors_converter.asp](https://www.w3schools.com/colors/colors_converter.asp): Convert colors to different formats.
