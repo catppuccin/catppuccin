@@ -18,7 +18,9 @@
 
 ## About
 
+<div style="text-align: justify">
 Catppuccin is a community-driven mid-tone dark theme that aims to be the middle ground between low and high contrast themes, providing a warm color palette with 16 eye-candy colors that are bright enough to be visible during the day, yet pale enough to be easy on your eyes throughout the night. This repository tracks the development of the actual color palette, organization-wide assets, and general TODOs.
+</div>
 
 ## 🎨 Palette
 
