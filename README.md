@@ -24,8 +24,8 @@
 
 ## 🎨 Palette
 
-|                                                                                                                               | Hex       | RGB             | HSL             | CMYK                |
-|--------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|-----------------|---------------------|
+|                                                                                                                                      | Hex       | RGB             | HSL             | CMYK                |
+| ------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | --------------- | ------------------- |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_0.png" height="23" width="23"/>  | `#F0F0F5` | `240, 240, 245` | `240, 20%, 95%` | `2%, 2%, 0%, 4%`    |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_1.png" height="23" width="23"/>  | `#EA31B5` | `234, 49, 181`  | `317, 81%, 55%` | `0%, 79%, 23%, 8%`  |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_2.png" height="23" width="23"/>  | `#AE9AD6` | `174, 154, 214` | `260, 42%, 72%` | `19%, 28%, 0%, 16%` |
@@ -47,15 +47,14 @@
 
 See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/dev/CONTRIBUTING.md).
 
-
 ## 📜 License
 
 Catppuccin is released under the MIT license, which grants the following permissions:
 
-- Commercial use
-- Distribution
-- Modification
-- Private use
+-   Commercial use
+-   Distribution
+-   Modification
+-   Private use
 
 For more convoluted language, see the [LICENSE file](https://github.com/catppuccin/catppuccin/blob/main/LICENSE.md).
 
@@ -63,6 +62,6 @@ For more convoluted language, see the [LICENSE file](https://github.com/catppucc
 
 Thanks to the following tools developing this project is possible:
 
-- [coolors.co](https://coolors.co/): A tool for creating and collecting color palettes.
-- [InkScape](https://inkscape.org/): free and open-source vector graphics editor.
-- [colors_converter.asp](https://www.w3schools.com/colors/colors_converter.asp): Convert colors to different formats.
+-   [coolors.co](https://coolors.co/): A tool for creating and collecting color palettes.
+-   [InkScape](https://inkscape.org/): free and open-source vector graphics editor.
+-   [colors_converter.asp](https://www.w3schools.com/colors/colors_converter.asp): Convert colors to different formats.
