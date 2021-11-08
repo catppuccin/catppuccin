@@ -63,5 +63,5 @@ For more convoluted language, see the [LICENSE file](https://github.com/catppucc
 Thanks to the following tools developing this project is possible:
 
 -   [coolors.co](https://coolors.co/): A tool for creating and collecting color palettes.
--   [InkScape](https://inkscape.org/): free and open-source vector graphics editor.
--   [colors_converter.asp](https://www.w3schools.com/colors/colors_converter.asp): Convert colors to different formats.
+-   [InkScape](https://inkscape.org/): Free and open-source vector graphics editor.
+-   [colors_converter.asp](https://www.w3schools.com/colors/colors_converter.asp): Color format converter.
