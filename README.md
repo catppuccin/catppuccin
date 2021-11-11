@@ -14,7 +14,9 @@
     <a href="https://github.com/catppuccin/catppuccin/releases/latest"><img src="https://img.shields.io/github/release/catppuccin/catppuccin.svg?&style=for-the-badge&label=Release&logo=github&logoColor=eceff4&colorA=221e2f&colorB=f6bbe7"/></a>
     <a href="https://github.com/catppuccin/catppuccin/issues"><img src="https://img.shields.io/github/issues/catppuccin/catppuccin?colorA=221e2f&colorB=e7a988&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/catppuccin/network/members"><img src="https://img.shields.io/github/forks/catppuccin/catppuccin?colorA=221e2f&colorB=f0a8e4&style=for-the-badge&logo=github"></a>
+    <a href="https://discord.gg/z6bwQpGp"><img src="https://img.shields.io/discord/869557815780470834?colorA=221e2f&colorB=ae9ad6&label=Discord&logo=discord&logoColor=white&style=for-the-badge"></a>
 </p>
+
 
 ## About
 
