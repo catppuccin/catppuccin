@@ -17,7 +17,6 @@
     <a href="https://discord.gg/z6bwQpGp"><img src="https://img.shields.io/discord/869557815780470834?colorA=221e2f&colorB=ae9ad6&label=Discord&logo=discord&logoColor=white&style=for-the-badge"></a>
 </p>
 
-
 ## About
 
 <div style="text-align: justify">
@@ -44,6 +43,12 @@ Catppuccin is a community-driven mid-tone dark theme that aims to be the middle 
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_13.png" height="23" width="23"/> | `#6F6A8A` | `111, 106, 138` | `249, 13%, 48%` | `20%, 23%, 0%, 46%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_14.png" height="23" width="23"/> | `#84A5CB` | `132, 165, 203` | `212, 41%, 66%` | `35%, 19%, 0%, 20%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_15.png" height="23" width="23"/> | `#B9C4E3` | `185, 196, 227` | `224, 43%, 81%` | `19%, 14%, 0%, 11%` |
+
+## 🧠 Design Philosophy
+
+-   **Colorful is better than colorless**: the colorfulness of something contributes to the distinction amongst the parts of that _something_, making it marginally easier to understand how things are structured.
+-   **There should be balance**: not too dull, not too bright. Suitability under various light conditions is a most.
+-   **Harmony is superior to dissonance**: vivacious colors must complement each other.
 
 ## 👐 Contribute
 
