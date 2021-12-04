@@ -27,7 +27,7 @@ Catppuccin is a community-driven mid-tone dark theme that aims to be the middle 
 
 |                                                                                                                                      | Hex       | RGB             | HSL             | CMYK                |
 | ------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | --------------- | ------------------- |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_0.png" height="23" width="23"/>  | `#F0F0F5` | `240, 240, 245` | `240, 20%, 95%` | `2%, 2%, 0%, 4%`    |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/flamingo.png" height="23" width="23"/>  | `#F0F0F5` | `240, 240, 245` | `240, 20%, 95%` | `2%, 2%, 0%, 4%`    |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_1.png" height="23" width="23"/>  | `#EA31B5` | `234, 49, 181`  | `317, 81%, 55%` | `0%, 79%, 23%, 8%`  |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_2.png" height="23" width="23"/>  | `#AE9AD6` | `174, 154, 214` | `260, 42%, 72%` | `19%, 28%, 0%, 16%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/circles/png/catppuccin_3.png" height="23" width="23"/>  | `#F0A8E4` | `240, 168, 228` | `310, 71%, 80%` | `0%, 30%, 5%, 6%`   |
