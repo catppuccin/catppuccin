@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/catppuccin/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/catppuccin?colorA=1e1e28&colorB=a4b9ef&style=for-the-badge&logo=starship style=flat-square"></a>
+    <a href="https://github.com/catppuccin/catppuccin/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/catppuccin?colorA=1e1e28&colorB=a4b9ef&style=for-the-badge&logo=starship style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/catppuccin/releases/latest"><img src="https://img.shields.io/github/release/catppuccin/catppuccin.svg?&style=for-the-badge&label=Release&logo=github&logoColor=eceff4&colorA=1e1e28&colorB=f6bbe7"/></a>
     <a href="https://github.com/catppuccin/catppuccin/issues"><img src="https://img.shields.io/github/issues/catppuccin/catppuccin?colorA=1e1e28&colorB=f7c196&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/catppuccin/network/members"><img src="https://img.shields.io/github/forks/catppuccin/catppuccin?colorA=1e1e28&colorB=f0afe1&style=for-the-badge&logo=github"></a>
-    <a href="https://discord.gg/z6bwQpGp"><img src="https://img.shields.io/discord/869557815780470834?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge"></a>
+    <a href="https://discord.gg/z6bwQpGp"><img src="https://img.shields.io/discord/907385605422448742?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ## About
