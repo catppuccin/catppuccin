@@ -93,10 +93,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1297"
-       inkscape:export-filename="/home/pocco81/code/github_p/orgs/catppuccin/catppuccin/assets/palette/morning.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       id="g2349">
       <rect
          style="fill:#1e1e28;fill-opacity:1;fill-rule:evenodd;stroke-width:0.246814"
          id="rect438-9"
@@ -114,7 +111,7 @@
          cx="51.145149"
          cy="29.476288"
          r="5.1264215"
-         inkscape:export-filename="/home/pocco81/Pictures/vector_art/morning_palette.png"
+         inkscape:export-filename="/home/pocco81/code/github_p/orgs/catppuccin/catppuccin/assets/palette/circles/flamingo.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <circle
@@ -123,7 +120,7 @@
          cx="64.354218"
          cy="29.476288"
          r="5.1264215"
-         inkscape:export-filename="/home/pocco81/Pictures/vector_art/morning_palette.png"
+         inkscape:export-filename="/home/pocco81/code/github_p/orgs/catppuccin/catppuccin/assets/palette/circles/magenta.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <circle
@@ -132,7 +129,7 @@
          cx="77.563286"
          cy="29.476288"
          r="5.1264215"
-         inkscape:export-filename="/home/pocco81/Pictures/vector_art/morning_palette.png"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/pink.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <circle
@@ -141,7 +138,7 @@
          cx="90.772354"
          cy="29.476288"
          r="5.1264215"
-         inkscape:export-filename="/home/pocco81/Pictures/vector_art/morning_palette.png"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/red.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <circle
@@ -150,7 +147,7 @@
          cx="103.98141"
          cy="29.476288"
          r="5.1264215"
-         inkscape:export-filename="/home/pocco81/Pictures/vector_art/morning_palette.png"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/peache.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <circle
@@ -159,7 +156,7 @@
          cx="117.19048"
          cy="29.476288"
          r="5.1264215"
-         inkscape:export-filename="/home/pocco81/Pictures/vector_art/morning_palette.png"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/yellow.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <circle
@@ -168,7 +165,7 @@
          cx="130.39955"
          cy="29.476288"
          r="5.1264215"
-         inkscape:export-filename="/home/pocco81/Pictures/vector_art/morning_palette.png"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/green.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <circle
@@ -177,71 +174,74 @@
          cx="143.6086"
          cy="29.476288"
          r="5.1264215"
-         inkscape:export-filename="/home/pocco81/Pictures/vector_art/morning_palette.png"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/blue.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
     </g>
     <g
-       id="g1307"
-       inkscape:export-filename="/home/pocco81/code/github_p/orgs/catppuccin/catppuccin/assets/palette/palettes.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
-         style="fill:#1e1e28;fill-opacity:1;fill-rule:evenodd;stroke-width:0.246814"
-         id="rect438-9-2"
-         width="120.44952"
-         height="16.610928"
-         x="37.210239"
-         y="52.457458"
-         ry="8.3054638" />
-      <circle
-         style="fill:#15121c;fill-opacity:1;stroke-width:0.157565"
-         id="path1602-1-6"
-         cx="51.203274"
-         cy="60.762924"
-         r="5.1264215" />
-      <circle
-         style="fill:#221e2f;fill-opacity:1;stroke-width:0.157565"
-         id="path1602-3-6-70-8"
-         cx="66.613846"
-         cy="60.762924"
-         r="5.1264215" />
-      <circle
-         style="fill:#312c44;fill-opacity:1;stroke-width:0.157565"
-         id="path1602-3-6-7-9-7"
-         cx="82.024414"
-         cy="60.762924"
-         r="5.1264215" />
-      <circle
-         style="fill:#3e4058;fill-opacity:1;stroke-width:0.157565"
-         id="path1602-3-6-5-3-9"
-         cx="97.43499"
-         cy="60.762924"
-         r="5.1264215" />
-      <circle
-         style="fill:#6f6a8a;fill-opacity:1;stroke-width:0.157565"
-         id="path1602-3-6-3-6-2"
-         cx="112.84557"
-         cy="60.762924"
-         r="5.1264215" />
-      <circle
-         style="fill:#84a5cb;fill-opacity:1;stroke-width:0.157565"
-         id="path1602-3-6-56-0-0"
-         cx="128.25613"
-         cy="60.762924"
-         r="5.1264215" />
-      <circle
-         style="fill:#b9c4e3;fill-opacity:1;stroke-width:0.157565"
-         id="path1602-3-6-2-6-2"
-         cx="143.66672"
-         cy="60.762924"
-         r="5.1264215" />
+       id="g2361">
+      <g
+         id="g1952">
+        <g
+           id="g1307"
+           inkscape:export-filename="/home/pocco81/code/github_p/orgs/catppuccin/catppuccin/assets/palette/palettes.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <rect
+             style="fill:#1e1e28;fill-opacity:1;fill-rule:evenodd;stroke-width:0.246814"
+             id="rect438-9-2"
+             width="120.44952"
+             height="16.610928"
+             x="37.210239"
+             y="52.457458"
+             ry="8.3054638" />
+          <circle
+             style="fill:#15121c;fill-opacity:1;stroke-width:0.157565"
+             id="path1602-1-6"
+             cx="51.203274"
+             cy="60.762924"
+             r="5.1264215" />
+          <circle
+             style="fill:#221e2f;fill-opacity:1;stroke-width:0.157565"
+             id="path1602-3-6-70-8"
+             cx="66.613846"
+             cy="60.762924"
+             r="5.1264215" />
+          <circle
+             style="fill:#312c44;fill-opacity:1;stroke-width:0.157565"
+             id="path1602-3-6-7-9-7"
+             cx="82.024414"
+             cy="60.762924"
+             r="5.1264215" />
+          <circle
+             style="fill:#3e4058;fill-opacity:1;stroke-width:0.157565"
+             id="path1602-3-6-5-3-9"
+             cx="97.43499"
+             cy="60.762924"
+             r="5.1264215" />
+          <circle
+             style="fill:#6f6a8a;fill-opacity:1;stroke-width:0.157565"
+             id="path1602-3-6-3-6-2"
+             cx="112.84557"
+             cy="60.762924"
+             r="5.1264215" />
+          <circle
+             style="fill:#84a5cb;fill-opacity:1;stroke-width:0.157565"
+             id="path1602-3-6-56-0-0"
+             cx="128.25613"
+             cy="60.762924"
+             r="5.1264215" />
+          <circle
+             style="fill:#b9c4e3;fill-opacity:1;stroke-width:0.157565"
+             id="path1602-3-6-2-6-2"
+             cx="143.66672"
+             cy="60.762924"
+             r="5.1264215" />
+        </g>
+      </g>
     </g>
     <g
-       id="g1318"
-       inkscape:export-filename="/home/pocco81/code/github_p/orgs/catppuccin/catppuccin/assets/palette/night.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       id="g2372">
       <rect
          style="fill:#1e1e28;fill-opacity:1;fill-rule:evenodd;stroke-width:0.246814"
          id="rect438-9-2-3"
@@ -255,49 +255,73 @@
          id="path1602-1-6-7"
          cx="50.49469"
          cy="92.049561"
-         r="5.1264215" />
+         r="5.1264215"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/bkg1.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <circle
          style="fill:#1b1923;fill-opacity:1;stroke-width:0.157565"
          id="path1602-3-2-1-5"
          cx="63.703754"
          cy="92.049561"
-         r="5.1264215" />
+         r="5.1264215"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/bkg2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <circle
          style="fill:#1e1e28;fill-opacity:1;stroke-width:0.157565"
          id="path1602-3-6-70-8-9"
          cx="76.912819"
          cy="92.049561"
-         r="5.1264215" />
+         r="5.1264215"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/bkg3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <circle
          style="fill:#2d293b;fill-opacity:1;stroke-width:0.157565"
          id="path1602-3-6-7-9-7-2"
          cx="90.121887"
          cy="92.049561"
-         r="5.1264215" />
+         r="5.1264215"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/bkg4.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <circle
          style="fill:#3e4058;fill-opacity:1;stroke-width:0.157565"
          id="path1602-3-6-5-3-9-2"
          cx="103.33095"
          cy="92.049561"
-         r="5.1264215" />
+         r="5.1264215"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/bkg5.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <circle
          style="fill:#6e6c7c;fill-opacity:1;stroke-width:0.157565"
          id="path1602-3-6-3-6-2-8"
          cx="116.54002"
          cy="92.049561"
-         r="5.1264215" />
+         r="5.1264215"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/bkg6.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <circle
          style="fill:#d7dae0;fill-opacity:1;stroke-width:0.157565"
          id="path1602-3-6-56-0-0-9"
          cx="129.74908"
          cy="92.049561"
-         r="5.1264215" />
+         r="5.1264215"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/gray.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <circle
          style="fill:#c2e7f0;fill-opacity:1;stroke-width:0.157565"
          id="path1602-3-6-2-6-2-7"
          cx="142.95813"
          cy="92.049561"
-         r="5.1264215" />
+         r="5.1264215"
+         inkscape:export-filename="/home/pocco81/Pictures/vector_art/circles/cyan.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
     </g>
   </g>
 </svg>
