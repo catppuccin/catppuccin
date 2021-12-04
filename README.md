@@ -27,14 +27,14 @@ Catppuccin is a community-driven mid-tone dark theme that aims to be the middle 
 
 |                                                                                                                                      | Hex       | RGB             | HSL             | CMYK                |
 | ------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | --------------- | ------------------- |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/flamingo.png" height="23" width="23"/>  | `#ECBFBD` | `240, 240, 245` | `240, 20%, 95%` | `2%, 2%, 0%, 4%`    |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/magenta.png" height="23" width="23"/>  | `#C6AAE8` | `234, 49, 181`  | `317, 81%, 55%` | `0%, 79%, 23%, 8%`  |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/pink.png" height="23" width="23"/>  | `#F0AFE1` | `174, 154, 214` | `260, 42%, 72%` | `19%, 28%, 0%, 16%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/red.png" height="23" width="23"/>  | `#E28C8C` | `240, 168, 228` | `310, 71%, 80%` | `0%, 30%, 5%, 6%`   |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/peach.png" height="23" width="23"/>  | `#F7C196` | `226, 141, 141` | `0, 59%, 72%`   | `0%, 38%, 38%, 11%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/yellow.png" height="23" width="23"/>  | `#EADDA0` | `231, 169, 136` | `21, 66%, 72%`  | `0%, 27%, 41%, 9%`  |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/green.png" height="23" width="23"/>  | `#B3E1A3` | `173, 214, 146` | `96, 45%, 71%`  | `19%, 0%, 32%, 16%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png" height="23" width="23"/>  | `#A4B9EF` | `240, 220, 137` | `48, 77%, 74%`  | `0%, 8%, 43%, 6%`   |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/flamingo.png" height="23" width="23"/>  | `#ECBFBD` | `236, 191, 189` | `3, 55%, 83%` | `0%, 19%, 20%, 7%`    |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/magenta.png" height="23" width="23"/>  | `#C6AAE8` | `198, 170, 232`  | `267, 57%, 79%` | `15%, 27%, 0%, 9%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/pink.png" height="23" width="23"/>  | `#F0AFE1` | `240, 175, 225` | `314, 68%, 81%` | `0%, 27%, 6%, 6%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/red.png" height="23" width="23"/>  | `#E28C8C` | `226, 140, 140` | `0, 60%, 72%` | `0%, 38%, 38%, 11%`   |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/peach.png" height="23" width="23"/>  | `#F7C196` | `247, 193, 150` | `27, 86%, 78%`   | `0%, 22%, 39%, 3%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/yellow.png" height="23" width="23"/>  | `#EADDA0` | `234, 221, 160` | `49, 64%, 77%`  | `0%, 6%, 32%, 8%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/green.png" height="23" width="23"/>  | `#B3E1A3` | `179, 225, 163` | `105, 51%, 76%`  | `20%, 0%, 28%, 12%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png" height="23" width="23"/>  | `#A4B9EF` | `164, 185, 239` | `223, 70%, 79%`  | `31%, 23%, 0%, 6%`   |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg1.png" height="23" width="23"/>  | `#15121C` | `14, 12, 19`    | `257, 23%, 6%`  | `26%, 37%, 0%, 93%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg2.png" height="23" width="23"/>  | `#1B1923` | `27, 22, 36`    | `261, 24%, 11%` | `25%, 39%, 0%, 86%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg3.png" height="23" width="23"/> | `#1E1E28` | `34, 30, 47`    | `254, 22%, 15%` | `28%, 36%, 0%, 82%` |
