@@ -41,7 +41,7 @@ Catppuccin is a community-driven mid-tone dark theme that aims to be the middle 
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg5.png" height="23" width="23"/>     | `#3E4058` | `62, 64, 88`    | `235, 17%, 29%` | `30%, 27%, 0%, 65%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray.png" height="23" width="23"/>     | `#6E6C7C` | `110, 108, 124` | `248, 7%, 45%`  | `11%, 13%, 0%, 51%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | `#D7DAE0` | `215, 218, 224` | `220, 13%, 86%` | `4%, 3%, 0%, 12%`   |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/cyan.png" height="23" width="23"/>     | `#C2E7F0` | `194, 231, 240` | `192, 61%, 85%` | `19%, 4%, 0%, 6%`   |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/cyan.png" height="23" width="23"/>     | `#9DDDCB` | `157, 221, 203` | `163, 48%, 74%` | `29%, 0%, 8%, 13%`  |
 
 ## 🧠 Design Philosophy
 
