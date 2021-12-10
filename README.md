@@ -1,8 +1,8 @@
 <p align="center">
-  <h2 align="center">🐱 Catppuccin!</h2>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/logos/500x500_circle.png" width="90" />
+  <h2 align="center">Catppuccin Theme</h2>
 </p>
-
-<p align="center">Mid-tone dark theme for the masses!</p>
+<p align="center">Warm and dark theme for the masses!</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" width="175" />
