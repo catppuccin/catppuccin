@@ -8,6 +8,11 @@ import project1.ui.PatientMenu;
 import project1.ui.DoctorMenu;
 import project1.ui.authentication.AuthenticationMenu;
 
+enum Months { //"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
+    JANUARY, FEBRUARY, MARCH, APRIL, MAY, JUNE,
+	JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
+}
+
 /**
  * UIMenu
  */

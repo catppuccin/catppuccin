@@ -1,6 +1,12 @@
 local M = {}
 
-local line_text
+local line_text = { here = "hey" }
+local test_tbl = {
+	num = 0,
+	bool = true,
+	str = "aye!",
+	something = line_text.here
+}
 
 --- @class example
 -- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean accumsan dapibus ex,
@@ -21,16 +27,7 @@ function M:render(line_info, startline, endline)
 					range = { line_no, column, #segment.text },
 					color_group = segment.color_group,
 				})
-				column = column + #segment.text
-				line_text = line_text .. segment.text
 			end
-		else
-			table.insert(self.highlights, {
-				range = { line_no },
-				color_group = line.color_group,
-			})
-			column = column + #line.text
-			line_text = line_text .. line.text
 		end
 
 		table.insert(lines, line_text)
@@ -38,6 +35,29 @@ function M:render(line_info, startline, endline)
 
 	api.nvim_buf_set_lines(self.buffer, start_line, end_line, true, lines)
 	self:_set_highlights()
+end
+
+local function setup_win_properties()
+    local buffer_window = require("minimap.modules.logic.buffer_window")
+
+	local win_props = {
+		style = opts["win_properties"]["style"],
+		relative = "win",
+		win = 0,
+		focusable = true,
+		anchor = "NE",
+		row = 0,
+		height = opts["win_properties"]["height"][1],
+		width = opts["win_properties"]["width"][1]
+	}
+
+    if (opts["win_properties"]["align"] == "right") then
+        win_props["col"] = buffer_window.handle_relative_win_properties("col")
+    elseif (opts["win_properties"]["align"] == "left") then
+        win_props["col"] = 0
+    end
+
+	mmbuf_win_api.set_win_properties(win_props)
 end
 
 return M
