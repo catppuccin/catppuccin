@@ -37,27 +37,4 @@ function M:render(line_info, startline, endline)
 	self:_set_highlights()
 end
 
-local function setup_win_properties()
-    local buffer_window = require("minimap.modules.logic.buffer_window")
-
-	local win_props = {
-		style = opts["win_properties"]["style"],
-		relative = "win",
-		win = 0,
-		focusable = true,
-		anchor = "NE",
-		row = 0,
-		height = opts["win_properties"]["height"][1],
-		width = opts["win_properties"]["width"][1]
-	}
-
-    if (opts["win_properties"]["align"] == "right") then
-        win_props["col"] = buffer_window.handle_relative_win_properties("col")
-    elseif (opts["win_properties"]["align"] == "left") then
-        win_props["col"] = 0
-    end
-
-	mmbuf_win_api.set_win_properties(win_props)
-end
-
 return M
