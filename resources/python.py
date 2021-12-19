@@ -29,17 +29,10 @@ class RubberStamp:
 
 		# Add a newline because the ui reads per line
 		command += " \n"
-
-		# If we're connected to the ui
 		if self.gtk_proc:
 			# Send the command as bytes
 			self.gtk_proc.stdin.write(bytearray(command.encode("utf-8")))
 			self.gtk_proc.stdin.flush()
-
-			# Write a padding line to force the command through any buffers
-			self.gtk_proc.stdin.write(bytearray("P=_PADDING \n".encode("utf-8")))
-			self.gtk_proc.stdin.flush()
-
 
 def execute(config, gtk_proc, opencv):
 	verbose = config.getboolean("debug", "verbose_stamps", fallback=False)
