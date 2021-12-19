@@ -26,17 +26,17 @@
 
 Catppuccin is available for various apps and in different formats. Here is a list of them:
 
-### IDEs/DEs
+#### IDEs/DEs
 
 + [NeoVim](https://github.com/catppuccin/nvim)
 + [VSCode](https://github.com/catppuccin/vscode) (WIP)
 
-### Development
+#### Development
 
 + [Palette](https://github.com/catppuccin/palette)
 + [Wallpapers](https://github.com/catppuccin/wallpapers)
 
-### Terminals
+#### Terminals
 
 + [Kitty](https://github.com/catppuccin/kitty)
 + [Alacritty](https://github.com/catppuccin/alacritty)
@@ -46,15 +46,15 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 + [Tmux](https://github.com/catppuccin/tmux)
 + [Urxvt](https://github.com/catppuccin/urxvt)
 
-### Productivity
+#### Productivity
 
 + [Zathura](https://github.com/catppuccin/zathura) (WIP)
 
-### Shells
+#### Shells
 
 + [Fish](https://github.com/catppuccin/fish)
 
-### Others
+#### Others
 
 + [Xresources](https://github.com/catppuccin/xresources)
 
