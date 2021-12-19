@@ -22,6 +22,42 @@
 	Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It provides a warm palette with 18 eye-candy colors that are not only perfect for coding under various light conditions, but also for developing graphical user interfaces, making it extensible for numerous use-cases. In addition, this repository tracks the development of the actual color palette, organization-wide assets, resources and code samples for maintainers/developers.
 </p>
 
+## Ports and more!
+
+Catppuccin is available for various apps and in different formats. Here is a list of them:
+
+### IDEs/DEs
+
++ [NeoVim](https://github.com/catppuccin/nvim)
++ [VSCode](https://github.com/catppuccin/vscode) (WIP)
+
+### Development
+
++ [Palette](https://github.com/catppuccin/palette)
++ [Wallpapers](https://github.com/catppuccin/wallpapers)
+
+### Terminals
+
++ [Kitty](https://github.com/catppuccin/kitty)
++ [Alacritty](https://github.com/catppuccin/alacritty)
++ [Gnome-Terminal](https://github.com/catppuccin/gnome-terminal) (WIP)
++ [Terminator](https://github.com/catppuccin/terminator)
++ [iTerm 2](https://github.com/catppuccin/iterm)
++ [Tmux](https://github.com/catppuccin/tmux)
++ [Urxvt](https://github.com/catppuccin/urxvt)
+
+### Productivity
+
++ [Zathura](https://github.com/catppuccin/zathura) (WIP)
+
+### Shells
+
++ [Fish](https://github.com/catppuccin/fish)
+
+### Others
+
++ [Xresources](https://github.com/catppuccin/xresources)
+
 ## 🎨 Palette
 
 |                                                                                                                                     | Name     | Hex       | RGB             | HSL             | CMYK                |
