@@ -31,7 +31,7 @@
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/pink.png" height="23" width="23"/>     | Pink     | `#E5B4E2` | `229, 180, 226` | `304, 49%, 80%` | `0%, 21%, 1%, 10%`  |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png" height="23" width="23"/>     | Blue     | `#A4B9EF` | `164, 185, 239` | `223, 70%, 79%` | `31%, 23%, 0%, 6%`  |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/yellow.png" height="23" width="23"/>   | Yellow   | `#EBDDAA` | `235, 221, 170` | `47, 62%, 79%`  | `0%, 6%, 28%, 8%`   |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/green.png" height="23" width="23"/>    | Green    | `#AFE3B3` | `175, 227, 179` | `125, 48%, 79%` | `23%, 0%, 21%, 11%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/green.png" height="23" width="23"/>    | Green    | `#B1E3AD` | `177, 227, 173` | `116, 49%, 78%` | `22%, 0%, 24%, 11%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/magenta.png" height="23" width="23"/>  | Magenta  | `#C6AAE8` | `198, 170, 232` | `267, 57%, 79%` | `15%, 27%, 0%, 9%`  |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/peach.png" height="23" width="23"/>    | Peach    | `#F9C096` | `249, 192, 150` | `25, 89%, 78%`  | `0%, 23%, 40%, 2%`  |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/red.png" height="23" width="23"/>      | Red      | `#E38C8F` | `227, 140, 143` | `358, 61%, 72%` | `0%, 38%, 37%, 11%` |
@@ -46,7 +46,7 @@
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | White    | `#DADAE8` | `218, 218, 232` | `240, 23%, 88%` | `6%, 6%, 0%, 9%`    |
 
 <p align="center">
-	You can view an interactive version of the palette <a href="https://coolors.co/f2cecf-bee4ed-e5b4e2-a4b9ef-ebddaa-afe3b3-c6aae8-f9c096-e38c8f">here</a> and <a href="https://coolors.co/15121c-1b1923-1e1e28-332e41-575268-6e6c7e-988ba2-c3bac6-dadae8">here</a>
+	You can view an interactive version of the palette <a href="https://coolors.co/f2cecf-bee4ed-e5b4e2-a4b9ef-ebddaa-b1e3ad-c6aae8-f9c096-e38c8f">here</a> and <a href="https://coolors.co/15121c-1b1923-1e1e28-332e41-575268-6e6c7e-988ba2-c3bac6-dadae8">here</a>
 </p>
 
 ## 🧠 Design Philosophy
