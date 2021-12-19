@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/logos/500x500_circle.png" width="90" />
   <h2 align="center">Catppuccin Theme</h2>
 </p>
-<p align="center">Warm dark theme for the masses!</p>
+<p align="center">Vibrant pastel theme for the masses!</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" width="175" />
@@ -19,7 +19,7 @@
 ## About
 
 <div style="text-align: justify">
-Catppuccin is a community-driven mid-tone dark theme that aims to be the middle ground between low and high contrast themes, providing a warm color palette with 16 eye-candy colors that are bright enough to be visible during the day, yet pale enough to be easy on your eyes throughout the night. This repository tracks the development of the actual color palette, organization-wide assets, and general TODOs.
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes, providing a warm color palette with 16 eye-candy colors that are bright enough to be visible during the day, yet pale enough to be easy on your eyes throughout the night. This repository tracks the development of the actual color palette, organization-wide assets, resources and code samples for maintainers/developers.
 </div>
 
 ## 🎨 Palette
@@ -32,18 +32,22 @@ Catppuccin is a community-driven mid-tone dark theme that aims to be the middle 
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png" height="23" width="23"/>     | Blue     | `#A4B9EF` | `164, 185, 239` | `223, 70%, 79%` | `31%, 23%, 0%, 6%`  |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/yellow.png" height="23" width="23"/>   | Yellow   | `#EBDDAA` | `235, 221, 170` | `47, 62%, 79%`  | `0%, 6%, 28%, 8%`   |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/green.png" height="23" width="23"/>    | Green    | `#AFE3B3` | `175, 227, 179` | `125, 48%, 79%` | `23%, 0%, 21%, 11%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/peach.png" height="23" width="23"/>    | Peach    | `#F9C096` | `249, 192, 150` | `25, 89%, 78%`  | `0%, 23%, 40%, 2%`  |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/magenta.png" height="23" width="23"/>  | Magenta  | `#C6AAE8` | `198, 170, 232` | `267, 57%, 79%` | `15%, 27%, 0%, 9%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/peach.png" height="23" width="23"/>    | Peach    | `#F9C096` | `249, 192, 150` | `25, 89%, 78%`  | `0%, 23%, 40%, 2%`  |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/red.png" height="23" width="23"/>      | Red      | `#E38C8F` | `227, 140, 143` | `358, 61%, 72%` | `0%, 38%, 37%, 11%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg1.png" height="23" width="23"/>     | Black 0  | `#15121C` | `21, 18, 28`    | `258, 22%, 9%`  | `25%, 36%, 0%, 89%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg2.png" height="23" width="23"/>     | Black 1  | `#1B1923` | `27, 25, 35`    | `252, 17%, 12%` | `23%, 29%, 0%, 86%` |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg3.png" height="23" width="23"/>     | Black 2  | `#1E1E28` | `30, 30, 40`    | `240, 14%, 14%` | `25%, 25%, 0%, 84%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg4.png" height="23" width="23"/>     | Black 3  | `#332E41` | `45, 41, 59`    | `253, 18%, 20%` | `24%, 31%, 0%, 77%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg5.png" height="23" width="23"/>     | Black 4  | `#575268` | `62, 64, 88`    | `235, 17%, 29%` | `30%, 27%, 0%, 65%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray.png" height="23" width="23"/>     | Gray 0   | `#6E6C7E` | `110, 108, 124` | `248, 7%, 45%`  | `11%, 13%, 0%, 51%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | Gray 1   | `#988BA2` | `215, 218, 224` | `220, 13%, 86%` | `4%, 3%, 0%, 12%`   |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | Gray 2   | `#C3BAC6` | `215, 218, 224` | `220, 13%, 86%` | `4%, 3%, 0%, 12%`   |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | White    | `#DADAE8` | `215, 218, 224` | `220, 13%, 86%` | `4%, 3%, 0%, 12%`   |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg4.png" height="23" width="23"/>     | Black 3  | `#332E41` | `51, 46, 65`    | `256, 17%, 22%` | `22%, 29%, 0%, 75%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/bkg5.png" height="23" width="23"/>     | Black 4  | `#575268` | `87, 82, 104`   | `254, 12%, 36%` | `16%, 21%, 0%, 59%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray.png" height="23" width="23"/>     | Gray 0   | `#6E6C7E` | `110, 108, 126` | `247, 8%, 46%`  | `13%, 14%, 0%, 51%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | Gray 1   | `#988BA2` | `152, 139, 162` | `274, 11%, 59%` | `6%, 14%, 0%, 36%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | Gray 2   | `#C3BAC6` | `195, 186, 198` | `285, 10%, 75%` | `2%, 6%, 0%, 22%`   |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | White    | `#DADAE8` | `218, 218, 232` | `240, 23%, 88%` | `6%, 6%, 0%, 9%`    |
+
+<p align="center">
+	You can view an interactive version of the palette <a href="https://coolors.co/f2cecf-bee4ed-e5b4e2-a4b9ef-ebddaa-afe3b3-c6aae8-f9c096-e38c8f">here</a> and <a href="https://coolors.co/15121c-1b1923-1e1e28-332e41-575268-6e6c7e-988ba2-c3bac6-dadae8">here</a>
+</p>
 
 ## 🧠 Design Philosophy
 
