@@ -58,6 +58,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 + [GTK](https://github.com/catppuccin/xresources) (WIP)
 + [Xresources](https://github.com/catppuccin/xresources)
++ [Cava](https://github.com/catppuccin/cava)
+
 
 ## 🎨 Palette
 
