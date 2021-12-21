@@ -54,8 +54,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 + [Fish](https://github.com/catppuccin/fish)
 
-#### Others
+#### System
 
++ [GTK](https://github.com/catppuccin/xresources) (WIP)
 + [Xresources](https://github.com/catppuccin/xresources)
 
 ## 🎨 Palette
