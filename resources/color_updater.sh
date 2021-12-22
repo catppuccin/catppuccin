@@ -3,6 +3,7 @@
 # ---------- sys ---------
 lowercase=false
 file=""
+prefix=""
 
 this_script=$(basename "$0")
 script_help=$( cat << EOF
@@ -12,9 +13,10 @@ Usages:
 #0: ${this_script} <flag> [arg]
 
 Flags:
-	-f, --file			specify file (mandatory)
-	-l, --lowercase			replaces with lowercased hex code
-	-h, --help			see this message
+	-f, --file		specify file (mandatory)
+	-l, --lowercase		replaces with lowercased hex codes
+	-p, --prefix		specify which prefix to use for the hex codes. Surround it with double quotes if needed.
+	-h, --help		see this message
 EOF
 )
 
@@ -39,7 +41,7 @@ function update_colors() {
     }
     for clr in "${!colors[@]}"; do
         echo -e "  + ${clr} -> ${colors[$clr]}"
-        sed -i "s/${clr}/${capitalization_char}${colors[$clr]}/gI" "$file"
+        sed -i "s/${clr}/${prefix}${capitalization_char}${colors[$clr]}/gI" "$file"
     done
 }
 
@@ -56,6 +58,10 @@ main() {
             -l | --lowercase)
                 lowercase=true
                 ;;
+			-p | --prefix)
+				prefix=$2
+				shift
+				;;
 			-h | --help)
 				echo "$script_help"
 				;;
