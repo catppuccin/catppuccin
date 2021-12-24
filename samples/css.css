@@ -1,0 +1,175 @@
+body {
+    background-color: #111921;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+@font-face {
+    font-family: 'Galada-Regular';
+    src: url('Galada-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Overpass';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/overpass/v5/qFdH35WCmI96Ajtm81GrU9vyww.woff2)
+        format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+        U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Overpass';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/overpass/v5/qFdH35WCmI96Ajtm81GlU9s.woff2)
+        format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+        U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+        U+2215, U+FEFF, U+FFFD;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400, 300);
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Galada-Regular';
+    /* color: #000000; */
+    font-size: 90px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2 {
+    font-family: 'Courier';
+    font-size: 30px;
+    font-style: italic;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #000000;
+    font-size: 30px;
+    text-align: left;
+}
+
+h5 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#about {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #04aa6d;
+    color: white;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 4px;
+    max-width: 1291px;
+    margin: 10% auto;
+    height: 301px;
+    position: relative;
+    padding: 34px;
+    color: #444;
+    cursor: pointer;
+    &:before {
+        content: '';
+        display: block;
+        position: absolute;
+        background-color: #ccc;
+        left: 20px;
+        right: 20px;
+        bottom: 0;
+        top: 50%;
+        z-index: -1;
+        box-shadow: 0 0 40px lighten(#000, 60%);
+        transition: box-shadow 0.2s ease-in-out;
+    }
+    &.level-3 {
+        &:hover {
+            &:before {
+                box-shadow: 0 0 80px lighten(#000, 60%);
+            }
+        }
+    }
+}
+
+/* The sidebar menu */
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 160px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #111; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
+}
