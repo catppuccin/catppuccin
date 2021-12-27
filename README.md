@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/logos/500x500_circle.png" width="90" />
-  <h2 align="center">Catppuccin Theme</h2>
-</p>
-<p align="center">Vibrant pastel theme for the masses!</p>
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin Theme
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" width="175" />
