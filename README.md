@@ -17,8 +17,6 @@
     <a href="https://discord.gg/r6Mdz5dpFc"><img src="https://img.shields.io/discord/907385605422448742?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge"></a>
 </p>
 
-## About
-
 <p align="center">
 	Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It provides a warm palette with 18 eye-candy colors that are not only perfect for coding under various light conditions, but also for developing graphical user interfaces, making it extensible for numerous use-cases. In addition, this repository tracks the development of the actual color palette, organization-wide assets, resources and code samples for maintainers/developers.
 </p>
