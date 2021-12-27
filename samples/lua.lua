@@ -1,5 +1,6 @@
 local M = {}
 
+local api
 local line_text = { here = "hey" }
 local test_tbl = {
 	num = 0,
@@ -33,7 +34,7 @@ function M:render(line_info, startline, endline)
 		table.insert(lines, line_text)
 	end
 
-	api.nvim_buf_set_lines(self.buffer, start_line, end_line, true, lines)
+	api.nvim_buf_set_lines(self.buffer, startline, endline, true, lines)
 	self:_set_highlights()
 end
 
