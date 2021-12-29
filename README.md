@@ -27,65 +27,68 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### IDEs/DEs
 
-+ [NeoVim](https://github.com/catppuccin/nvim)
-+ [VSCode](https://github.com/catppuccin/vscode) (WIP)
+-   [NeoVim](https://github.com/catppuccin/nvim)
+-   [VSCode](https://github.com/catppuccin/vscode) (WIP)
 
 #### Development
 
-+ [Palette](https://github.com/catppuccin/palette)
-+ [Wallpapers](https://github.com/catppuccin/wallpapers)
+-   [Palette](https://github.com/catppuccin/palette)
+-   [Wallpapers](https://github.com/catppuccin/wallpapers)
 
 #### Terminals
 
-+ [Kitty](https://github.com/catppuccin/kitty)
-+ [Alacritty](https://github.com/catppuccin/alacritty)
-+ [Gnome-Terminal](https://github.com/catppuccin/gnome-terminal) (WIP)
-+ [Terminator](https://github.com/catppuccin/terminator)
-+ [iTerm 2](https://github.com/catppuccin/iterm)
-+ [Tmux](https://github.com/catppuccin/tmux)
-+ [Urxvt](https://github.com/catppuccin/urxvt)
+-   [Kitty](https://github.com/catppuccin/kitty)
+-   [Alacritty](https://github.com/catppuccin/alacritty)
+-   [Gnome-Terminal](https://github.com/catppuccin/gnome-terminal) (WIP)
+-   [Terminator](https://github.com/catppuccin/terminator)
+-   [iTerm 2](https://github.com/catppuccin/iterm)
+-   [Tmux](https://github.com/catppuccin/tmux)
+-   [Urxvt](https://github.com/catppuccin/urxvt)
 
 #### Productivity
 
-+ [Zathura](https://github.com/catppuccin/zathura) (WIP)
+-   [Zathura](https://github.com/catppuccin/zathura) (WIP)
 
 #### Shells
 
-+ [Fish](https://github.com/catppuccin/fish)
+-   [Fish](https://github.com/catppuccin/fish)
 
 #### System
 
-+ [GTK](https://github.com/catppuccin/xresources) (WIP)
-+ [Xresources](https://github.com/catppuccin/xresources)
-+ [Cava](https://github.com/catppuccin/cava)
-
+-   [GTK](https://github.com/catppuccin/xresources) (WIP)
+-   [Xresources](https://github.com/catppuccin/xresources)
+-   [Cava](https://github.com/catppuccin/cava)
 
 ## 🎨 Palette
 
-|                                                                                                                                     | Name     | Hex       | RGB             | HSL             | CMYK                |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | --------------- | --------------- | ------------------- |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/flamingo.png" height="23" width="23"/> | Flamingo | `#F2CECF` | `242, 206, 207` | `358, 58%, 88%` | `0%, 15%, 14%, 5%`  |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/magenta.png" height="23" width="23"/>  | Magenta  | `#C6AAE8` | `198, 170, 232` | `267, 57%, 79%` | `15%, 27%, 0%, 9%`  |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/pink.png" height="23" width="23"/>     | Pink     | `#E5B4E2` | `229, 180, 226` | `304, 49%, 80%` | `0%, 21%, 1%, 10%`  |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/red.png" height="23" width="23"/>      | Red      | `#E38C8F` | `227, 140, 143` | `358, 61%, 72%` | `0%, 38%, 37%, 11%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/peach.png" height="23" width="23"/>    | Peach    | `#F9C096` | `249, 192, 150` | `25, 89%, 78%`  | `0%, 23%, 40%, 2%`  |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/yellow.png" height="23" width="23"/>   | Yellow   | `#EBDDAA` | `235, 221, 170` | `47, 62%, 79%`  | `0%, 6%, 28%, 8%`   |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/green.png" height="23" width="23"/>    | Green    | `#B1E3AD` | `177, 227, 173` | `116, 49%, 78%` | `22%, 0%, 24%, 11%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png" height="23" width="23"/>     | Blue     | `#A4B9EF` | `164, 185, 239` | `223, 70%, 79%` | `31%, 23%, 0%, 6%`  |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/teal.png" height="23" width="23"/>     | Teal     | `#BEE4ED` | `190, 228, 237` | `191, 57%, 84%` | `20%, 4%, 0%, 7%`   |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black0.png" height="23" width="23"/>     | Black 0  | `#15121C` | `21, 18, 28`    | `258, 22%, 9%`  | `25%, 36%, 0%, 89%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black1.png" height="23" width="23"/>     | Black 1  | `#1B1923` | `27, 25, 35`    | `252, 17%, 12%` | `23%, 29%, 0%, 86%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black2.png" height="23" width="23"/>     | Black 2  | `#1E1E28` | `30, 30, 40`    | `240, 14%, 14%` | `25%, 25%, 0%, 84%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black3.png" height="23" width="23"/>     | Black 3  | `#332E41` | `51, 46, 65`    | `256, 17%, 22%` | `22%, 29%, 0%, 75%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black4.png" height="23" width="23"/>     | Black 4  | `#575268` | `87, 82, 104`   | `254, 12%, 36%` | `16%, 21%, 0%, 59%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray0.png" height="23" width="23"/>     | Gray 0   | `#6E6C7E` | `110, 108, 126` | `247, 8%, 46%`  | `13%, 14%, 0%, 51%` |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray1.png" height="23" width="23"/>    | Gray 1   | `#988BA2` | `152, 139, 162` | `274, 11%, 59%` | `6%, 14%, 0%, 36%`  |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray2.png" height="23" width="23"/>    | Gray 2   | `#C3BAC6` | `195, 186, 198` | `285, 10%, 75%` | `2%, 6%, 0%, 22%`   |
-| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | White    | `#DADAE8` | `218, 218, 232` | `240, 23%, 88%` | `6%, 6%, 0%, 9%`    |
+|                                                                                                                                     | Name      | Hex       | RGB             | HSL             | CMYK                |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | --------------- | --------------- | ------------------- |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/flamingo.png" height="23" width="23"/> | Rosewater | `#F5E0DC` | `242, 206, 207` | `358, 58%, 88%` | `0%, 15%, 14%, 5%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/flamingo.png" height="23" width="23"/> | Flamingo  | `#F2CDCD` | `242, 206, 207` | `358, 58%, 88%` | `0%, 15%, 14%, 5%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/magenta.png" height="23" width="23"/>  | Magenta   | `#C6AAE8` | `198, 170, 232` | `267, 57%, 79%` | `15%, 27%, 0%, 9%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/pink.png" height="23" width="23"/>     | Pink      | `#E5B4E2` | `229, 180, 226` | `304, 49%, 80%` | `0%, 21%, 1%, 10%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/red.png" height="23" width="23"/>      | Red       | `#E38C8F` | `227, 140, 143` | `358, 61%, 72%` | `0%, 38%, 37%, 11%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/red.png" height="23" width="23"/>      | Maroon    | `#E49CB3` | `227, 140, 143` | `358, 61%, 72%` | `0%, 38%, 37%, 11%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/peach.png" height="23" width="23"/>    | Peach     | `#F7BE95` | `249, 192, 150` | `25, 89%, 78%`  | `0%, 23%, 40%, 2%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/yellow.png" height="23" width="23"/>   | Yellow    | `#ECDDAA` | `235, 221, 170` | `47, 62%, 79%`  | `0%, 6%, 28%, 8%`   |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/green.png" height="23" width="23"/>    | Green     | `#B1E1A6` | `177, 227, 173` | `116, 49%, 78%` | `22%, 0%, 24%, 11%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/teal.png" height="23" width="23"/>     | Teal      | `#B7E5E6` | `190, 228, 237` | `191, 57%, 84%` | `20%, 4%, 0%, 7%`   |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png" height="23" width="23"/>     | Sky       | `#92D2E8` | `164, 185, 239` | `223, 70%, 79%` | `31%, 23%, 0%, 6%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png" height="23" width="23"/>     | Blue      | `#A3B9EF` | `164, 185, 239` | `223, 70%, 79%` | `31%, 23%, 0%, 6%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png" height="23" width="23"/>     | Lavender  | `#C9CBFF` | `164, 185, 239` | `223, 70%, 79%` | `31%, 23%, 0%, 6%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black0.png" height="23" width="23"/>   | Black 0   | `#15121C` | `21, 18, 28`    | `258, 22%, 9%`  | `25%, 36%, 0%, 89%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black1.png" height="23" width="23"/>   | Black 1   | `#1B1923` | `27, 25, 35`    | `252, 17%, 12%` | `23%, 29%, 0%, 86%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black2.png" height="23" width="23"/>   | Black 2   | `#1E1E28` | `30, 30, 40`    | `240, 14%, 14%` | `25%, 25%, 0%, 84%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black3.png" height="23" width="23"/>   | Black 3   | `#332E41` | `51, 46, 65`    | `256, 17%, 22%` | `22%, 29%, 0%, 75%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/black4.png" height="23" width="23"/>   | Black 4   | `#575268` | `87, 82, 104`   | `254, 12%, 36%` | `16%, 21%, 0%, 59%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray0.png" height="23" width="23"/>    | Gray 0    | `#6E6C7E` | `110, 108, 126` | `247, 8%, 46%`  | `13%, 14%, 0%, 51%` |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray1.png" height="23" width="23"/>    | Gray 1    | `#988BA2` | `152, 139, 162` | `274, 11%, 59%` | `6%, 14%, 0%, 36%`  |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray2.png" height="23" width="23"/>    | Gray 2    | `#C3BAC6` | `195, 186, 198` | `285, 10%, 75%` | `2%, 6%, 0%, 22%`   |
+| <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>    | White     | `#DADAE8` | `218, 218, 232` | `240, 23%, 88%` | `6%, 6%, 0%, 9%`    |
 
-<p align="center">
-	You can view an interactive version of the palette <a href="https://coolors.co/f2cecf-bee4ed-e5b4e2-a4b9ef-ebddaa-b1e3ad-c6aae8-f9c096-e38c8f">here</a> and <a href="https://coolors.co/15121c-1b1923-1e1e28-332e41-575268-6e6c7e-988ba2-c3bac6-dadae8">here</a>
-</p>
+<!-- <p align="center"> -->
+<!-- 	You can view an interactive version of the palette <a href="https://coolors.co/f2cecf-bee4ed-e5b4e2-a4b9ef-ebddaa-b1e3ad-c6aae8-f9c096-e38c8f">here</a> and <a href="https://coolors.co/15121c-1b1923-1e1e28-332e41-575268-6e6c7e-988ba2-c3bac6-dadae8">here</a> -->
+<!-- </p> -->
 
 ## 🧠 Design Philosophy
 
