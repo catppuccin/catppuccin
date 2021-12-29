@@ -30,8 +30,8 @@
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
      inkscape:zoom="0.7705878"
-     inkscape:cx="487.29035"
-     inkscape:cy="184.92377"
+     inkscape:cx="315.99254"
+     inkscape:cy="-38.282464"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
      inkscape:window-x="0"
@@ -51,7 +51,7 @@
        orientation="0,-1"
        id="guide1989" />
     <sodipodi:guide
-       position="-123.26358,294.25319"
+       position="-39.963654,248.78994"
        orientation="0,-1"
        id="guide1991" />
     <sodipodi:guide
@@ -105,7 +105,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g3141"
+       id="g987"
        inkscape:export-filename="/home/pocco81/code/github_p/orgs/catppuccin/catppuccin/assets/palette/morning.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -148,7 +148,7 @@
          inkscape:export-ydpi="96"
          r="5.2211623" />
       <circle
-         style="fill:#e38c8f;fill-opacity:1;stroke-width:0.160477"
+         style="fill:#e49cb3;fill-opacity:1;stroke-width:0.160477"
          id="path1602-3-6-7-9-6"
          cx="88.174248"
          cy="32.079468"
@@ -157,7 +157,7 @@
          inkscape:export-ydpi="96"
          r="5.2211623" />
       <circle
-         style="fill:#e49cb3;fill-opacity:1;stroke-width:0.160477"
+         style="fill:#e38c8f;fill-opacity:1;stroke-width:0.160477"
          id="path1602-3-6-5-3-2"
          cx="101.50813"
          cy="32.079468"
@@ -202,7 +202,7 @@
          inkscape:export-ydpi="96"
          r="5.2211623" />
       <circle
-         style="fill:#92d2e8;fill-opacity:1;stroke-width:0.160477"
+         style="fill:#a3b9ef;fill-opacity:1;stroke-width:0.160477"
          id="path1602-3-6-2-6-27-9-2"
          cx="168.17755"
          cy="32.079468"
@@ -211,7 +211,7 @@
          inkscape:export-ydpi="96"
          r="5.2211623" />
       <circle
-         style="fill:#a3b9ef;fill-opacity:1;stroke-width:0.160477"
+         style="fill:#92d2e8;fill-opacity:1;stroke-width:0.160477"
          id="path1602-3-6-2-6-27-9-2-7"
          cx="181.51143"
          cy="32.079468"
