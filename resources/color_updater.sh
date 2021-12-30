@@ -7,7 +7,8 @@ prefix=""
 
 this_script=$(basename "$0")
 script_help=$( cat << EOF
-This script updates colors from Catppuccin v0.1.0 to v0.1.1
+This script updates colors from Catppuccin v0.1.1 to v0.1.2
+You can find previous versions of this script in each release.
 
 Usages:
 #0: ${this_script} <flag> [arg]
@@ -22,16 +23,13 @@ EOF
 
 declare -A colors=(
     # <old> -> new
-    ["ECBFBD"]='F2CECF' # flamingo
-    ["F0AFE1"]='E5B4E2' # pink
-    ["E28C8C"]='E38C8F' # red
-    ["F7C196"]='F9C096' # peach
-    ["EADDA0"]='EBDDAA' # yellow
-    ["B3E1A3"]='B1E3AD' # green
-    ["9DDDCB"]='BEE4ED' # teal
-    ["6E6C7C"]='6E6C7E' # gray
-	["2D293B"]='332E41' # black 3
-	["D7DAE0"]='DADAE8' # white
+    ["F2CECF"]='F2CDCD' # flamingo
+    ["E5B4E2"]='E5B4E2' # pink
+    ["F9C096"]='F7BE95' # peach
+    ["EBDDAA"]='ECDDAA' # yellow
+    ["B1E3AD"]='B1E1A6' # green
+    ["BEE4ED"]='B7E5E6' # teal
+	["DADAE8"]='DFDEF1' # white
 )
 
 function update_colors() {
