@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Are you available to help in the creation of this port? (optional)**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Are you available to help in the creation of this port? 😄 (optional)**
+Yes/No/Maybe
 
-**Additional context (optional)**
+**Additional context 📷 (optional)**
 Add any other context or screenshots about the port request here.
