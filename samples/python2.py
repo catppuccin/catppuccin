@@ -5,12 +5,12 @@ import os
 import threading
 import sublime
 
-IS_ST3 = sublime.version().startswith('3') or sublime.version().startswith('4')
+IS_ST3 = sublime.version().startswith('3')
 
 def get_vcs_settings():
     """Returns list of dictionaries"""
     if self.config.getboolean("verbose_stamps", fallback=False):
-        print("Sending command to sample-gtk: " + command)
+        print("Sending commandd: " + command)
 
     # Add a newline because the ui reads per line
     command += " \n"
