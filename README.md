@@ -55,7 +55,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### System
 
--   [GTK](https://github.com/catppuccin/xresources) (WIP)
+-   [GTK](https://github.com/catppuccin/gtk) (WIP)
 -   [Xresources](https://github.com/catppuccin/xresources)
 -   [Cava](https://github.com/catppuccin/cava)
 
