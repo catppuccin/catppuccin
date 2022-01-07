@@ -23,13 +23,21 @@ EOF
 
 declare -A colors=(
     # <old> -> new
-    ["F2CECF"]='F2CDCD' # flamingo
-    ["E5B4E2"]='E5B4E2' # pink
-    ["F9C096"]='F7BE95' # peach
-    ["EBDDAA"]='ECDDAA' # yellow
-    ["B1E3AD"]='B1E1A6' # green
-    ["BEE4ED"]='B7E5E6' # teal
-	["DADAE8"]='DFDEF1' # white
+    ["C6AAE8"]='DDB6F2' # mauve
+    ["E5B4E2"]='F5C2E7' # pink
+    ["E49CB3"]='E8A2AF' # maroon
+    ["E38C8F"]='F28FAD' # red
+    ["F7BE95"]='F8BD96' # peach
+    ["ECDDAA"]='FAE3B0' # yellow
+    ["B1E1A6"]='ABE9B3' # green
+    ["B7E5E6"]='B5E8E0' # teal
+    ["A3B9EF"]='96CDFB' # blue
+    ["92D2E8"]='89DCEB' # sky
+    ["15121C"]='131020' # black0
+    ["1B1923"]='1A1823' # black1
+    ["1E1E28"]='1E1D2F' # black2
+    ["332E41"]='302D41' # black3
+    ["DFDEF1"]='D9E0EE' # white
 )
 
 function update_colors() {
