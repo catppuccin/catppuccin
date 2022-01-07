@@ -86,10 +86,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/gray2.png" height="23" width="23"/>     | Gray 2    | `#C3BAC6` | `195, 186, 198` | `285, 10%, 75%`  | `2%, 6%, 0%, 22%`   |
 | <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/white.png" height="23" width="23"/>     | White     | `#D9E0EE` | `217, 224, 238` | `220, 38%, 89%`  | `9%, 6%, 0%, 7%`    |
 
-<!-- <p align="center"> -->
-<!-- 	You can view an interactive version of the palette <a href="https://coolors.co/f2cecf-bee4ed-e5b4e2-a4b9ef-ebddaa-b1e3ad-c6aae8-f9c096-e38c8f">here</a> and <a href="https://coolors.co/15121c-1b1923-1e1e28-332e41-575268-6e6c7e-988ba2-c3bac6-dadae8">here</a> -->
-<!-- </p> -->
-
 ## 🧠 Design Philosophy
 
 -   **Colorful is better than colorless**: the colorfulness of something contributes to the distinction amongst the parts of that _something_, making it marginally easier to understand how things are structured.
