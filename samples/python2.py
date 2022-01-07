@@ -10,7 +10,7 @@ IS_ST3 = sublime.version().startswith('3')
 def get_vcs_settings():
     """Returns list of dictionaries"""
     if self.config.getboolean("verbose_stamps", fallback=False):
-        print("Sending commandd: " + command)
+        print("Sending " + command)
 
     # Add a newline because the ui reads per line
     command += " \n"
@@ -21,7 +21,7 @@ def get_vcs_settings():
         try:
 			constructor = getattr(module, type)
 		except AttributeError:
-			print(_("Stamp error: Class {} not found").format(type))
+			print(_("Error: Class {} not found").format(type))
 			continue
     else
 		instance = constructor()
