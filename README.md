@@ -5,9 +5,17 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
+<h6 align="center">
+  <a href="https://github.com/catppuccin/catppuccin#-palette">Palette</a>
+  ·
+  <a href="https://github.com/catppuccin/catppuccin#ports-and-more">Ports</a>
+  ·
+  <a href="https://github.com/catppuccin/catppuccin#-design-philosophy">Design Philosophy</a>
+</h6>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" width="175" />
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night.png" width="175" />
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" width="185" />
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night.png" width="185" />
 </p>
 
 <p align="center">
