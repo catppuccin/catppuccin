@@ -46,6 +46,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 #### Terminals
 
 -   [Kitty](https://github.com/catppuccin/kitty)
+-   [Windows Terminal](https://github.com/catppuccin/windows-terminal)
 -   [Alacritty](https://github.com/catppuccin/alacritty)
 -   [Gnome-Terminal](https://github.com/catppuccin/gnome-terminal) (WIP)
 -   [Terminator](https://github.com/catppuccin/terminator)
@@ -66,6 +67,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [GTK](https://github.com/catppuccin/gtk)
 -   [Xresources](https://github.com/catppuccin/xresources)
 -   [Cava](https://github.com/catppuccin/cava)
+-   [Btop](https://github.com/catppuccin/btop)
+-   [Mako](https://github.com/catppuccin/mako)
 
 ## 🎨 Palette
 
