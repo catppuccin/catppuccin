@@ -52,7 +52,13 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Terminator](https://github.com/catppuccin/terminator)
 -   [iTerm 2](https://github.com/catppuccin/iterm)
 -   [Tmux](https://github.com/catppuccin/tmux)
+-   [Termux](https://github.com/catppuccin/termux)
 -   [Urxvt](https://github.com/catppuccin/urxvt)
+-   [Konsole](https://github.com/catppuccin/konsole)
+
+#### Browsers
+
+-   [DuckDuckGo](https://github.com/catppuccin/duckduckgo) (WIP)
 
 #### Productivity
 
