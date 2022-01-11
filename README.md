@@ -62,7 +62,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Productivity
 
--   [Zathura](https://github.com/catppuccin/zathura) (WIP)
+-   [Zathura](https://github.com/catppuccin/zathura)
 
 #### Shells
 
