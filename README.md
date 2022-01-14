@@ -40,6 +40,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Development
 
+-   [GitHub](https://github.com/catppuccin/github)
 -   [Palette](https://github.com/catppuccin/palette)
 -   [Wallpapers](https://github.com/catppuccin/wallpapers)
 
