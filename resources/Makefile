@@ -5,7 +5,7 @@ LOG_SUCCESS=$(shell date +"%H:%M:%S") \e[0;32mSUCCESS\e[0m
 
 
 ROOT_DIR=$(shell git rev-parse --show-toplevel)
-dest=/tmp/ctp_test
+dest=/usr/local/bin
 export ROOT_DIR
 
 link:
