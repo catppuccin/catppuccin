@@ -7,6 +7,9 @@ BIN_NAME=$(basename "$0")
 COMMAND_NAME=$1
 COMMAND_ARGS=$2
 
+esc=""
+reset="${esc}[0m"
+
 
 
 # ----- print kitty ----- #
@@ -53,7 +56,7 @@ sub_print () {
       ;;
     
   esac
-
+	echo "${reset}"
 }
 
 
