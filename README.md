@@ -49,7 +49,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Kitty](https://github.com/catppuccin/kitty)
 -   [Windows Terminal](https://github.com/catppuccin/windows-terminal)
 -   [Alacritty](https://github.com/catppuccin/alacritty)
--   [Gnome-Terminal](https://github.com/catppuccin/gnome-terminal) (WIP)
+-   [Gnome-Terminal](https://github.com/catppuccin/gnome-terminal)
 -   [Terminator](https://github.com/catppuccin/terminator)
 -   [iTerm 2](https://github.com/catppuccin/iterm)
 -   [Tmux](https://github.com/catppuccin/tmux)
