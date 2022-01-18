@@ -59,6 +59,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Browsers
 
+-   [FireFox](https://github.com/catppuccin/firefox)
 -   [DuckDuckGo](https://github.com/catppuccin/duckduckgo) (WIP)
 
 #### Productivity
