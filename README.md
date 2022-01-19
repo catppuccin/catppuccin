@@ -57,6 +57,10 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Urxvt](https://github.com/catppuccin/urxvt)
 -   [Konsole](https://github.com/catppuccin/konsole)
 
+#### Messaging
+
+-   [Revolt Chat](https://github.com/catppuccin/revolt)
+
 #### Browsers
 
 -   [FireFox](https://github.com/catppuccin/firefox)
