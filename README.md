@@ -128,7 +128,7 @@ Catppuccin is released under the MIT license, which grants the following permiss
 -   Modification
 -   Private use
 
-For more convoluted language, see the [LICENSE file](https://github.com/catppuccin/catppuccin/blob/main/LICENSE.md).
+For more convoluted language, see the [LICENSE](https://github.com/catppuccin/catppuccin/blob/main/LICENSE).
 
 ## 💝 Gratitude
 
