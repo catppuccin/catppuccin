@@ -56,6 +56,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Termux](https://github.com/catppuccin/termux)
 -   [Urxvt](https://github.com/catppuccin/urxvt)
 -   [Konsole](https://github.com/catppuccin/konsole)
+-   [WezTerm](https://github.com/catppuccin/WezTerm)
 
 #### Messaging
 
