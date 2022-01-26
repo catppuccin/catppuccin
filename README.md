@@ -62,6 +62,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 #### Messaging
 
 -   [Revolt Chat](https://github.com/catppuccin/revolt)
+-   [Discord](https://github.com/catppuccin/discord)
 
 #### Browsers
 
