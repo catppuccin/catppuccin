@@ -59,6 +59,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Konsole](https://github.com/catppuccin/konsole)
 -   [WezTerm](https://github.com/catppuccin/WezTerm)
 -   [Contour](https://github.com/catppuccin/contour)
+-   [ST](https://github.com/catppuccin/st)
 
 #### Messaging
 
