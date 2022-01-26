@@ -37,6 +37,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 -   [NeoVim](https://github.com/catppuccin/nvim)
 -   [VSCode](https://github.com/catppuccin/vscode) (WIP)
+-   [Sublime Text](https://github.com/catppuccin/sublime-text) (WIP)
 
 #### Development
 
