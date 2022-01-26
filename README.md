@@ -58,6 +58,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Urxvt](https://github.com/catppuccin/urxvt)
 -   [Konsole](https://github.com/catppuccin/konsole)
 -   [WezTerm](https://github.com/catppuccin/WezTerm)
+-   [Contour](https://github.com/catppuccin/contour)
 
 #### Messaging
 
