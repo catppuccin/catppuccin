@@ -86,6 +86,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Cava](https://github.com/catppuccin/cava)
 -   [Btop](https://github.com/catppuccin/btop)
 -   [Mako](https://github.com/catppuccin/mako)
+-   [Fcitx5](https://github.com/catppuccin/fcitx5)
 
 ## 🎨 Palette
 
