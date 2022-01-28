@@ -83,6 +83,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 #### System
 
 -   [GTK](https://github.com/catppuccin/gtk)
+-   [KDE](https://github.com/catppuccin/kde)
 -   [Xresources](https://github.com/catppuccin/xresources)
 -   [Cava](https://github.com/catppuccin/cava)
 -   [Btop](https://github.com/catppuccin/btop)
