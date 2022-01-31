@@ -138,7 +138,7 @@ Catppuccin is released under the MIT license, which grants the following permiss
 
 For more convoluted language, see the [LICENSE](https://github.com/catppuccin/catppuccin/blob/main/LICENSE).
 
-## 💝 Gratitude
+## ❤️ Gratitude
 
 Thanks to the following tools developing this project is possible:
 
