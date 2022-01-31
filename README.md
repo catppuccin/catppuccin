@@ -33,12 +33,15 @@
 	Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of a soothing warm palette with 22 eye-candy colors perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, organization-wide assets, resources and code samples for maintainers/developers.
 </p>
 
+&nbsp;
 
 ### 🧠 Design Philosophy
 
 -   **Colorful is better than colorless**: the colorfulness of something contributes to the distinction amongst the parts of that _something_, making it marginally easier to understand how things are structured.
 -   **There should be balance**: not too dull, not too bright. Suitability under various light conditions is a most.
 -   **Harmony is superior to dissonance**: vivacious colors must complement each other.
+
+&nbsp;
 
 ### 🎨 Palette
 
@@ -76,6 +79,8 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 | <img src="assets/palette/circles/white.png" height="23" width="23"/>     | White     | `#D9E0EE` | `217, 224, 238` | `220, 38%, 89%`  | `9%, 6%, 0%, 7%`    |
 | <img src="assets/palette/circles/lavender.png" height="23" width="23"/>  | Lavender  | `#C9CBFF` | `201, 203, 255` | `238, 100%, 89%` | `21%, 20%, 0%, 0%`  |
 | <img src="assets/palette/circles/rosewater.png" height="23" width="23"/> | Rosewater | `#F5E0DC` | `245, 224, 220` | `10, 56%, 91%`   | `0%, 9%, 10%, 4%`   |
+
+&nbsp;
 
 ### Ports and more!
 
@@ -138,9 +143,13 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Mako](https://github.com/catppuccin/mako)
 -   [Fcitx5](https://github.com/catppuccin/fcitx5)
 
+&nbsp;
+
 ### 👐 Contribute
 
 See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/dev/CONTRIBUTING.md).
+
+&nbsp;
 
 ### 📜 License
 
@@ -152,6 +161,8 @@ Catppuccin is released under the MIT license, which grants the following permiss
 -   Private use
 
 For more convoluted language, see the [LICENSE](https://github.com/catppuccin/catppuccin/blob/main/LICENSE).
+
+&nbsp;
 
 ### ❤️ Gratitude
 
