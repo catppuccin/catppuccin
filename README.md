@@ -84,7 +84,7 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 
 &nbsp;
 
-### Ports and more!
+### 🪵 Ports and more!
 
 Catppuccin is available for various apps and in different formats. Here is a list of them:
 
