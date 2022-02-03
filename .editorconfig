@@ -6,15 +6,13 @@ root = true
 
 
 [*]
-end_of_line = lf
 charset = utf-8
-insert_final_newline = true
-indent_style = tabs
 indent_size = 4
-
-[*.txt]
 indent_style = tab
-indent_size = 4
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
 
 [*.{diff,md}]
 trim_trailing_whitespace = false
+
