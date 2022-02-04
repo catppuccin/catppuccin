@@ -8,7 +8,7 @@
 <h6 align="center">
   <a href="https://github.com/catppuccin/catppuccin#-palette">Palette</a>
   ·
-  <a href="https://github.com/catppuccin/catppuccin#ports-and-more">Ports</a>
+  <a href="https://github.com/catppuccin/catppuccin#-ports-and-more">Ports</a>
   ·
   <a href="https://github.com/catppuccin/catppuccin#-design-philosophy">Design Philosophy</a>
 </h6>
