@@ -52,24 +52,27 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 <br><img src="assets/misc/transparent.png" height="10" width="0" />
 
 #### Morning
-|   | Name      | Hex       | RGB             | HSL              | CMYK                |
-| - | --------- | --------- | --------------- | ---------------- | ------------------- |
-| <img src="assets/palette/circles/flamingo.png" height="23" width="23"/>  | Flamingo  | `#F2CDCD` | `242, 205, 205` | `0, 59%, 88%`    | `0%, 15%, 15%, 5%`  |
-| <img src="assets/palette/circles/mauve.png" height="23" width="23"/>     | Mauve     | `#DDB6F2` | `221, 182, 242` | `279, 70%, 83%`  | `9%, 25%, 0%, 5%`   |
-| <img src="assets/palette/circles/pink.png" height="23" width="23"/>      | Pink      | `#F5C2E7` | `245, 194, 231` | `316, 72%, 86%`  | `0%, 21%, 6%, 4%`   |
-| <img src="assets/palette/circles/maroon.png" height="23" width="23"/>    | Maroon    | `#E8A2AF` | `232, 162, 175` | `349, 60%, 77%`  | `0%, 30%, 25%, 9%`  |
-| <img src="assets/palette/circles/red.png" height="23" width="23"/>       | Red       | `#F28FAD` | `242, 143, 173` | `342, 79%, 75%`  | `0%, 41%, 29%, 5%`  |
-| <img src="assets/palette/circles/peach.png" height="23" width="23"/>     | Peach     | `#F8BD96` | `248, 189, 150` | `24, 88%, 78%`   | `0%, 24%, 40%, 3%`  |
-| <img src="assets/palette/circles/yellow.png" height="23" width="23"/>    | Yellow    | `#FAE3B0` | `250, 227, 176` | `41, 88%, 84%`   | `0%, 9%, 30%, 2%`   |
-| <img src="assets/palette/circles/green.png" height="23" width="23"/>     | Green     | `#ABE9B3` | `171, 233, 179` | `128, 58%, 79%`  | `27%, 0%, 23%, 9%`  |
-| <img src="assets/palette/circles/teal.png" height="23" width="23"/>      | Teal      | `#B5E8E0` | `181, 232, 224` | `171, 53%, 81%`  | `22%, 0%, 3%, 9%`   |
-| <img src="assets/palette/circles/blue.png" height="23" width="23"/>      | Blue      | `#96CDFB` | `150, 205, 251` | `207, 93%, 79%`  | `40%, 18%, 0%, 2%`  |
-| <img src="assets/palette/circles/sky.png" height="23" width="23"/>       | Sky       | `#89DCEB` | `137, 220, 235` | `189, 71%, 73%`  | `42%, 6%, 0%, 8%`   |
+
+|                                                                         | Name     | Hex       | RGB             | HSL             | CMYK               |
+| ----------------------------------------------------------------------- | -------- | --------- | --------------- | --------------- | ------------------ |
+| <img src="assets/palette/circles/flamingo.png" height="23" width="23"/> | Flamingo | `#F2CDCD` | `242, 205, 205` | `0, 59%, 88%`   | `0%, 15%, 15%, 5%` |
+| <img src="assets/palette/circles/mauve.png" height="23" width="23"/>    | Mauve    | `#DDB6F2` | `221, 182, 242` | `279, 70%, 83%` | `9%, 25%, 0%, 5%`  |
+| <img src="assets/palette/circles/pink.png" height="23" width="23"/>     | Pink     | `#F5C2E7` | `245, 194, 231` | `316, 72%, 86%` | `0%, 21%, 6%, 4%`  |
+| <img src="assets/palette/circles/maroon.png" height="23" width="23"/>   | Maroon   | `#E8A2AF` | `232, 162, 175` | `349, 60%, 77%` | `0%, 30%, 25%, 9%` |
+| <img src="assets/palette/circles/red.png" height="23" width="23"/>      | Red      | `#F28FAD` | `242, 143, 173` | `342, 79%, 75%` | `0%, 41%, 29%, 5%` |
+| <img src="assets/palette/circles/peach.png" height="23" width="23"/>    | Peach    | `#F8BD96` | `248, 189, 150` | `24, 88%, 78%`  | `0%, 24%, 40%, 3%` |
+| <img src="assets/palette/circles/yellow.png" height="23" width="23"/>   | Yellow   | `#FAE3B0` | `250, 227, 176` | `41, 88%, 84%`  | `0%, 9%, 30%, 2%`  |
+| <img src="assets/palette/circles/green.png" height="23" width="23"/>    | Green    | `#ABE9B3` | `171, 233, 179` | `128, 58%, 79%` | `27%, 0%, 23%, 9%` |
+| <img src="assets/palette/circles/teal.png" height="23" width="23"/>     | Teal     | `#B5E8E0` | `181, 232, 224` | `171, 53%, 81%` | `22%, 0%, 3%, 9%`  |
+| <img src="assets/palette/circles/blue.png" height="23" width="23"/>     | Blue     | `#96CDFB` | `150, 205, 251` | `207, 93%, 79%` | `40%, 18%, 0%, 2%` |
+| <img src="assets/palette/circles/sky.png" height="23" width="23"/>      | Sky      | `#89DCEB` | `137, 220, 235` | `189, 71%, 73%` | `42%, 6%, 0%, 8%`  |
+
 <img src="assets/misc/transparent.png" height="10" width="0" />
 
 #### Night
-|   | Name      | Hex       | RGB             | HSL              | CMYK                |
-| - | --------- | --------- | --------------- | ---------------- | ------------------- |
+
+|                                                                          | Name      | Hex       | RGB             | HSL              | CMYK                |
+| ------------------------------------------------------------------------ | --------- | --------- | --------------- | ---------------- | ------------------- |
 | <img src="assets/palette/circles/black0.png" height="23" width="23"/>    | Black 0   | `#161320` | `22, 19, 32`    | `254, 25%, 10%`  | `31%, 41%, 0%, 87%` |
 | <img src="assets/palette/circles/black1.png" height="23" width="23"/>    | Black 1   | `#1A1826` | `26, 24, 38`    | `249, 23%, 12%`  | `32%, 37%, 0%, 85%` |
 | <img src="assets/palette/circles/black2.png" height="23" width="23"/>    | Black 2   | `#1E1E2E` | `30, 30, 46`    | `240, 21%, 15%%` | `35%, 35%, 0%, 82%` |
@@ -126,7 +129,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 #### Browsers
 
 -   [FireFox](https://github.com/catppuccin/firefox)
--   [DuckDuckGo](https://github.com/catppuccin/duckduckgo) (WIP)
+-   [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
+-   [Vimium](https://github.com/catppuccin/vimium)
 
 #### Productivity
 
@@ -145,6 +149,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Btop](https://github.com/catppuccin/btop)
 -   [Mako](https://github.com/catppuccin/mako)
 -   [Fcitx5](https://github.com/catppuccin/fcitx5)
+-   [GRUB](https://github.com/catppuccin/grub)
 
 &nbsp;
 
