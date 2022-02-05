@@ -130,6 +130,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 -   [FireFox](https://github.com/catppuccin/firefox)
 -   [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
+-   [Chrome](https://github.com/catppuccin/chrome)
 -   [Vimium](https://github.com/catppuccin/vimium)
 
 #### Productivity
