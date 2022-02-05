@@ -134,6 +134,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Productivity
 
+-   [Obsidian](https://github.com/catppuccin/obsidian)
 -   [Zathura](https://github.com/catppuccin/zathura)
 
 #### Shells
