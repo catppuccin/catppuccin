@@ -1,6 +1,6 @@
-# Resources
+# 🦆 Resources
 
-There are small resource scripts usually used by port maintainers to perform several manual tasks automatically
+There are small resource scripts usually used by port maintainers to perform automatically several manual tasks.
 
 ## Install
 
