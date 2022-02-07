@@ -13,10 +13,10 @@ Useful if one has a bunch of repos.
 Usages:
 	#0: ${0} <flag(s)>
 Arguments:
-	-h,--help,-?,?				See this message.
+	-h,--help,-?,?			See this message.
 	-v,--verbose			Print verbose output in case remotes have had changes.
-	-p,--pull				Pull all changes from all remotes (if any).
-	-f,--resources				Copies general resources like images.
+	-p,--pull			Pull all changes from all remotes (if any).
+	-f,--force			Force pull.
 EOF
 )
 
