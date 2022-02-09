@@ -126,6 +126,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Revolt Chat](https://github.com/catppuccin/revolt)
 -   [Discord](https://github.com/catppuccin/discord)
 -   [Telegram](https://github.com/catppuccin/telegram)
+-   [Mailspring](https://github.com/catppuccin/mailspring)
 
 #### Browsers
 
