@@ -140,6 +140,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Obsidian](https://github.com/catppuccin/obsidian)
 -   [Zathura](https://github.com/catppuccin/zathura)
 -   [Monkeytype](https://github.com/catppuccin/monkeytype)
+-   [Micro](https://github.com/catppuccin/micro)
 
 #### Shells
 
