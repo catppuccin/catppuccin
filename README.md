@@ -157,6 +157,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Fcitx5](https://github.com/catppuccin/fcitx5)
 -   [GRUB](https://github.com/catppuccin/grub)
 -   [Plank](https://github.com/catppuccin/plank)
+-   [Papirus Icon Theme Folders](https://github.com/catppuccin/papirus-folders)
 
 &nbsp;
 
