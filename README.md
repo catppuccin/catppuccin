@@ -158,6 +158,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [GRUB](https://github.com/catppuccin/grub)
 -   [Plank](https://github.com/catppuccin/plank)
 -   [Papirus Icon Theme Folders](https://github.com/catppuccin/papirus-folders)
+-   [Mouse Cursors](https://github.com/catppuccin/cursors)
 
 &nbsp;
 
