@@ -126,6 +126,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Revolt Chat](https://github.com/catppuccin/revolt)
 -   [Discord](https://github.com/catppuccin/discord)
 -   [Telegram](https://github.com/catppuccin/telegram)
+-   [Mailspring](https://github.com/catppuccin/mailspring)
 
 #### Browsers
 
@@ -140,6 +141,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 -   [Obsidian](https://github.com/catppuccin/obsidian)
 -   [Zathura](https://github.com/catppuccin/zathura)
+-   [Monkeytype](https://github.com/catppuccin/monkeytype)
+-   [Micro](https://github.com/catppuccin/micro)
 
 #### Shells
 
@@ -156,6 +159,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Fcitx5](https://github.com/catppuccin/fcitx5)
 -   [GRUB](https://github.com/catppuccin/grub)
 -   [Plank](https://github.com/catppuccin/plank)
+-   [Papirus Icon Theme Folders](https://github.com/catppuccin/papirus-folders)
+-   [Mouse Cursors](https://github.com/catppuccin/cursors)
 -   [Rofi](https://github.com/catppuccin/rofi)
 
 &nbsp;
