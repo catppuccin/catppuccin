@@ -160,6 +160,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Plank](https://github.com/catppuccin/plank)
 -   [Papirus Icon Theme Folders](https://github.com/catppuccin/papirus-folders)
 -   [Mouse Cursors](https://github.com/catppuccin/cursors)
+-   [Rofi](https://github.com/catppuccin/rofi)
 
 &nbsp;
 
