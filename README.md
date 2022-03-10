@@ -141,6 +141,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Zathura](https://github.com/catppuccin/zathura)
 -   [Monkeytype](https://github.com/catppuccin/monkeytype)
 -   [Micro](https://github.com/catppuccin/micro)
+-   [Alfred](https://github.com/catppuccin/alfred)
 
 #### Shells
 
