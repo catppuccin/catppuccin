@@ -143,7 +143,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Zathura](https://github.com/catppuccin/zathura)
 -   [Monkeytype](https://github.com/catppuccin/monkeytype)
 -   [Micro](https://github.com/catppuccin/micro)
-
+-	[Alfred](https://github.com/catppuccin/alfred)
 #### Shells
 
 -   [Fish](https://github.com/catppuccin/fish)
@@ -162,6 +162,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Papirus Icon Theme Folders](https://github.com/catppuccin/papirus-folders)
 -   [Mouse Cursors](https://github.com/catppuccin/cursors)
 -   [Rofi](https://github.com/catppuccin/rofi)
+-	[SDDM](https://github.com/catppuccin/sddm)
+-	[LXQt](https://github.com/catppuccin/lxqt-theme)
 
 &nbsp;
 
