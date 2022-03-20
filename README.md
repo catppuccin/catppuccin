@@ -136,6 +136,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Vimium](https://github.com/catppuccin/vimium)
 -   [MonkeyType](https://github.com/catppuccin/monkeytype)
 -   [Libreddit](https://github.com/catppuccin/libreddit)
+-   [Whoogle](https://github.com/catppuccin/whoogle)
 
 #### Productivity
 
