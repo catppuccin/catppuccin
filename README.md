@@ -136,6 +136,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Vimium](https://github.com/catppuccin/vimium)
 -   [MonkeyType](https://github.com/catppuccin/monkeytype)
 -   [Libreddit](https://github.com/catppuccin/libreddit)
+-   [Whoogle](https://github.com/catppuccin/whoogle)
 
 #### Productivity
 
@@ -162,6 +163,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Papirus Icon Theme Folders](https://github.com/catppuccin/papirus-folders)
 -   [Mouse Cursors](https://github.com/catppuccin/cursors)
 -   [Rofi](https://github.com/catppuccin/rofi)
+-   [FZF](https://github.com/catppuccin/fzf)
 -   [SDDM](https://github.com/catppuccin/sddm)
 -   [LXQt](https://github.com/catppuccin/lxqt-theme)
 
