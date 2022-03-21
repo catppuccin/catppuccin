@@ -137,6 +137,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [MonkeyType](https://github.com/catppuccin/monkeytype)
 -   [Libreddit](https://github.com/catppuccin/libreddit)
 -   [Whoogle](https://github.com/catppuccin/whoogle)
+-   [Dark Reader](https://github.com/catppuccin/dark-reader)
 
 #### Productivity
 
@@ -145,6 +146,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Monkeytype](https://github.com/catppuccin/monkeytype)
 -   [Micro](https://github.com/catppuccin/micro)
 -   [Alfred](https://github.com/catppuccin/alfred)
+
 #### Shells
 
 -   [Fish](https://github.com/catppuccin/fish)
