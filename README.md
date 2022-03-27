@@ -138,6 +138,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Libreddit](https://github.com/catppuccin/libreddit)
 -   [Whoogle](https://github.com/catppuccin/whoogle)
 -   [Dark Reader](https://github.com/catppuccin/dark-reader)
+-   [Github Readme Stats](https://github.com/catppuccin/github-readme-stats)
 
 #### Productivity
 
