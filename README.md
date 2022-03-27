@@ -120,6 +120,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [WezTerm](https://github.com/catppuccin/WezTerm)
 -   [Contour](https://github.com/catppuccin/contour)
 -   [ST](https://github.com/catppuccin/st)
+-   [XFCE4-Terminal](https://github.com/catppuccin/xfce4-terminal)
 
 #### Messaging
 
