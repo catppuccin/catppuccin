@@ -97,6 +97,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [VSCode](https://github.com/catppuccin/vscode)
 -   [Sublime Text](https://github.com/catppuccin/sublime-text) (WIP)
 -   [Geany](https://github.com/catppuccin/geany)
+-   [IntelliJ](https://plugins.jetbrains.com/plugin/18682-catppuccin-theme)
 
 #### Development
 
