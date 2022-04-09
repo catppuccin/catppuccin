@@ -148,6 +148,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Monkeytype](https://github.com/catppuccin/monkeytype)
 -   [Micro](https://github.com/catppuccin/micro)
 -   [Alfred](https://github.com/catppuccin/alfred)
+-   [Spicetify](https://github.com/catppuccin/spicetify)
 
 #### Shells
 
