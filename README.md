@@ -97,6 +97,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Sublime Text](https://github.com/catppuccin/sublime-text) (WIP)
 -   [Geany](https://github.com/catppuccin/geany)
 -   [Emacs](https://github.com/catppuccin/emacs)
+-   [Helix](https://github.com/catppuccin/helix)
 
 #### Development
 
