@@ -122,6 +122,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Contour](https://github.com/catppuccin/contour)
 -   [ST](https://github.com/catppuccin/st)
 -   [XFCE4-Terminal](https://github.com/catppuccin/xfce4-terminal)
+-   [Tym](https://github.com/catppuccin/tym)
 
 #### Messaging
 
