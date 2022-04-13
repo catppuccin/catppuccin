@@ -6,7 +6,7 @@ coerce=false
 lowercase=false
 file=""
 prefix=""
-original_palette="storm"
+original_palette=""
 verbosity=0
 
 script_help=$(
@@ -220,7 +220,7 @@ main() {
                 shift
                 ;;
             -o | --original-palette)
-                origianl_palette=$2
+                original_palette=$2
                 shift
                 ;;
             -l | --lowercase)
@@ -248,7 +248,7 @@ main() {
             if [[ $file != "" ]]; then
                 [[ -f $file ]] && {
                     prompt "updating colors..."
-                    if [[ original_palette != "storm" || original_palette != "dusk" || original_palette != "dawn" ]]; then
+                    if [[ $original_palette != "storm" && $original_palette != "dusk" && $original_palette != "dawn" ]]; then
                         detect_original_palette
                     fi
                     generate_palettes
