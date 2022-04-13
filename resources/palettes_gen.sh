@@ -89,28 +89,28 @@ declare -A storm=(
 
 declare -A dawn=(
     [black4]='CCC9D1'
-    [peach]='FE6811'
+    [peach]='FE640B'
     [black3]='E6E3E5'
     [pink]='EC83D0'
     [black0]='D3D0D2'
     [black1]='EDEDED'
     [blue]='1D65F5'
     [lavender]='7287FD'
-    [mauve]='8F46EF'
+    [mauve]='822FEE'
     [black5]='B5B1BF'
     [maroon]='E63B4A'
-    [rosewater]='E5AC9F'
-    [green]='509E31'
+    [rosewater]='DC907F'
+    [green]='40A02B'
     [gray1]='86819C'
     [black2]='FBF8F4'
     [white]='575279'
     [gray2]='6E6A8B'
     [sky]='04A5E5'
     [sapphire]='209FB5'
-    [red]='D20F39'
-    [teal]='289886'
+    [red]='BB0D33'
+    [teal]='179299'
     [gray0]='9D99AE'
-    [flamingo]='DF7F7F'
+    [flamingo]='DD7878'
     [yellow]='E49320'
 )
 
@@ -147,11 +147,14 @@ function verbose_print() {
     fi
 }
 
-function generate_palettes() {
+function make_capitalization_char() {
     capitalization_char='\U' # uppercase
     [[ $lowercase == true ]] && {
         capitalization_char='\L' # lowercase
     }
+}
+
+function generate_palettes() {
 
     new_array=()
     for val in "${palette_names[@]}"; do
@@ -190,7 +193,7 @@ function detect_original_palette() {
     original_palette=""
     for palette in "${palette_names[@]}"; do
         for clr in "${!storm[@]}"; do
-            if grep -q $(eval "echo \${${palette}[${clr}]}") "$file"; then
+            if grep --ignore-case -q $(eval "echo \${${palette}[${clr}]}") "$file"; then
                 original_palette=$palette
                 break 2
             fi
@@ -248,6 +251,7 @@ main() {
             if [[ $file != "" ]]; then
                 [[ -f $file ]] && {
                     prompt "updating colors..."
+					make_capitalization_char
                     if [[ $original_palette != "storm" && $original_palette != "dusk" && $original_palette != "dawn" ]]; then
                         detect_original_palette
                     fi
