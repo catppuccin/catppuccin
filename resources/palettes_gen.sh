@@ -119,10 +119,6 @@ function prompt() {
     local message=${2}
     local modifiers=${3}
 
-    if [[ $1 == "-i" || $1 == "--info" ]]; then
-        type=""
-    fi
-
     case ${type} in
     "-e" | "--error")
         printf "\033[0;31m${modifiers}ERROR: %s${NC}\n" "${message}"
@@ -134,7 +130,11 @@ function prompt() {
         printf "\033[0;33m${modifiers}WARNING: %s${NC}\n" "${message}"
         ;;
     *)
-        printf "\033[0;34m${modifiers}INFO: %s${NC}\n" "${message}"
+		if [[ $1 == "-i" || $1 == "--info" ]]; then
+			type="${message}"
+			message=${modifiers}
+		fi
+        printf "\033[0;34m${message}INFO: %s${NC}\n" "${type}"
         ;;
     esac
 }
