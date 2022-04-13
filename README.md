@@ -135,6 +135,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Chrome](https://github.com/catppuccin/chrome)
 -   [Vimium](https://github.com/catppuccin/vimium)
 -   [YouTube](https://github.com/catppuccin/YouTube)
+-   [MonkeyType](https://github.com/catppuccin/monkeytype)
+-   [Libreddit](https://github.com/catppuccin/libreddit)
 
 #### Productivity
 
