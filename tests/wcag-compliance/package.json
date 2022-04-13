@@ -1,0 +1,32 @@
+{
+	"name": "wcag-compliance",
+	"version": "0.1.0",
+	"description": "An accessibility checker tool for validating the color contrast of Catppuccin's palettes based on WCAG 2.0 and WCAG 2.1 standards",
+	"main": "./src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/catppuccin/catppuccin.git"
+	},
+	"keywords": [
+		"wcag",
+		"wcag-aa",
+		"color",
+		"contrast",
+		"verifier",
+		"accessibility",
+		"standard"
+	],
+	"author": "Pocco81",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/catppuccin/catppuccin/issues"
+	},
+	"homepage": "https://github.com/catppuccin/catppuccin#readme",
+	"dependencies": {
+		"color-contrast-checker": "^2.1.0",
+		"execa": "^6.1.0"
+	}
+}

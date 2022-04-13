@@ -1,5 +1,3 @@
-// Simple program made by a simple programmer
-
 #![warn(rust_2018_idioms)]
 #![allow(elided_lifetimes_in_paths)]
 
