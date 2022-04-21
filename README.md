@@ -160,6 +160,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 -   [GTK](https://github.com/catppuccin/gtk)
 -   [KDE](https://github.com/catppuccin/kde)
+-   [Conky](https://github.com/catppuccin/conky)
 -   [Xresources](https://github.com/catppuccin/xresources)
 -   [Cava](https://github.com/catppuccin/cava)
 -   [Btop](https://github.com/catppuccin/btop)
