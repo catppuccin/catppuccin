@@ -113,6 +113,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Gnome-Terminal](https://github.com/catppuccin/gnome-terminal)
 -   [Terminator](https://github.com/catppuccin/terminator)
 -   [iTerm 2](https://github.com/catppuccin/iterm)
+-   [Hyper](https://github.com/catppuccin/hyper-catppuccin)
 -   [Tmux](https://github.com/catppuccin/tmux)
 -   [Termux](https://github.com/catppuccin/termux)
 -   [Urxvt](https://github.com/catppuccin/urxvt)
