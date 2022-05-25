@@ -51,6 +51,8 @@
 To make the best use them please refer to the [Styleguide](https://github.com/catppuccin/style-guide).
 <br><img src="assets/misc/transparent.png" height="10" width="0" />
 
+<details>
+<summary>🐑 Latte</summary>
 |                                                                                | Labels    | Hex       | RGB                  | HSL                  |
 | ------------------------------------------------------------------------------ | --------- | --------- | -------------------- | -------------------- |
 | <img src="assets/palette/circles/latte_rosewater.png" height="23" width="23"/> | Rosewater | `#dc8a78` | `rgb(220, 138, 120)` | `hsl(11, 59%, 67%)`  |
@@ -79,7 +81,11 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 | <img src="assets/palette/circles/latte_base.png" height="23" width="23"/>      | Base      | `#eff1f5` | `rgb(239, 241, 245)` | `hsl(220, 23%, 95%)` |
 | <img src="assets/palette/circles/latte_mantle.png" height="23" width="23"/>    | Mantle    | `#e6e9ef` | `rgb(230, 233, 239)` | `hsl(220, 22%, 92%)` |
 | <img src="assets/palette/circles/latte_crust.png" height="23" width="23"/>     | Crust     | `#dce0e8` | `rgb(220, 224, 232)` | `hsl(220, 21%, 89%)` |
+</details>
 
+
+<details>
+<summary>🦦 Frappé</summary>
 |                                                                                 | Labels    | Hex       | RGB                  | HSL                  |
 | ------------------------------------------------------------------------------- | --------- | --------- | -------------------- | -------------------- |
 | <img src="assets/palette/circles/frappe_rosewater.png" height="23" width="23"/> | Rosewater | `#f2d5cf` | `rgb(242, 213, 207)` | `hsl(10, 57%, 88%)`  |
@@ -108,7 +114,10 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 | <img src="assets/palette/circles/frappe_base.png" height="23" width="23"/>      | Base      | `#303446` | `rgb(48, 52, 70)`    | `hsl(229, 19%, 23%)` |
 | <img src="assets/palette/circles/frappe_mantle.png" height="23" width="23"/>    | Mantle    | `#292c3c` | `rgb(41, 44, 60)`    | `hsl(231, 19%, 20%)` |
 | <img src="assets/palette/circles/frappe_crust.png" height="23" width="23"/>     | Crust     | `#232634` | `rgb(35, 38, 52)`    | `hsl(229, 20%, 17%)` |
+</details>
 
+<details>
+<summary>🌺 Macchiato</summary>
 |                                                                                    | Labels    | Hex       | RGB                  | HSL                  |
 | ---------------------------------------------------------------------------------- | --------- | --------- | -------------------- | -------------------- |
 | <img src="assets/palette/circles/macchiato_rosewater.png" height="23" width="23"/> | Rosewater | `#f4dbd6` | `rgb(244, 219, 214)` | `hsl(10, 58%, 90%)`  |
@@ -137,7 +146,10 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 | <img src="assets/palette/circles/macchiato_base.png" height="23" width="23"/>      | Base      | `#24273a` | `rgb(36, 39, 58)`    | `hsl(232, 23%, 18%)` |
 | <img src="assets/palette/circles/macchiato_mantle.png" height="23" width="23"/>    | Mantle    | `#1e2030` | `rgb(30, 32, 48)`    | `hsl(233, 23%, 15%)` |
 | <img src="assets/palette/circles/macchiato_crust.png" height="23" width="23"/>     | Crust     | `#181926` | `rgb(24, 25, 38)`    | `hsl(236, 23%, 12%)` |
+</details>
 
+<details>
+<summary>🌿 Mocha</summary>
 |                                                                                | Labels    | Hex       | RGB                  | HSL                  |
 | ------------------------------------------------------------------------------ | --------- | --------- | -------------------- | -------------------- |
 | <img src="assets/palette/circles/mocha_rosewater.png" height="23" width="23"/> | Rosewater | `#f5e0dc` | `rgb(245, 224, 220)` | `hsl(10, 56%, 91%)`  |
@@ -166,6 +178,7 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 | <img src="assets/palette/circles/mocha_base.png" height="23" width="23"/>      | Base      | `#1e1e2e` | `rgb(30, 30, 46)`    | `hsl(240, 21%, 15%)` |
 | <img src="assets/palette/circles/mocha_mantle.png" height="23" width="23"/>    | Mantle    | `#181825` | `rgb(24, 24, 37)`    | `hsl(240, 21%, 12%)` |
 | <img src="assets/palette/circles/mocha_crust.png" height="23" width="23"/>     | Crust     | `#11111b` | `rgb(17, 17, 27)`    | `hsl(240, 23%, 9%)`  |
+</details>
 
 &nbsp;
 
