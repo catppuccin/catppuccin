@@ -35,7 +35,7 @@
 Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of a soothing warm palette with 22 eye-candy colors perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, organization-wide assets, resources and code samples for maintainers/developers.
 
 <p align="center">
-<img src="assets/social/discord.png" width="100" height="100" alt="Discord Logo"/> <img src="assets/misc/transparent.png" height="1" width="5"/> <img src="assets/social/github.png" width="100" height="100" alt="Github Logo"/> <img src="assets/misc/transparent.png" height="1" width="5"/> <img src="assets/social/npm.svg" width="100" height="100" alt="Npm Logo"/>
+<a href="https://discord.gg/r6Mdz5dpFc"><img src="assets/social/discord.png" width="100" height="100" alt="Discord Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://github.com/catppuccin"><img src="assets/social/github.png" width="100" height="100" alt="Github Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://www.npmjs.com/org/catppuccin"><img src="assets/social/npm.svg" width="100" height="100" alt="Npm Logo"/></a>
 </p>
 
 <p align="center">
