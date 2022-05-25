@@ -14,7 +14,7 @@
 </h6>
 
 <p align="center">
-  <img src="assets/palette/macchiato.png"/>
+  <img src="assets/palette/macchiato.png" width="400" />
 </p>
 
 <p align="center">
