@@ -53,7 +53,7 @@ Join our community!
 
 &nbsp;
 
-### 🎨 Palette
+### 🎨 Palettes
 
 **Catppuccin** constist of 4 beautiful pastel color palettes. All the details can be found below.<br>
 To make the best use them please refer to the [Styleguide](https://github.com/catppuccin/style-guide).
