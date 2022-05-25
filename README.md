@@ -14,8 +14,7 @@
 </h6>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" width="185" />
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night.png" width="185" />
+  <img src="assets/palette/macchiato.png" width="185" />
 </p>
 
 <p align="center">
