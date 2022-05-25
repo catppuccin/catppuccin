@@ -16,7 +16,7 @@ Catppuccin consists of four named color palettes: Latte, Frappe, Macchiato, Moch
 
 Every palette consits of two subpalettes: one monochromatic and one analogous. The Monochromatic subpalette consists of different shades of a purple-gray and a very pale lavender and is often used for UI components. Whereas the Analogous palette has every color in the rainbow and is often used for syntactic elements.
 
-### Catppuccin Infrascture
+### Catppuccin Infrastructure
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/infrastructure.png" alt="catppuccin infrastructure"/>
