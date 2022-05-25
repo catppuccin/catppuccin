@@ -23,6 +23,7 @@ def get_vcs_settings():
 		except AttributeError:
 			print(_("Error: Class {} not found").format(type))
 			continue
+
     else
 		instance = constructor()
 		instance.verbose = verbose
