@@ -47,12 +47,13 @@
 
 ### 🎨 Palette
 
-**Catppuccin** constist of two main color palettes. All the details can be found below.<br>
+**Catppuccin** constist of 4 beautiful pastel color palettes. All the details can be found below.<br>
 To make the best use them please refer to the [Styleguide](https://github.com/catppuccin/style-guide).
 <br><img src="assets/misc/transparent.png" height="10" width="0" />
 
 <details>
 <summary>🐑 Latte</summary>
+<code>
 |                                                                                | Labels    | Hex       | RGB                  | HSL                  |
 | ------------------------------------------------------------------------------ | --------- | --------- | -------------------- | -------------------- |
 | <img src="assets/palette/circles/latte_rosewater.png" height="23" width="23"/> | Rosewater | `#dc8a78` | `rgb(220, 138, 120)` | `hsl(11, 59%, 67%)`  |
@@ -81,6 +82,7 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 | <img src="assets/palette/circles/latte_base.png" height="23" width="23"/>      | Base      | `#eff1f5` | `rgb(239, 241, 245)` | `hsl(220, 23%, 95%)` |
 | <img src="assets/palette/circles/latte_mantle.png" height="23" width="23"/>    | Mantle    | `#e6e9ef` | `rgb(230, 233, 239)` | `hsl(220, 22%, 92%)` |
 | <img src="assets/palette/circles/latte_crust.png" height="23" width="23"/>     | Crust     | `#dce0e8` | `rgb(220, 224, 232)` | `hsl(220, 21%, 89%)` |
+</code>
 </details>
 
 
