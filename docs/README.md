@@ -2,16 +2,6 @@
   <h2 align="center">📄 Docs</h2>
 </p>
 
-<h6 align="center">
-  <a href="https://github.com/Pocco81/koy-lang/blob/main/docs/specs.md">Specs</a>
-  ·
-  <a href="https://github.com/Pocco81/koy-lang/blob/main/docs/conventions.md">Conventions</a>
-  ·
-  <a href="https://github.com/Pocco81/koy-lang/tree/main/docs#-cheat-sheet">Cheat-sheets</a>
-  ·
-  <a href="https://github.com/Pocco81/koy-lang/blob/main/docs/style-guide.md">Style-guide</a>
-</h6>
-
 <p align="center">
 	Documentation for Catppuccin, the soothing pastel theme for the high-spirited!
 </p>
@@ -24,10 +14,10 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
 
 ### 🪴 Index
 
-+ [Specifications](https://github.com/catppuccin/catppuccin/blob/dev/docs/specs.md): Properties of the palettes
-+ [Integrating](https://github.com/catppuccin/catppuccin/blob/dev/docs/integrating.md): How to implement Catppuccin in your own projects
-+ [Style Guide](https://github.com/catppuccin/catppuccin/blob/dev/docs/style-guide.md): A guide on how to properly use the palettes
-+ [Contributing](https://github.com/catppuccin/catppuccin/blob/dev/docs/contributing.md): Creating Catppuccin ports
++ [Specifications](https://github.com/catppuccin/catppuccin/blob/dev/docs/specs.md): properties of the palettes
++ [Integrating](https://github.com/catppuccin/catppuccin/blob/dev/docs/integrating.md): how to implement Catppuccin in your own projects
++ [Style Guide](https://github.com/catppuccin/catppuccin/blob/dev/docs/style-guide.md): a guide on how to properly use the palettes
++ [Contributing](https://github.com/catppuccin/catppuccin/blob/dev/docs/contributing.md): creating Catppuccin ports
 
 &nbsp;
 
