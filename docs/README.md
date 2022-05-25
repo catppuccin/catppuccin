@@ -13,10 +13,14 @@
 </h6>
 
 <p align="center">
-	Documentation for Koy, the human-friendly data serialization language
+	Documentation for Catppuccin, the soothing pastel theme for the high-spirited!
 </p>
 
 &nbsp;
+
+<p align="center">
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warms palette with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, organization-wide assets, resources and code samples for maintainers/developers.
+</p>
 
 ### 🎏 Koy Lang
 
