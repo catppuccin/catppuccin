@@ -53,133 +53,782 @@ To make the best use them please refer to the [Styleguide](https://github.com/ca
 
 <details>
 <summary>🐑 Latte</summary>
-<code>
-|                                                                                | Labels    | Hex       | RGB                  | HSL                  |
-| ------------------------------------------------------------------------------ | --------- | --------- | -------------------- | -------------------- |
-| <img src="assets/palette/circles/latte_rosewater.png" height="23" width="23"/> | Rosewater | `#dc8a78` | `rgb(220, 138, 120)` | `hsl(11, 59%, 67%)`  |
-| <img src="assets/palette/circles/latte_flamingo.png" height="23" width="23"/>  | Flamingo  | `#dd7878` | `rgb(221, 120, 120)` | `hsl(0, 60%, 67%)`   |
-| <img src="assets/palette/circles/latte_pink.png" height="23" width="23"/>      | Pink      | `#ea76cb` | `rgb(234, 118, 203)` | `hsl(316, 73%, 69%)` |
-| <img src="assets/palette/circles/latte_mauve.png" height="23" width="23"/>     | Mauve     | `#8839ef` | `rgb(136, 57, 239)`  | `hsl(266, 85%, 58%)` |
-| <img src="assets/palette/circles/latte_red.png" height="23" width="23"/>       | Red       | `#d20f39` | `rgb(210, 15, 57)`   | `hsl(347, 87%, 44%)` |
-| <img src="assets/palette/circles/latte_maroon.png" height="23" width="23"/>    | Maroon    | `#e64553` | `rgb(230, 69, 83)`   | `hsl(355, 76%, 59%)` |
-| <img src="assets/palette/circles/latte_peach.png" height="23" width="23"/>     | Peach     | `#fe640b` | `rgb(254, 100, 11)`  | ` hsl(22, 99%, 52%)` |
-| <img src="assets/palette/circles/latte_yellow.png" height="23" width="23"/>    | Yellow    | `#df8e1d` | `rgb(223, 142, 29)`  | `hsl(35, 77%, 49%)`  |
-| <img src="assets/palette/circles/latte_green.png" height="23" width="23"/>     | Green     | `#40a02b` | `rgb(64, 160, 43)`   | `hsl(109, 58%, 40%)` |
-| <img src="assets/palette/circles/latte_teal.png" height="23" width="23"/>      | Teal      | `#179299` | `rgb(23, 146, 153)`  | `hsl(183, 74%, 35%)` |
-| <img src="assets/palette/circles/latte_sky.png" height="23" width="23"/>       | Sky       | `#04a5e5` | `rgb(4, 165, 229)`   | `hsl(197, 97%, 46%)` |
-| <img src="assets/palette/circles/latte_sapphire.png" height="23" width="23"/>  | Sapphire  | `#209fb5` | `rgb(32, 159, 181)`  | `hsl(189, 70%, 42%)` |
-| <img src="assets/palette/circles/latte_blue.png" height="23" width="23"/>      | Blue      | `#1e66f5` | `rgb(30, 102, 245)`  | `hsl(220, 91%, 54%)` |
-| <img src="assets/palette/circles/latte_lavender.png" height="23" width="23"/>  | Lavender  | `#7287fd` | `rgb(114, 135, 253)` | `hsl(231, 97%, 72%)` |
-| <img src="assets/palette/circles/latte_text.png" height="23" width="23"/>      | Text      | `#4c4f69` | `rgb(76, 79, 105)`   | `hsl(234, 16%, 35%)` |
-| <img src="assets/palette/circles/latte_subtext1.png" height="23" width="23"/>  | Subtext1  | `#5c5f77` | `rgb(92, 95, 119)`   | `hsl(233, 13%, 41%)` |
-| <img src="assets/palette/circles/latte_subtext0.png" height="23" width="23"/>  | Subtext0  | `#6c6f85` | `rgb(108, 111, 133)` | `hsl(233, 10%, 47%)` |
-| <img src="assets/palette/circles/latte_overlay2.png" height="23" width="23"/>  | Overlay2  | `#7c7f93` | `rgb(124, 127, 147)` | `hsl(232, 10%, 53%)` |
-| <img src="assets/palette/circles/latte_overlay1.png" height="23" width="23"/>  | Overlay1  | `#8c8fa1` | `rgb(140, 143, 161)` | `hsl(231, 10%, 59%)` |
-| <img src="assets/palette/circles/latte_overlay0.png" height="23" width="23"/>  | Overlay0  | `#9ca0b0` | `rgb(156, 160, 176)` | `hsl(228, 11%, 65%)` |
-| <img src="assets/palette/circles/latte_surface2.png" height="23" width="23"/>  | Surface2  | `#acb0be` | `rgb(172, 176, 190)` | `hsl(227, 12%, 71%)` |
-| <img src="assets/palette/circles/latte_surface1.png" height="23" width="23"/>  | Surface1  | `#bcc0cc` | `rgb(188, 192, 204)` | `hsl(225, 14%, 77%)` |
-| <img src="assets/palette/circles/latte_surface0.png" height="23" width="23"/>  | Surface0  | `#ccd0da` | `rgb(204, 208, 218)` | `hsl(223, 16%, 83%)` |
-| <img src="assets/palette/circles/latte_base.png" height="23" width="23"/>      | Base      | `#eff1f5` | `rgb(239, 241, 245)` | `hsl(220, 23%, 95%)` |
-| <img src="assets/palette/circles/latte_mantle.png" height="23" width="23"/>    | Mantle    | `#e6e9ef` | `rgb(230, 233, 239)` | `hsl(220, 22%, 92%)` |
-| <img src="assets/palette/circles/latte_crust.png" height="23" width="23"/>     | Crust     | `#dce0e8` | `rgb(220, 224, 232)` | `hsl(220, 21%, 89%)` |
-</code>
+<table>
+	<tr>
+		<th></th>
+		<th>Labels</th>
+		<th>Hex</th>
+		<th>RGG</th>
+		<th>HSL</th>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_rosewater.png" height="23" width="23"/></td>
+		<td>Rosewater</td>
+		<td><code>#dc8a78</code></td>
+		<td><code>rgb(220, 138, 120)</code></td>
+		<td><code>hsl(11, 59%, 67%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_flamingo.png" height="23" width="23"/></td>
+		<td>Flamingo</td>
+		<td><code>#dd7878</code></td>
+		<td><code>rgb(221, 120, 120)</code></td>
+		<td><code>hsl(0, 60%, 67%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_pink.png" height="23" width="23"/></td>
+		<td>Pink</td>
+		<td><code>#ea76cb</code></td>
+		<td><code>rgb(234, 118, 203)</code></td>
+		<td><code>hsl(316, 73%, 69%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_mauve.png" height="23" width="23"/></td>
+		<td>Mauve</td>
+		<td><code>#8839ef</code></td>
+		<td><code>rgb(136, 57, 239)</code></td>
+		<td><code>hsl(266, 85%, 58%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_red.png" height="23" width="23"/></td>
+		<td>Red</td>
+		<td><code>#d20f39</code></td>
+		<td><code>rgb(210, 15, 57)</code></td>
+		<td><code>hsl(347, 87%, 44%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_maroon.png" height="23" width="23"/></td>
+		<td>Maroon</td>
+		<td><code>#e64553</code></td>
+		<td><code>rgb(230, 69, 83)</code></td>
+		<td><code>hsl(355, 76%, 59%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_peach.png" height="23" width="23"/></td>
+		<td>Peach</td>
+		<td><code>#fe640b</code></td>
+		<td><code>rgb(254, 100, 11)</code></td>
+		<td><code>	hsl(22, 99%, 52%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_yellow.png" height="23" width="23"/></td>
+		<td>Yellow</td>
+		<td><code>#df8e1d</code></td>
+		<td><code>rgb(223, 142, 29)</code></td>
+		<td><code>hsl(35, 77%, 49%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_green.png" height="23" width="23"/></td>
+		<td>Green</td>
+		<td><code>#40a02b</code></td>
+		<td><code>rgb(64, 160, 43)</code></td>
+		<td><code>hsl(109, 58%, 40%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_teal.png" height="23" width="23"/></td>
+		<td>Teal</td>
+		<td><code>#179299</code></td>
+		<td><code>rgb(23, 146, 153)</code></td>
+		<td><code>hsl(183, 74%, 35%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_sky.png" height="23" width="23"/></td>
+		<td>Sky</td>
+		<td><code>#04a5e5</code></td>
+		<td><code>rgb(4, 165, 229)</code></td>
+		<td><code>hsl(197, 97%, 46%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_sapphire.png" height="23" width="23"/></td>
+		<td>Sapphire</td>
+		<td><code>#209fb5</code></td>
+		<td><code>rgb(32, 159, 181)</code></td>
+		<td><code>hsl(189, 70%, 42%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_blue.png" height="23" width="23"/></td>
+		<td>Blue</td>
+		<td><code>#1e66f5</code></td>
+		<td><code>rgb(30, 102, 245)</code></td>
+		<td><code>hsl(220, 91%, 54%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_lavender.png" height="23" width="23"/></td>
+		<td>Lavender</td>
+		<td><code>#7287fd</code></td>
+		<td><code>rgb(114, 135, 253)</code></td>
+		<td><code>hsl(231, 97%, 72%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_text.png" height="23" width="23"/></td>
+		<td>Text</td>
+		<td><code>#4c4f69</code></td>
+		<td><code>rgb(76, 79, 105)</code></td>
+		<td><code>hsl(234, 16%, 35%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_subtext1.png" height="23" width="23"/></td>
+		<td>Subtext1</td>
+		<td><code>#5c5f77</code></td>
+		<td><code>rgb(92, 95, 119)</code></td>
+		<td><code>hsl(233, 13%, 41%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_subtext0.png" height="23" width="23"/></td>
+		<td>Subtext0</td>
+		<td><code>#6c6f85</code></td>
+		<td><code>rgb(108, 111, 133)</code></td>
+		<td><code>hsl(233, 10%, 47%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_overlay2.png" height="23" width="23"/></td>
+		<td>Overlay2</td>
+		<td><code>#7c7f93</code></td>
+		<td><code>rgb(124, 127, 147)</code></td>
+		<td><code>hsl(232, 10%, 53%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_overlay1.png" height="23" width="23"/></td>
+		<td>Overlay1</td>
+		<td><code>#8c8fa1</code></td>
+		<td><code>rgb(140, 143, 161)</code></td>
+		<td><code>hsl(231, 10%, 59%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_overlay0.png" height="23" width="23"/></td>
+		<td>Overlay0</td>
+		<td><code>#9ca0b0</code></td>
+		<td><code>rgb(156, 160, 176)</code></td>
+		<td><code>hsl(228, 11%, 65%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_surface2.png" height="23" width="23"/></td>
+		<td>Surface2</td>
+		<td><code>#acb0be</code></td>
+		<td><code>rgb(172, 176, 190)</code></td>
+		<td><code>hsl(227, 12%, 71%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_surface1.png" height="23" width="23"/></td>
+		<td>Surface1</td>
+		<td><code>#bcc0cc</code></td>
+		<td><code>rgb(188, 192, 204)</code></td>
+		<td><code>hsl(225, 14%, 77%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_surface0.png" height="23" width="23"/></td>
+		<td>Surface0</td>
+		<td><code>#ccd0da</code></td>
+		<td><code>rgb(204, 208, 218)</code></td>
+		<td><code>hsl(223, 16%, 83%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_base.png" height="23" width="23"/></td>
+		<td>Base</td>
+		<td><code>#eff1f5</code></td>
+		<td><code>rgb(239, 241, 245)</code></td>
+		<td><code>hsl(220, 23%, 95%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_mantle.png" height="23" width="23"/></td>
+		<td>Mantle</td>
+		<td><code>#e6e9ef</code></td>
+		<td><code>rgb(230, 233, 239)</code></td>
+		<td><code>hsl(220, 22%, 92%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_crust.png" height="23" width="23"/></td>
+		<td>Crust</td>
+		<td><code>#dce0e8</code></td>
+		<td><code>rgb(220, 224, 232)</code></td>
+		<td><code>hsl(220, 21%, 89%)</code></td>
+	</tr>
+</table>
 </details>
-
 
 <details>
 <summary>🦦 Frappé</summary>
-|                                                                                 | Labels    | Hex       | RGB                  | HSL                  |
-| ------------------------------------------------------------------------------- | --------- | --------- | -------------------- | -------------------- |
-| <img src="assets/palette/circles/frappe_rosewater.png" height="23" width="23"/> | Rosewater | `#f2d5cf` | `rgb(242, 213, 207)` | `hsl(10, 57%, 88%)`  |
-| <img src="assets/palette/circles/frappe_flamingo.png" height="23" width="23"/>  | Flamingo  | `#eebebe` | `rgb(238, 190, 190)` | `hsl(0, 59%, 84%)`   |
-| <img src="assets/palette/circles/frappe_pink.png" height="23" width="23"/>      | Pink      | `#f4b8e4` | `rgb(244, 184, 228)` | `hsl(316, 73%, 84%)` |
-| <img src="assets/palette/circles/frappe_mauve.png" height="23" width="23"/>     | Mauve     | `#ca9ee6` | `rgb(202, 158, 230)` | `hsl(277, 59%, 76%)` |
-| <img src="assets/palette/circles/frappe_red.png" height="23" width="23"/>       | Red       | `#e78284` | `rgb(231, 130, 132)` | `hsl(359, 68%, 71%)` |
-| <img src="assets/palette/circles/frappe_maroon.png" height="23" width="23"/>    | Maroon    | `#ea999c` | `rgb(234, 153, 156)` | `hsl(358, 66%, 76%)` |
-| <img src="assets/palette/circles/frappe_peach.png" height="23" width="23"/>     | Peach     | `#ef9f76` | `rgb(239, 159, 118)` | `hsl(20, 79%, 70%)`  |
-| <img src="assets/palette/circles/frappe_yellow.png" height="23" width="23"/>    | Yellow    | `#e5c890` | `rgb(229, 200, 144)` | `hsl(40, 62%, 73%)`  |
-| <img src="assets/palette/circles/frappe_green.png" height="23" width="23"/>     | Green     | `#a6d189` | `rgb(166, 209, 137)` | `hsl(96, 44%, 68%)`  |
-| <img src="assets/palette/circles/frappe_teal.png" height="23" width="23"/>      | Teal      | `#81c8be` | `rgb(129, 200, 190)` | `hsl(172, 39%, 65%)` |
-| <img src="assets/palette/circles/frappe_sky.png" height="23" width="23"/>       | Sky       | `#99d1db` | `rgb(153, 209, 219)` | `hsl(189, 48%, 73%)` |
-| <img src="assets/palette/circles/frappe_sapphire.png" height="23" width="23"/>  | Sapphire  | `#85c1dc` | `rgb(133, 193, 220)` | `hsl(199, 55%, 69%)` |
-| <img src="assets/palette/circles/frappe_blue.png" height="23" width="23"/>      | Blue      | `#8caaee` | `rgb(140, 170, 238)` | `hsl(222, 74%, 74%)` |
-| <img src="assets/palette/circles/frappe_lavender.png" height="23" width="23"/>  | Lavender  | `#babbf1` | `rgb(186, 187, 241)` | `hsl(239, 66%, 84%)` |
-| <img src="assets/palette/circles/frappe_text.png" height="23" width="23"/>      | Text      | `#c6ceef` | `rgb(198, 206, 239)` | `hsl(228, 56%, 86%)` |
-| <img src="assets/palette/circles/frappe_subtext1.png" height="23" width="23"/>  | Subtext1  | `#b5bddc` | `rgb(181, 189, 220)` | `hsl(228, 36%, 79%)` |
-| <img src="assets/palette/circles/frappe_subtext0.png" height="23" width="23"/>  | Subtext0  | `#a5acc9` | `rgb(165, 172, 201)` | `hsl(228, 25%, 72%)` |
-| <img src="assets/palette/circles/frappe_overlay2.png" height="23" width="23"/>  | Overlay2  | `#949bb7` | `rgb(148, 155, 183)` | `hsl(228, 20%, 65%)` |
-| <img src="assets/palette/circles/frappe_overlay1.png" height="23" width="23"/>  | Overlay1  | `#838aa4` | `rgb(131, 138, 164)` | `hsl(227, 15%, 58%)` |
-| <img src="assets/palette/circles/frappe_overlay0.png" height="23" width="23"/>  | Overlay0  | `#737891` | `rgb(115, 120, 145)` | `hsl(230, 12%, 51%)` |
-| <img src="assets/palette/circles/frappe_surface2.png" height="23" width="23"/>  | Surface2  | `#62677e` | `rgb(98, 103, 126)`  | `hsl(229, 13%, 44%)` |
-| <img src="assets/palette/circles/frappe_surface1.png" height="23" width="23"/>  | Surface1  | `#51566c` | `rgb(81, 86, 108)`   | `hsl(229, 14%, 37%)` |
-| <img src="assets/palette/circles/frappe_surface0.png" height="23" width="23"/>  | Surface0  | `#414559` | `rgb(65, 69, 89)`    | `hsl(230, 16%, 30%)` |
-| <img src="assets/palette/circles/frappe_base.png" height="23" width="23"/>      | Base      | `#303446` | `rgb(48, 52, 70)`    | `hsl(229, 19%, 23%)` |
-| <img src="assets/palette/circles/frappe_mantle.png" height="23" width="23"/>    | Mantle    | `#292c3c` | `rgb(41, 44, 60)`    | `hsl(231, 19%, 20%)` |
-| <img src="assets/palette/circles/frappe_crust.png" height="23" width="23"/>     | Crust     | `#232634` | `rgb(35, 38, 52)`    | `hsl(229, 20%, 17%)` |
+<table>
+	<tr>
+		<th></th>
+		<th>Labels</th>
+		<th>Hex</th>
+		<th>RGG</th>
+		<th>HSL</th>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_rosewater.png" height="23" width="23"/></td>
+		<td>Rosewater</td>
+		<td><code>#f2d5cf</code></td>
+		<td><code>rgb(242, 213, 207)</code></td>
+		<td><code>hsl(10, 57%, 88%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_flamingo.png" height="23" width="23"/></td>
+		<td>Flamingo</td>
+		<td><code>#eebebe</code></td>
+		<td><code>rgb(238, 190, 190)</code></td>
+		<td><code>hsl(0, 59%, 84%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_pink.png" height="23" width="23"/></td>
+		<td>Pink</td>
+		<td><code>#f4b8e4</code></td>
+		<td><code>rgb(244, 184, 228)</code></td>
+		<td><code>hsl(316, 73%, 84%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_mauve.png" height="23" width="23"/></td>
+		<td>Mauve</td>
+		<td><code>#ca9ee6</code></td>
+		<td><code>rgb(202, 158, 230)</code></td>
+		<td><code>hsl(277, 59%, 76%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_red.png" height="23" width="23"/></td>
+		<td>Red</td>
+		<td><code>#e78284</code></td>
+		<td><code>rgb(231, 130, 132)</code></td>
+		<td><code>hsl(359, 68%, 71%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_maroon.png" height="23" width="23"/></td>
+		<td>Maroon</td>
+		<td><code>#ea999c</code></td>
+		<td><code>rgb(234, 153, 156)</code></td>
+		<td><code>hsl(358, 66%, 76%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_peach.png" height="23" width="23"/></td>
+		<td>Peach</td>
+		<td><code>#ef9f76</code></td>
+		<td><code>rgb(239, 159, 118)</code></td>
+		<td><code>hsl(20, 79%, 70%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_yellow.png" height="23" width="23"/></td>
+		<td>Yellow</td>
+		<td><code>#e5c890</code></td>
+		<td><code>rgb(229, 200, 144)</code></td>
+		<td><code>hsl(40, 62%, 73%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_green.png" height="23" width="23"/></td>
+		<td>Green</td>
+		<td><code>#a6d189</code></td>
+		<td><code>rgb(166, 209, 137)</code></td>
+		<td><code>hsl(96, 44%, 68%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_teal.png" height="23" width="23"/></td>
+		<td>Teal</td>
+		<td><code>#81c8be</code></td>
+		<td><code>rgb(129, 200, 190)</code></td>
+		<td><code>hsl(172, 39%, 65%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_sky.png" height="23" width="23"/></td>
+		<td>Sky</td>
+		<td><code>#99d1db</code></td>
+		<td><code>rgb(153, 209, 219)</code></td>
+		<td><code>hsl(189, 48%, 73%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_sapphire.png" height="23" width="23"/></td>
+		<td>Sapphire</td>
+		<td><code>#85c1dc</code></td>
+		<td><code>rgb(133, 193, 220)</code></td>
+		<td><code>hsl(199, 55%, 69%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_blue.png" height="23" width="23"/></td>
+		<td>Blue</td>
+		<td><code>#8caaee</code></td>
+		<td><code>rgb(140, 170, 238)</code></td>
+		<td><code>hsl(222, 74%, 74%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_lavender.png" height="23" width="23"/></td>
+		<td>Lavender</td>
+		<td><code>#babbf1</code></td>
+		<td><code>rgb(186, 187, 241)</code></td>
+		<td><code>hsl(239, 66%, 84%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_text.png" height="23" width="23"/></td>
+		<td>Text</td>
+		<td><code>#c6ceef</code></td>
+		<td><code>rgb(198, 206, 239)</code></td>
+		<td><code>hsl(228, 56%, 86%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_subtext1.png" height="23" width="23"/></td>
+		<td>Subtext1</td>
+		<td><code>#b5bddc</code></td>
+		<td><code>rgb(181, 189, 220)</code></td>
+		<td><code>hsl(228, 36%, 79%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_subtext0.png" height="23" width="23"/></td>
+		<td>Subtext0</td>
+		<td><code>#a5acc9</code></td>
+		<td><code>rgb(165, 172, 201)</code></td>
+		<td><code>hsl(228, 25%, 72%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_overlay2.png" height="23" width="23"/></td>
+		<td>Overlay2</td>
+		<td><code>#949bb7</code></td>
+		<td><code>rgb(148, 155, 183)</code></td>
+		<td><code>hsl(228, 20%, 65%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_overlay1.png" height="23" width="23"/></td>
+		<td>Overlay1</td>
+		<td><code>#838aa4</code></td>
+		<td><code>rgb(131, 138, 164)</code></td>
+		<td><code>hsl(227, 15%, 58%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_overlay0.png" height="23" width="23"/></td>
+		<td>Overlay0</td>
+		<td><code>#737891</code></td>
+		<td><code>rgb(115, 120, 145)</code></td>
+		<td><code>hsl(230, 12%, 51%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_surface2.png" height="23" width="23"/></td>
+		<td>Surface2</td>
+		<td><code>#62677e</code></td>
+		<td><code>rgb(98, 103, 126)</code></td>
+		<td><code>hsl(229, 13%, 44%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_surface1.png" height="23" width="23"/></td>
+		<td>Surface1</td>
+		<td><code>#51566c</code></td>
+		<td><code>rgb(81, 86, 108)</code></td>
+		<td><code>hsl(229, 14%, 37%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_surface0.png" height="23" width="23"/></td>
+		<td>Surface0</td>
+		<td><code>#414559</code></td>
+		<td><code>rgb(65, 69, 89)</code></td>
+		<td><code>hsl(230, 16%, 30%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_base.png" height="23" width="23"/></td>
+		<td>Base</td>
+		<td><code>#303446</code></td>
+		<td><code>rgb(48, 52, 70)</code></td>
+		<td><code>hsl(229, 19%, 23%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_mantle.png" height="23" width="23"/></td>
+		<td>Mantle</td>
+		<td><code>#292c3c</code></td>
+		<td><code>rgb(41, 44, 60)</code></td>
+		<td><code>hsl(231, 19%, 20%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/frappe_crust.png" height="23" width="23"/></td>
+		<td>Crust</td>
+		<td><code>#232634</code></td>
+		<td><code>rgb(35, 38, 52)</code></td>
+		<td><code>hsl(229, 20%, 17%)</code></td>
+	</tr>
+</table>
 </details>
 
 <details>
 <summary>🌺 Macchiato</summary>
-|                                                                                    | Labels    | Hex       | RGB                  | HSL                  |
-| ---------------------------------------------------------------------------------- | --------- | --------- | -------------------- | -------------------- |
-| <img src="assets/palette/circles/macchiato_rosewater.png" height="23" width="23"/> | Rosewater | `#f4dbd6` | `rgb(244, 219, 214)` | `hsl(10, 58%, 90%)`  |
-| <img src="assets/palette/circles/macchiato_flamingo.png" height="23" width="23"/>  | Flamingo  | `#f0c6c6` | `rgb(240, 198, 198)` | `hsl(0, 58%, 86%)`   |
-| <img src="assets/palette/circles/macchiato_pink.png" height="23" width="23"/>      | Pink      | `#f5bde6` | `rgb(245, 189, 230)` | `hsl(316, 74%, 85%)` |
-| <img src="assets/palette/circles/macchiato_mauve.png" height="23" width="23"/>     | Mauve     | `#c6a0f6` | `rgb(198, 160, 246)` | `hsl(267, 83%, 80%)` |
-| <img src="assets/palette/circles/macchiato_red.png" height="23" width="23"/>       | Red       | `#ed8796` | `rgb(237, 135, 150)` | `hsl(351, 74%, 73%)` |
-| <img src="assets/palette/circles/macchiato_maroon.png" height="23" width="23"/>    | Maroon    | `#ee99a0` | `rgb(238, 153, 160)` | `hsl(355, 71%, 77%)` |
-| <img src="assets/palette/circles/macchiato_peach.png" height="23" width="23"/>     | Peach     | `#f5a97f` | `rgb(245, 169, 127)` | `hsl(21, 86%, 73%)`  |
-| <img src="assets/palette/circles/macchiato_yellow.png" height="23" width="23"/>    | Yellow    | `#eed49f` | `rgb(238, 212, 159)` | `hsl(40, 70%, 78%)`  |
-| <img src="assets/palette/circles/macchiato_green.png" height="23" width="23"/>     | Green     | `#a6da95` | `rgb(166, 218, 149)` | `hsl(105, 48%, 72%)` |
-| <img src="assets/palette/circles/macchiato_teal.png" height="23" width="23"/>      | Teal      | `#8bd5ca` | `rgb(139, 213, 202)` | `hsl(171, 47%, 69%)` |
-| <img src="assets/palette/circles/macchiato_sky.png" height="23" width="23"/>       | Sky       | `#91d7e3` | `rgb(145, 215, 227)` | `hsl(189, 59%, 73%)` |
-| <img src="assets/palette/circles/macchiato_sapphire.png" height="23" width="23"/>  | Sapphire  | `#7dc4e4` | `rgb(125, 196, 228)` | `hsl(199, 66%, 69%)` |
-| <img src="assets/palette/circles/macchiato_blue.png" height="23" width="23"/>      | Blue      | `#8aadf4` | `rgb(138, 173, 244)` | `hsl(220, 83%, 75%)` |
-| <img src="assets/palette/circles/macchiato_lavender.png" height="23" width="23"/>  | Lavender  | `#b7bdf8` | `rgb(183, 189, 248)` | `hsl(234, 82%, 85%)` |
-| <img src="assets/palette/circles/macchiato_text.png" height="23" width="23"/>      | Text      | `#c5cff5` | `rgb(197, 207, 245)` | `hsl(228, 71%, 87%)` |
-| <img src="assets/palette/circles/macchiato_subtext1.png" height="23" width="23"/>  | Subtext1  | `#b3bce0` | `rgb(179, 188, 224)` | `hsl(228, 42%, 79%)` |
-| <img src="assets/palette/circles/macchiato_subtext0.png" height="23" width="23"/>  | Subtext0  | `#a1aacb` | `rgb(161, 170, 203)` | `hsl(227, 29%, 71%)` |
-| <img src="assets/palette/circles/macchiato_overlay2.png" height="23" width="23"/>  | Overlay2  | `#8f97b7` | `rgb(143, 151, 183)` | `hsl(228, 22%, 64%)` |
-| <img src="assets/palette/circles/macchiato_overlay1.png" height="23" width="23"/>  | Overlay1  | `#7d84a2` | `rgb(125, 132, 162)` | `hsl(229, 17%, 56%)` |
-| <img src="assets/palette/circles/macchiato_overlay0.png" height="23" width="23"/>  | Overlay0  | `#6c728d` | `rgb(108, 114, 141)` | `hsl(229, 13%, 49%)` |
-| <img src="assets/palette/circles/macchiato_surface2.png" height="23" width="23"/>  | Surface2  | `#5a5f78` | `rgb(90, 95, 120)`   | `hsl(230, 14%, 41%)` |
-| <img src="assets/palette/circles/macchiato_surface1.png" height="23" width="23"/>  | Surface1  | `#484c64` | `rgb(72, 76, 100)`   | `hsl(231, 16%, 34%)` |
-| <img src="assets/palette/circles/macchiato_surface0.png" height="23" width="23"/>  | Surface0  | `#363a4f` | `rgb(54, 58, 79)`    | `hsl(230, 19%, 26%)` |
-| <img src="assets/palette/circles/macchiato_base.png" height="23" width="23"/>      | Base      | `#24273a` | `rgb(36, 39, 58)`    | `hsl(232, 23%, 18%)` |
-| <img src="assets/palette/circles/macchiato_mantle.png" height="23" width="23"/>    | Mantle    | `#1e2030` | `rgb(30, 32, 48)`    | `hsl(233, 23%, 15%)` |
-| <img src="assets/palette/circles/macchiato_crust.png" height="23" width="23"/>     | Crust     | `#181926` | `rgb(24, 25, 38)`    | `hsl(236, 23%, 12%)` |
+<table>
+	<tr>
+		<th></th>
+		<th>Labels</th>
+		<th>Hex</th>
+		<th>RGG</th>
+		<th>HSL</th>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_rosewater.png" height="23" width="23"/></td>
+		<td>Rosewater</td>
+		<td><code>#f4dbd6</code></td>
+		<td><code>rgb(244, 219, 214)</code></td>
+		<td><code>hsl(10, 58%, 90%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_flamingo.png" height="23" width="23"/></td>
+		<td>Flamingo</td>
+		<td><code>#f0c6c6</code></td>
+		<td><code>rgb(240, 198, 198)</code></td>
+		<td><code>hsl(0, 58%, 86%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_pink.png" height="23" width="23"/></td>
+		<td>Pink</td>
+		<td><code>#f5bde6</code></td>
+		<td><code>rgb(245, 189, 230)</code></td>
+		<td><code>hsl(316, 74%, 85%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_mauve.png" height="23" width="23"/></td>
+		<td>Mauve</td>
+		<td><code>#c6a0f6</code></td>
+		<td><code>rgb(198, 160, 246)</code></td>
+		<td><code>hsl(267, 83%, 80%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_red.png" height="23" width="23"/></td>
+		<td>Red</td>
+		<td><code>#ed8796</code></td>
+		<td><code>rgb(237, 135, 150)</code></td>
+		<td><code>hsl(351, 74%, 73%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_maroon.png" height="23" width="23"/></td>
+		<td>Maroon</td>
+		<td><code>#ee99a0</code></td>
+		<td><code>rgb(238, 153, 160)</code></td>
+		<td><code>hsl(355, 71%, 77%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_peach.png" height="23" width="23"/></td>
+		<td>Peach</td>
+		<td><code>#f5a97f</code></td>
+		<td><code>rgb(245, 169, 127)</code></td>
+		<td><code>hsl(21, 86%, 73%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_yellow.png" height="23" width="23"/></td>
+		<td>Yellow</td>
+		<td><code>#eed49f</code></td>
+		<td><code>rgb(238, 212, 159)</code></td>
+		<td><code>hsl(40, 70%, 78%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_green.png" height="23" width="23"/></td>
+		<td>Green</td>
+		<td><code>#a6da95</code></td>
+		<td><code>rgb(166, 218, 149)</code></td>
+		<td><code>hsl(105, 48%, 72%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_teal.png" height="23" width="23"/></td>
+		<td>Teal</td>
+		<td><code>#8bd5ca</code></td>
+		<td><code>rgb(139, 213, 202)</code></td>
+		<td><code>hsl(171, 47%, 69%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_sky.png" height="23" width="23"/></td>
+		<td>Sky</td>
+		<td><code>#91d7e3</code></td>
+		<td><code>rgb(145, 215, 227)</code></td>
+		<td><code>hsl(189, 59%, 73%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_sapphire.png" height="23" width="23"/></td>
+		<td>Sapphire</td>
+		<td><code>#7dc4e4</code></td>
+		<td><code>rgb(125, 196, 228)</code></td>
+		<td><code>hsl(199, 66%, 69%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_blue.png" height="23" width="23"/></td>
+		<td>Blue</td>
+		<td><code>#8aadf4</code></td>
+		<td><code>rgb(138, 173, 244)</code></td>
+		<td><code>hsl(220, 83%, 75%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_lavender.png" height="23" width="23"/></td>
+		<td>Lavender</td>
+		<td><code>#b7bdf8</code></td>
+		<td><code>rgb(183, 189, 248)</code></td>
+		<td><code>hsl(234, 82%, 85%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_text.png" height="23" width="23"/></td>
+		<td>Text</td>
+		<td><code>#c5cff5</code></td>
+		<td><code>rgb(197, 207, 245)</code></td>
+		<td><code>hsl(228, 71%, 87%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_subtext1.png" height="23" width="23"/></td>
+		<td>Subtext1</td>
+		<td><code>#b3bce0</code></td>
+		<td><code>rgb(179, 188, 224)</code></td>
+		<td><code>hsl(228, 42%, 79%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_subtext0.png" height="23" width="23"/></td>
+		<td>Subtext0</td>
+		<td><code>#a1aacb</code></td>
+		<td><code>rgb(161, 170, 203)</code></td>
+		<td><code>hsl(227, 29%, 71%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_overlay2.png" height="23" width="23"/></td>
+		<td>Overlay2</td>
+		<td><code>#8f97b7</code></td>
+		<td><code>rgb(143, 151, 183)</code></td>
+		<td><code>hsl(228, 22%, 64%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_overlay1.png" height="23" width="23"/></td>
+		<td>Overlay1</td>
+		<td><code>#7d84a2</code></td>
+		<td><code>rgb(125, 132, 162)</code></td>
+		<td><code>hsl(229, 17%, 56%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_overlay0.png" height="23" width="23"/></td>
+		<td>Overlay0</td>
+		<td><code>#6c728d</code></td>
+		<td><code>rgb(108, 114, 141)</code></td>
+		<td><code>hsl(229, 13%, 49%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_surface2.png" height="23" width="23"/></td>
+		<td>Surface2</td>
+		<td><code>#5a5f78</code></td>
+		<td><code>rgb(90, 95, 120)</code></td>
+		<td><code>hsl(230, 14%, 41%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_surface1.png" height="23" width="23"/></td>
+		<td>Surface1</td>
+		<td><code>#484c64</code></td>
+		<td><code>rgb(72, 76, 100)</code></td>
+		<td><code>hsl(231, 16%, 34%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_surface0.png" height="23" width="23"/></td>
+		<td>Surface0</td>
+		<td><code>#363a4f</code></td>
+		<td><code>rgb(54, 58, 79)</code></td>
+		<td><code>hsl(230, 19%, 26%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_base.png" height="23" width="23"/></td>
+		<td>Base</td>
+		<td><code>#24273a</code></td>
+		<td><code>rgb(36, 39, 58)</code></td>
+		<td><code>hsl(232, 23%, 18%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_mantle.png" height="23" width="23"/></td>
+		<td>Mantle</td>
+		<td><code>#1e2030</code></td>
+		<td><code>rgb(30, 32, 48)</code></td>
+		<td><code>hsl(233, 23%, 15%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/macchiato_crust.png" height="23" width="23"/></td>
+		<td>Crust</td>
+		<td><code>#181926</code></td>
+		<td><code>rgb(24, 25, 38)</code></td>
+		<td><code>hsl(236, 23%, 12%)</code></td>
+	</tr>
+</table>
 </details>
 
 <details>
 <summary>🌿 Mocha</summary>
-|                                                                                | Labels    | Hex       | RGB                  | HSL                  |
-| ------------------------------------------------------------------------------ | --------- | --------- | -------------------- | -------------------- |
-| <img src="assets/palette/circles/mocha_rosewater.png" height="23" width="23"/> | Rosewater | `#f5e0dc` | `rgb(245, 224, 220)` | `hsl(10, 56%, 91%)`  |
-| <img src="assets/palette/circles/mocha_flamingo.png" height="23" width="23"/>  | Flamingo  | `#f2cdcd` | `rgb(242, 205, 205)` | `hsl(0, 59%, 88%)`   |
-| <img src="assets/palette/circles/mocha_pink.png" height="23" width="23"/>      | Pink      | `#f5c2e7` | `rgb(245, 194, 231)` | `hsl(316, 72%, 86%)` |
-| <img src="assets/palette/circles/mocha_mauve.png" height="23" width="23"/>     | Mauve     | `#cba6f7` | `rgb(203, 166, 247)` | `hsl(267, 84%, 81%)` |
-| <img src="assets/palette/circles/mocha_red.png" height="23" width="23"/>       | Red       | `#f38ba8` | `rgb(243, 139, 168)` | `hsl(343, 81%, 75%)` |
-| <img src="assets/palette/circles/mocha_maroon.png" height="23" width="23"/>    | Maroon    | `#eba0ac` | `rgb(235, 160, 172)` | `hsl(350, 65%, 77%)` |
-| <img src="assets/palette/circles/mocha_peach.png" height="23" width="23"/>     | Peach     | `#fab387` | `rgb(250, 179, 135)` | `hsl(23, 92%, 75%)`  |
-| <img src="assets/palette/circles/mocha_yellow.png" height="23" width="23"/>    | Yellow    | `#f9e2af` | `rgb(249, 226, 175)` | `hsl(41, 86%, 83%)`  |
-| <img src="assets/palette/circles/mocha_green.png" height="23" width="23"/>     | Green     | `#a6e3a1` | `rgb(166, 227, 161)` | `hsl(115, 54%, 76%)` |
-| <img src="assets/palette/circles/mocha_teal.png" height="23" width="23"/>      | Teal      | `#94e2d5` | `rgb(148, 226, 213)` | `hsl(170, 57%, 73%)` |
-| <img src="assets/palette/circles/mocha_sky.png" height="23" width="23"/>       | Sky       | `#89dceb` | `rgb(137, 220, 235)` | `hsl(189, 71%, 73%)` |
-| <img src="assets/palette/circles/mocha_sapphire.png" height="23" width="23"/>  | Sapphire  | `#74c7ec` | `rgb(116, 199, 236)` | `hsl(199, 76%, 69%)` |
-| <img src="assets/palette/circles/mocha_blue.png" height="23" width="23"/>      | Blue      | `#87b0f9` | `rgb(135, 176, 249)` | `hsl(218, 90%, 75%)` |
-| <img src="assets/palette/circles/mocha_lavender.png" height="23" width="23"/>  | Lavender  | `#b4befe` | `rgb(180, 190, 254)` | `hsl(232, 97%, 85%)` |
-| <img src="assets/palette/circles/mocha_text.png" height="23" width="23"/>      | Text      | `#c6d0f5` | `rgb(198, 208, 245)` | `hsl(227, 70%, 87%)` |
-| <img src="assets/palette/circles/mocha_subtext1.png" height="23" width="23"/>  | Subtext1  | `#b3bcdf` | `rgb(179, 188, 223)` | `hsl(228, 41%, 79%)` |
-| <img src="assets/palette/circles/mocha_subtext0.png" height="23" width="23"/>  | Subtext0  | `#a1a8c9` | `rgb(161, 168, 201)` | `hsl(229, 27%, 71%)` |
-| <img src="assets/palette/circles/mocha_overlay2.png" height="23" width="23"/>  | Overlay2  | `#8e95b3` | `rgb(142, 149, 179)` | `hsl(229, 20%, 63%)` |
-| <img src="assets/palette/circles/mocha_overlay1.png" height="23" width="23"/>  | Overlay1  | `#7b819d` | `rgb(123, 129, 157)` | `hsl(229, 15%, 55%)` |
-| <img src="assets/palette/circles/mocha_overlay0.png" height="23" width="23"/>  | Overlay0  | `#696d86` | `rgb(105, 109, 134)` | `hsl(232, 12%, 47%)` |
-| <img src="assets/palette/circles/mocha_surface2.png" height="23" width="23"/>  | Surface2  | `#565970` | `rgb(86, 89, 112)`   | `hsl(233, 13%, 39%)` |
-| <img src="assets/palette/circles/mocha_surface1.png" height="23" width="23"/>  | Surface1  | `#43465a` | `rgb(67, 70, 90)`    | `hsl(232, 15%, 31%)` |
-| <img src="assets/palette/circles/mocha_surface0.png" height="23" width="23"/>  | Surface0  | `#313244` | `rgb(49, 50, 68)`    | `hsl(237, 16%, 23%)` |
-| <img src="assets/palette/circles/mocha_base.png" height="23" width="23"/>      | Base      | `#1e1e2e` | `rgb(30, 30, 46)`    | `hsl(240, 21%, 15%)` |
-| <img src="assets/palette/circles/mocha_mantle.png" height="23" width="23"/>    | Mantle    | `#181825` | `rgb(24, 24, 37)`    | `hsl(240, 21%, 12%)` |
-| <img src="assets/palette/circles/mocha_crust.png" height="23" width="23"/>     | Crust     | `#11111b` | `rgb(17, 17, 27)`    | `hsl(240, 23%, 9%)`  |
+<table>
+	<tr>
+		<th></th>
+		<th>Labels</th>
+		<th>Hex</th>
+		<th>RGG</th>
+		<th>HSL</th>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_rosewater.png" height="23" width="23"/></td>
+		<td>Rosewater</td>
+		<td><code>#f5e0dc</code></td>
+		<td><code>rgb(245, 224, 220)</code></td>
+		<td><code>hsl(10, 56%, 91%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_flamingo.png" height="23" width="23"/></td>
+		<td>Flamingo</td>
+		<td><code>#f2cdcd</code></td>
+		<td><code>rgb(242, 205, 205)</code></td>
+		<td><code>hsl(0, 59%, 88%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_pink.png" height="23" width="23"/></td>
+		<td>Pink</td>
+		<td><code>#f5c2e7</code></td>
+		<td><code>rgb(245, 194, 231)</code></td>
+		<td><code>hsl(316, 72%, 86%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_mauve.png" height="23" width="23"/></td>
+		<td>Mauve</td>
+		<td><code>#cba6f7</code></td>
+		<td><code>rgb(203, 166, 247)</code></td>
+		<td><code>hsl(267, 84%, 81%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_red.png" height="23" width="23"/></td>
+		<td>Red</td>
+		<td><code>#f38ba8</code></td>
+		<td><code>rgb(243, 139, 168)</code></td>
+		<td><code>hsl(343, 81%, 75%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_maroon.png" height="23" width="23"/></td>
+		<td>Maroon</td>
+		<td><code>#eba0ac</code></td>
+		<td><code>rgb(235, 160, 172)</code></td>
+		<td><code>hsl(350, 65%, 77%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_peach.png" height="23" width="23"/></td>
+		<td>Peach</td>
+		<td><code>#fab387</code></td>
+		<td><code>rgb(250, 179, 135)</code></td>
+		<td><code>hsl(23, 92%, 75%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_yellow.png" height="23" width="23"/></td>
+		<td>Yellow</td>
+		<td><code>#f9e2af</code></td>
+		<td><code>rgb(249, 226, 175)</code></td>
+		<td><code>hsl(41, 86%, 83%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_green.png" height="23" width="23"/></td>
+		<td>Green</td>
+		<td><code>#a6e3a1</code></td>
+		<td><code>rgb(166, 227, 161)</code></td>
+		<td><code>hsl(115, 54%, 76%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_teal.png" height="23" width="23"/></td>
+		<td>Teal</td>
+		<td><code>#94e2d5</code></td>
+		<td><code>rgb(148, 226, 213)</code></td>
+		<td><code>hsl(170, 57%, 73%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_sky.png" height="23" width="23"/></td>
+		<td>Sky</td>
+		<td><code>#89dceb</code></td>
+		<td><code>rgb(137, 220, 235)</code></td>
+		<td><code>hsl(189, 71%, 73%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_sapphire.png" height="23" width="23"/></td>
+		<td>Sapphire</td>
+		<td><code>#74c7ec</code></td>
+		<td><code>rgb(116, 199, 236)</code></td>
+		<td><code>hsl(199, 76%, 69%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_blue.png" height="23" width="23"/></td>
+		<td>Blue</td>
+		<td><code>#87b0f9</code></td>
+		<td><code>rgb(135, 176, 249)</code></td>
+		<td><code>hsl(218, 90%, 75%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_lavender.png" height="23" width="23"/></td>
+		<td>Lavender</td>
+		<td><code>#b4befe</code></td>
+		<td><code>rgb(180, 190, 254)</code></td>
+		<td><code>hsl(232, 97%, 85%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_text.png" height="23" width="23"/></td>
+		<td>Text</td>
+		<td><code>#c6d0f5</code></td>
+		<td><code>rgb(198, 208, 245)</code></td>
+		<td><code>hsl(227, 70%, 87%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_subtext1.png" height="23" width="23"/></td>
+		<td>Subtext1</td>
+		<td><code>#b3bcdf</code></td>
+		<td><code>rgb(179, 188, 223)</code></td>
+		<td><code>hsl(228, 41%, 79%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_subtext0.png" height="23" width="23"/></td>
+		<td>Subtext0</td>
+		<td><code>#a1a8c9</code></td>
+		<td><code>rgb(161, 168, 201)</code></td>
+		<td><code>hsl(229, 27%, 71%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_overlay2.png" height="23" width="23"/></td>
+		<td>Overlay2</td>
+		<td><code>#8e95b3</code></td>
+		<td><code>rgb(142, 149, 179)</code></td>
+		<td><code>hsl(229, 20%, 63%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_overlay1.png" height="23" width="23"/></td>
+		<td>Overlay1</td>
+		<td><code>#7b819d</code></td>
+		<td><code>rgb(123, 129, 157)</code></td>
+		<td><code>hsl(229, 15%, 55%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_overlay0.png" height="23" width="23"/></td>
+		<td>Overlay0</td>
+		<td><code>#696d86</code></td>
+		<td><code>rgb(105, 109, 134)</code></td>
+		<td><code>hsl(232, 12%, 47%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_surface2.png" height="23" width="23"/></td>
+		<td>Surface2</td>
+		<td><code>#565970</code></td>
+		<td><code>rgb(86, 89, 112)</code></td>
+		<td><code>hsl(233, 13%, 39%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_surface1.png" height="23" width="23"/></td>
+		<td>Surface1</td>
+		<td><code>#43465a</code></td>
+		<td><code>rgb(67, 70, 90)</code></td>
+		<td><code>hsl(232, 15%, 31%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_surface0.png" height="23" width="23"/></td>
+		<td>Surface0</td>
+		<td><code>#313244</code></td>
+		<td><code>rgb(49, 50, 68)</code></td>
+		<td><code>hsl(237, 16%, 23%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_base.png" height="23" width="23"/></td>
+		<td>Base</td>
+		<td><code>#1e1e2e</code></td>
+		<td><code>rgb(30, 30, 46)</code></td>
+		<td><code>hsl(240, 21%, 15%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_mantle.png" height="23" width="23"/></td>
+		<td>Mantle</td>
+		<td><code>#181825</code></td>
+		<td><code>rgb(24, 24, 37)</code></td>
+		<td><code>hsl(240, 21%, 12%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/mocha_crust.png" height="23" width="23"/></td>
+		<td>Crust</td>
+		<td><code>#11111b</code></td>
+		<td><code>rgb(17, 17, 27)</code></td>
+		<td><code>hsl(240, 23%, 9%)</code></td>
+	</tr>
+</table>
 </details>
 
 &nbsp;
