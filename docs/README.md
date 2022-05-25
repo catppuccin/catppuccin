@@ -24,12 +24,10 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
 
 ### 🪴 Index
 
-+ [Library Implementations](#-library-implementations)
-+ [IDE/DE Support](#%EF%B8%8F-idede-support)
-+ [Documentation](#-documentation)
-+ [ToDo List](#-todo-list)
-+ [FAQ](#-faq)
-+ [License](#-license)
++ [Specifications](https://github.com/catppuccin/catppuccin/blob/dev/docs/specs.md): Properties of the palettes
++ [Integrating](https://github.com/catppuccin/catppuccin/blob/dev/docs/integrating.md): How to implement Catppuccin in your own projects
++ [Style Guide](https://github.com/catppuccin/catppuccin/blob/dev/docs/style-guide.md): A guide on how to properly use the palettes
++ [Contributing](https://github.com/catppuccin/catppuccin/blob/dev/docs/contributing.md): Creating Catppuccin ports
 
 &nbsp;
 
