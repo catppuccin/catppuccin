@@ -1,0 +1,24 @@
+{
+	"name": "Catppuccin",
+	"version": "1.0.0",
+	"description": "JSON sample",
+	"main": "readme.md",
+	"scripts": {
+		"gulp": "gulp"
+	},
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"browser-sync": "^2.27.5",
+		"gulp-sass": "^5.0.0",
+		"gulp-uglify-es": "^2.0.0",
+		"sass": "^1.35.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/catppuccin/catppuccin"
+	},
+	"keywords": ["gulp", "pugjs", "sass", "coffeescript", "template"],
+	"author": "John Doe",
+	"license": "MIT",
+	"homepage": "https://github.com/catppuccin"
+}

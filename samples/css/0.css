@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400);
+@import url("chrome://communicator/skin/");
+@import 'custom.css' screen and (max-width: 768px);
+
+@font-face {
+    font-family: 'Galada-Regular';
+    src: url('Galada-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+
+/* Applies to the entire body of the HTML document (except where overridden by more specific
+selectors). */
+body {
+	margin: 25px;
+	background-color: rgb(240,240,240);
+	font-family: arial, sans-serif;
+	font-size: 14px;
+}
+
+/* Applies to all <h1>...</h1> elements. */
+h1 {
+	font-size: 35px;
+	font-weight: normal;
+	margin-top: 5px;
+}
+
+/* Applies to all elements with <... class="someclass"> specified. */
+.someclass { color: red; }
+
+/* Applies to the element with <... id="someid"> specified. */
+#someid { color: green; }
