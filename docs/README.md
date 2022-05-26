@@ -12,6 +12,12 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
 
 &nbsp;
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/demo.png" alt="catppuccin infrastructure"/>
+</p>
+
+&nbsp;
+
 ### 🪴 Index
 
 + [Specifications](https://github.com/catppuccin/catppuccin/blob/dev/docs/specs.md): properties of the palettes
