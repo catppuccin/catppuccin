@@ -23,5 +23,5 @@ Every palette consits of two subpalettes: one monochromatic and one analogous. T
 ### Catppuccin Infrastructure
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/infrastructure.png" alt="catppuccin infrastructure"/>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/infrastructure.png" alt="catppuccin infrastructure"/>
 </p>
