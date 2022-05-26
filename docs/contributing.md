@@ -40,7 +40,7 @@ Although you just created the repo successfully, it's important to style it prop
 
 ### Tools
 
-Since Catppuccin is available in 4 palettes it's understandable that it may not be quite as easy to make 4 versions of a port. So to help with that, we have built a bunch of tools to make life easier when creating Catppuccin ports. You'll find them all (with instructions) under our [catppuccin/toolbox](https://github.com/catppuccin/toolbox) repo. Particularly, for the initial problem stated, you'd want to take a look at [Puccinier](https://github.com/catppuccin/toolbox#%EF%B8%8F-puccinier) tool.
+Since Catppuccin is available in 4 palettes it's understandable that it may not be quite as easy to make 4 versions of a port. So to help with that, we have built a bunch of tools to make life easier when creating Catppuccin ports. You'll find them all (with instructions) under our [catppuccin/toolbox](https://github.com/catppuccin/toolbox) repo. Particularly, for the initial problem stated, you'd want to take a look at the [Puccinier](https://github.com/catppuccin/toolbox#%EF%B8%8F-puccinier) tool.
 
 &nbsp;
 
