@@ -42,7 +42,6 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
 Join our community!
 </p>
 
-
 &nbsp;
 
 ### 🧠 Design Philosophy
@@ -847,76 +846,109 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### IDEs/DEs
 
--   [NeoVim](https://github.com/catppuccin/nvim)
--   [VSCode](https://github.com/catppuccin/vscode)
--   [Sublime Text](https://github.com/catppuccin/sublime-text) (WIP)
+-   [Nvim](https://github.com/catppuccin/nvim)
+-   [Vscode](https://github.com/catppuccin/vscode)
+-   [Sublime-text](https://github.com/catppuccin/sublime-text)
+-   [Emacs](https://github.com/catppuccin/emacs)
+-   [Jetbrains](https://github.com/catppuccin/jetbrains)
 -   [Geany](https://github.com/catppuccin/geany)
+-   [Micro](https://github.com/catppuccin/micro)
+-   [Vim](https://github.com/catppuccin/vim)
+-   [Helix](https://github.com/catppuccin/helix)
+-   [Kakoune](https://github.com/catppuccin/kakoune)
 
 #### Development
 
--   [GitHub](https://github.com/catppuccin/github)
--   [Palette](https://github.com/catppuccin/palette)
+-   [Template](https://github.com/catppuccin/template)
 -   [Wallpapers](https://github.com/catppuccin/wallpapers)
+-   [Palette](https://github.com/catppuccin/palette)
+-   [Toolbox](https://github.com/catppuccin/toolbox)
 
-#### Terminals
+#### System
 
--   [Kitty](https://github.com/catppuccin/kitty)
--   [Windows Terminal](https://github.com/catppuccin/windows-terminal)
--   [Alacritty](https://github.com/catppuccin/alacritty)
--   [Gnome-Terminal](https://github.com/catppuccin/gnome-terminal)
--   [Terminator](https://github.com/catppuccin/terminator)
--   [iTerm 2](https://github.com/catppuccin/iterm)
--   [Tmux](https://github.com/catppuccin/tmux)
--   [Termux](https://github.com/catppuccin/termux)
--   [Urxvt](https://github.com/catppuccin/urxvt)
--   [Konsole](https://github.com/catppuccin/konsole)
--   [Zellij](https://github.com/catppuccin/zellij)
--   [WezTerm](https://github.com/catppuccin/WezTerm)
--   [Contour](https://github.com/catppuccin/contour)
--   [ST](https://github.com/catppuccin/st)
-
-#### Messaging
-
--   [Revolt Chat](https://github.com/catppuccin/revolt)
--   [Discord](https://github.com/catppuccin/discord)
--   [Telegram](https://github.com/catppuccin/telegram)
--   [Mailspring](https://github.com/catppuccin/mailspring)
-
-#### Browsers
-
--   [FireFox](https://github.com/catppuccin/firefox)
--   [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
--   [Chrome](https://github.com/catppuccin/chrome)
--   [Vimium](https://github.com/catppuccin/vimium)
--   [YouTube](https://github.com/catppuccin/YouTube)
--   [MonkeyType](https://github.com/catppuccin/monkeytype)
--   [Libreddit](https://github.com/catppuccin/libreddit)
-
-#### Productivity
-
--   [Obsidian](https://github.com/catppuccin/obsidian)
--   [Zathura](https://github.com/catppuccin/zathura)
--   [Monkeytype](https://github.com/catppuccin/monkeytype)
--   [Micro](https://github.com/catppuccin/micro)
+-   [Xresources](https://github.com/catppuccin/xresources)
+-   [Cava](https://github.com/catppuccin/cava)
+-   [Gtk](https://github.com/catppuccin/gtk)
+-   [Btop](https://github.com/catppuccin/btop)
+-   [Mako](https://github.com/catppuccin/mako)
+-   [Kde](https://github.com/catppuccin/kde)
+-   [Grub](https://github.com/catppuccin/grub)
+-   [Sddm](https://github.com/catppuccin/sddm)
+-   [Rofi](https://github.com/catppuccin/rofi)
+-   [Plank](https://github.com/catppuccin/plank)
+-   [Lxqt](https://github.com/catppuccin/lxqt)
+-   [Floris-board](https://github.com/catppuccin/floris-board)
+-   [Cursors](https://github.com/catppuccin/cursors)
+-   [Dunst](https://github.com/catppuccin/dunst)
+-   [Papirus-folders](https://github.com/catppuccin/papirus-folders)
+-   [Alfred](https://github.com/catppuccin/alfred)
+-   [Fzf](https://github.com/catppuccin/fzf)
+-   [Conky](https://github.com/catppuccin/conky)
 
 #### Shells
 
 -   [Fish](https://github.com/catppuccin/fish)
 
-#### System
+#### Productivity
 
--   [GTK](https://github.com/catppuccin/gtk)
--   [KDE](https://github.com/catppuccin/kde)
--   [Xresources](https://github.com/catppuccin/xresources)
--   [Cava](https://github.com/catppuccin/cava)
--   [Btop](https://github.com/catppuccin/btop)
--   [Mako](https://github.com/catppuccin/mako)
+-   [Zathura](https://github.com/catppuccin/zathura)
+-   [Github](https://github.com/catppuccin/github)
+
+#### Other
+
+#### Leisure
+
+-   [Spicetify](https://github.com/catppuccin/spicetify)
+
+#### Browsers
+
+-   [Duckduckgo](https://github.com/catppuccin/duckduckgo)
+-   [Firefox](https://github.com/catppuccin/firefox)
+-   [Vimium](https://github.com/catppuccin/vimium)
+-   [Chrome](https://github.com/catppuccin/chrome)
+-   [Whoogle](https://github.com/catppuccin/whoogle)
+-   [Dark-reader](https://github.com/catppuccin/dark-reader)
+
+#### Messaging
+
+-   [Telegram](https://github.com/catppuccin/telegram)
+-   [Revolt](https://github.com/catppuccin/revolt)
+-   [Discord](https://github.com/catppuccin/discord)
+
+#### Note-taking
+
+-   [Obsidian](https://github.com/catppuccin/obsidian)
+
+#### Terminals
+
+-   [Alacritty](https://github.com/catppuccin/alacritty)
+-   [St](https://github.com/catppuccin/st)
+-   [Hyper](https://github.com/catppuccin/hyper)
+-   [Iterm](https://github.com/catppuccin/iterm)
+-   [Urxvt](https://github.com/catppuccin/urxvt)
+-   [Gnome-terminal](https://github.com/catppuccin/gnome-terminal)
+-   [Terminator](https://github.com/catppuccin/terminator)
+-   [Kitty](https://github.com/catppuccin/kitty)
+-   [Tmux](https://github.com/catppuccin/tmux)
+-   [Termux](https://github.com/catppuccin/termux)
+-   [Konsole](https://github.com/catppuccin/konsole)
+-   [Xfce4-terminal](https://github.com/catppuccin/xfce4-terminal)
+-   [Windows-terminal](https://github.com/catppuccin/windows-terminal)
+-   [Contour](https://github.com/catppuccin/contour)
+-   [Wezterm](https://github.com/catppuccin/wezterm)
+-   [Tym](https://github.com/catppuccin/tym)
 -   [Fcitx5](https://github.com/catppuccin/fcitx5)
--   [GRUB](https://github.com/catppuccin/grub)
--   [Plank](https://github.com/catppuccin/plank)
--   [Papirus Icon Theme Folders](https://github.com/catppuccin/papirus-folders)
--   [Mouse Cursors](https://github.com/catppuccin/cursors)
--   [Rofi](https://github.com/catppuccin/rofi)
+-   [Zellij](https://github.com/catppuccin/zellij)
+-   [Foot](https://github.com/catppuccin/foot)
+
+#### Social
+
+-   [Libreddit](https://github.com/catppuccin/libreddit)
+-   [Monkeytype](https://github.com/catppuccin/monkeytype)
+-   [Youtube](https://github.com/catppuccin/youtube)
+-   [Mailspring](https://github.com/catppuccin/mailspring)
+-   [Aliucord](https://github.com/catppuccin/Aliucord)
+-   [Github-readme-stats](https://github.com/catppuccin/github-readme-stats)
 
 &nbsp;
 
