@@ -10,7 +10,7 @@
   ·
   <a href="https://github.com/catppuccin/catppuccin#-ports-and-more">Ports</a>
   ·
-  <a href="https://github.com/catppuccin/catppuccin#-design-philosophy">Design Philosophy</a>
+  <a href="https://github.com/catppuccin/catppuccin/tree/main/docs">Docs</a>
 </h6>
 
 <p align="center">
@@ -31,7 +31,7 @@
 &nbsp;
 
 <p align="center">
-Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warms palette with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, organization-wide assets, resources and code samples for maintainers/developers.
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warms palette with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/dev/docs"><b>the project's documentation</b></a>, organization-wide assets, resources and code samples for maintainers/developers.
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ Join our community!
 ### 🎨 Palettes
 
 **Catppuccin** constist of 4 beautiful pastel color palettes. All the details can be found below.<br>
-To make the best use them please refer to the [Styleguide](https://github.com/catppuccin/style-guide).
+To make the best use them please refer to the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md).
 <br><img src="assets/misc/transparent.png" height="10" width="0" />
 
 <details>
