@@ -38,6 +38,12 @@ Although you just created the repo successfully, it's important to style it prop
 
 &nbsp;
 
+### Tools
+
+We have built a bunch of tools to make life easier when creating Catppuccin ports. You'll find them all (with instructions) under our [catppuccin/toolbox](https://github.com/catppuccin/toolbox) repo.
+
+&nbsp;
+
 ### Submission
 
 Open an issue under the main repo and fill out the information requested on the "[port request](https://github.com/catppuccin/catppuccin/issues/new?assignees=&labels=port+request&template=port-request.md&title=App)". It's recommended to also share the port in our [Discord server](https://discord.gg/r6Mdz5dpFc) beforehand so that other members of the community can give their opinion on it and hopefully improve it.
