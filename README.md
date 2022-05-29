@@ -740,9 +740,9 @@ To make the best use them please refer to the [style guide](https://github.com/c
 	<tr>
 		<td><img src="assets/palette/circles/mocha_blue.png" height="23" width="23"/></td>
 		<td>Blue</td>
-		<td><code>#87b0f9</code></td>
-		<td><code>rgb(135, 176, 249)</code></td>
-		<td><code>hsl(218, 90%, 75%)</code></td>
+		<td><code>#89b4fa</code></td>
+		<td><code>rgb(137, 180, 250)</code></td>
+		<td><code>hsl(217, 92%, 76%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/mocha_lavender.png" height="23" width="23"/></td>
