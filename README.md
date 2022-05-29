@@ -59,7 +59,7 @@ To make the best use them please refer to the [style guide](https://github.com/c
 <br><img src="assets/misc/transparent.png" height="10" width="0" />
 
 <details>
-<summary>🐑 Latte</summary>
+<summary>🌻 Latte</summary>
 <table>
 	<tr>
 		<th></th>
@@ -254,7 +254,7 @@ To make the best use them please refer to the [style guide](https://github.com/c
 </details>
 
 <details>
-<summary>🦦 Frappé</summary>
+<summary>🪴 Frappe</summary>
 <table>
 	<tr>
 		<th></th>
@@ -364,58 +364,58 @@ To make the best use them please refer to the [style guide](https://github.com/c
 	<tr>
 		<td><img src="assets/palette/circles/frappe_text.png" height="23" width="23"/></td>
 		<td>Text</td>
-		<td><code>#c6ceef</code></td>
-		<td><code>rgb(198, 206, 239)</code></td>
-		<td><code>hsl(228, 56%, 86%)</code></td>
+		<td><code>#c6d0f5</code></td>
+		<td><code>rgb(198, 208, 245)</code></td>
+		<td><code>hsl(227, 70%, 87%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/frappe_subtext1.png" height="23" width="23"/></td>
 		<td>Subtext1</td>
-		<td><code>#b5bddc</code></td>
-		<td><code>rgb(181, 189, 220)</code></td>
-		<td><code>hsl(228, 36%, 79%)</code></td>
+		<td><code>#b5bfe2</code></td>
+		<td><code>rgb(181, 191, 226)</code></td>
+		<td><code>hsl(227, 44%, 80%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/frappe_subtext0.png" height="23" width="23"/></td>
 		<td>Subtext0</td>
-		<td><code>#a5acc9</code></td>
-		<td><code>rgb(165, 172, 201)</code></td>
-		<td><code>hsl(228, 25%, 72%)</code></td>
+		<td><code>#a5adce</code></td>
+		<td><code>rgb(165, 173, 206)</code></td>
+		<td><code>hsl(228, 29%, 73%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/frappe_overlay2.png" height="23" width="23"/></td>
 		<td>Overlay2</td>
-		<td><code>#949bb7</code></td>
-		<td><code>rgb(148, 155, 183)</code></td>
-		<td><code>hsl(228, 20%, 65%)</code></td>
+		<td><code>#949cbb</code></td>
+		<td><code>rgb(148, 156, 187)</code></td>
+		<td><code>hsl(228, 22%, 66%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/frappe_overlay1.png" height="23" width="23"/></td>
 		<td>Overlay1</td>
-		<td><code>#838aa4</code></td>
-		<td><code>rgb(131, 138, 164)</code></td>
-		<td><code>hsl(227, 15%, 58%)</code></td>
+		<td><code>#838ba7</code></td>
+		<td><code>rgb(131, 139, 167)</code></td>
+		<td><code>hsl(227, 17%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/frappe_overlay0.png" height="23" width="23"/></td>
 		<td>Overlay0</td>
-		<td><code>#737891</code></td>
-		<td><code>rgb(115, 120, 145)</code></td>
-		<td><code>hsl(230, 12%, 51%)</code></td>
+		<td><code>#737994</code></td>
+		<td><code>rgb(115, 121, 148)</code></td>
+		<td><code>hsl(229, 13%, 52%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/frappe_surface2.png" height="23" width="23"/></td>
 		<td>Surface2</td>
-		<td><code>#62677e</code></td>
-		<td><code>rgb(98, 103, 126)</code></td>
-		<td><code>hsl(229, 13%, 44%)</code></td>
+		<td><code>#626880</code></td>
+		<td><code>rgb(98, 104, 128)</code></td>
+		<td><code>hsl(228, 13%, 44%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/frappe_surface1.png" height="23" width="23"/></td>
 		<td>Surface1</td>
-		<td><code>#51566c</code></td>
-		<td><code>rgb(81, 86, 108)</code></td>
-		<td><code>hsl(229, 14%, 37%)</code></td>
+		<td><code>#51576d</code></td>
+		<td><code>rgb(81, 87, 109)</code></td>
+		<td><code>hsl(227, 15%, 37%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/frappe_surface0.png" height="23" width="23"/></td>
@@ -559,57 +559,57 @@ To make the best use them please refer to the [style guide](https://github.com/c
 	<tr>
 		<td><img src="assets/palette/circles/macchiato_text.png" height="23" width="23"/></td>
 		<td>Text</td>
-		<td><code>#c5cff5</code></td>
-		<td><code>rgb(197, 207, 245)</code></td>
-		<td><code>hsl(228, 71%, 87%)</code></td>
+		<td><code>#cad3f5</code></td>
+		<td><code>rgb(202, 211, 245)</code></td>
+		<td><code>hsl(227, 68%, 88%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/macchiato_subtext1.png" height="23" width="23"/></td>
 		<td>Subtext1</td>
-		<td><code>#b3bce0</code></td>
-		<td><code>rgb(179, 188, 224)</code></td>
-		<td><code>hsl(228, 42%, 79%)</code></td>
+		<td><code>#b8c0e0</code></td>
+		<td><code>rgb(184, 192, 224)</code></td>
+		<td><code>hsl(228, 39%, 80%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/macchiato_subtext0.png" height="23" width="23"/></td>
 		<td>Subtext0</td>
-		<td><code>#a1aacb</code></td>
-		<td><code>rgb(161, 170, 203)</code></td>
-		<td><code>hsl(227, 29%, 71%)</code></td>
+		<td><code>#a5adcb</code></td>
+		<td><code>rgb(165, 173, 203)</code></td>
+		<td><code>hsl(227, 27%, 72%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/macchiato_overlay2.png" height="23" width="23"/></td>
 		<td>Overlay2</td>
-		<td><code>#8f97b7</code></td>
-		<td><code>rgb(143, 151, 183)</code></td>
-		<td><code>hsl(228, 22%, 64%)</code></td>
+		<td><code>#939ab7</code></td>
+		<td><code>rgb(147, 154, 183)</code></td>
+		<td><code>hsl(228, 20%, 65%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/macchiato_overlay1.png" height="23" width="23"/></td>
 		<td>Overlay1</td>
-		<td><code>#7d84a2</code></td>
-		<td><code>rgb(125, 132, 162)</code></td>
-		<td><code>hsl(229, 17%, 56%)</code></td>
+		<td><code>#8087a2</code></td>
+		<td><code>rgb(128, 135, 162)</code></td>
+		<td><code>hsl(228, 15%, 57%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/macchiato_overlay0.png" height="23" width="23"/></td>
 		<td>Overlay0</td>
-		<td><code>#6c728d</code></td>
-		<td><code>rgb(108, 114, 141)</code></td>
-		<td><code>hsl(229, 13%, 49%)</code></td>
+		<td><code>#6e738d</code></td>
+		<td><code>rgb(110, 115, 141)</code></td>
+		<td><code>hsl(230, 12%, 49%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/macchiato_surface2.png" height="23" width="23"/></td>
 		<td>Surface2</td>
-		<td><code>#5a5f78</code></td>
-		<td><code>rgb(90, 95, 120)</code></td>
+		<td><code>#5b6078</code></td>
+		<td><code>rgb(91, 96, 120)</code></td>
 		<td><code>hsl(230, 14%, 41%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/macchiato_surface1.png" height="23" width="23"/></td>
 		<td>Surface1</td>
-		<td><code>#484c64</code></td>
-		<td><code>rgb(72, 76, 100)</code></td>
+		<td><code>#494d64</code></td>
+		<td><code>rgb(73, 77, 100)</code></td>
 		<td><code>hsl(231, 16%, 34%)</code></td>
 	</tr>
 	<tr>
@@ -754,58 +754,58 @@ To make the best use them please refer to the [style guide](https://github.com/c
 	<tr>
 		<td><img src="assets/palette/circles/mocha_text.png" height="23" width="23"/></td>
 		<td>Text</td>
-		<td><code>#c6d0f5</code></td>
-		<td><code>rgb(198, 208, 245)</code></td>
-		<td><code>hsl(227, 70%, 87%)</code></td>
+		<td><code>#cdd6f4</code></td>
+		<td><code>rgb(205, 214, 244)</code></td>
+		<td><code>hsl(226, 64%, 88%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/mocha_subtext1.png" height="23" width="23"/></td>
 		<td>Subtext1</td>
-		<td><code>#b3bcdf</code></td>
-		<td><code>rgb(179, 188, 223)</code></td>
-		<td><code>hsl(228, 41%, 79%)</code></td>
+		<td><code>#bac2de</code></td>
+		<td><code>rgb(186, 194, 222)</code></td>
+		<td><code>hsl(227, 35%, 80%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/mocha_subtext0.png" height="23" width="23"/></td>
 		<td>Subtext0</td>
-		<td><code>#a1a8c9</code></td>
-		<td><code>rgb(161, 168, 201)</code></td>
-		<td><code>hsl(229, 27%, 71%)</code></td>
+		<td><code>#a6adc8</code></td>
+		<td><code>rgb(166, 173, 200)</code></td>
+		<td><code>hsl(228, 24%, 72%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/mocha_overlay2.png" height="23" width="23"/></td>
 		<td>Overlay2</td>
-		<td><code>#8e95b3</code></td>
-		<td><code>rgb(142, 149, 179)</code></td>
-		<td><code>hsl(229, 20%, 63%)</code></td>
+		<td><code>#9399b2</code></td>
+		<td><code>rgb(147, 153, 178)</code></td>
+		<td><code>hsl(228, 17%, 64%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/mocha_overlay1.png" height="23" width="23"/></td>
 		<td>Overlay1</td>
-		<td><code>#7b819d</code></td>
-		<td><code>rgb(123, 129, 157)</code></td>
-		<td><code>hsl(229, 15%, 55%)</code></td>
+		<td><code>#7f849c</code></td>
+		<td><code>rgb(127, 132, 156)</code></td>
+		<td><code>hsl(230, 13%, 55%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/mocha_overlay0.png" height="23" width="23"/></td>
 		<td>Overlay0</td>
-		<td><code>#696d86</code></td>
-		<td><code>rgb(105, 109, 134)</code></td>
-		<td><code>hsl(232, 12%, 47%)</code></td>
+		<td><code>#6c7086</code></td>
+		<td><code>rgb(108, 112, 134)</code></td>
+		<td><code>hsl(231, 11%, 47%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/mocha_surface2.png" height="23" width="23"/></td>
 		<td>Surface2</td>
-		<td><code>#565970</code></td>
-		<td><code>rgb(86, 89, 112)</code></td>
-		<td><code>hsl(233, 13%, 39%)</code></td>
+		<td><code>#585b70</code></td>
+		<td><code>rgb(88, 91, 112)</code></td>
+		<td><code>hsl(233, 12%, 39%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/mocha_surface1.png" height="23" width="23"/></td>
 		<td>Surface1</td>
-		<td><code>#43465a</code></td>
-		<td><code>rgb(67, 70, 90)</code></td>
-		<td><code>hsl(232, 15%, 31%)</code></td>
+		<td><code>#45475a</code></td>
+		<td><code>rgb(69, 71, 90)</code></td>
+		<td><code>hsl(234, 13%, 31%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/mocha_surface0.png" height="23" width="23"/></td>
