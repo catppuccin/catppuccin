@@ -254,7 +254,7 @@ To make the best use them please refer to the [style guide](https://github.com/c
 </details>
 
 <details>
-<summary>🪴 Frappe</summary>
+<summary>🪴 Frappé</summary>
 <table>
 	<tr>
 		<th></th>
