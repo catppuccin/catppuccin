@@ -844,6 +844,8 @@ To make the best use them please refer to the [style guide](https://github.com/c
 
 Catppuccin is available for various apps and in different formats. Here is a list of them:
 
+> Note: recently [Ctp v0.2.0](https://github.com/catppuccin/catppuccin/releases/tag/v0.2.0) was released and thus most of the ports need to be updated. Please refer to [this](https://github.com/orgs/catppuccin/projects/2) Kanban project to check out the progress made so far.
+
 #### IDEs/DEs
 
 -   [Nvim](https://github.com/catppuccin/nvim)
