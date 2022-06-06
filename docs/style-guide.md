@@ -23,7 +23,7 @@ These are general use cases for most of the palette relevant for user interfaces
 		<th colspan="5">Colours</th>
 	</tr>
 	<tr>
-		<td>Backgroun Pane</td>
+		<td>Background Pane</td>
 		<td>Main Canvas, Page Background</td>
 		<td>Base</td>
 		<td>
