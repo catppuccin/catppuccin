@@ -948,6 +948,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Monkeytype](https://github.com/catppuccin/monkeytype)
 -   [Youtube](https://github.com/catppuccin/youtube)
 -   [Mailspring](https://github.com/catppuccin/mailspring)
+-   [Thunderbird](https://github.com/catppuccin/thunderbird)
 -   [Aliucord](https://github.com/catppuccin/Aliucord)
 -   [Github-readme-stats](https://github.com/catppuccin/github-readme-stats)
 
