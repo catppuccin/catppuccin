@@ -900,6 +900,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 -   [Spicetify](https://github.com/catppuccin/spicetify)
 -   [spotify-player](https://github.com/catppuccin/spotify-player)
+-   [Spt](https://github.com/catppuccin/spt)
 
 #### Browsers
 
