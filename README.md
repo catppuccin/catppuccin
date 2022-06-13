@@ -895,6 +895,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 -   [Zathura](https://github.com/catppuccin/zathura)
 -   [Github](https://github.com/catppuccin/github)
+-   [Neomutt](https://github.com/catppuccin/neomutt)
 
 #### Leisure
 
