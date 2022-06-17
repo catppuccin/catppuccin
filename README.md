@@ -849,7 +849,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 #### IDEs/DEs
 
 -   [Nvim](https://github.com/catppuccin/nvim)
--   [Vscode](https://github.com/catppuccin/vscode)
+-   [VSCode](https://github.com/catppuccin/vscode)
 -   [Sublime-text](https://github.com/catppuccin/sublime-text)
 -   [Emacs](https://github.com/catppuccin/emacs)
 -   [Jetbrains](https://github.com/catppuccin/jetbrains)
@@ -895,6 +895,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 -   [Zathura](https://github.com/catppuccin/zathura)
 -   [Github](https://github.com/catppuccin/github)
+-   [Neomutt](https://github.com/catppuccin/neomutt)
 
 #### Leisure
 
