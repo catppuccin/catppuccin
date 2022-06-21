@@ -900,8 +900,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 #### Leisure
 
 -   [Spicetify](https://github.com/catppuccin/spicetify)
--   [spotify-player](https://github.com/catppuccin/spotify-player)
--   [Spt](https://github.com/catppuccin/spt)
+-   [Spotify-Player](https://github.com/catppuccin/spotify-player)
+-   [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
 
 #### Browsers
 
