@@ -912,6 +912,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Chrome](https://github.com/catppuccin/chrome)
 -   [Whoogle](https://github.com/catppuccin/whoogle)
 -   [Dark-reader](https://github.com/catppuccin/dark-reader)
+-   [qutebrowser](https://github.com/catppuccin/qutebrowser)
 
 #### Messaging
 
