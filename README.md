@@ -865,6 +865,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Wallpapers](https://github.com/catppuccin/wallpapers)
 -   [Palette](https://github.com/catppuccin/palette)
 -   [Toolbox](https://github.com/catppuccin/toolbox)
+-   [TailwindCSS](https://github.com/catppuccin/tailwindcss)
 
 #### System
 
