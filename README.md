@@ -904,6 +904,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Spicetify](https://github.com/catppuccin/spicetify)
 -   [Spotify-Player](https://github.com/catppuccin/spotify-player)
 -   [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
+-   [Steam](https://github.com/catppuccin/steam)
 
 #### Browsers
 
