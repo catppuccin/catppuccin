@@ -896,7 +896,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 #### Productivity
 
 -   [Zathura](https://github.com/catppuccin/zathura)
--   [Github](https://github.com/catppuccin/github)
+-   [GitHub](https://github.com/catppuccin/github)
 -   [Neomutt](https://github.com/catppuccin/neomutt)
 
 #### Leisure
@@ -955,7 +955,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 -   [Libreddit](https://github.com/catppuccin/libreddit)
 -   [Monkeytype](https://github.com/catppuccin/monkeytype)
--   [Youtube](https://github.com/catppuccin/youtube)
+-   [YouTube](https://github.com/catppuccin/youtube)
 -   [Mailspring](https://github.com/catppuccin/mailspring)
 -   [Thunderbird](https://github.com/catppuccin/thunderbird)
 -   [Aliucord](https://github.com/catppuccin/Aliucord)
