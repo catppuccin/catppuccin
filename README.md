@@ -858,6 +858,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Vim](https://github.com/catppuccin/vim)
 -   [Helix](https://github.com/catppuccin/helix)
 -   [Kakoune](https://github.com/catppuccin/kakoune)
+-   [Xcode](https://github.com/catppuccin/xcode)
 
 #### Development
 
