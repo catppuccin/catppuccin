@@ -817,7 +817,7 @@ To make the best use them please refer to the [style guide](https://github.com/c
 	<tr>
 		<td><img src="assets/palette/circles/mocha_base.png" height="23" width="23"/></td>
 		<td>Base</td>
-		<td><code>#363a4f</code></td>
+		<td><code>#1e1e2e</code></td>
 		<td><code>rgb(30, 30, 46)</code></td>
 		<td><code>hsl(240, 21%, 15%)</code></td>
 	</tr>
@@ -862,7 +862,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Development
 
--   [Template](https://github.com/catppuccin/catppuccin)
+-   [Template](https://github.com/catppuccin/template)
 -   [Wallpapers](https://github.com/catppuccin/wallpapers)
 -   [Palette](https://github.com/catppuccin/palette)
 -   [Toolbox](https://github.com/catppuccin/toolbox)
