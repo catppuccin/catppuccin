@@ -29,7 +29,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 
 Although you just created the repo successfully, it's important to style it properly to ensure consistency:
 
--   The name of the repo must be the simplest version of the app's name (e.g `nvim` instead of `NeoVim`)
+-   The name of the repo must be the simplest version of the app's name (e.g `nvim` instead of `NeoVim`). You may use hyphens if needed (e.g. `windows-files`).
 -   Put the images under `assets/`. If there are a bunch of them consider [creating an empty branch](https://gist.github.com/joncardasis/e6494afd538a400722545163eb2e1fa5) (e.g. `assets`) and storing them there.
 -   Format the repo's description as "`<allusive emoji>` "Soothing pastel theme for App"
 -   Add `catppuccin` to the topics.

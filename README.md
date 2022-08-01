@@ -817,7 +817,7 @@ To make the best use them please refer to the [style guide](https://github.com/c
 	<tr>
 		<td><img src="assets/palette/circles/mocha_base.png" height="23" width="23"/></td>
 		<td>Base</td>
-		<td><code>#1e1e2e</code></td>
+		<td><code>#363a4f</code></td>
 		<td><code>rgb(30, 30, 46)</code></td>
 		<td><code>hsl(240, 21%, 15%)</code></td>
 	</tr>
@@ -858,13 +858,15 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Vim](https://github.com/catppuccin/vim)
 -   [Helix](https://github.com/catppuccin/helix)
 -   [Kakoune](https://github.com/catppuccin/kakoune)
+-   [Xcode](https://github.com/catppuccin/xcode)
 
 #### Development
 
--   [Template](https://github.com/catppuccin/template)
+-   [Template](https://github.com/catppuccin/catppuccin)
 -   [Wallpapers](https://github.com/catppuccin/wallpapers)
 -   [Palette](https://github.com/catppuccin/palette)
 -   [Toolbox](https://github.com/catppuccin/toolbox)
+-   [TailwindCSS](https://github.com/catppuccin/tailwindcss)
 
 #### System
 
@@ -886,6 +888,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Alfred](https://github.com/catppuccin/alfred)
 -   [Fzf](https://github.com/catppuccin/fzf)
 -   [Conky](https://github.com/catppuccin/conky)
+-	[Kvantum](https://github.com/catppuccin/Kvantum)
 
 #### Shells
 
@@ -894,14 +897,15 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 #### Productivity
 
 -   [Zathura](https://github.com/catppuccin/zathura)
--   [Github](https://github.com/catppuccin/github)
+-   [GitHub](https://github.com/catppuccin/github)
 -   [Neomutt](https://github.com/catppuccin/neomutt)
 
 #### Leisure
 
 -   [Spicetify](https://github.com/catppuccin/spicetify)
--   [spotify-player](https://github.com/catppuccin/spotify-player)
--   [Spt](https://github.com/catppuccin/spt)
+-   [Spotify-Player](https://github.com/catppuccin/spotify-player)
+-   [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
+-   [Steam](https://github.com/catppuccin/steam)
 
 #### Browsers
 
@@ -911,6 +915,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Chrome](https://github.com/catppuccin/chrome)
 -   [Whoogle](https://github.com/catppuccin/whoogle)
 -   [Dark-reader](https://github.com/catppuccin/dark-reader)
+-   [qutebrowser](https://github.com/catppuccin/qutebrowser)
 
 #### Messaging
 
@@ -920,6 +925,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Note-taking
 
+-   [Joplin](https://github.com/catppuccin/joplin)
 -   [Obsidian](https://github.com/catppuccin/obsidian)
 
 #### Terminals
@@ -943,12 +949,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Fcitx5](https://github.com/catppuccin/fcitx5)
 -   [Zellij](https://github.com/catppuccin/zellij)
 -   [Foot](https://github.com/catppuccin/foot)
+-	[Tilix](https://github.com/catppuccin/tilix)
+-	[Black Box](https://github.com/catppuccin/blackbox)
 
 #### Social
 
 -   [Libreddit](https://github.com/catppuccin/libreddit)
 -   [Monkeytype](https://github.com/catppuccin/monkeytype)
--   [Youtube](https://github.com/catppuccin/youtube)
+-   [YouTube](https://github.com/catppuccin/youtube)
 -   [Mailspring](https://github.com/catppuccin/mailspring)
 -   [Thunderbird](https://github.com/catppuccin/thunderbird)
 -   [Aliucord](https://github.com/catppuccin/Aliucord)
@@ -988,4 +996,4 @@ Thanks to the following tools developing this project is possible:
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
-<p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=c9cbff"/></a></p>
+<p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=b7bdf8"/></a></p>
