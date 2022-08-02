@@ -914,7 +914,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Vimium](https://github.com/catppuccin/vimium)
 -   [Chrome](https://github.com/catppuccin/chrome)
 -   [Whoogle](https://github.com/catppuccin/whoogle)
--   [Dark-reader](https://github.com/catppuccin/dark-reader)
+-   [Dark Reader](https://github.com/catppuccin/dark-reader)
+-   [Noir](https://github.com/catppuccin/noir)
 -   [qutebrowser](https://github.com/catppuccin/qutebrowser)
 
 #### Messaging
