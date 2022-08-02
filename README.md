@@ -917,7 +917,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Duckduckgo](https://github.com/catppuccin/duckduckgo)
 -   [Whoogle](https://github.com/catppuccin/whoogle)
 
-#### Extentions
+#### Extensions
 -   [Noir](https://github.com/catppuccin/noir)
 -   [Dark Reader](https://github.com/catppuccin/dark-reader)
 -   [Vimium](https://github.com/catppuccin/vimium)
