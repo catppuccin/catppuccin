@@ -914,7 +914,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [qutebrowser](https://github.com/catppuccin/qutebrowser)
 
 #### Search engines
--   [Duckduckgo](https://github.com/catppuccin/duckduckgo)
+-   [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 -   [Whoogle](https://github.com/catppuccin/whoogle)
 
 #### Extensions
