@@ -970,6 +970,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Thunderbird](https://github.com/catppuccin/thunderbird)
 -   [Aliucord](https://github.com/catppuccin/Aliucord)
 -   [Github-readme-stats](https://github.com/catppuccin/github-readme-stats)
+-   [Anilist](https://github.com/catppuccin/anilist)
 
 &nbsp;
 
