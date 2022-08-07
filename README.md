@@ -953,6 +953,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Foot](https://github.com/catppuccin/foot)
 -	[Tilix](https://github.com/catppuccin/tilix)
 -	[Black Box](https://github.com/catppuccin/blackbox)
+-	[Zutty](https://github.com/catppuccin/zutty)
 
 #### Social
 
