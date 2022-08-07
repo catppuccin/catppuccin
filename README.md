@@ -889,6 +889,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Fzf](https://github.com/catppuccin/fzf)
 -   [Conky](https://github.com/catppuccin/conky)
 -	[Kvantum](https://github.com/catppuccin/Kvantum)
+- [Bat](https://github.com/catppuccin/bat)
 
 #### Shells
 
@@ -899,6 +900,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Zathura](https://github.com/catppuccin/zathura)
 -   [GitHub](https://github.com/catppuccin/github)
 -   [Neomutt](https://github.com/catppuccin/neomutt)
+-   [ShareX](https://github.com/catppuccin/sharex)
 
 #### Leisure
 
@@ -956,6 +958,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Foot](https://github.com/catppuccin/foot)
 -	[Tilix](https://github.com/catppuccin/tilix)
 -	[Black Box](https://github.com/catppuccin/blackbox)
+-	[Zutty](https://github.com/catppuccin/zutty)
 
 #### Social
 
