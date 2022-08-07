@@ -909,14 +909,18 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Browsers
 
--   [Duckduckgo](https://github.com/catppuccin/duckduckgo)
 -   [Firefox](https://github.com/catppuccin/firefox)
--   [Vimium](https://github.com/catppuccin/vimium)
 -   [Chrome](https://github.com/catppuccin/chrome)
--   [Whoogle](https://github.com/catppuccin/whoogle)
--   [Dark Reader](https://github.com/catppuccin/dark-reader)
--   [Noir](https://github.com/catppuccin/noir)
 -   [qutebrowser](https://github.com/catppuccin/qutebrowser)
+
+#### Search engines
+-   [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
+-   [Whoogle](https://github.com/catppuccin/whoogle)
+
+#### Extensions
+-   [Noir](https://github.com/catppuccin/noir)
+-   [Dark Reader](https://github.com/catppuccin/dark-reader)
+-   [Vimium](https://github.com/catppuccin/vimium)
 
 #### Messaging
 
