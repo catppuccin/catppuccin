@@ -65,7 +65,7 @@ To make the best use them please refer to the [style guide](https://github.com/c
 		<th></th>
 		<th>Labels</th>
 		<th>Hex</th>
-		<th>RGG</th>
+		<th>RGB</th>
 		<th>HSL</th>
 	</tr>
 	<tr>
@@ -260,7 +260,7 @@ To make the best use them please refer to the [style guide](https://github.com/c
 		<th></th>
 		<th>Labels</th>
 		<th>Hex</th>
-		<th>RGG</th>
+		<th>RGB</th>
 		<th>HSL</th>
 	</tr>
 	<tr>
@@ -455,7 +455,7 @@ To make the best use them please refer to the [style guide](https://github.com/c
 		<th></th>
 		<th>Labels</th>
 		<th>Hex</th>
-		<th>RGG</th>
+		<th>RGB</th>
 		<th>HSL</th>
 	</tr>
 	<tr>
@@ -650,7 +650,7 @@ To make the best use them please refer to the [style guide](https://github.com/c
 		<th></th>
 		<th>Labels</th>
 		<th>Hex</th>
-		<th>RGG</th>
+		<th>RGB</th>
 		<th>HSL</th>
 	</tr>
 	<tr>
