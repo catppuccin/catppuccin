@@ -959,9 +959,10 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Fcitx5](https://github.com/catppuccin/fcitx5)
 -   [Zellij](https://github.com/catppuccin/zellij)
 -   [Foot](https://github.com/catppuccin/foot)
--	[Tilix](https://github.com/catppuccin/tilix)
--	[Black Box](https://github.com/catppuccin/blackbox)
--	[Zutty](https://github.com/catppuccin/zutty)
+-   [Tilix](https://github.com/catppuccin/tilix)
+-   [Black Box](https://github.com/catppuccin/blackbox)
+-   [Zutty](https://github.com/catppuccin/zutty)
+-   [Tabby](https://github.com/catppuccin/tabby)
 
 #### Social
 
