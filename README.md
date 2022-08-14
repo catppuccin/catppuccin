@@ -903,6 +903,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [GitHub](https://github.com/catppuccin/github)
 -   [Neomutt](https://github.com/catppuccin/neomutt)
 -   [ShareX](https://github.com/catppuccin/sharex)
+-   [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
 
 #### Leisure
 
