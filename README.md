@@ -888,8 +888,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Alfred](https://github.com/catppuccin/alfred)
 -   [Fzf](https://github.com/catppuccin/fzf)
 -   [Conky](https://github.com/catppuccin/conky)
--	[Kvantum](https://github.com/catppuccin/Kvantum)
-- [Bat](https://github.com/catppuccin/bat)
+-   [Kvantum](https://github.com/catppuccin/Kvantum)
+-   [Bat](https://github.com/catppuccin/bat)
+-   [Midnight Commander](https://github.com/catppuccin/mc)
 
 #### Shells
 
