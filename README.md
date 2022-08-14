@@ -859,6 +859,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Helix](https://github.com/catppuccin/helix)
 -   [Kakoune](https://github.com/catppuccin/kakoune)
 -   [Xcode](https://github.com/catppuccin/xcode)
+-   [Insomnia](https://github.com/catppuccin/insomnia)
 
 #### Development
 
