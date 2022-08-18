@@ -1005,6 +1005,7 @@ Thanks to the following tools developing this project is possible:
 -   [InkScape](https://inkscape.org/): Free and open-source vector graphics editor.
 -   [colors_converter.asp](https://www.w3schools.com/colors/colors_converter.asp): Color format converter.
 -   [mdigi.tools](https://mdigi.tools/): Web based digital tools.
+-   [Tags for background color](https://www.scaler.com/topics/html-tag-for-background-color/):Background color Format
 
 &nbsp;
 
