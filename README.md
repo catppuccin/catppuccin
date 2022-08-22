@@ -933,6 +933,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Telegram](https://github.com/catppuccin/telegram)
 -   [Revolt](https://github.com/catppuccin/revolt)
 -   [Discord](https://github.com/catppuccin/discord)
+-   [Cinny](https://github.com/catppuccin/cinny)
 
 #### Note-taking
 
