@@ -892,6 +892,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Kvantum](https://github.com/catppuccin/Kvantum)
 -   [Bat](https://github.com/catppuccin/bat)
 -   [Midnight Commander](https://github.com/catppuccin/mc)
+-   [tty](https://github.com/catppuccin/tty)
 
 #### Shells
 
