@@ -860,6 +860,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Kakoune](https://github.com/catppuccin/kakoune)
 -   [Xcode](https://github.com/catppuccin/xcode)
 -   [Insomnia](https://github.com/catppuccin/insomnia)
+-   [Gedit](https://github.com/catppuccin/gedit)
 
 #### Development
 
