@@ -869,6 +869,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Palette](https://github.com/catppuccin/palette)
 -   [Toolbox](https://github.com/catppuccin/toolbox)
 -   [TailwindCSS](https://github.com/catppuccin/tailwindcss)
+-   [mdBook](https://github.com/catppuccin/mdBook)
 
 #### System
 
