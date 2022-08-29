@@ -18,10 +18,34 @@ A port is basically an adaptation of Catppuccin's palettes for an app to use. Th
 
 You can create ports using [this](https://github.com/catppuccin/template) public template as a blueprint. However, you must **not** create it the traditional way (by clicking **Use this template**), because this leaves a _small_ tag under the repos' name that says `generated from <template>`. To avoid this, follow the instructions below:
 
-1. Create the repo and leave it empty
-2. Add this template as a remote: `git remote add template https://github.com/catppuccin/template.git`
-3. Pull from it: `git pull template main --depth=1`
-4. Delete the remote: `git remote remove template`
+1. Create the repo and leave it empty:
+```
+mkdir name_of_your_port
+cd name_of_your_port
+git init
+```
+
+2. Add this template as a remote:
+```
+git remote add template https://github.com/catppuccin/template.git
+```
+
+3. Pull from it: 
+```
+git pull template main --depth=1
+```
+
+4. Delete the remote:
+```
+git remote remove template
+```
+
+5. When pushing, you might get the error message:
+```
+! [remote rejected] main -> main (shallow update not allowed)
+error: failed to push some refs to 'https://github.com/<user>/<port>.git'
+```
+To fix it, please use `git push --force` on the first push to your user repository.
 
 &nbsp;
 
