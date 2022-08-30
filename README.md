@@ -917,6 +917,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Last.fm](https://github.com/catppuccin/lastfm)
 -   [Steam](https://github.com/catppuccin/steam)
 -   [Blockbench](https://github.com/catppuccin/blockbench)
+-	[PyRadio](https://github.com/catppuccin/pyradio)
 
 #### Browsers
 
