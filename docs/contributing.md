@@ -55,9 +55,9 @@ Although you just created the repo successfully, it's important to style it prop
 
 -   The name of the repo must be the simplest version of the app's name (e.g `nvim` instead of `NeoVim`). You may use hyphens if needed (e.g. `windows-files`).
 -   Put the images under `assets/`. If there are a bunch of them consider [creating an empty branch](https://gist.github.com/joncardasis/e6494afd538a400722545163eb2e1fa5) (e.g. `assets`) and storing them there.
--   Format the repo's description as "`<emoji>` "Soothing pastel theme for <app name>".
-    -   `<emoji>` should be an emoji that you feel represents the app best.
-	-   `<app name>` is the name of the app, capitalized properly.
+-   Format the repo's description as "`<emoji>` Soothing pastel theme for `<app name>`".
+    - `<emoji>` should be an emoji that you feel represents the app best.
+    - `<app name>` is the name of the app, capitalized properly.
 -   Add `catppuccin` to the topics.
 -   Ensure uppercase meta files (e.g. `README.md`)
 -   Don't add health files (e.g. `CODE_OF_CONDUCTS.md`, `SUPPORT.md`), those are organization-wide files stored [here](https://github.com/catppuccin/.github).
