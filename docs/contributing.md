@@ -32,7 +32,7 @@ git remote add template https://github.com/catppuccin/template.git
 
 3. Pull from it: 
 ```
-git pull template main --depth=1
+git pull template main
 ```
 
 4. Delete the remote:
@@ -40,12 +40,12 @@ git pull template main --depth=1
 git remote remove template
 ```
 
-5. When pushing, you might get the error message:
+5. Make the template its own repository by running
 ```
-! [remote rejected] main -> main (shallow update not allowed)
-error: failed to push some refs to 'https://github.com/<user>/<port>.git'
+git reset $(git commit-tree HEAD^{tree} -m "feat: initial commit")
 ```
-To fix it, please use `git push --force` on the first push to your user repository.
+
+6. Set up the rest of your port, and push it to your user repository!
 
 &nbsp;
 
