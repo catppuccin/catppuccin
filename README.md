@@ -861,6 +861,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Xcode](https://github.com/catppuccin/xcode)
 -   [Insomnia](https://github.com/catppuccin/insomnia)
 -   [Gedit](https://github.com/catppuccin/gedit)
+-   [Visual Studio](https://github.com/catppuccin/visual-studio)
 
 #### Development
 
