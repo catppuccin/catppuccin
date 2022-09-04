@@ -896,6 +896,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Bat](https://github.com/catppuccin/bat)
 -   [Midnight Commander](https://github.com/catppuccin/mc)
 -   [tty](https://github.com/catppuccin/tty)
+-	[Polybar](https://github.com/catppuccin/polybar)
 
 #### Shells
 
