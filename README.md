@@ -895,6 +895,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Rofi](https://github.com/catppuccin/rofi)
 - [Sddm](https://github.com/catppuccin/sddm)
 - [Wallpapers](https://github.com/catppuccin/wallpapers)
+- [Waybar](https://github.com/catppuccin/waybar)
 - [Xresources](https://github.com/catppuccin/xresources)
 - [tty](https://github.com/catppuccin/tty)
 
