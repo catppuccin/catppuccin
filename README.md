@@ -6,7 +6,7 @@
 </h3>
 
 <h6 align="center">
-  <a href="https://github.com/catppuccin/catppuccin#-palette">Palettes</a>
+  <a href="https://github.com/catppuccin/catppuccin#-palettes">Palettes</a>
   ·
   <a href="https://github.com/catppuccin/catppuccin#-ports-and-more">Ports</a>
   ·
