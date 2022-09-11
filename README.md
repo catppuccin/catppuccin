@@ -981,6 +981,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 -   [Aliucord](https://github.com/catppuccin/Aliucord)
 -   [Anilist](https://github.com/catppuccin/anilist)
 -   [Github-readme-stats](https://github.com/catppuccin/github-readme-stats)
+-   [Infinity for Reddit](https://github.com/catppuccin/infinity)
 -   [Libreddit](https://github.com/catppuccin/libreddit)
 -   [Mailspring](https://github.com/catppuccin/mailspring)
 -   [Monkeytype](https://github.com/catppuccin/monkeytype)
