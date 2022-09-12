@@ -913,6 +913,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Leisure
 
+- [Newsboat](https://github.com/catppuccin/newsboat)
 - [Spicetify](https://github.com/catppuccin/spicetify)
 - [Spotify Player](https://github.com/catppuccin/spotify-player)
 - [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
