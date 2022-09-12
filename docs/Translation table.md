@@ -19,7 +19,10 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 		<th colspan="5">V0.2.0</th>
 	</tr>
 	<tr>
-		<td>#F5E0DC</td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/rosewater.png" height="16" width="16"/>
+			<p><code>#F5E0DC</code></p>
+		</td>
 		<td>Rosewater to Rosewater</td>
 		<td>
 			<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
@@ -39,7 +42,10 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 		</td>
 	</tr>
 	<tr>
-		<td><code>#F2CDCD</code></td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/flamingo.png" height="16" width="16"/>
+			<p><code>#F2CDCD</code></p>
+		</td>
 		<td>Flamingo to Flamingo</td>
 		<td>
 			<img src="../assets/palette/circles/latte_flamingo.png" height="16" width="16"/>
@@ -59,7 +65,10 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 		</td>
 	</tr>
 	<tr>
-		<td><code>#F5C2E7</code></td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/pink.png" height="16" width="16"/>
+			<p><code>#F5C2E7</code></p>
+		</td>
 		<td>Pink to Pink</td>
 		<td>
 			<img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
@@ -78,9 +87,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#F5C2E7</code></p>
 		</td>
 	</tr>
-	</tr>
 	<tr>
-		<td><code>#DDB6F2</code></td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/mauve.png" height="16" width="16"/>
+			<p><code>#DDB6F2</code></p>
+		</td>
 		<td>Mauve to Mauve</td>
 		<td>
 			<img src="../assets/palette/circles/latte_mauve.png" height="16" width="16"/>
@@ -100,7 +111,10 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 		</td>
 	</tr>
 	<tr>
-		<td><code>#F28FAD</code></td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/red.png" height="16" width="16"/>
+			<p><code>#F28FAD</code></p>
+		</td>
 		<td>Red to Red</td>
 		<td>
 			<img src="../assets/palette/circles/latte_red.png" height="16" width="16"/>
@@ -120,7 +134,10 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 		</td>
 	</tr>
 	<tr>
-		<td><code>#E8A2AF</code></td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/maroon.png" height="16" width="16"/>
+			<p><code>#E8A2AF</code></p>
+		</td>
 		<td>Maroon to Maroon</td>
 		<td>
 			<img src="../assets/palette/circles/latte_maroon.png" height="16" width="16"/>
@@ -140,7 +157,10 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 		</td>
 	</tr>
 	<tr>
-		<td><code>#F8BD96</code></td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/peach.png" height="16" width="16"/>
+			<p><code>#F8BD96</code></p>
+		</td>
 		<td>Peach to Peach</td>
 		<td>
 			<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
@@ -159,10 +179,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#FAB387</code></p>
 		</td>
 	</tr>
-	</tr>
-	</tr>
 	<tr>
-		<td><code>#FAE3B0</code></td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/yellow.png" height="16" width="16"/>
+			<p><code>#FAE3B0</code></p>
+		</td>
 		<td>Yellow to Yellow</td>
 		<td>
 			<img src="../assets/palette/circles/latte_yellow.png" height="16" width="16"/>
@@ -182,7 +203,10 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 		</td>
 	</tr>
 	<tr>
-		<td><code> #ABE9B3</code></td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/green.png" height="16" width="16"/>
+			<p><code>#ABE9B3</code></p>
+		</td>
 		<td>Green to Green</td>
 		<td>
 			<img src="../assets/palette/circles/latte_green.png" height="16" width="16"/>
@@ -201,8 +225,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#A6E3A1</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#B5E8E0</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/teal.png" height="16" width="16"/>
+			<p><code>#B5E8E0</code></p>
+		</td>
 		<td>Teal to Teal</td>
 		<td>
 			<img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/>
@@ -221,8 +248,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#94E2D5</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#96CDFB</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/blue.png" height="16" width="16"/>
+			<p><code>#96CDFB</code></p>
+		</td>
 		<td>Blue to Blue</td>
 		<td>
 			<img src="../assets/palette/circles/latte_blue.png" height="16" width="16"/>
@@ -241,8 +271,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#87B0F9</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#89DCEB</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/sky.png" height="16" width="16"/>
+			<p><code>#89DCEB</code></p>
+		</td>
 		<td>Sky to Sky or Sapphire</td>
 		<td>
 			<img src="../assets/palette/circles/latte_sky.png" height="16" width="16"/>
@@ -269,10 +302,13 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#74C7EC</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#C9CBFF</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/lavender.png" height="16" width="16"/>
+			<p><code>#C9CBFF</code></p>
+		</td>
 		<td>Lavender to Lavender</td>
-		<td>
+		<td align="center">
 			<img src="../assets/palette/circles/latte_lavender.png" height="16" width="16"/>
 			<p><code>#7287FD</code></p>
 		</td>
@@ -289,8 +325,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#B4BEFE</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#131020</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black0.png" height="16" width="16"/>
+			<p><code>#131020</code></p>
+		</td>
 		<td>Black0 to Crust</td>
 		<td>
 			<img src="../assets/palette/circles/latte_crust.png" height="16" width="16"/>
@@ -309,8 +348,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#11111B</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#1A1823</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black1.png" height="16" width="16"/>
+			<p><code>#1A1823</code></p>
+		</td>
 		<td>Black1 to Mantle</td>
 		<td>
 			<img src="../assets/palette/circles/latte_mantle.png" height="16" width="16"/>
@@ -329,8 +371,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#181825</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#1E1D2F</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black2.png" height="16" width="16"/>
+			<p><code>#1E1D2F</code></p>
+		</td>
 		<td>Black2 to Base</td>
 		<td>
 			<img src="../assets/palette/circles/latte_base.png" height="16" width="16"/>
@@ -349,8 +394,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#1E1E2E</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#302D41</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black3.png" height="16" width="16"/>
+			<p><code>#302D41</code></p>
+		</td>
 		<td>Black3 to Surface0</td>
 		<td>
 			<img src="../assets/palette/circles/latte_surface0.png" height="16" width="16"/>
@@ -369,8 +417,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#313244</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#575268</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black4.png" height="16" width="16"/>
+			<p><code>#575268</code></p>
+		</td>
 		<td>Black4 to Surface1</td>
 		<td>
 			<img src="../assets/palette/circles/latte_surface1.png" height="16" width="16"/>
@@ -389,8 +440,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#43465A</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#6E6C7E</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/gray0.png" height="16" width="16"/>
+			<p><code>#6E6C7E</code></p>
+		</td>
 		<td>Gray0 to Surface2</td>
 		<td>
 			<img src="../assets/palette/circles/latte_surface2.png" height="16" width="16"/>
@@ -409,8 +463,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#565970</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#988BA2</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/gray1.png" height="16" width="16"/>
+			<p><code>#988BA2</code></p>
+		</td>
 		<td>Gray1 to Overlay0</td>
 		<td>
 			<img src="../assets/palette/circles/latte_overlay0.png" height="16" width="16"/>
@@ -429,8 +486,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#696D86</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#C3BAC6</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/gray2.png" height="16" width="16"/>
+			<p><code>#C3BAC6</code></p>
+		</td>
 		<td>Gray2 to overlay1 or overlay2</td>
 		<td>
 			<img src="../assets/palette/circles/latte_overlay1.png" height="16" width="16"/>
@@ -457,8 +517,11 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<p><code>#8E95B3</code></p>
 		</td>
 	</tr>
-		<tr>
-		<td><code>#D9E0EE</code></td>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/white.png" height="16" width="16"/>
+			<p><code>#D9E0EE</code></p>
+		</td>
 		<td>White to Text, Subtext0 or Subtext1</td>
 		<td>
 			<img src="../assets/palette/circles/latte_text.png" height="16" width="16"/>
