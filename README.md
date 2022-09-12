@@ -907,6 +907,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [GitHub](https://github.com/catppuccin/github)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
+- [OBS](https://github.com/catppuccin/obs)
 - [ShareX](https://github.com/catppuccin/sharex)
 - [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
 - [Zathura](https://github.com/catppuccin/zathura)
