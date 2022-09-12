@@ -1,9 +1,9 @@
 <p align="center">
-  <h2 align="center">🧩 Translation Table</h2>
+  <h2 align="center">🧩 Translation table</h2>
 </p>
 
 <p align="center">
-	How to convert older v0.1.3 Ports to the v0.2.0 Palette.
+	How to convert older v0.1.3 ports to the v0.2.0 palette.
 </p>
 
 &nbsp;
