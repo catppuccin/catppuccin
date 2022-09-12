@@ -1,17 +1,20 @@
 <p align="center">
-  <h2 align="center">Translation table</h2>
+  <h2 align="center">🧩 Translation Table</h2>
 </p>
 
-
 <p align="center">
-  V0.1.3 to V0.2.0
+	How to convert older v0.1.3 Ports to the v0.2.0 Palette.
 </p>
 
 &nbsp;
 
 ### Usage
 
-This may not be entirely accurate, in which case feel free to make some tweaks. This goes from latte to mocha (lightest to darkest)
+This table is designed to help you with translation to v0.2.0, it's not a hard
+requirement. You're welcome to improvise and improve the visuals with the update!
+
+Please use your best judgement for the Latte version, since the colour contrast
+works a bit differently there.
 
 <table>
 	<tr>
@@ -23,7 +26,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/rosewater.png" height="16" width="16"/>
 			<p><code>#F5E0DC</code></p>
 		</td>
-		<td>Rosewater to Rosewater</td>
+		<td>Rosewater</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
 			<p><code>#DC8A78</code></p>
@@ -46,7 +49,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/flamingo.png" height="16" width="16"/>
 			<p><code>#F2CDCD</code></p>
 		</td>
-		<td>Flamingo to Flamingo</td>
+		<td>Flamingo</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_flamingo.png" height="16" width="16"/>
 			<p><code>#DD7878</code></p>
@@ -69,7 +72,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/pink.png" height="16" width="16"/>
 			<p><code>#F5C2E7</code></p>
 		</td>
-		<td>Pink to Pink</td>
+		<td>Pink</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_pink.png" height="16" width="16"/>
 			<p><code>#EA76CB</code></p>
@@ -92,7 +95,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/mauve.png" height="16" width="16"/>
 			<p><code>#DDB6F2</code></p>
 		</td>
-		<td>Mauve to Mauve</td>
+		<td>Mauve</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_mauve.png" height="16" width="16"/>
 			<p><code>#8839EF</code></p>
@@ -115,7 +118,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/red.png" height="16" width="16"/>
 			<p><code>#F28FAD</code></p>
 		</td>
-		<td>Red to Red</td>
+		<td>Red</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_red.png" height="16" width="16"/>
 			<p><code>#D20F39</code></p>
@@ -138,7 +141,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/maroon.png" height="16" width="16"/>
 			<p><code>#E8A2AF</code></p>
 		</td>
-		<td>Maroon to Maroon</td>
+		<td>Maroon</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_maroon.png" height="16" width="16"/>
 			<p><code>#E64553</code></p>
@@ -161,7 +164,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/peach.png" height="16" width="16"/>
 			<p><code>#F8BD96</code></p>
 		</td>
-		<td>Peach to Peach</td>
+		<td>Peach</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_peach.png" height="16" width="16"/>
 			<p><code>#FE640B</code></p>
@@ -184,7 +187,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/yellow.png" height="16" width="16"/>
 			<p><code>#FAE3B0</code></p>
 		</td>
-		<td>Yellow to Yellow</td>
+		<td>Yellow</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_yellow.png" height="16" width="16"/>
 			<p><code>#DF8E1D</code></p>
@@ -207,7 +210,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/green.png" height="16" width="16"/>
 			<p><code>#ABE9B3</code></p>
 		</td>
-		<td>Green to Green</td>
+		<td>Green</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_green.png" height="16" width="16"/>
 			<p><code>#40A02B</code></p>
@@ -230,7 +233,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/teal.png" height="16" width="16"/>
 			<p><code>#B5E8E0</code></p>
 		</td>
-		<td>Teal to Teal</td>
+		<td>Teal</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_teal.png" height="16" width="16"/>
 			<p><code>#179299</code></p>
@@ -253,7 +256,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/blue.png" height="16" width="16"/>
 			<p><code>#96CDFB</code></p>
 		</td>
-		<td>Blue to Blue</td>
+		<td>Blue</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_blue.png" height="16" width="16"/>
 			<p><code>#1E66F5</code></p>
@@ -276,7 +279,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/sky.png" height="16" width="16"/>
 			<p><code>#89DCEB</code></p>
 		</td>
-		<td>Sky to Sky or Sapphire</td>
+		<td>Sky &rarr; Sky or Sapphire</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_sky.png" height="16" width="16"/>
 			<p><code>#04A5E5</code></p>
@@ -307,7 +310,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/lavender.png" height="16" width="16"/>
 			<p><code>#C9CBFF</code></p>
 		</td>
-		<td>Lavender to Lavender</td>
+		<td>Lavender</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_lavender.png" height="16" width="16"/>
 			<p><code>#7287FD</code></p>
@@ -330,7 +333,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black0.png" height="16" width="16"/>
 			<p><code>#131020</code></p>
 		</td>
-		<td>Black0 to Crust</td>
+		<td>black0 &rarr; crust</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_crust.png" height="16" width="16"/>
 			<p><code>#DCE0E8</code></p>
@@ -353,7 +356,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black1.png" height="16" width="16"/>
 			<p><code>#1A1823</code></p>
 		</td>
-		<td>Black1 to Mantle</td>
+		<td>black1 &rarr; mantle</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_mantle.png" height="16" width="16"/>
 			<p><code>#E6E9EF</code></p>
@@ -376,7 +379,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black2.png" height="16" width="16"/>
 			<p><code>#1E1D2F</code></p>
 		</td>
-		<td>Black2 to Base</td>
+		<td>black2 &rarr; base</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_base.png" height="16" width="16"/>
 			<p><code>#EFF1F5</code></p>
@@ -399,7 +402,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black3.png" height="16" width="16"/>
 			<p><code>#302D41</code></p>
 		</td>
-		<td>Black3 to Surface0</td>
+		<td>black3 &rarr; surface0</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_surface0.png" height="16" width="16"/>
 			<p><code>#CCD0DA</code></p>
@@ -422,7 +425,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/black4.png" height="16" width="16"/>
 			<p><code>#575268</code></p>
 		</td>
-		<td>Black4 to Surface1</td>
+		<td>black4 &rarr; surface1</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_surface1.png" height="16" width="16"/>
 			<p><code>#BCC0CC</code></p>
@@ -445,7 +448,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/gray0.png" height="16" width="16"/>
 			<p><code>#6E6C7E</code></p>
 		</td>
-		<td>Gray0 to Surface2</td>
+		<td>gray0 &rarr; surface2</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_surface2.png" height="16" width="16"/>
 			<p><code>#ACB0BE</code></p>
@@ -468,7 +471,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/gray1.png" height="16" width="16"/>
 			<p><code>#988BA2</code></p>
 		</td>
-		<td>Gray1 to Overlay0</td>
+		<td>gray1 &rarr; overlay0</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_overlay0.png" height="16" width="16"/>
 			<p><code>#9CA0B0</code></p>
@@ -491,7 +494,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/gray2.png" height="16" width="16"/>
 			<p><code>#C3BAC6</code></p>
 		</td>
-		<td>Gray2 to overlay1 or overlay2</td>
+		<td>gray2 &rarr; overlay1 or overlay2</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_overlay1.png" height="16" width="16"/>
 			<p><code>#8C8FA1</code></p>
@@ -522,7 +525,7 @@ This may not be entirely accurate, in which case feel free to make some tweaks. 
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/0.1.3/assets/palette/circles/white.png" height="16" width="16"/>
 			<p><code>#D9E0EE</code></p>
 		</td>
-		<td>White to Text, Subtext0 or Subtext1</td>
+		<td>white &rarr; text, subtext0 or subtext1</td>
 		<td>
 			<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/v0.2.0/assets/palette/circles/latte_text.png" height="16" width="16"/>
 			<p><code>#4C4F69</code></p>
