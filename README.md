@@ -944,6 +944,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Cinny](https://github.com/catppuccin/cinny)
 - [Discord](https://github.com/catppuccin/discord)
+- [Element](https://github.com/catppuccin/elements)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [Telegram](https://github.com/catppuccin/telegram)
 
