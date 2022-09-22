@@ -846,7 +846,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 > Note: recently [Ctp v0.2.0](https://github.com/catppuccin/catppuccin/releases/tag/v0.2.0) was released and thus most of the ports need to be updated. Please refer to [this](https://github.com/orgs/catppuccin/projects/2) Kanban project to check out the progress made so far.
 
-#### IDEs/DEs
+#### Code Editors
 
 - [Emacs](https://github.com/catppuccin/emacs)
 - [Geany](https://github.com/catppuccin/geany)
@@ -855,6 +855,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Insomnia](https://github.com/catppuccin/insomnia)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
 - [Kakoune](https://github.com/catppuccin/kakoune)
+- [Lapce](https://github.com/catppuccin/lapce)
 - [Micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
