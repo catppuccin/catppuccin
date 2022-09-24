@@ -2,7 +2,7 @@
 
 🎉 First off, thanks for taking the time to contribute! 🎉
 
-> Note: if you are here because you want to submit a port/learn how to port Catppuccin to a program please refer to the [documentation](https://github.com/catppuccin/catppuccin/blob/main/docs/contributing.md)
+> **Note**: if you are here because you want to submit a port/learn how to port Catppuccin to a program please refer to the [documentation](https://github.com/catppuccin/catppuccin/blob/main/docs/contributing.md)
 
 ## Guidelines
 
