@@ -951,6 +951,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Note-taking
 
+- [Anki](https://github.com/catppuccin/anki)
 - [Joplin](https://github.com/catppuccin/joplin)
 - [Obsidian](https://github.com/catppuccin/obsidian)
 
