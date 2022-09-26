@@ -35,7 +35,7 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
 </p>
 
 <p align="center">
-<a href="https://discord.gg/r6Mdz5dpFc"><img src="assets/social/discord.png" width="100" height="100" alt="Discord Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://github.com/catppuccin"><img src="assets/social/github.png" width="100" height="100" alt="Github Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://www.npmjs.com/org/catppuccin"><img src="assets/social/npm.svg" width="100" height="100" alt="Npm Logo"/></a>
+<a href="https://github.com/catppuccin"><img src="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://www.npmjs.com/org/catppuccin"><img src="assets/social/latte_npm.svg" width="64" height="64" alt="Npm Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://discord.gg/r6Mdz5dpFc"><img src="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://twitter.com/catppuccintheme"><img src="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://reddit.com/r/catppuccin"><img src="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/></a>
 </p>
 
 <p align="center">

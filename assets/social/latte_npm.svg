@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="icons_latte">
+        <g id="background" transform="matrix(2.88315,0,0,3.85264,-30.3444,-55.1209)">
+            <ellipse cx="21.624" cy="22.613" rx="11.099" ry="8.306" style="fill:rgb(220,224,232);"/>
+        </g>
+        <g id="npm" transform="matrix(1.12573,0,0,1.12573,-4.00035,-2.95049)">
+            <path d="M29.534,35.698L32.079,35.698L32.079,35.705L34.536,35.705L34.536,25.705L33.066,25.705L33.066,25.7L28.071,25.7L28.071,25.705L24.534,25.705L24.534,38.171L29.534,38.171L29.534,35.698ZM50.253,25.705L50.253,25.7L40.733,25.7L40.733,25.705L37.037,25.705L37.037,35.705L42.037,35.705L42.037,28.157L44.563,28.157L44.563,35.705L47.02,35.705L47.02,28.157L49.51,28.157L49.51,35.705L51.967,35.705L51.967,25.705L50.253,25.705ZM20.843,25.705L20.843,25.7L15.836,25.7L15.836,25.705L11.993,25.705L11.993,35.705L16.993,35.705L16.993,28.157L19.573,28.157L19.573,35.705L22.03,35.705L22.03,25.705L20.843,25.705ZM32.079,33.241L32.079,28.151L29.534,28.151L29.534,33.241L32.079,33.241Z" style="fill:rgb(76,79,105);"/>
+        </g>
+    </g>
+</svg>
