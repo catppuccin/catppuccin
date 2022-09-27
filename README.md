@@ -923,6 +923,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Steam](https://github.com/catppuccin/steam)
 - [Blockbench](https://github.com/catppuccin/blockbench)
 - [PyRadio](https://github.com/catppuccin/pyradio)
+- [Minecraft](https://github.com/catppuccin/minecraft)
 
 #### Browsers
 
