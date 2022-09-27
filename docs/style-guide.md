@@ -232,6 +232,13 @@ These are general use cases for most of the palette relevant for user interfaces
 			<img src="../assets/palette/circles/mocha_blue.png" height="16" width="16"/>
 		</td>
 	</tr>
+	<tr>
+		<td colspan="7" align="left"><br>
+      
+> **Note** Text colours are guidelines. Certain cases require deviations from the guidelines above. An example would be Text on coloured backgrounds. Legibility always comes first, so please use your own judgement.
+      
+</td>
+</tr>
 </table>
 
 
