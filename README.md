@@ -988,6 +988,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [AniList](https://github.com/catppuccin/anilist)
 - [Github Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
+- [Invidious](https://github.com/catppuccin/invidious)
 - [Libreddit](https://github.com/catppuccin/libreddit)
 - [Mailspring](https://github.com/catppuccin/mailspring)
 - [Monkeytype](https://github.com/catppuccin/monkeytype)
