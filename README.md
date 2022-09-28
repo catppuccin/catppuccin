@@ -935,6 +935,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [Whoogle](https://github.com/catppuccin/whoogle)
+- [SearxNG](https://github.com/catppuccin/searxng)
 
 #### Extensions
 
