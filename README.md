@@ -858,6 +858,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Lapce](https://github.com/catppuccin/lapce)
 - [Micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
+- [Nova](https://github.com/catppuccin/nova)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
 - [Vim](https://github.com/catppuccin/vim)
 - [Visual Studio Code](https://github.com/catppuccin/vscode)
