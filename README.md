@@ -886,6 +886,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [fzf](https://github.com/catppuccin/fzf)
 - [GRUB](https://github.com/catppuccin/grub)
 - [GTK](https://github.com/catppuccin/gtk)
+- [Hyprland](https://github.com/catppuccin/hyprland)
 - [KDE](https://github.com/catppuccin/kde)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
 - [LXQt](https://github.com/catppuccin/lxqt)
