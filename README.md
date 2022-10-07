@@ -846,7 +846,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 > **Note**: recently [Ctp v0.2.0](https://github.com/catppuccin/catppuccin/releases/tag/v0.2.0) was released and thus most of the ports need to be updated. Please refer to [this](https://github.com/orgs/catppuccin/projects/2) Kanban project to check out the progress made so far.
 
-#### Code Editors
+ <details><summary>👾Code Editors</summary>
 
 - [Emacs](https://github.com/catppuccin/emacs)
 - [Geany](https://github.com/catppuccin/geany)
@@ -864,16 +864,18 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Visual Studio Code](https://github.com/catppuccin/vscode)
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
 - [Xcode](https://github.com/catppuccin/xcode)
+</details>
 
-#### Development
+ <details><summary>🤓Development</summary>
 
 - [Palette](https://github.com/catppuccin/palette)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Template](https://github.com/catppuccin/template)
 - [Toolbox](https://github.com/catppuccin/toolbox)
 - [mdBook](https://github.com/catppuccin/mdBook)
+</details>
 
-#### System
+ <details><summary>🖥️System</summary>
 
 - [Alfred](https://github.com/catppuccin/alfred)
 - [bat](https://github.com/catppuccin/bat)
@@ -901,12 +903,13 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Wallpapers](https://github.com/catppuccin/wallpapers)
 - [Waybar](https://github.com/catppuccin/waybar)
 - [Xresources](https://github.com/catppuccin/xresources)
+</details>
 
-#### Shells
+ <details><summary>🐚Shells</summary>
 
 - [Fish](https://github.com/catppuccin/fish)
 
-#### Productivity
+<details><summary>💭Productivity</summary>
 
 - [Bento](https://github.com/catppuccin/bento)
 - [GitHub](https://github.com/catppuccin/github)
@@ -915,8 +918,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [ShareX](https://github.com/catppuccin/sharex)
 - [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
 - [Zathura](https://github.com/catppuccin/zathura)
+</details>
 
-#### Leisure
+ <details><summary>🌱Leisure</summary>
 
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [Spicetify](https://github.com/catppuccin/spicetify)
@@ -928,39 +932,44 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PyRadio](https://github.com/catppuccin/pyradio)
 - [Minecraft](https://github.com/catppuccin/minecraft)
 
-#### Browsers
+ <details><summary>✨Browsers</summary>
 
 - [Chrome](https://github.com/catppuccin/chrome)
 - [Firefox](https://github.com/catppuccin/firefox)
 - [qutebrowser](https://github.com/catppuccin/qutebrowser)
+</details>
 
-#### Search engines
+ <details><summary>🔎Search engines</summary>
 
 - [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [Whoogle](https://github.com/catppuccin/whoogle)
 - [SearxNG](https://github.com/catppuccin/searxng)
+</details>
 
-#### Extensions
+ <details><summary>🧩Extensions</summary>
 
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
 - [Noir](https://github.com/catppuccin/noir)
 - [Vimium](https://github.com/catppuccin/vimium)
+</details>
 
-#### Messaging
+ <details><summary>💬Messaging</summary>
 
 - [Cinny](https://github.com/catppuccin/cinny)
 - [Discord](https://github.com/catppuccin/discord)
 - [Element](https://github.com/catppuccin/element)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [Telegram](https://github.com/catppuccin/telegram)
+</details>
 
-#### Note-taking
+ <details><summary>📝Note-taking
 
 - [Anki](https://github.com/catppuccin/anki)
 - [Joplin](https://github.com/catppuccin/joplin)
 - [Obsidian](https://github.com/catppuccin/obsidian)
+</details>
 
-#### Terminals
+<details><summary>🔧Terminals</summary>
 
 - [Alacritty](https://github.com/catppuccin/alacritty)
 - [Black Box](https://github.com/catppuccin/blackbox)
@@ -985,8 +994,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Xfce4 Terminal](https://github.com/catppuccin/xfce4-terminal)
 - [Zellij](https://github.com/catppuccin/zellij)
 - [Zutty](https://github.com/catppuccin/zutty)
+</details>
 
-#### Social
+<details><summary>🌈Social</summary>
 
 - [Aliucord](https://github.com/catppuccin/Aliucord)
 - [AniList](https://github.com/catppuccin/anilist)
@@ -999,6 +1009,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Nitter](https://github.com/catppuccin/nitter)
 - [Thunderbird](https://github.com/catppuccin/thunderbird)
 - [YouTube](https://github.com/catppuccin/youtube)
+</details>
 
 &nbsp;
 
