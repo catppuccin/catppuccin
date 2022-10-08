@@ -911,6 +911,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Bento](https://github.com/catppuccin/bento)
 - [GitHub](https://github.com/catppuccin/github)
+- [k9s](https://github.com/catppuccin/k9s)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
 - [OBS](https://github.com/catppuccin/obs)
 - [ShareX](https://github.com/catppuccin/sharex)
