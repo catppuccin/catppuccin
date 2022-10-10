@@ -899,6 +899,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Rofi](https://github.com/catppuccin/rofi)
 - [SDDM](https://github.com/catppuccin/sddm)
 - [TTY](https://github.com/catppuccin/tty)
+- [Ulauncher](https://github.com/catppuccin/ulauncher)
 - [Wallpapers](https://github.com/catppuccin/wallpapers)
 - [Waybar](https://github.com/catppuccin/waybar)
 - [Xresources](https://github.com/catppuccin/xresources)
