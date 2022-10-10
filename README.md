@@ -846,7 +846,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 > **Note**: recently [Ctp v0.2.0](https://github.com/catppuccin/catppuccin/releases/tag/v0.2.0) was released and thus most of the ports need to be updated. Please refer to [this](https://github.com/orgs/catppuccin/projects/2) Kanban project to check out the progress made so far.
 
- <details><summary>👾Code Editors</summary>
+#### 👾<mark style = "background-color: #f5e0dc">Code Editors</mark>
 
 - [Emacs](https://github.com/catppuccin/emacs)
 - [Geany](https://github.com/catppuccin/geany)
@@ -864,18 +864,16 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Visual Studio Code](https://github.com/catppuccin/vscode)
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
 - [Xcode](https://github.com/catppuccin/xcode)
-</details>
 
- <details><summary>🤓Development</summary>
+#### 💭<mark style = "background-color: #f2cdcd">Development</mark>
 
 - [Palette](https://github.com/catppuccin/palette)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Template](https://github.com/catppuccin/template)
 - [Toolbox](https://github.com/catppuccin/toolbox)
 - [mdBook](https://github.com/catppuccin/mdBook)
-</details>
 
- <details><summary>🖥️System</summary>
+#### 🔧<mark style= "background-color: #cba6f7">System</mark>
 
 - [Alfred](https://github.com/catppuccin/alfred)
 - [bat](https://github.com/catppuccin/bat)
@@ -897,30 +895,31 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - [Plank](https://github.com/catppuccin/plank)
 - [Polybar](https://github.com/catppuccin/polybar)
+- [Regolith](https://github.com/catppuccin/regolith)
 - [Rofi](https://github.com/catppuccin/rofi)
 - [SDDM](https://github.com/catppuccin/sddm)
 - [TTY](https://github.com/catppuccin/tty)
+- [Ulauncher](https://github.com/catppuccin/ulauncher)
 - [Wallpapers](https://github.com/catppuccin/wallpapers)
 - [Waybar](https://github.com/catppuccin/waybar)
 - [Xresources](https://github.com/catppuccin/xresources)
-</details>
 
- <details><summary>🐚Shells</summary>
+#### 🐚<mark style="background-color: #f38ba8">Shells</mark>
 
 - [Fish](https://github.com/catppuccin/fish)
 
-<details><summary>💭Productivity</summary>
+#### 🤓<mark style = "background-color: #eba0ac">Productivity</mark>
 
 - [Bento](https://github.com/catppuccin/bento)
 - [GitHub](https://github.com/catppuccin/github)
+- [k9s](https://github.com/catppuccin/k9s)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
 - [OBS](https://github.com/catppuccin/obs)
 - [ShareX](https://github.com/catppuccin/sharex)
 - [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
 - [Zathura](https://github.com/catppuccin/zathura)
-</details>
 
- <details><summary>🌱Leisure</summary>
+#### 🌈<mark style = "background-color: #fab387">Leisure</mark>
 
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [Spicetify](https://github.com/catppuccin/spicetify)
@@ -932,44 +931,41 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PyRadio](https://github.com/catppuccin/pyradio)
 - [Minecraft](https://github.com/catppuccin/minecraft)
 
- <details><summary>✨Browsers</summary>
+#### 🖥️<mark style = "background-color: #f9e2af">Browsers</mark>
 
 - [Chrome](https://github.com/catppuccin/chrome)
 - [Firefox](https://github.com/catppuccin/firefox)
 - [qutebrowser](https://github.com/catppuccin/qutebrowser)
-</details>
 
- <details><summary>🔎Search engines</summary>
+#### 🔎<mark style = "background-color: #a6e3a1">Search engines</mark>
 
 - [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [Whoogle](https://github.com/catppuccin/whoogle)
 - [SearxNG](https://github.com/catppuccin/searxng)
-</details>
 
- <details><summary>🧩Extensions</summary>
+#### 🧩<mark style = "background-color: #94e2d5">Extensions</mark>
 
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
 - [Noir](https://github.com/catppuccin/noir)
 - [Vimium](https://github.com/catppuccin/vimium)
-</details>
 
- <details><summary>💬Messaging</summary>
+#### 💬<mark style = "background-color: #89dceb">Messaging</mark>
 
+- [Aliucord](https://github.com/catppuccin/Aliucord) (Discord on Android)
 - [Cinny](https://github.com/catppuccin/cinny)
 - [Discord](https://github.com/catppuccin/discord)
 - [Element](https://github.com/catppuccin/element)
+- [Enmity](https://github.com/catppuccin/enmity) (Discord on iOS)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [Telegram](https://github.com/catppuccin/telegram)
-</details>
 
- <details><summary>📝Note-taking
+#### 📝<mark style = "background-color: #74c7ec">Note-taking</mark>
 
 - [Anki](https://github.com/catppuccin/anki)
 - [Joplin](https://github.com/catppuccin/joplin)
 - [Obsidian](https://github.com/catppuccin/obsidian)
-</details>
 
-<details><summary>🔧Terminals</summary>
+#### 🌱<mark style = "background-color: #89b4fa">Terminals</mark>
 
 - [Alacritty](https://github.com/catppuccin/alacritty)
 - [Black Box](https://github.com/catppuccin/blackbox)
@@ -994,11 +990,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Xfce4 Terminal](https://github.com/catppuccin/xfce4-terminal)
 - [Zellij](https://github.com/catppuccin/zellij)
 - [Zutty](https://github.com/catppuccin/zutty)
-</details>
 
-<details><summary>🌈Social</summary>
+#### ✨<mark style = "background-color: #b4befe">Social</mark>
 
-- [Aliucord](https://github.com/catppuccin/Aliucord)
 - [AniList](https://github.com/catppuccin/anilist)
 - [Github Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
@@ -1009,7 +1003,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Nitter](https://github.com/catppuccin/nitter)
 - [Thunderbird](https://github.com/catppuccin/thunderbird)
 - [YouTube](https://github.com/catppuccin/youtube)
-</details>
 
 &nbsp;
 
