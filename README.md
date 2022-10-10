@@ -950,9 +950,11 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Messaging
 
+- [Aliucord](https://github.com/catppuccin/Aliucord) (Discord on Android)
 - [Cinny](https://github.com/catppuccin/cinny)
 - [Discord](https://github.com/catppuccin/discord)
 - [Element](https://github.com/catppuccin/element)
+- [Enmity](https://github.com/catppuccin/enmity) (Discord on iOS)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [Telegram](https://github.com/catppuccin/telegram)
 
@@ -990,7 +992,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 #### Social
 
-- [Aliucord](https://github.com/catppuccin/Aliucord)
 - [AniList](https://github.com/catppuccin/anilist)
 - [Github Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
