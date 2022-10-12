@@ -915,6 +915,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open><summary>🤓 Productivity</summary>
 
 - [Bento](https://github.com/catppuccin/bento)
+- [Codeberg](https://github.com/catppuccin/codeberg)
 - [GitHub](https://github.com/catppuccin/github)
 - [k9s](https://github.com/catppuccin/k9s)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
