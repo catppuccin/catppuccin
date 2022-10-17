@@ -965,6 +965,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Discord](https://github.com/catppuccin/discord)
 - [Element](https://github.com/catppuccin/element)
 - [Enmity](https://github.com/catppuccin/enmity) (Discord on iOS)
+- [Mattermost](https://github.com/catppuccin/mattermost)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [Slack](https://github.com/catppuccin/slack)
 - [Telegram](https://github.com/catppuccin/telegram)
