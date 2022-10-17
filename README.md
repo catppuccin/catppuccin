@@ -999,6 +999,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Tmux](https://github.com/catppuccin/tmux)
 - [Tym](https://github.com/catppuccin/tym)
 - [Urxvt](https://github.com/catppuccin/urxvt)
+- [Warp](https://github.com/catppuccin/warp)
 - [WezTerm](https://github.com/catppuccin/wezterm)
 - [Windows Terminal](https://github.com/catppuccin/windows-terminal)
 - [Xfce4 Terminal](https://github.com/catppuccin/xfce4-terminal)
