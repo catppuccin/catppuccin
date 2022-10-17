@@ -993,6 +993,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Konsole](https://github.com/catppuccin/konsole)
 - [St](https://github.com/catppuccin/st)
 - [Tabby](https://github.com/catppuccin/tabby)
+- [Terminal.app](https://github.com/catppuccin/Terminal.app)
 - [Terminator](https://github.com/catppuccin/terminator)
 - [Termux](https://github.com/catppuccin/termux)
 - [Tilix](https://github.com/catppuccin/tilix)
