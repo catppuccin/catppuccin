@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="512.2865mm"
+   height="271.37915mm"
+   viewBox="0 0 512.2865 271.37915"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="sample.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="latte.svg"
+   inkscape:export-filename="latte.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,25 +29,29 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.64052329"
-     inkscape:cx="784.5148"
-     inkscape:cy="672.10671"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:cx="806.37193"
+     inkscape:cy="515.20375"
+     inkscape:window-width="1945"
+     inkscape:window-height="2022"
+     inkscape:window-x="1867"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1693"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="208.03274,185.698"
+       position="245.4869,202.33036"
        orientation="1,0"
-       id="guide2221" />
+       id="guide2221"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(37.454151,-42.253201)">
     <rect
        style="fill:#a4b9ef;fill-opacity:1;stroke-width:0.264583"
        id="rect976"
@@ -62,7 +69,7 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
-         style="fill:#1e1e28;fill-opacity:1;stroke-width:0.224708"
+         style="fill:#eff1f5;fill-opacity:1;stroke-width:0.224708"
          id="rect976-3"
          width="447.9624"
          height="223.85223"
@@ -73,7 +80,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#1b1923;fill-opacity:1;stroke-width:0.116208"
+         style="fill:#e6e9ef;fill-opacity:1;stroke-width:0.116208"
          id="rect976-3-6"
          width="119.80576"
          height="223.85223"
@@ -84,7 +91,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#6e6c7e;fill-opacity:1;fill-rule:evenodd;stroke-width:0.164914"
+         style="fill:#9ca0b0;fill-opacity:1;fill-rule:evenodd;stroke-width:0.164914"
          id="rect438-9-2-6-8"
          width="80.663658"
          height="11.073738"
@@ -95,7 +102,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#bee4ed;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0625542"
+         style="fill:#04a5e5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0625542"
          id="rect438-9-2-6-8-3-6-1-0"
          width="11.605898"
          height="11.073738"
@@ -106,7 +113,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#ebddaa;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0798998"
+         style="fill:#df8e1d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0798998"
          id="rect438-9-2-6-8-94-7-8"
          width="18.934635"
          height="11.073738"
@@ -117,7 +124,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#f2cecf;fill-opacity:1;fill-rule:evenodd;stroke-width:0.139363"
+         style="fill:#dd7878;fill-opacity:1;fill-rule:evenodd;stroke-width:0.139363"
          id="rect438-9-2-6-8-94-7"
          width="57.604946"
          height="11.073738"
@@ -128,7 +135,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#bee4ed;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0539507"
+         style="fill:#04a5e5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0539507"
          id="rect438-9-2-6-8-94-7-1"
          width="8.6329441"
          height="11.073738"
@@ -139,7 +146,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e38c8f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0682052"
+         style="fill:#d20f39;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0682052"
          id="rect438-9-2-6-8-94"
          width="13.797516"
          height="11.073738"
@@ -150,7 +157,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#6e6c7e;fill-opacity:1;fill-rule:evenodd;stroke-width:0.190885"
+         style="fill:#5c5f77;fill-opacity:1;fill-rule:evenodd;stroke-width:0.190885"
          id="rect438-9-2-6-8-9-7-3-6"
          width="108.07105"
          height="11.073738"
@@ -161,7 +168,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#6e6c7e;fill-opacity:1;fill-rule:evenodd;stroke-width:0.190885"
+         style="fill:#5c5f77;fill-opacity:1;fill-rule:evenodd;stroke-width:0.190885"
          id="rect438-9-2-6-8-9-7-3-1"
          width="108.07105"
          height="11.073738"
@@ -172,7 +179,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#f2cecf;fill-opacity:1;fill-rule:evenodd;stroke-width:0.129411"
+         style="fill:#dd7878;fill-opacity:1;fill-rule:evenodd;stroke-width:0.129411"
          id="rect438-9-2-6-8-3-6"
          width="49.671776"
          height="11.073738"
@@ -183,7 +190,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#a4b9ef;fill-opacity:1;fill-rule:evenodd;stroke-width:0.174033"
+         style="fill:#1e66f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.174033"
          id="rect438-9-2-6-8-3"
          width="89.831451"
          height="11.073738"
@@ -194,7 +201,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#a4b9ef;fill-opacity:1;fill-rule:evenodd;stroke-width:0.104974"
+         style="fill:#1e66f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.104974"
          id="rect438-9-2-6-8-3-3-7"
          width="32.683205"
          height="11.073738"
@@ -205,7 +212,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#a4b9ef;fill-opacity:1;fill-rule:evenodd;stroke-width:0.104974"
+         style="fill:#1e66f5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.104974"
          id="rect438-9-2-6-8-3-3-7-4"
          width="32.683205"
          height="11.073738"
@@ -216,7 +223,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e5b4e2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0633174"
+         style="fill:#8839ef;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0633174"
          id="rect438-9-2-6-8-94-7-8-4"
          width="11.890829"
          height="11.073738"
@@ -227,7 +234,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#d7dae0;fill-opacity:1;fill-rule:evenodd;stroke-width:0.169967"
+         style="fill:#4c4f69;fill-opacity:1;fill-rule:evenodd;stroke-width:0.169967"
          id="rect438-9-2-6-8-3-6-1"
          width="85.683067"
          height="11.073738"
@@ -238,7 +245,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#b1e3ad;fill-opacity:1;fill-rule:evenodd;stroke-width:0.125209"
+         style="fill:#40a02b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.125209"
          id="rect438-9-2-6-8-3-6-1-5-7"
          width="46.498661"
          height="11.073738"
@@ -249,7 +256,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#c6aae8;fill-opacity:1;fill-rule:evenodd;stroke-width:0.108629"
+         style="fill:#8839ef;fill-opacity:1;fill-rule:evenodd;stroke-width:0.108629"
          id="rect438-9-2-6-8-3-6-1-5-7-4"
          width="34.999222"
          height="11.073738"
@@ -260,7 +267,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e38c8f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.139278"
+         style="fill:#e64553;fill-opacity:1;fill-rule:evenodd;stroke-width:0.139278"
          id="rect438-9-2-6-8-3-6-1-5-2"
          width="57.535072"
          height="11.073738"
@@ -271,7 +278,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#ebddaa;fill-opacity:0.941176;fill-rule:evenodd;stroke-width:0.124294"
+         style="fill:#df8e1d;fill-opacity:0.941176;fill-rule:evenodd;stroke-width:0.124294"
          id="rect438-9-2-6-8-3-6-1-5-2-5"
          width="45.821297"
          height="11.073738"
@@ -282,7 +289,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#f2cecf;fill-opacity:1;fill-rule:evenodd;stroke-width:0.134862"
+         style="fill:#dd7878;fill-opacity:1;fill-rule:evenodd;stroke-width:0.134862"
          id="rect438-9-2-6-8-3-6-1-5-2-5-4"
          width="53.944275"
          height="11.073738"
@@ -293,7 +300,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#b1e3ad;fill-opacity:1;fill-rule:evenodd;stroke-width:0.188173"
+         style="fill:#40a02b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.188173"
          id="rect438-9-2-6-8-3-6-1-3"
          width="105.02225"
          height="11.073738"
@@ -304,7 +311,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#b1e3ad;fill-opacity:1;fill-rule:evenodd;stroke-width:0.126609"
+         style="fill:#40a02b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.126609"
          id="rect438-9-2-6-8-3-6-1-3-5"
          width="47.544006"
          height="11.073738"
@@ -315,7 +322,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e38c8f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0682052"
+         style="fill:#d20f39;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0682052"
          id="rect438-9-2-6-8-94-0-6"
          width="13.797516"
          height="11.073738"
@@ -326,7 +333,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#d7dae0;fill-opacity:1;fill-rule:evenodd;stroke-width:0.169967"
+         style="fill:#4c4f69;fill-opacity:1;fill-rule:evenodd;stroke-width:0.169967"
          id="rect438-9-2-6-8-3-6-1-6"
          width="85.683067"
          height="11.073738"
@@ -337,7 +344,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e38c8f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0802608"
+         style="fill:#d20f39;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0802608"
          id="rect438-9-2-6-8-9-7-3-6-2"
          width="19.106125"
          height="11.073738"
@@ -348,7 +355,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e38c8f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0802608"
+         style="fill:#e64553;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0802608"
          id="rect438-9-2-6-8-9-7-3-6-2-5"
          width="19.106125"
          height="11.073738"
@@ -359,7 +366,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e5b4e2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.134098"
+         style="fill:#ea76cb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.134098"
          id="rect438-9-2-6-8-9-4"
          width="53.334587"
          height="11.073738"
@@ -370,7 +377,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e5b4e2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.134098"
+         style="fill:#ea76cb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.134098"
          id="rect438-9-2-6-8-9-4-9"
          width="53.334587"
          height="11.073738"
@@ -381,7 +388,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#f9c096;fill-opacity:1;fill-rule:evenodd;stroke-width:0.111873"
+         style="fill:#fe640b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.111873"
          id="rect438-9-2-6-8-9-4-7"
          width="37.120609"
          height="11.073738"
@@ -392,7 +399,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e5b4e2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0820694"
+         style="fill:#8839ef;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0820694"
          id="rect438-9-2-6-8-94-7-8-4-5"
          width="19.976896"
          height="11.073738"
@@ -403,7 +410,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#e38c8f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0802608"
+         style="fill:#d20f39;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0802608"
          id="rect438-9-2-6-8-9-7-3-6-2-0"
          width="19.106125"
          height="11.073738"
@@ -414,7 +421,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#332e41;fill-opacity:1;stroke-width:0.0485522"
+         style="fill:#ccd0da;fill-opacity:1;stroke-width:0.0485522"
          id="rect976-3-6-7"
          width="330.27725"
          height="14.17439"
@@ -425,7 +432,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
-         style="fill:#1e1e28;fill-opacity:1;stroke-width:0.0266835"
+         style="fill:#eff1f5;fill-opacity:1;stroke-width:0.0266835"
          id="rect976-3-6-7-6"
          width="77.254166"
          height="18.303392"
