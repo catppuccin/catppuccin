@@ -926,6 +926,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 <details open><summary>🌈 Leisure</summary>
 
+- [BitBurner](https://github.com/catppuccin/bitburner)
 - [Blockbench](https://github.com/catppuccin/blockbench)
 - [Last.fm](https://github.com/catppuccin/lastfm)
 - [Minecraft](https://github.com/catppuccin/minecraft)
