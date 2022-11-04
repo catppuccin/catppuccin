@@ -909,6 +909,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open><summary>🐚 Shells</summary>
 
 - [Fish](https://github.com/catppuccin/fish)
+- [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
 </details>
 
 <details open><summary>🤓 Productivity</summary>
