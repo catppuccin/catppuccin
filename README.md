@@ -895,6 +895,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - [Plank](https://github.com/catppuccin/plank)
 - [Polybar](https://github.com/catppuccin/polybar)
+- [qt5ct](https://github.com/catppuccin/qt5ct)
 - [Regolith](https://github.com/catppuccin/regolith)
 - [Rofi](https://github.com/catppuccin/rofi)
 - [SDDM](https://github.com/catppuccin/sddm)
