@@ -926,15 +926,15 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 <details open><summary>🌈 Leisure</summary>
 
+- [Blockbench](https://github.com/catppuccin/blockbench)
+- [Last.fm](https://github.com/catppuccin/lastfm)
+- [Minecraft](https://github.com/catppuccin/minecraft)
 - [Newsboat](https://github.com/catppuccin/newsboat)
+- [PyRadio](https://github.com/catppuccin/pyradio)
 - [Spicetify](https://github.com/catppuccin/spicetify)
 - [Spotify Player](https://github.com/catppuccin/spotify-player)
 - [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
-- [Last.fm](https://github.com/catppuccin/lastfm)
 - [Steam](https://github.com/catppuccin/steam)
-- [Blockbench](https://github.com/catppuccin/blockbench)
-- [PyRadio](https://github.com/catppuccin/pyradio)
-- [Minecraft](https://github.com/catppuccin/minecraft)
 </details>
 
 <details open><summary>🖥️ Browsers</summary>
