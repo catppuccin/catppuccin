@@ -949,6 +949,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Spotify Player](https://github.com/catppuccin/spotify-player)
 - [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
 - [Steam](https://github.com/catppuccin/steam)
+- [Youtube Music](https://github.com/catppuccin/youtubemusic)
 </details>
 
 <details open><summary>🖥️ Browsers</summary>
