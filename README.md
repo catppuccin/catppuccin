@@ -894,6 +894,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Dunst](https://github.com/catppuccin/dunst)
 - [FlorisBoard](https://github.com/catppuccin/floris-board)
 - [fzf](https://github.com/catppuccin/fzf)
+- [Glamour](https://github.com/catppuccin/glamour)
 - [GRUB](https://github.com/catppuccin/grub)
 - [GTK](https://github.com/catppuccin/gtk)
 - [Hyprland](https://github.com/catppuccin/hyprland)
