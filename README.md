@@ -944,6 +944,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Last.fm](https://github.com/catppuccin/lastfm)
 - [Minecraft](https://github.com/catppuccin/minecraft)
 - [Newsboat](https://github.com/catppuccin/newsboat)
+- [Prism Launcher](https://github.com/catppuccin/prismlauncher)
 - [PyRadio](https://github.com/catppuccin/pyradio)
 - [Spicetify](https://github.com/catppuccin/spicetify)
 - [Spotify Player](https://github.com/catppuccin/spotify-player)
