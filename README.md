@@ -856,6 +856,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
  <details open><summary>👾 Code Editors</summary>
 
+- [Binary Ninja](https://github.com/catppuccin/binary-ninja)
 - [Cutter](https://github.com/catppuccin/cutter)
 - [Emacs](https://github.com/catppuccin/emacs)
 - [Geany](https://github.com/catppuccin/geany)
