@@ -1004,6 +1004,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Alacritty](https://github.com/catppuccin/alacritty)
 - [Black Box](https://github.com/catppuccin/blackbox)
 - [Contour](https://github.com/catppuccin/contour)
+- [CRT](https://github.com/catppuccin/crt)
 - [Fcitx5](https://github.com/catppuccin/fcitx5)
 - [Foot](https://github.com/catppuccin/foot)
 - [Gnome Terminal](https://github.com/catppuccin/gnome-terminal)
