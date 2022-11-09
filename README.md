@@ -1032,6 +1032,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [AniList](https://github.com/catppuccin/anilist)
 - [Github Readme Stats](https://github.com/catppuccin/github-readme-stats)
+- [Hacker News](https://github.com/catppuccin/hacker-news)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
 - [Invidious](https://github.com/catppuccin/invidious)
 - [Libreddit](https://github.com/catppuccin/libreddit)
