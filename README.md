@@ -911,6 +911,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [qt5ct](https://github.com/catppuccin/qt5ct)
 - [Regolith](https://github.com/catppuccin/regolith)
 - [Rofi](https://github.com/catppuccin/rofi)
+- [Dmenu](https://github.com/catppuccin/dmenu)
 - [SDDM](https://github.com/catppuccin/sddm)
 - [TTY](https://github.com/catppuccin/tty)
 - [Ulauncher](https://github.com/catppuccin/ulauncher)
