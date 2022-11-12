@@ -938,6 +938,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [OBS](https://github.com/catppuccin/obs)
 - [ShareX](https://github.com/catppuccin/sharex)
 - [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
+- [Wikiwand](https://github.com/catppuccin/wikiwand)
 - [Zathura](https://github.com/catppuccin/zathura)
 </details>
 
