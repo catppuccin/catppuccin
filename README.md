@@ -870,6 +870,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Neovim](https://github.com/catppuccin/nvim)
 - [Nova](https://github.com/catppuccin/nova)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
+- [Unreal Engine](https://github.com/catppuccin/unreal-engine)
 - [Vim](https://github.com/catppuccin/vim)
 - [Visual Studio Code](https://github.com/catppuccin/vscode)
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
