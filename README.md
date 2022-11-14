@@ -869,6 +869,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
 - [Nova](https://github.com/catppuccin/nova)
+- [Spyder](https://github.com/catppuccin/spyder)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
 - [Unreal Engine](https://github.com/catppuccin/unreal-engine)
 - [Vim](https://github.com/catppuccin/vim)
