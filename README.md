@@ -880,6 +880,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 <details open><summary>💭 Development</summary>
 
+- [CodeMirror](https://github.com/catppuccin/codemirror)
 - [Palette](https://github.com/catppuccin/palette)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Template](https://github.com/catppuccin/template)
