@@ -949,6 +949,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [BitBurner](https://github.com/catppuccin/bitburner)
 - [Blockbench](https://github.com/catppuccin/blockbench)
+- [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
 - [Last.fm](https://github.com/catppuccin/lastfm)
 - [Minecraft](https://github.com/catppuccin/minecraft)
 - [Newsboat](https://github.com/catppuccin/newsboat)
