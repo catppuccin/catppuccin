@@ -1,0 +1,237 @@
+alacritty:
+    color: peach
+alfred:
+    color: mauve
+aliucord:
+amfora:
+anilist:
+    color: blue
+anki:
+base16:
+bat:
+bento:
+binary-ninja:
+bitburner:
+blackbox:
+blink:
+blockbench:
+btop:
+cava:
+chrome:
+    icon: googlechrome
+    color: yellow
+cinny:
+codeberg:
+codemirror:
+conky:
+contour:
+crt:
+cursors:
+cutter:
+dark-reader:
+    icon: darkreader
+    color: red
+deepl:
+discord:
+    color: blue
+dmenu:
+duckduckgo:
+    color: peach
+dunst:
+dwarf-fortress:
+element:
+emacs:
+    icon: gnuemacs
+    color: mauve
+enmity:
+fcitx5:
+firefox:
+    color: red
+fish:
+floris-board:
+foliate:
+foot:
+fzf:
+geany:
+gedit:
+github:
+    color: text
+github-readme-stats:
+    color: text
+gitui:
+glamour:
+gnome-terminal:
+    color: text
+    icon: gnometerminal
+go:
+grub:
+    icon: gnu
+    color: text
+gtk:
+    color: green
+hacker-news:
+helix:
+highlightjs:
+homebrew-tap:
+hyper:
+    color: text
+hyprland:
+ichi.moe:
+infinity:
+    icon: reddit
+    color: peach
+insomnia:
+    color: blue
+invidious:
+    icon: youtube
+    color: red
+iterm:
+    icon: iterm2
+    color: green
+jetbrains:
+    color: text
+joplin:
+    color: blue
+k9s:
+    icon: kubernetes
+    color: blue
+Kvantum:
+kakoune:
+kde:
+    color: blue
+kitty:
+    icon: kitty.svg
+    color: green
+konsole:
+    icon: kde
+    color: blue
+lapce:
+lastfm:
+    icon: lastdotfm
+    color: red
+libreddit:
+    icon: reddit
+    color: peach
+lxqt:
+mailspring:
+mako:
+mastodon:
+mattermost:
+mc:
+mdBook:
+    icon: mdbook
+micro:
+minecraft:
+monkeytype:
+    icon: monkeytype.svg
+    color: text
+neomutt:
+newsboat:
+nighttab:
+nitter:
+    icon: twitter
+    color: blue
+noir:
+nova:
+nvim:
+    icon: neovim
+obs:
+    icon: obstudio
+obsidian:
+    color: mauve
+palette:
+pantone:
+papirus-folders:
+plank:
+polybar:
+prismlauncher:
+pyradio:
+python:
+qt5ct:
+qutebrowser:
+regolith:
+remnote:
+revolt:
+    icon: revoltdotchat
+rofi:
+rust:
+sddm:
+SearXNG:
+sharex:
+slack:
+spicetify:
+    color: green
+    icon: spotify
+spotify-player:
+    color: green
+    icon: spotify
+spotify-tui:
+    color: green
+    icon: spotify
+spyder:
+    icon: spyderide
+    color: red
+st:
+startpage:
+steam:
+    color: blue
+sublime-text:
+    color: yellow
+    icon: sublimetext
+sumatra-pdf:
+tabby:
+tailwindcss:
+    color: sky
+telegram:
+    color: blue
+terminator:
+Terminal.app:
+termux:
+thelounge:
+thunderbird:
+    color: blue
+tilix:
+tmux:
+    color: green
+tty:
+tym:
+ui:
+    icon: react
+    color: sky
+ulauncher:
+unreal-engine:
+    icon: unrealengine
+    color: blue
+urxvt:
+vim:
+    color: green
+vimium:
+visual-studio:
+    icon: visualstudio
+vscode:
+    color: blue
+    icon: visualstudiocode
+warp:
+waybar:
+wezterm:
+    icon: wezterm.svg
+whoogle:
+wikiwand:
+    icon: wikipedia
+windows-files:
+    color: yellow
+windows-terminal:
+    icon: windowsterminal
+    color: text
+xcode:
+    color: blue
+xfce4-terminal:
+xresources:
+    icon: xdotorg
+youtube:
+    color: red
+youtubemusic:
+zathura:
+zellij:
+zsh-syntax-highlighting:
+zutty:
