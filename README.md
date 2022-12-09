@@ -897,6 +897,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Conky](https://github.com/catppuccin/conky)
 - [Cursors](https://github.com/catppuccin/cursors)
 - [Dmenu](https://github.com/catppuccin/dmenu)
+- [bemenu](https://github.com/catppuccin/bemenu)
 - [Dunst](https://github.com/catppuccin/dunst)
 - [FlorisBoard](https://github.com/catppuccin/floris-board)
 - [fzf](https://github.com/catppuccin/fzf)
