@@ -912,6 +912,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Midnight Commander](https://github.com/catppuccin/mc)
 - [Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - [Plank](https://github.com/catppuccin/plank)
+- [Plymouth](https://github.com/catppuccin/plymouth)
 - [Polybar](https://github.com/catppuccin/polybar)
 - [qt5ct](https://github.com/catppuccin/qt5ct)
 - [Regolith](https://github.com/catppuccin/regolith)
