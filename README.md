@@ -905,6 +905,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [GRUB](https://github.com/catppuccin/grub)
 - [GTK](https://github.com/catppuccin/gtk)
 - [Hyprland](https://github.com/catppuccin/hyprland)
+- [i3 & sway](https://github.com/catppuccin/i3)
 - [KDE](https://github.com/catppuccin/kde)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
 - [LXQt](https://github.com/catppuccin/lxqt)
