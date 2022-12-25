@@ -72,7 +72,6 @@ gtk:
 hacker-news:
 helix:
 highlightjs:
-homebrew-tap:
 hyper:
     color: text
 hyprland:
@@ -139,7 +138,6 @@ obs:
     icon: obstudio
 obsidian:
     color: mauve
-palette:
 pantone:
 papirus-folders:
 plank:
