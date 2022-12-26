@@ -38,6 +38,7 @@ cinny:
 codeberg:
 codemirror:
 conky:
+    os: [linux]
 contour:
     os: [linux, macos, windows]
 crt:
@@ -109,7 +110,7 @@ gtk:
     os: [linux]
 hacker-news:
 helix:
-    os: [linux, macos]
+    os: [linux, macos, windows]
 highlightjs:
 hyper:
     color: text
@@ -168,6 +169,7 @@ lxqt:
 mailspring:
     os: [linux, macos, windows]
 mako:
+    os: [linux]
 mastodon:
 mattermost:
 mc:
