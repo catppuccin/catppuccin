@@ -93,6 +93,8 @@ github:
     color: text
 github-readme-stats:
     color: text
+github-readme-tech-stack:
+    color: text
 gitui:
     os: [linux, macos]
 glamour:
@@ -109,13 +111,18 @@ gtk:
     color: green
     os: [linux]
 hacker-news:
+    icon: ycombinator
 helix:
     os: [linux, macos, windows]
 highlightjs:
+home-assistant:
+    icon: homeassistant
 hyper:
     color: text
     os: [linux, macos, windows]
 hyprland:
+    os: [linux]
+i3:
     os: [linux]
 ichi.moe:
 infinity:
@@ -208,6 +215,8 @@ pantone:
 papirus-folders:
     os: [linux]
 plank:
+    os: [linux]
+plymouth:
     os: [linux]
 polybar:
     os: [linux]
