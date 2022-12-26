@@ -1,65 +1,101 @@
 alacritty:
     color: peach
+    os: [linux, macos, windows]
 alfred:
     color: mauve
+    os: [macos]
 aliucord:
+    os: [android]
 amfora:
+    os: [linux, macos]
 anilist:
     color: blue
 anki:
 base16:
 bat:
+    os: [linux, macos]
 bento:
 binary-ninja:
+    os: [linux, macos, windows]
 bitburner:
+    os: [linux, macos, windows]
 blackbox:
+    os: [linux]
 blink:
+    os: [ios]
 blockbench:
+    os: [linux, macos, windows]
 btop:
+    os: [linux, macos]
 cava:
+    os: [linux, macos]
 chrome:
     icon: googlechrome
     color: yellow
+    os: [linux, macos, windows]
 cinny:
+    os: [linux]
 codeberg:
 codemirror:
 conky:
 contour:
+    os: [linux, macos, windows]
 crt:
+    os: [linux, macos]
 cursors:
+    os: [linux]
 cutter:
+    os: [linux, macos, windows]
 dark-reader:
     icon: darkreader
     color: red
 deepl:
 discord:
     color: blue
+    os: [linux, macos, windows]
 dmenu:
+    os: [linux]
 duckduckgo:
     color: peach
 dunst:
+    os: [linux]
 dwarf-fortress:
+    os: [linux, macos, windows]
 element:
+    os: [linux, macos, windows]
 emacs:
     icon: gnuemacs
     color: mauve
+    os: [linux, macos, windows]
 enmity:
+    os: [ios]
 fcitx5:
+    os: [linux]
 firefox:
     color: red
+    os: [linux, macos, windows]
 fish:
+    os: [linux, macos]
 floris-board:
+    os: [android]
 foliate:
+    os: [linux]
 foot:
+    os: [linux]
 fzf:
+    os: [linux, macos]
 geany:
+    os: [linux]
 gedit:
+    os: [linux]
 github:
     color: text
 github-readme-stats:
     color: text
 gitui:
+    os: [linux, macos]
 glamour:
+    os: [linux, macos]
 gnome-terminal:
     color: text
     icon: gnometerminal
@@ -67,44 +103,60 @@ go:
 grub:
     icon: gnu
     color: text
+    os: [linux]
 gtk:
     color: green
+    os: [linux]
 hacker-news:
 helix:
+    os: [linux, macos]
 highlightjs:
 hyper:
     color: text
+    os: [linux, macos, windows]
 hyprland:
+    os: [linux]
 ichi.moe:
 infinity:
     icon: reddit
     color: peach
 insomnia:
     color: blue
+    os: [android]
 invidious:
     icon: youtube
     color: red
 iterm:
     icon: iterm2
     color: green
+    os: [macos]
 jetbrains:
     color: text
+    os: [linux, macos, windows]
 joplin:
     color: blue
+    os: [linux, macos, windows]
 k9s:
     icon: kubernetes
     color: blue
+    os: [linux, macos]
 Kvantum:
+    os: [linux]
 kakoune:
+    os: [linux, macos]
 kde:
     color: blue
+    os: [linux]
 kitty:
     icon: kitty.svg
     color: green
+    os: [linux, macos]
 konsole:
     icon: kde
     color: blue
+    os: [linux]
 lapce:
+    os: [linux, macos, windows]
 lastfm:
     icon: lastdotfm
     color: red
@@ -112,124 +164,182 @@ libreddit:
     icon: reddit
     color: peach
 lxqt:
+    os: [linux]
 mailspring:
+    os: [linux, macos, windows]
 mako:
 mastodon:
 mattermost:
 mc:
+    os: [linux, macos]
 mdBook:
     icon: mdbook
 micro:
+    os: [linux, macos, windows]
 minecraft:
+    os: [linux, macos, windows]
 monkeytype:
     icon: monkeytype.svg
     color: text
 neomutt:
+    os: [linux, macos]
 newsboat:
+    os: [linux, macos]
 nighttab:
 nitter:
     icon: twitter
     color: blue
 noir:
+    os: [ios]
 nova:
+    os: [macos]
 nvim:
     icon: neovim
+    os: [linux, macos, windows]
 obs:
     icon: obstudio
+    os: [linux, macos, windows]
 obsidian:
     color: mauve
+    os: [linux, macos, windows]
 pantone:
 papirus-folders:
+    os: [linux]
 plank:
+    os: [linux]
 polybar:
+    os: [linux]
 prismlauncher:
+    os: [linux, macos, windows]
 pyradio:
+    os: [linux, macos, windows]
 python:
 qt5ct:
+    os: [linux]
 qutebrowser:
+    os: [linux, macos, windows]
 regolith:
+    os: [linux]
 remnote:
 revolt:
     icon: revoltdotchat
+    os: [linux, macos, windows]
 rofi:
+    os: [linux]
 rust:
 sddm:
+    os: [linux]
 SearXNG:
 sharex:
+    os: [windows]
 slack:
 spicetify:
     color: green
     icon: spotify
+    os: [linux, macos, windows]
 spotify-player:
     color: green
     icon: spotify
+    os: [linux, macos, windows]
 spotify-tui:
     color: green
     icon: spotify
+    os: [linux, macos, windows]
 spyder:
     icon: spyderide
     color: red
+    os: [linux, macos, windows]
 st:
+    os: [linux]
 startpage:
 steam:
     color: blue
+    os: [linux, macos, windows]
 sublime-text:
     color: yellow
     icon: sublimetext
+    os: [linux, macos, windows]
 sumatra-pdf:
+    os: [windows]
 tabby:
+    os: [linux, macos, windows]
 tailwindcss:
     color: sky
 telegram:
     color: blue
 terminator:
+    os: [linux]
 Terminal.app:
+    os: [macos]
 termux:
+    os: [android]
 thelounge:
 thunderbird:
     color: blue
+    os: [linux, macos, windows]
 tilix:
+    os: [linux]
 tmux:
     color: green
+    os: [linux, macos]
 tty:
+    os: [linux]
 tym:
 ui:
     icon: react
     color: sky
 ulauncher:
+    os: [linux]
 unreal-engine:
     icon: unrealengine
     color: blue
+    os: [linux, macos, windows]
 urxvt:
+    os: [linux]
 vim:
     color: green
+    os: [linux, macos, windows]
 vimium:
 visual-studio:
     icon: visualstudio
+    os: [windows]
 vscode:
     color: blue
     icon: visualstudiocode
+    os: [linux, macos, windows]
 warp:
+    os: [macos]
 waybar:
+    os: [linux]
 wezterm:
     icon: wezterm.svg
+    os: [linux, macos, windows]
 whoogle:
 wikiwand:
     icon: wikipedia
 windows-files:
     color: yellow
+    os: [windows]
 windows-terminal:
     icon: windowsterminal
     color: text
+    os: [windows]
 xcode:
     color: blue
+    os: [macos]
 xfce4-terminal:
+    os: [linux]
 xresources:
     icon: xdotorg
+    os: [linux]
 youtube:
     color: red
 youtubemusic:
 zathura:
+    os: [linux]
 zellij:
+    os: [linux, macos]
 zsh-syntax-highlighting:
+    os: [linux, macos]
 zutty:
+    os: [linux]
