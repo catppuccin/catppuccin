@@ -7,13 +7,16 @@ alfred:
 aliucord:
     os: [android]
 amfora:
-    os: [linux, macos]
+    os: [linux, macos, windows]
 anilist:
     color: blue
 anki:
+    icon: anki.svg
+    color: blue
 base16:
 bat:
-    os: [linux, macos]
+    icon: bat.svg
+    os: [linux, macos, windows]
 bento:
 binary-ninja:
     os: [linux, macos, windows]
@@ -44,6 +47,7 @@ contour:
 crt:
     os: [linux, macos]
 cursors:
+    icon: cursors.svg
     os: [linux]
 cutter:
     os: [linux, macos, windows]
@@ -76,6 +80,8 @@ firefox:
     color: red
     os: [linux, macos, windows]
 fish:
+    icon: fish.svg
+    color: green
     os: [linux, macos]
 floris-board:
     os: [android]
@@ -96,6 +102,7 @@ github-readme-stats:
 github-readme-tech-stack:
     color: text
 gitui:
+    icon: gitui.svg
     os: [linux, macos]
 glamour:
     os: [linux, macos]
@@ -123,6 +130,8 @@ hyper:
 hyprland:
     os: [linux]
 i3:
+    color: text
+    icon: i3wm.svg
     os: [linux]
 ichi.moe:
 infinity:
@@ -172,6 +181,7 @@ libreddit:
     icon: reddit
     color: peach
 lxqt:
+    icon: lxqt.svg
     os: [linux]
 mailspring:
     os: [linux, macos, windows]
@@ -184,6 +194,7 @@ mc:
 mdBook:
     icon: mdbook
 micro:
+    icon: micro.svg
     os: [linux, macos, windows]
 minecraft:
     os: [linux, macos, windows]
@@ -204,15 +215,17 @@ nova:
     os: [macos]
 nvim:
     icon: neovim
+    color: green
     os: [linux, macos, windows]
 obs:
-    icon: obstudio
+    icon: obsstudio
     os: [linux, macos, windows]
 obsidian:
     color: mauve
     os: [linux, macos, windows]
 pantone:
 papirus-folders:
+    icon: folders.svg
     os: [linux]
 plank:
     os: [linux]
@@ -228,6 +241,7 @@ python:
 qt5ct:
     os: [linux]
 qutebrowser:
+    icon: qutebrowser.svg
     os: [linux, macos, windows]
 regolith:
     os: [linux]
@@ -329,6 +343,7 @@ whoogle:
 wikiwand:
     icon: wikipedia
 windows-files:
+    icon: windows-files.svg
     color: yellow
     os: [windows]
 windows-terminal:
@@ -339,6 +354,7 @@ xcode:
     color: blue
     os: [macos]
 xfce4-terminal:
+    icon: xfce.svg
     os: [linux]
 xresources:
     icon: xdotorg
@@ -347,8 +363,10 @@ youtube:
     color: red
 youtubemusic:
 zathura:
+    icon: zathura.svg
     os: [linux]
 zellij:
+    icon: zellij.svg
     os: [linux, macos]
 zsh-syntax-highlighting:
     os: [linux, macos]
