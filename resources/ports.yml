@@ -243,6 +243,9 @@ qt5ct:
 qutebrowser:
     icon: qutebrowser.svg
     os: [linux, macos, windows]
+rboard:
+    color: blue
+    icon: gboard
 regolith:
     os: [linux]
 remnote:
