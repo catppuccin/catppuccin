@@ -245,7 +245,7 @@ qutebrowser:
     os: [linux, macos, windows]
 rboard:
     color: blue
-    icon: gboard
+    icon: gboard.svg
 regolith:
     os: [linux]
 remnote:
