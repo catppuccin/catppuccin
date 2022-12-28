@@ -924,6 +924,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Wallpapers](https://github.com/catppuccin/wallpapers)
 - [Waybar](https://github.com/catppuccin/waybar)
 - [Xresources](https://github.com/catppuccin/xresources)
+- [Rboard](https://github.com/catppuccin/rboard)
 </details>
 
 <details open><summary>🐚 Shells</summary>
