@@ -977,6 +977,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 <details open><summary>🔎 Search engines</summary>
 
+- [Brave Search](https://github.com/catppuccin/brave-search)
 - [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [Whoogle](https://github.com/catppuccin/whoogle)
 - [SearxNG](https://github.com/catppuccin/searxng)
