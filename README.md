@@ -987,6 +987,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
 - [Noir](https://github.com/catppuccin/noir)
 - [Vimium](https://github.com/catppuccin/vimium)
+- [Nighttab](https://github.com/catppuccin/nighttab)
 </details>
 
 <details open><summary>💬 Messaging</summary>
