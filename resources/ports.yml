@@ -198,6 +198,8 @@ micro:
     os: [linux, macos, windows]
 minecraft:
     os: [linux, macos, windows]
+modrinth:
+    color: green
 monkeytype:
     icon: monkeytype.svg
     color: text
