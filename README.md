@@ -957,6 +957,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [Last.fm](https://github.com/catppuccin/lastfm)
 - [Minecraft](https://github.com/catppuccin/minecraft)
+- [Modrinth](https://github.com/catppuccin/modrinth)
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [Prism Launcher](https://github.com/catppuccin/prismlauncher)
 - [PyRadio](https://github.com/catppuccin/pyradio)
