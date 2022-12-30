@@ -893,6 +893,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Alfred](https://github.com/catppuccin/alfred)
 - [bat](https://github.com/catppuccin/bat)
 - [bemenu](https://github.com/catppuccin/bemenu)
+- [bottom](https://github.com/catppuccin/bottom)
 - [btop](https://github.com/catppuccin/btop)
 - [CAVA](https://github.com/catppuccin/cava)
 - [Conky](https://github.com/catppuccin/conky)
