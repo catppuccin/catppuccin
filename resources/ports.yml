@@ -182,6 +182,8 @@ lapce:
 lastfm:
     icon: lastdotfm
     color: red
+lazygit:
+    color: green
 libreddit:
     icon: reddit
     color: peach
