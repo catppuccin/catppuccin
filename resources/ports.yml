@@ -28,6 +28,9 @@ blink:
     os: [ios]
 blockbench:
     os: [linux, macos, windows]
+brave-search:
+    icon: brave
+    color: peach
 btop:
     os: [linux, macos]
 cava:
