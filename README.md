@@ -942,6 +942,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [GitHub](https://github.com/catppuccin/github)
 - [GitUI](https://github.com/catppuccin/gitui)
 - [k9s](https://github.com/catppuccin/k9s)
+- [Lazygit](https://github.com/catppuccin/lazygit)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
 - [OBS](https://github.com/catppuccin/obs)
 - [ShareX](https://github.com/catppuccin/sharex)
