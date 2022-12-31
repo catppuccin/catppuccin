@@ -340,6 +340,8 @@ vimium:
 visual-studio:
     icon: visualstudio
     os: [windows]
+vivaldi:
+    color: peach
 vscode:
     color: blue
     icon: visualstudiocode
