@@ -974,6 +974,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Chrome](https://github.com/catppuccin/chrome)
 - [Firefox](https://github.com/catppuccin/firefox)
+- [Vivaldi](https://github.com/catppuccin/vivaldi)
 - [qutebrowser](https://github.com/catppuccin/qutebrowser)
 </details>
 
