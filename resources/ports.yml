@@ -335,6 +335,7 @@ unreal-engine:
     os: [linux, macos, windows]
 urxvt:
     os: [linux]
+vercel:
 vim:
     color: green
     os: [linux, macos, windows]
