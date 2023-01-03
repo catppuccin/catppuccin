@@ -126,6 +126,10 @@ hacker-news:
     icon: ycombinator
 helix:
     os: [linux, macos, windows]
+hexchat:
+    icon: hexchat.svg
+    color: peach
+    os: [linux, windows]
 highlightjs:
 home-assistant:
     icon: homeassistant
