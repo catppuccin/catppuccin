@@ -288,6 +288,8 @@ spyder:
     os: [linux, macos, windows]
 st:
     os: [linux]
+stable-diffusion-web-ui:
+    os: [linux, macos, windows]
 startpage:
 steam:
     color: blue
