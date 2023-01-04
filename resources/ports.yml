@@ -193,6 +193,7 @@ libreddit:
     color: peach
 lxqt:
     icon: lxqt.svg
+    color: sky
     os: [linux]
 mailspring:
     os: [linux, macos, windows]
@@ -256,6 +257,10 @@ qt5ct:
 qutebrowser:
     icon: qutebrowser.svg
     os: [linux, macos, windows]
+qterminal:
+    icon: lxqt.svg
+    color: sky
+    os: [linux]
 rboard:
     color: blue
     icon: gboard.svg
