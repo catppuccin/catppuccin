@@ -10,6 +10,8 @@
   ·
   <a href="https://github.com/catppuccin/catppuccin#-ports-and-more">Ports</a>
   ·
+  <a href="https://github.com/catppuccin/catppuccin#-showcase">Showcase</a>
+  ·
   <a href="https://github.com/catppuccin/catppuccin/tree/main/docs">Docs</a>
 </h6>
 
@@ -1065,6 +1067,15 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Thunderbird](https://github.com/catppuccin/thunderbird)
 - [YouTube](https://github.com/catppuccin/youtube)
 </details>
+
+&nbsp;
+
+### 🌟 Showcase
+
+If you're making an application or tool using our palette, please let us know by adding it below!
+
+- 🌟 [flotes.app](https://flotes.app/) - a free note-taking app enhanced with flashcard features
+- 🌟 [name] - [short description]
 
 &nbsp;
 
