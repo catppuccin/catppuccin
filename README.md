@@ -1072,6 +1072,10 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 ### 🌟 Showcase
 
+> **Note** <br>
+> Catppuccin staff reserve the right to remove and reject showcase additions if we determine the addition to be in
+> violation of our [CODE OF CONDUCT](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md).
+
 If you're making an application or tool using our palette, please let us know by adding it below!
 
 - 🌟 [flotes.app](https://flotes.app/) - a free note-taking app enhanced with flashcard features
