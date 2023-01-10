@@ -868,7 +868,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Lapce](https://github.com/catppuccin/lapce)
 - [Micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
-- [Notepad++](https://github.com/catppuccin/notepadplusplus)
+- [Notepad++](https://github.com/catppuccin/notepad-plus-plus)
 - [Nova](https://github.com/catppuccin/nova)
 - [Spyder](https://github.com/catppuccin/spyder)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
