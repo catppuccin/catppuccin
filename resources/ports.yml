@@ -225,6 +225,10 @@ nitter:
     color: blue
 noir:
     os: [ios]
+notepad-plus-plus:
+    icon: notepadplusplus
+    color: green
+    os: [windows]
 nova:
     os: [macos]
 nvim:
