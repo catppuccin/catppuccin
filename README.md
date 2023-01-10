@@ -1080,6 +1080,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 If you're making an application or tool using our palette, please let us know by adding it below!
 
 - 🌟 [flotes.app](https://flotes.app/) - a free note-taking app enhanced with flashcard features
+- 🌟 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customisable theme for [Obsidian](https://obsidian.md/)
 - 🌟 [name] - [short description]
 
 &nbsp;
