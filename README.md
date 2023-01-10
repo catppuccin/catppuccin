@@ -1075,11 +1075,12 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 > **Note** <br>
 > Catppuccin staff reserve the right to remove and reject showcase additions if we determine the addition to be in
-> violation of our [CODE OF CONDUCT](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md).
+> violation of our [CODE OF CONDUCT](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md). Extremely 
+> personal configurations will **not** be approved and added.
 
 If you're making an application or tool using our palette, please let us know by adding it below!
 
-- 🌟 [flotes.app](https://flotes.app/) - a free note-taking app enhanced with flashcard features
+- 🌟 [flotes.app](https://flotes.app/) - A free note-taking app enhanced with flashcard features
 - 🌟 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customisable theme for [Obsidian](https://obsidian.md/)
 - 🌟 [name] - [short description]
 
