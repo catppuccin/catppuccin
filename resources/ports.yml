@@ -282,6 +282,7 @@ sddm:
 SearXNG:
 sharex:
     os: [windows]
+sideberry:
 slack:
 spicetify:
     color: green
