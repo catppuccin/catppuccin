@@ -255,6 +255,7 @@ prismlauncher:
     os: [linux, macos, windows]
 proton:
     icon: protonmail
+    color: lavender
 pyradio:
     os: [linux, macos, windows]
 python:
