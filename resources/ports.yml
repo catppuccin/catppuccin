@@ -253,6 +253,8 @@ polybar:
     os: [linux]
 prismlauncher:
     os: [linux, macos, windows]
+proton:
+    icon: protonmail
 pyradio:
     os: [linux, macos, windows]
 python:

@@ -948,6 +948,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Lazygit](https://github.com/catppuccin/lazygit)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
 - [OBS](https://github.com/catppuccin/obs)
+- [Proton](https://github.com/catppuccin/proton)
 - [ShareX](https://github.com/catppuccin/sharex)
 - [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
 - [Vercel](https://github.com/catppuccin/vercel)
