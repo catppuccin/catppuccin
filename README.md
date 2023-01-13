@@ -996,6 +996,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
 - [Noir](https://github.com/catppuccin/noir)
+- [Sidebery](https://github.com/catppuccin/sidebery)
 - [Vimium](https://github.com/catppuccin/vimium)
 - [Nighttab](https://github.com/catppuccin/nighttab)
 </details>
