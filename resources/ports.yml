@@ -73,6 +73,7 @@ dwarf-fortress:
     os: [linux, macos, windows]
 element:
     os: [linux, macos, windows]
+elk:
 emacs:
     icon: gnuemacs
     color: mauve
