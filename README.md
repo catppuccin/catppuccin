@@ -1060,6 +1060,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open><summary>✨ Social</summary>
 
 - [AniList](https://github.com/catppuccin/anilist)
+- [Elk](https://github.com/catppuccin/elk)
 - [Github Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
 - [Hacker News](https://github.com/catppuccin/hacker-news)
