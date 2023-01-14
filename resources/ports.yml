@@ -342,6 +342,8 @@ tmux:
 tty:
     os: [linux]
 tym:
+tutanota:
+  color: red
 ui:
     icon: react
     color: sky
