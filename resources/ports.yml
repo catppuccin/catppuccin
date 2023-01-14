@@ -280,6 +280,7 @@ revolt:
 rofi:
     os: [linux]
 rust:
+sc-im:
 sddm:
     os: [linux]
 SearXNG:

@@ -949,6 +949,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [NeoMutt](https://github.com/catppuccin/neomutt)
 - [OBS](https://github.com/catppuccin/obs)
 - [Proton](https://github.com/catppuccin/proton)
+- [sc-im](https://github.com/catppuccin/sc-im)
 - [ShareX](https://github.com/catppuccin/sharex)
 - [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
 - [Vercel](https://github.com/catppuccin/vercel)
