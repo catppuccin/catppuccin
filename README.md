@@ -952,6 +952,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [sc-im](https://github.com/catppuccin/sc-im)
 - [ShareX](https://github.com/catppuccin/sharex)
 - [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
+- [Tutanota](https://github.com/catppuccin/tutanota)
 - [Vercel](https://github.com/catppuccin/vercel)
 - [Wikiwand](https://github.com/catppuccin/wikiwand)
 - [Zathura](https://github.com/catppuccin/zathura)
