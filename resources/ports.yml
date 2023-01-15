@@ -149,6 +149,10 @@ dwarf-fortress:
     name: Dwarf Fortress
     category: leisure
     platform: [linux, macos, windows]
+egui:
+    name: egui
+    category: development
+    platform: [linux, macos, windows]
 element:
     name: Element
     category: leisure

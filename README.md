@@ -889,6 +889,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Template](https://github.com/catppuccin/template)
 - [Toolbox](https://github.com/catppuccin/toolbox)
 - [mdBook](https://github.com/catppuccin/mdBook)
+- [egui](https://github.com/catppuccin/egui)
   </details>
 
 <details open><summary>🔧 System</summary>
