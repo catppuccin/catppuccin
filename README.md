@@ -916,6 +916,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [LXQt](https://github.com/catppuccin/lxqt)
 - [Mako](https://github.com/catppuccin/mako)
 - [Midnight Commander](https://github.com/catppuccin/mc)
+- [Openbox](https://github.com/catppuccin/openbox)
 - [Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - [Plank](https://github.com/catppuccin/plank)
 - [Plymouth](https://github.com/catppuccin/plymouth)
