@@ -482,6 +482,10 @@ obsidian:
     category: note_taking
     platform: [linux, macos, windows]
     color: mauve
+openbox:
+    name: Openbox
+    category: system
+    platform: [linux]
 pantone:
     name: Pantone
     category: library
