@@ -73,8 +73,10 @@ Since Catppuccin is available in 4 palettes it's understandable that it may not 
 ### Submission
 
 Raise a discussion under main repository [here!](https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests) 
-The title should be the name of the application/tool/website... that you are wanting ported over. (In the future, we'll enable [discussion templates](https://docs.github.com/en/discussions/managing-discussions-for-your-community/creating-discussion-category-forms) to enforce consistency)
+The title should be the **simplest** name of the application/tool/website in **lower-kebab-case** that you are wanting ported over.
+E.g. **NeoVim** -> **neovim** 
 
 If you have already created a repository containing the work, make sure to include it within the description for others to see! Feel free to join our [Discord](https://discord.com/invite/r6Mdz5dpFc) and share it there too!
 
-The discussion will be transferred to an issue once staff have deemed the port ready to be reviewed and merged!
+The discussion will be transferred to an issue once the [staff team](https://github.com/orgs/catppuccin/teams/staff/members) 
+have deemed the port ready to be reviewed and merged!
