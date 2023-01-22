@@ -72,4 +72,9 @@ Since Catppuccin is available in 4 palettes it's understandable that it may not 
 
 ### Submission
 
-Open an issue under the main repo and fill out the information requested on the "[port request](https://github.com/catppuccin/catppuccin/issues/new?assignees=&labels=port+request&template=port-request.md&title=App)". It's recommended to also share the port in our [Discord server](https://discord.gg/r6Mdz5dpFc) beforehand so that other members of the community can give their opinion on it and hopefully improve it.
+Raise a discussion under main repository [here!](https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests) 
+The title should be the name of the application/tool/website... that you are wanting ported over. (In the future, we'll enable [discussion templates](https://docs.github.com/en/discussions/managing-discussions-for-your-community/creating-discussion-category-forms) to enforce consistency)
+
+If you have already created a repository containing the work, make sure to include it within the description for others to see! Feel free to join our [Discord](https://discord.com/invite/r6Mdz5dpFc) and share it there too!
+
+The discussion will be transferred to an issue once staff have deemed the port ready to be reviewed and merged!
