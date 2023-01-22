@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Have a Question? Join our Discord!
+    url: https://discord.com/invite/r6Mdz5dpFc
+    about: Join our discord server for real-time answers and more!
+discussions:
+  - name: Want to Suggest a Port? Raise a Discussion Here!
+    url: https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests
+    about: Make your port requests here!
