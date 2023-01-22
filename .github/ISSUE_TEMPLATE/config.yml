@@ -5,5 +5,5 @@ contact_links:
     about: Join our discord server for real-time answers and more!
 discussions:
   - name: Want to Suggest a Port? Raise a Discussion Here!
-    url: https://github.com/catppuccin/catppuccin/discussions/categories/port-requests
+    url: https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests
     about: Make your port requests here!
