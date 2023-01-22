@@ -879,6 +879,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Visual Studio Code](https://github.com/catppuccin/vscode)
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
 - [Xcode](https://github.com/catppuccin/xcode)
+- [xed](https://github.com/catppuccin/xed)
 </details>
 
 <details open><summary>💭 Development</summary>
