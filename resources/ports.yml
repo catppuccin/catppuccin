@@ -792,6 +792,10 @@ xfce4-terminal:
     category: terminal
     platform: [linux]
     icon: xfce.svg
+xed:
+    name: Xed
+    category: code_editor
+    platform: [linux]
 xresources:
     name: Xresources
     category: system
