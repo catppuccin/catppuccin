@@ -1,0 +1,24 @@
+title: "Name of the application/tool/website/etc"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before you submit your port request, **please read our [submission guidelines](https://github.com/catppuccin/catppuccin/blob/main/docs/contributing.md#submission)!**
+  - type: checkboxes
+    attributes:
+      label: Will you make the port?
+      description: The port has a much higher chance of completion if you are willing to get involved!
+      options:
+        - label: Yes, I'm willing to make the port
+  - type: textarea
+    attributes:
+      label: How can the requested port be themed?
+      description: Please link to relevant documentation or other examples of themes being applied to the requested port.
+  - type: textarea
+    attributes:
+      label: Has the requested port been themed already?
+      description: Please link the repository of the codebase or any screenshots of the requested port.
+  - type: textarea
+    attributes:
+      label: Any additional comments?
+      description: Add any information that hasn't been covered in the previous sections!
