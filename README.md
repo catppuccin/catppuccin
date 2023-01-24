@@ -954,6 +954,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Proton](https://github.com/catppuccin/proton)
 - [sc-im](https://github.com/catppuccin/sc-im)
 - [ShareX](https://github.com/catppuccin/sharex)
+- [SolveSpace](https://github.com/catppuccin/solvespace)
 - [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
 - [Tutanota](https://github.com/catppuccin/tutanota)
 - [Vercel](https://github.com/catppuccin/vercel)
