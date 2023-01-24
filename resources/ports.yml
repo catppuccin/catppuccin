@@ -591,6 +591,10 @@ slack:
     name: Slack
     category: messaging
     platform: agnostic
+solvespace:
+    name: SolveSpace
+    category: productivity
+    platform: [linux]
 spicetify:
     name: Spicetify
     category: leisure
