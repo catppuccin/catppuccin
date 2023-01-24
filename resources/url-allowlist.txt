@@ -30,8 +30,8 @@ gnu.org
 go.dev
 google.com
 gtk.org
-handlebarsjs.com
 hacs.xyz
+handlebarsjs.com
 home-assistant.io
 ichi.moe
 inkscape.org
@@ -71,6 +71,7 @@ rust-lang.org
 rustup.rs
 slack.com
 software.schmorp.de
+solvespace.com
 spicetify.app
 spyder-ide.org
 startpage.com
