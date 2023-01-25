@@ -10,12 +10,15 @@
 
 ### What's a port?
 
-A port is an adaptation of Catppuccin's palettes for an app to use. Think of it as a colorscheme for a program
+A port is an adaptation of Catppuccin's palette for an app to use. Think of it as a colorscheme for a program
 that styles every UI component it consists of!
 
 &nbsp;
 
 ### Submission
+
+> **Note** <br>
+> TODO
 
 Raise a discussion under main
 repository [here!](https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests) The title should be
@@ -32,43 +35,27 @@ reviewed and merged!
 
 ### Creation
 
-You can create ports using [this](https://github.com/catppuccin/template) public template as a blueprint. However, you
-must **not** create it the traditional way (by clicking **Use this template**), because this leaves a _small_ tag under
-the repos' name that says `generated from <template>`. To avoid this, follow the instructions below:
+You can create ports using [this](https://github.com/catppuccin/template) public template as a blueprint.
 
-1. Create the repo and leave it empty:
+1. Clone template repository
 
     ```
-    mkdir name_of_your_port
-    cd name_of_your_port
-    git init
+    git clone https://github.com/catppuccin/template.git <name_of_your_port>
     ```
 
-2. Add this template as a remote:
+2. Navigate into the cloned repository
 
     ```
-    git remote add template https://github.com/catppuccin/template.git
+    cd <name_of_your_port>
     ```
 
-3. Pull from it:
+3. Delete the existing remote
 
     ```
-    git pull template main
+    git remote remove origin
     ```
 
-4. Delete the remote:
-
-    ```
-    git remote remove template
-    ```
-
-5. Make the template its own repository by running
-
-    ```
-    git reset $(git commit-tree HEAD^{tree} -m "feat: initial commit")
-    ```
-
-6. Set up the rest of your port, and push it to your user repository!
+4. Set up the rest of your port, and push it to your user repository!
 
 &nbsp;
 
@@ -99,7 +86,7 @@ After creating the repo successfully, it's important to style it properly to ens
 
 ### Tools
 
-Since Catppuccin is available in 4 palettes it's understandable that it may be difficult to make 4 versions of a
+Since Catppuccin is available in 4 flavors it's understandable that it may be difficult to make 4 versions of a
 port. So to help with that, we have built a bunch of tools to make life easier when creating Catppuccin ports. You'll
 find them all (with instructions) under our [catppuccin/toolbox](https://github.com/catppuccin/toolbox) repo.
 An essential tool for creating ports is [catwalk](https://github.com/catppuccin/toolbox#catwalk), this is used to create

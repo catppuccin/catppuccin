@@ -6,7 +6,7 @@
 </h3>
 
 <h6 align="center">
-  <a href="https://github.com/catppuccin/catppuccin#-palettes">Palettes</a>
+  <a href="https://github.com/catppuccin/catppuccin#-palette">Palette</a>
   ·
   <a href="https://github.com/catppuccin/catppuccin#-ports-and-more">Ports</a>
   ·
@@ -33,7 +33,7 @@
 &nbsp;
 
 <p align="center">
-Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm palettes with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/main/docs"><b>the project's documentation</b></a>, organization-wide assets, resources and code samples for maintainers/developers.
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/main/docs"><b>the project's documentation</b></a>, organization-wide assets, resources and code samples for maintainers/developers.
 </p>
 
 <p align="center">
@@ -65,9 +65,9 @@ Join our community!
 
 &nbsp;
 
-### 🎨 Palettes
+### 🎨 Palette
 
-**Catppuccin** consists of 4 beautiful pastel color palettes. All the details can be found below.<br>
+**Catppuccin** consists of 4 beautiful pastel color palettes, named **flavors**. All the details can be found below.<br>
 To make the best use of them, please refer to
 the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md).
 <br><img src="assets/misc/transparent.png" height="10" width="0" />
@@ -858,7 +858,7 @@ the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-
 
 Catppuccin is available for various apps and in different formats. Here is a list of them:
 
- <details open><summary>👾 Code Editors</summary>
+<details open><summary>👾 Code Editors</summary>
 
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
 - [Cutter](https://github.com/catppuccin/cutter)
@@ -894,7 +894,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Toolbox](https://github.com/catppuccin/toolbox)
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [egui](https://github.com/catppuccin/egui)
-  </details>
+
+</details>
 
 <details open><summary>🔧 System</summary>
 
@@ -1106,7 +1107,6 @@ If you're making an application or tool using our palette, please let us know by
 - 🌟 [flotes.app](https://flotes.app/) - A free note-taking app enhanced with flashcard features
 - 🌟 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customisable theme
   for [Obsidian](https://obsidian.md/)
-- 🌟 [name] - [short description]
 
 &nbsp;
 

@@ -4,7 +4,7 @@
 
 ## Guidelines
 
-The following is a set of guidelines for contributing to this project. Use your best judgment, and feel free to propose
+The following is a set of guidelines for contributing to this repository. Use your best judgment, and feel free to propose
 changes to this document in a pull request.
 
 - Use the `.editorconfig` file (located at the root of this project) on your editor to "maintain consistent coding
@@ -12,7 +12,8 @@ changes to this document in a pull request.
 
 ## Recommendations
 
-- Create a topic branch on your fork for your specific PR.
+- Create a [topic branch](git-scm.com/book/en/v2/Git-Branching-Branching-Workflows#_topic_branch) on your fork for your
+  specific PR. 
 - Consider using [conventionalcommits.org's](https://www.conventionalcommits.org/en/v1.0.0/) rules for creating explicit
   and meaningful commit messages.
 - If it's your first time contributing to a project then you should look to the
