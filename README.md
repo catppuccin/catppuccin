@@ -1074,6 +1074,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Mailspring](https://github.com/catppuccin/mailspring)
 - [Monkeytype](https://github.com/catppuccin/monkeytype)
 - [Nitter](https://github.com/catppuccin/nitter)
+- [Reddit](https://github.com/catppuccin/reddit)
 - [Thunderbird](https://github.com/catppuccin/thunderbird)
 - [YouTube](https://github.com/catppuccin/youtube)
 </details>
