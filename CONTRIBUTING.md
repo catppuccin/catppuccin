@@ -2,25 +2,21 @@
 
 🎉 First off, thanks for taking the time to contribute! 🎉
 
-> **Note**: if you are here because you want to submit a port/learn how to port Catppuccin to a program please refer to the [documentation](https://github.com/catppuccin/catppuccin/blob/main/docs/contributing.md)
-
 ## Guidelines
 
-The following is a set of guidelines for contributing to this project. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to this project. Use your best judgment, and feel free to propose
+changes to this document in a pull request.
 
-- PRs should go to the `dev` branch. Reasons:
-	- If there is already stuff under development, then it's likely that a conflict may occur.
-	- Releases/Deployment.
-	- Documentation tends not to be updated by PRs.
-	- Testing.
-- Use the `.editorconfig` file (located at the root of this project) on your editor so as to "maintain consistent coding styles". For instructions on how to use this file refer to [EditorConfig's website](https://editorconfig.org/).
+- Use the `.editorconfig` file (located at the root of this project) on your editor to "maintain consistent coding
+  styles." For instructions on how to use this file refer to [EditorConfig's website](https://editorconfig.org/).
 
 ## Recommendations
 
 - Create a topic branch on your fork for your specific PR.
-- Consider using [conventionalcommits.org's](https://www.conventionalcommits.org/en/v1.0.0/) rules for creating explicit and meaningful commit messages.
-- If it's your first time contributing to a project then read [About pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) on Github's docs.
-
-## License
-
-Any contribution will be published under the same licensing terms as the project itself.
+- Consider using [conventionalcommits.org's](https://www.conventionalcommits.org/en/v1.0.0/) rules for creating explicit
+  and meaningful commit messages.
+- If it's your first time contributing to a project then you should look to the
+  popular [first-contributions](https://github.com/firstcontributions/first-contributions) repository on GitHub. This
+  will give you hands-on experience with the features of GitHub required to make a contribution. As always, feel free to
+  join our [Discord](https://discord.com/invite/r6Mdz5dpFc) to ask any questions and clarify your understanding, we are
+  more than happy to help!
