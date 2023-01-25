@@ -546,6 +546,12 @@ rboard:
     platform: [android]
     color: blue
     icon: gboard.svg
+reddit:
+  name: Reddit
+  category: social
+  platform: userstyle
+  color: red
+  icon: reddit
 regolith:
     name: Regolith Desktop
     category: system
