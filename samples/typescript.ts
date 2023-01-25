@@ -1,110 +1,54 @@
-// src: https://github.com/n8n-io/n8n/blob/master/packages/core/src/Credentials.ts
+module ModuleValidator {
+  import checkChars = CharUtils.notWhiteSpace
 
-import {
-	CredentialInformation,
-	ICredentialDataDecryptedObject,
-	ICredentials,
-	ICredentialsEncrypted,
-} from 'n8n-workflow';
+  export interface HasValidator<T> {
+    validateValue(): Boolean;
+  }
 
-import { AES, enc } from 'crypto-js';
+  type FooBarAlias = string;
 
-export class Credentials extends ICredentials {
-	/**
-	 * Returns if the given nodeType has access to data
-	 */
-	hasNodeAccess(nodeType: string): boolean {
-		// eslint-disable-next-line no-restricted-syntax
-		for (const accessData of this.nodesAccess) {
-			if (accessData.nodeType === nodeType) {
-				return true;
-			}
-		}
+  @decorator()
+  class HasValidator implements HasValidator<String> {
+    /* Processed values */
+    static validatedValue: Array<String> = ['', 'aa']
+    private myValue: String
 
-		return false;
-	}
+    /**
+     * Constructor for class
+     * @param valueParameter Value for <i>validation</i>
+     */
+    constructor(valueParameter: String) {
+      this.myValue = valueParameter
+      HasValidator.validatedValue.push(value)
+    }
 
-	/**
-	 * Sets new credential object
-	 */
-	setData(data: ICredentialDataDecryptedObject, encryptionKey: string): void {
-		this.data = AES.encrypt(JSON.stringify(data), encryptionKey).toString();
-	}
+    public validateValue(): Boolean {
+      var resultValue: Boolean = checkChars(this.myValue)
+      return resultValue
+    }
 
-	/**
-	 * Sets new credentials for given key
-	 */
-	setDataKey(key: string, data: CredentialInformation, encryptionKey: string): void {
-		let fullData;
-		try {
-			fullData = this.getData(encryptionKey);
-		} catch (e) {
-			fullData = {};
-		}
+    static createInstance(valueParameter: string): HasValidator {
+      return new HasValidator(valueParameter)
+    }
+  }
 
-		fullData[key] = data;
+  function globalFunction<TypeParameter>(value: TypeParameter) { //global function
+    return 42
+  }
 
-		return this.setData(fullData, encryptionKey);
-	}
+  declare var declareUrl
+  var varUrl = declareUrl.replace(/^\s*(.*)/, '$1').concat('\u1111\z\n\u22')
+  var html = `<div title='HTML injection'>Injected language fragment</div>`
+  var hello = () => console.log('hello')
+  HasValidator.createInstance(varUrl).validateValue()
 
-	/**
-	 * Returns the decrypted credential object
-	 */
-	getData(encryptionKey: string, nodeType?: string): ICredentialDataDecryptedObject {
-		if (nodeType && !this.hasNodeAccess(nodeType)) {
-			throw new Error(
-				`The node of type "${nodeType}" does not have access to credentials "${this.name}" of type "${this.type}".`,
-			);
-		}
+  function acceptsUnion(s: string | number) {
+    if (typeof s === 'string') {
+      s
+    }
+  }
 
-		if (this.data === undefined) {
-			throw new Error('No data is set so nothing can be returned.');
-		}
-
-		const decryptedData = AES.decrypt(this.data, encryptionKey);
-
-		try {
-			// eslint-disable-next-line @typescript-eslint/no-unsafe-return
-			return JSON.parse(decryptedData.toString(enc.Utf8));
-		} catch (e) {
-			throw new Error(
-				'Credentials could not be decrypted. The likely reason is that a different "encryptionKey" was used to encrypt the data.',
-			);
-		}
-	}
-
-	/**
-	 * Returns the decrypted credentials for given key
-	 */
-	getDataKey(key: string, encryptionKey: string, nodeType?: string): CredentialInformation {
-		const fullData = this.getData(encryptionKey, nodeType);
-
-		if (fullData === null) {
-			throw new Error(`No data was set.`);
-		}
-
-		// eslint-disable-next-line no-prototype-builtins
-		if (!fullData.hasOwnProperty(key)) {
-			throw new Error(`No data for key "${key}" exists.`);
-		}
-
-		return fullData[key];
-	}
-
-	/**
-	 * Returns the encrypted credentials to be saved
-	 */
-	getDataToSave(): ICredentialsEncrypted {
-		if (this.data === undefined) {
-			throw new Error(`No credentials were set to save.`);
-		}
-
-		return {
-			id: this.id,
-			name: this.name,
-			type: this.type,
-			data: this.data,
-			nodesAccess: this.nodesAccess,
-		};
-	}
+  enum EnumName {
+    EnumMember
+  }
 }
