@@ -983,9 +983,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Spicetify](https://github.com/catppuccin/spicetify)
 - [Spotify Player](https://github.com/catppuccin/spotify-player)
 - [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
-- [Stable Diffusion Web Ui](https://github.com/catppuccin/Stable-Diffusion-Web-UI)
+- [Stable Diffusion Web UI](https://github.com/catppuccin/stable-diffusion-web-ui)
 - [Steam](https://github.com/catppuccin/steam)
-- [Youtube Music](https://github.com/catppuccin/youtubemusic)
+- [YouTube Music](https://github.com/catppuccin/youtubemusic)
 
 </details>
 
@@ -1003,7 +1003,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Brave Search](https://github.com/catppuccin/brave-search)
 - [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [Whoogle](https://github.com/catppuccin/whoogle)
-- [SearxNG](https://github.com/catppuccin/searxng)
+- [SearXNG](https://github.com/catppuccin/searxng)
 - [Startpage](https://github.com/catppuccin/startpage)
 
 </details>
@@ -1078,7 +1078,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [AniList](https://github.com/catppuccin/anilist)
 - [Elk](https://github.com/catppuccin/elk)
-- [Github Readme Stats](https://github.com/catppuccin/github-readme-stats)
+- [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
 - [Hacker News](https://github.com/catppuccin/hacker-news)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
