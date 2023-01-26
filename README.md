@@ -127,7 +127,7 @@ To make the best use of them, please refer to the [style guide](https://github.c
 		<td>Peach</td>
 		<td><code>#fe640b</code></td>
 		<td><code>rgb(254, 100, 11)</code></td>
-		<td><code>	hsl(22, 99%, 52%)</code></td>
+		<td><code>hsl(22, 99%, 52%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/latte_yellow.png" height="23" width="23"/></td>
