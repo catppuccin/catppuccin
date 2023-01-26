@@ -4,7 +4,7 @@
 
 
 <p align="center">
-	A guide on how to properly <i>use</i> the palettes
+	A guide on how to properly <i>use</i> the palette
 </p>
 
 &nbsp;
