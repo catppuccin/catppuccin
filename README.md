@@ -6,7 +6,7 @@
 </h3>
 
 <h6 align="center">
-  <a href="https://github.com/catppuccin/catppuccin#-palettes">Palettes</a>
+  <a href="https://github.com/catppuccin/catppuccin#-palette">Palette</a>
   ·
   <a href="https://github.com/catppuccin/catppuccin#-ports-and-more">Ports</a>
   ·
@@ -33,7 +33,7 @@
 &nbsp;
 
 <p align="center">
-Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm palettes with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/main/docs"><b>the project's documentation</b></a>, organization-wide assets, resources and code samples for maintainers/developers.
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/main/docs"><b>the project's documentation</b></a>, organization-wide assets, resources and code samples for maintainers/developers.
 </p>
 
 <p align="center">
@@ -58,16 +58,18 @@ Join our community!
 
 ### 🧠 Design Philosophy
 
--   **Colorful is better than colorless**: the colorfulness of something contributes to the distinction amongst the parts of that _something_, making it marginally easier to understand how things are structured.
--   **There should be balance**: not too dull, not too bright. Suitability under various light conditions is a must.
--   **Harmony is superior to dissonance**: vivacious colors must complement each other.
+- **Colorful is better than colorless**: the colorfulness of something contributes to the distinction amongst the parts
+  of that _something_, making it marginally easier to understand how things are structured.
+- **There should be balance**: not too dull, not too bright. Suitability under various light conditions is a must.
+- **Harmony is superior to dissonance**: vivacious colors must complement each other.
 
 &nbsp;
 
-### 🎨 Palettes
+### 🎨 Palette
 
-**Catppuccin** consists of 4 beautiful pastel color palettes. All the details can be found below.<br>
-To make the best use of them, please refer to the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md).
+**Catppuccin** consists of 4 beautiful pastel color palettes, named **flavors**. All the details can be found below.<br>
+To make the best use of them, please refer to
+the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md).
 <br><img src="assets/misc/transparent.png" height="10" width="0" />
 
 <details>
@@ -856,7 +858,7 @@ To make the best use of them, please refer to the [style guide](https://github.c
 
 Catppuccin is available for various apps and in different formats. Here is a list of them:
 
- <details open><summary>👾 Code Editors</summary>
+<details open><summary>👾 Code Editors</summary>
 
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
 - [Cutter](https://github.com/catppuccin/cutter)
@@ -880,6 +882,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
 - [Xcode](https://github.com/catppuccin/xcode)
 - [Xed](https://github.com/catppuccin/xed)
+
 </details>
 
 <details open><summary>💭 Development</summary>
@@ -891,7 +894,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Toolbox](https://github.com/catppuccin/toolbox)
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [egui](https://github.com/catppuccin/egui)
-  </details>
+
+</details>
 
 <details open><summary>🔧 System</summary>
 
@@ -932,12 +936,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Waybar](https://github.com/catppuccin/waybar)
 - [Xresources](https://github.com/catppuccin/xresources)
 - [Rboard](https://github.com/catppuccin/rboard)
+
 </details>
 
 <details open><summary>🐚 Shells</summary>
 
 - [Fish](https://github.com/catppuccin/fish)
 - [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
+
 </details>
 
 <details open><summary>🤓 Productivity</summary>
@@ -960,6 +966,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Vercel](https://github.com/catppuccin/vercel)
 - [Wikiwand](https://github.com/catppuccin/wikiwand)
 - [Zathura](https://github.com/catppuccin/zathura)
+
 </details>
 
 <details open><summary>🌈 Leisure</summary>
@@ -977,9 +984,10 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Spicetify](https://github.com/catppuccin/spicetify)
 - [Spotify Player](https://github.com/catppuccin/spotify-player)
 - [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
-- [Stable Diffusion Web Ui](https://github.com/catppuccin/Stable-Diffusion-Web-UI)
+- [Stable Diffusion Web UI](https://github.com/catppuccin/stable-diffusion-web-ui)
 - [Steam](https://github.com/catppuccin/steam)
-- [Youtube Music](https://github.com/catppuccin/youtubemusic)
+- [YouTube Music](https://github.com/catppuccin/youtubemusic)
+
 </details>
 
 <details open><summary>🖥️ Browsers</summary>
@@ -988,6 +996,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Firefox](https://github.com/catppuccin/firefox)
 - [Vivaldi](https://github.com/catppuccin/vivaldi)
 - [qutebrowser](https://github.com/catppuccin/qutebrowser)
+
 </details>
 
 <details open><summary>🔎 Search engines</summary>
@@ -995,8 +1004,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Brave Search](https://github.com/catppuccin/brave-search)
 - [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [Whoogle](https://github.com/catppuccin/whoogle)
-- [SearxNG](https://github.com/catppuccin/searxng)
+- [SearXNG](https://github.com/catppuccin/searxng)
 - [Startpage](https://github.com/catppuccin/startpage)
+
 </details>
 
 <details open><summary>🧩 Extensions</summary>
@@ -1006,6 +1016,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Sidebery](https://github.com/catppuccin/sidebery)
 - [Vimium](https://github.com/catppuccin/vimium)
 - [Nighttab](https://github.com/catppuccin/nighttab)
+
 </details>
 
 <details open><summary>💬 Messaging</summary>
@@ -1020,6 +1031,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Revolt](https://github.com/catppuccin/revolt)
 - [Slack](https://github.com/catppuccin/slack)
 - [Telegram](https://github.com/catppuccin/telegram)
+
 </details>
 
 <details open><summary>📝 Note-taking</summary>
@@ -1028,6 +1040,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Joplin](https://github.com/catppuccin/joplin)
 - [Obsidian](https://github.com/catppuccin/obsidian)
 - [Remnote](https://github.com/catppuccin/remnote)
+
 </details>
 
 <details open><summary>🌱 Terminals</summary>
@@ -1059,13 +1072,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Xfce4 Terminal](https://github.com/catppuccin/xfce4-terminal)
 - [Zellij](https://github.com/catppuccin/zellij)
 - [Zutty](https://github.com/catppuccin/zutty)
+
 </details>
 
 <details open><summary>✨ Social</summary>
 
 - [AniList](https://github.com/catppuccin/anilist)
 - [Elk](https://github.com/catppuccin/elk)
-- [Github Readme Stats](https://github.com/catppuccin/github-readme-stats)
+- [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
 - [Hacker News](https://github.com/catppuccin/hacker-news)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
@@ -1077,6 +1091,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Reddit](https://github.com/catppuccin/reddit)
 - [Thunderbird](https://github.com/catppuccin/thunderbird)
 - [YouTube](https://github.com/catppuccin/youtube)
+
 </details>
 
 &nbsp;
@@ -1085,20 +1100,35 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 > **Note** <br>
 > Catppuccin staff reserve the right to remove and reject showcase additions if we determine the addition to be in
-> violation of our [CODE OF CONDUCT](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md). Extremely 
-> personal configurations will **not** be approved and added.
+> violation of our [CODE OF CONDUCT](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md). Extremely
+> personal configurations and websites will **not** be added.
 
 If you're making an application or tool using our palette, please let us know by adding it below!
 
 - 🌟 [flotes.app](https://flotes.app/) - A free note-taking app enhanced with flashcard features
-- 🌟 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customisable theme for [Obsidian](https://obsidian.md/)
-- 🌟 [name] - [short description]
+- 🌟 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customisable theme
+  for [Obsidian](https://obsidian.md/)
 
 &nbsp;
 
-### 👐 Contribute
+### 👐 Contributing
+
+> **Note** <br>
+> if you would like to submit a port or learn how to port Catppuccin to a program, please refer to
+> the [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md).
 
 See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md).
+
+&nbsp;
+
+### 🔧 Usage
+
+If you're interested in using our palette for your own project, make sure to check
+out [catppuccin/palette](https://github.com/catppuccin/palette) where you can find integrations with popular frameworks
+and tools.
+
+If you already have a project using our palette, don't forget to add it to
+our [showcase](#-showcase) section above!
 
 &nbsp;
 

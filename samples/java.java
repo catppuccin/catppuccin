@@ -1,77 +1,66 @@
-package project1.ui;
+/* Block comment */
 
-import static project1.umethods.SleepTime.*;
-import static project1.umethods.ScreenManipulation.*;
+import java.util.Date;
 
-import java.util.Scanner;
-import project1.ui.PatientMenu;
-import project1.ui.DoctorMenu;
-import project1.ui.authentication.AuthenticationMenu;
-
-enum Months { //"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
-    JANUARY, FEBRUARY, MARCH, APRIL, MAY, JUNE,
-	JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
-}
+import static AnInterface.CONSTANT;
+import static java.util.Date.parse;
+import static SomeClass.staticField;
 
 /**
- * UIMenu
+ * Doc comment here for <code>SomeClass</code>
+ *
+ * @param T type parameter
+ * @see Math#sin(double)
  */
-public class UIMenu {
+@Annotation(name = value)
+public class SomeClass<T extends Runnable> { // some comment
+  private T field = null;
+  private double unusedField = 12345.67890;
+  private UnknownType anotherString = "Another\nStrin\g";
+  public static int staticField = 0;
+  public final int instanceFinalField = 0;
+  protected final int protectedField = 0;
+  final int packagePrivateField = 0;
 
-    //months is not a var, is a constant becuase of `final`
-    public static final int year = 2021;
+  /**
+   * Semantic highlighting:
+   * Generated spectrum to pick colors for local variables and parameters:
+   * Color#1 SC1.1 SC1.2 SC1.3 SC1.4 Color#2 SC2.1 SC2.2 SC2.3 SC2.4 Color#3
+   * Color#3 SC3.1 SC3.2 SC3.3 SC3.4 Color#4 SC4.1 SC4.2 SC4.3 SC4.4 Color#5
+   *
+   * @param param1
+   * @param param2
+   * @param param3
+   */
+  public SomeClass(AnInterface param1,
+                   int param2,
+                   int param3) {
+    int reassignedValue = this.staticField + param2 + param3;
+    long localVar1, localVar2, localVar3, localVar4;
+    int localVar = "IntelliJ"; // Error, incompatible types
+    System.out.println(anotherString + toString() + localVar);
+    int sum = protectedField + packagePrivateField + staticField;
+    long time = parse("1.2.3"); // Method is deprecated
+    new Thread().countStackFrames(); // Method is deprecated and marked for removal
+    reassignedValue++;
+    field.run();
+    new SomeClass() {
+      {
+        int a = localVar;
+      }
+    };
+    int[] l = new ArrayList<String>().toArray(new int[CONSTANT]);
+  }
+}
 
-    public static void showMenu(){
-        Scanner keyboard = new Scanner(System.in);
-        int uResponse = 0;
-        String test = "";
+enum AnEnum {CONST1, CONST2}
 
-        do {
-            System.out.printf("\t----Menu----\n\n");
-            int time = 50;
-            sleepText("1) Doctors", time); sleepText("2) Patient", time); sleepText("0) Exit", time);
-            System.out.printf("\nType here 👉 ");
+interface AnInterface {
+  int CONSTANT = 2;
 
-            do {
-                try {
-                    try {
-                        test = keyboard.nextLine(); //receive whatever input
-                        if (test.isEmpty()) {
-                            throw new NullPointerException("var is empty");
-                        } else {
-                            sleepFor(500);
-                            uResponse = Integer.parseInt(test); //parse that input into an Integer (not an int)
-                            break;
-                        }
-                    } catch(NullPointerException e) {
-                        System.out.printf("\nRemember you must type at least ony number from 0-2\n"); showMenu();
-                    }
-                } catch (NumberFormatException e) {
-                    //TODO: handle exception
-                    clearScreen();
-                    System.out.printf("\n\nERROR (❌): this program only accepts integers\n\n");
-                    showMenu();
-                }
-            } while (true);
+  void method();
+}
 
-            switch (uResponse) {
-                case 0:
-                    System.out.printf("Goodbye! Hope I helped!\n");
-                    System.exit(0);
-                    break;
-                case 1:
-                    clearScreen();
-                    if (AuthenticationMenu.startAuthMenu(1) == true) { DoctorMenu.showDoctorMenu(); } else { System.out.printf("Something went wrong :)\n"); }
-                    break;
-                case 2:
-                    clearScreen();
-                    if (AuthenticationMenu.startAuthMenu(2) == true) { PatientMenu.showPatientMenu(); } else { System.out.printf("Something went wrong :)\n"); }
-                    //PatientMenu.showPatientMenu();
-                    break;
-                default:
-                    System.out.print("\033[H\033[2J"); System.out.flush();
-                    System.out.printf("ERROR (❌): command not recognized\ntry again ↓\n");
-            }
-        } while (uResponse != 0);
-    }
+abstract class SomeAbstractClass {
+  protected int instanceField = staticField;
 }
