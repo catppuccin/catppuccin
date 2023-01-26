@@ -1,9 +1,9 @@
 <p align="center">
-  <h2 align="center">🤝 Contributing Ports</h2>
+  <h2 align="center">🧱 Port Creation</h2>
 </p>
 
 <p align="center">
-	Contributing a Catppuccin port
+	Guidelines for submitting and creating ports 
 </p>
 
 &nbsp;

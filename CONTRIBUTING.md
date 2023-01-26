@@ -14,7 +14,7 @@ changes to this document in a pull request.
 
 - Create a [topic branch](git-scm.com/book/en/v2/Git-Branching-Branching-Workflows#_topic_branch) on your fork for your
   specific PR. 
-- Consider using [conventionalcommits.org's](https://www.conventionalcommits.org/en/v1.0.0/) rules for creating explicit
+- Consider using [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)'s rules for creating explicit
   and meaningful commit messages.
 - If it's your first time contributing to a project then you should look to the
   popular [first-contributions](https://github.com/firstcontributions/first-contributions) repository on GitHub. This
