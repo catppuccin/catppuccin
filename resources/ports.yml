@@ -525,6 +525,10 @@ python:
     name: Python
     category: library
     platform: agnostic
+qbittorrent:
+    name: qBittorrent
+    category: productivity
+    platform: [linux, macos, windows]
 qt5ct:
     name: qt5ct
     category: system
