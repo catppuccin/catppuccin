@@ -17,9 +17,6 @@ that styles every UI component it consists of!
 
 ### Submission
 
-> **Note** <br>
-> TODO
-
 Raise a discussion under main
 repository [here!](https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests) The title should be
 the **simplest** name of the application/tool/website/etc that you are wanting ported over.
@@ -30,6 +27,12 @@ to see! Feel free to join our [Discord](https://discord.com/invite/r6Mdz5dpFc) a
 The discussion will be transferred to an issue by
 the [staff team](https://github.com/orgs/catppuccin/teams/staff/members) once we have deemed the port ready to be
 reviewed and merged!
+
+All ports should conform to our [CODE OF CONDUCT](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md)
+and we, the staff team, reserve the right to choose what ports will be included under the organisation. As a
+community-driven project, we want to keep a neutral environment for all users. Therefore, **we do not accept
+contributions that have a religious or political context.** However, we have no issue with our palette being used in
+these contexts.
 
 &nbsp;
 
