@@ -987,6 +987,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
 - [Stable Diffusion Web UI](https://github.com/catppuccin/stable-diffusion-web-ui)
 - [Steam](https://github.com/catppuccin/steam)
+- [ULTRAKILL](https://github.com/catppuccin/ultrakill)
 - [YouTube Music](https://github.com/catppuccin/youtubemusic)
 
 </details>
