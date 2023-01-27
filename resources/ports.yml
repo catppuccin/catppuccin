@@ -723,6 +723,10 @@ ulauncher:
     name: Ulauncher
     category: system
     platform: [linux]
+ultrakill:
+    name: ULTRAKILL
+    category: leisure
+    platform: [linux, macos, windows]
 unreal-engine:
     name: Unreal Engine
     category: development
