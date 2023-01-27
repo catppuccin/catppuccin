@@ -401,6 +401,10 @@ mastodon:
     name: Mastodon
     category: social
     platform: userstyle
+matplotlib:
+    name: Matplotlib
+    category: development
+    platform: agnostic
 mattermost:
     name: Mattermost
     category: messaging

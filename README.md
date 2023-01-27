@@ -888,12 +888,13 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open><summary>💭 Development</summary>
 
 - [CodeMirror](https://github.com/catppuccin/codemirror)
+- [egui](https://github.com/catppuccin/egui)
+- [Matplotlib](https://github.com/catppuccin/matplotlib)
+- [mdBook](https://github.com/catppuccin/mdBook)
 - [Palette](https://github.com/catppuccin/palette)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Template](https://github.com/catppuccin/template)
 - [Toolbox](https://github.com/catppuccin/toolbox)
-- [mdBook](https://github.com/catppuccin/mdBook)
-- [egui](https://github.com/catppuccin/egui)
 
 </details>
 
