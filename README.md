@@ -40,7 +40,7 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
   <a href="https://github.com/catppuccin">
     <picture>
       <source srcset="assets/social/macchiato_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: latte), (prefers-color-scheme: no-preference)"/>
+      <source srcset="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo"/>
     </picture>
   </a>
@@ -48,7 +48,7 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
   <a href="https://www.npmjs.com/org/catppuccin">
     <picture>
       <source srcset="assets/social/macchiato_npm.svg" width="64" height="64" alt="NPM Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_npm.svg" width="64" height="64" alt="NPM Logo" media="(prefers-color-scheme: latte), (prefers-color-scheme: no-preference)"/>
+      <source srcset="assets/social/latte_npm.svg" width="64" height="64" alt="NPM Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="assets/social/latte_npm.svg" width="64" height="64" alt="NPM Logo"/>
     </picture>
   </a>
@@ -56,7 +56,7 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
   <a href="https://discord.gg/r6Mdz5dpFc">
     <picture>
       <source srcset="assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: latte), (prefers-color-scheme: no-preference)"/>
+      <source srcset="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/>
     </picture>
   </a>
@@ -64,7 +64,7 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
   <a href="https://twitter.com/catppuccintheme">
     <picture>
       <source srcset="assets/social/macchiato_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: latte), (prefers-color-scheme: no-preference)"/>
+      <source srcset="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo"/>
     </picture>
   </a>
@@ -72,7 +72,7 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
   <a href="https://fosstodon.org/@catppuccin">
     <picture>
       <source srcset="assets/social/macchiato_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: latte), (prefers-color-scheme: no-preference)"/>
+      <source srcset="assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo"/>
     </picture>
   </a>
@@ -80,7 +80,7 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
   <a href="https://reddit.com/r/catppuccin">
     <picture>
       <source srcset="assets/social/macchiato_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: latte), (prefers-color-scheme: no-preference)"/>
+      <source srcset="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
     </picture>
   </a>
