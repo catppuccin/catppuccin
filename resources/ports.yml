@@ -829,7 +829,7 @@ youtube:
     platform: userstyle
     color: red
 youtubemusic:
-    name: YouTube Musics
+    name: YouTube Music
     category: leisure
     platform: userstyle
     color: red
