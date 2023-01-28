@@ -105,7 +105,7 @@ contour:
     category: terminal
     platform: [linux, macos, windows]
 crt:
-    name: 'CRT: cool-retro-term'
+    name: "CRT: cool-retro-term"
     category: terminal
     platform: [linux, macos]
 cursors:
@@ -555,11 +555,11 @@ rboard:
     color: blue
     icon: gboard.svg
 reddit:
-  name: Reddit
-  category: social
-  platform: userstyle
-  color: red
-  icon: reddit
+    name: Reddit
+    category: social
+    platform: userstyle
+    color: red
+    icon: reddit
 regolith:
     name: Regolith Desktop
     category: system
@@ -597,8 +597,8 @@ sharex:
     name: ShareX
     category: productivity
     platform: [windows]
-sideberry:
-    name: Sideberry
+sidebery:
+    name: Sidebery
     category: browser_extension
     platform: agnostic
 slack:
