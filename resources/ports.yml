@@ -46,7 +46,7 @@ binary-ninja:
     platform: [linux, macos, windows]
 bitburner:
     name: BitBurner
-    category: leisure
+    category: game
     platform: [linux, macos, windows]
 blackbox:
     name: Black Box
@@ -58,7 +58,7 @@ blink:
     platform: [ios]
 blockbench:
     name: Blockbench
-    category: leisure
+    category: game
     platform: [linux, macos, windows]
 bottom:
     name: bottom
@@ -105,7 +105,7 @@ contour:
     category: terminal
     platform: [linux, macos, windows]
 crt:
-    name: "CRT: cool-retro-term"
+    name: 'CRT: cool-retro-term'
     category: terminal
     platform: [linux, macos]
 cursors:
@@ -147,7 +147,7 @@ dunst:
     platform: [linux]
 dwarf-fortress:
     name: Dwarf Fortress
-    category: leisure
+    category: game
     platform: [linux, macos, windows]
 egui:
     name: egui
@@ -155,7 +155,7 @@ egui:
     platform: [linux, macos, windows]
 element:
     name: Element
-    category: leisure
+    category: messaging
     platform: [linux, macos, windows]
 elk:
     name: Elk
@@ -425,11 +425,11 @@ micro:
     icon: micro.svg
 minecraft:
     name: Minecraft
-    category: leisure
+    category: game
     platform: [linux, macos, windows]
 modrinth:
     name: Modrinth
-    category: leisure
+    category: game
     platform: userstyle
     color: green
 monkeytype:
@@ -513,7 +513,7 @@ polybar:
     platform: [linux]
 prismlauncher:
     name: Prism Launcher
-    category: leisure
+    category: game
     platform: [linux, macos, windows]
 proton:
     name: Proton
@@ -729,7 +729,7 @@ ulauncher:
     platform: [linux]
 ultrakill:
     name: ULTRAKILL
-    category: leisure
+    category: game
     platform: [linux, macos, windows]
 unreal-engine:
     name: Unreal Engine
