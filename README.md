@@ -1079,6 +1079,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>📝 Note taking</summary>
 
 - [Joplin](https://github.com/catppuccin/joplin)
+- [Logseq](https://github.com/catppuccin/logseq)
 - [Obsidian](https://github.com/catppuccin/obsidian)
 - [Remnote](https://github.com/catppuccin/remnote)
 

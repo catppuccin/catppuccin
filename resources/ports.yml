@@ -431,6 +431,11 @@ ports:
         platform: userstyle
         icon: reddit
         color: peach
+    logseq:
+        name: Logseq
+        category: note_taking
+        platform: [linux, macos, windows]
+        color: green
     lxqt:
         name: LxQT
         category: system
@@ -907,5 +912,4 @@ showcases:
     - title: AnuPpuccin
       description: Highly customizable theme for [Obsidian](https://obsidian.md)
       link: https://github.com/AnubisNekhet/AnuPpuccin
-
 # yaml-language-server: $schema=./ports.schema.json
