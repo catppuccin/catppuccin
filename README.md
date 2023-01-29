@@ -894,7 +894,10 @@ the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-
 
 Catppuccin is available for various apps and in different formats. Here is a list of them:
 
-<details open><summary>👾 Code Editors</summary>
+<!-- AUTOGEN:PORTLIST START -->
+<!-- the following section is auto-generated, do not edit -->
+<details open>
+<summary>👾 Code Editors & IDEs</summary>
 
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
 - [Cutter](https://github.com/catppuccin/cutter)
@@ -902,7 +905,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Geany](https://github.com/catppuccin/geany)
 - [Gedit](https://github.com/catppuccin/gedit)
 - [Helix](https://github.com/catppuccin/helix)
-- [Insomnia](https://github.com/catppuccin/insomnia)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
 - [Kakoune](https://github.com/catppuccin/kakoune)
 - [Lapce](https://github.com/catppuccin/lapce)
@@ -910,213 +912,206 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Neovim](https://github.com/catppuccin/nvim)
 - [Notepad++](https://github.com/catppuccin/notepad-plus-plus)
 - [Nova](https://github.com/catppuccin/nova)
-- [Spyder](https://github.com/catppuccin/spyder)
+- [spyder](https://github.com/catppuccin/spyder)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
-- [Unreal Engine](https://github.com/catppuccin/unreal-engine)
 - [Vim](https://github.com/catppuccin/vim)
-- [Visual Studio Code](https://github.com/catppuccin/vscode)
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
+- [Visual Studio Code](https://github.com/catppuccin/vscode)
 - [Xcode](https://github.com/catppuccin/xcode)
 - [Xed](https://github.com/catppuccin/xed)
 
 </details>
-
-<details open><summary>💭 Development</summary>
+<details open>
+<summary>💭 Development tools</summary>
 
 - [CodeMirror](https://github.com/catppuccin/codemirror)
 - [egui](https://github.com/catppuccin/egui)
+- [Highlight.js](https://github.com/catppuccin/highlightjs)
+- [Insomnia](https://github.com/catppuccin/insomnia)
 - [Matplotlib](https://github.com/catppuccin/matplotlib)
 - [mdBook](https://github.com/catppuccin/mdBook)
-- [Palette](https://github.com/catppuccin/palette)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
-- [Template](https://github.com/catppuccin/template)
-- [Toolbox](https://github.com/catppuccin/toolbox)
+- [Unreal Engine](https://github.com/catppuccin/unreal-engine)
+- [Vercel](https://github.com/catppuccin/vercel)
 
 </details>
+<details open>
+<summary>📚 Libraries</summary>
 
-<details open><summary>🔧 System</summary>
+- [Go](https://github.com/catppuccin/go)
+- [Pantone](https://github.com/catppuccin/pantone)
+- [Python](https://github.com/catppuccin/python)
+- [Rust](https://github.com/catppuccin/rust)
+- [UI](https://github.com/catppuccin/ui)
 
-- [Alfred](https://github.com/catppuccin/alfred)
+</details>
+<details open>
+<summary>🐚 CLI tools</summary>
+
 - [bat](https://github.com/catppuccin/bat)
-- [bemenu](https://github.com/catppuccin/bemenu)
 - [bottom](https://github.com/catppuccin/bottom)
-- [btop](https://github.com/catppuccin/btop)
-- [CAVA](https://github.com/catppuccin/cava)
+- [Btop++](https://github.com/catppuccin/btop)
+- [C.A.V.A.](https://github.com/catppuccin/cava)
+- [Fish](https://github.com/catppuccin/fish)
+- [fzf](https://github.com/catppuccin/fzf)
+- [GitUI](https://github.com/catppuccin/gitui)
+- [Glamour](https://github.com/catppuccin/glamour)
+- [k9s](https://github.com/catppuccin/k9s)
+- [Lazygit](https://github.com/catppuccin/lazygit)
+- [Midning Commander](https://github.com/catppuccin/mc)
+- [NeoMutt](https://github.com/catppuccin/neomutt)
+- [Newsboat](https://github.com/catppuccin/newsboat)
+- [sc-im](https://github.com/catppuccin/sc-im)
+- [tmux](https://github.com/catppuccin/tmux)
+- [Zellij](https://github.com/catppuccin/zellij)
+- [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
+
+</details>
+<details open>
+<summary>🌱 Terminals</summary>
+
+- [Alacritty](https://github.com/catppuccin/alacritty)
+- [Black Box](https://github.com/catppuccin/blackbox)
+- [Blink](https://github.com/catppuccin/blink)
+- [Contour](https://github.com/catppuccin/contour)
+- [CRT: cool-retro-term](https://github.com/catppuccin/crt)
+- [foot](https://github.com/catppuccin/foot)
+- [GNOME Terminal](https://github.com/catppuccin/gnome-terminal)
+- [Hyper](https://github.com/catppuccin/hyper)
+- [iTerm2](https://github.com/catppuccin/iterm)
+- [Kitty](https://github.com/catppuccin/kitty)
+- [Konsole](https://github.com/catppuccin/konsole)
+- [QTerminal](https://github.com/catppuccin/qterminal)
+- [st](https://github.com/catppuccin/st)
+- [Tabby](https://github.com/catppuccin/tabby)
+- [Terminal.app](https://github.com/catppuccin/Terminal.app)
+- [Terminator](https://github.com/catppuccin/terminator)
+- [Termux](https://github.com/catppuccin/termux)
+- [Tilix](https://github.com/catppuccin/tilix)
+- [tym](https://github.com/catppuccin/tym)
+- [Urxvt](https://github.com/catppuccin/urxvt)
+- [Warp](https://github.com/catppuccin/warp)
+- [WezTerm](https://github.com/catppuccin/wezterm)
+- [Windows Terminal](https://github.com/catppuccin/windows-terminal)
+- [Xfce4 Terminal](https://github.com/catppuccin/xfce4-terminal)
+- [Zutty](https://github.com/catppuccin/zutty)
+
+</details>
+<details open>
+<summary>🔧 System</summary>
+
+- [Base16](https://github.com/catppuccin/base16)
 - [Conky](https://github.com/catppuccin/conky)
 - [Cursors](https://github.com/catppuccin/cursors)
-- [Dmenu](https://github.com/catppuccin/dmenu)
+- [dmenu](https://github.com/catppuccin/dmenu)
 - [Dunst](https://github.com/catppuccin/dunst)
+- [fcitx5](https://github.com/catppuccin/fcitx5)
 - [FlorisBoard](https://github.com/catppuccin/floris-board)
-- [fzf](https://github.com/catppuccin/fzf)
-- [Glamour](https://github.com/catppuccin/glamour)
 - [GRUB](https://github.com/catppuccin/grub)
 - [GTK](https://github.com/catppuccin/gtk)
 - [Hyprland](https://github.com/catppuccin/hyprland)
-- [i3 & sway](https://github.com/catppuccin/i3)
+- [i3/sway](https://github.com/catppuccin/i3)
 - [KDE](https://github.com/catppuccin/kde)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
-- [LXQt](https://github.com/catppuccin/lxqt)
+- [LxQT](https://github.com/catppuccin/lxqt)
 - [Mako](https://github.com/catppuccin/mako)
-- [Midnight Commander](https://github.com/catppuccin/mc)
 - [Openbox](https://github.com/catppuccin/openbox)
 - [Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - [Plank](https://github.com/catppuccin/plank)
 - [Plymouth](https://github.com/catppuccin/plymouth)
 - [Polybar](https://github.com/catppuccin/polybar)
 - [qt5ct](https://github.com/catppuccin/qt5ct)
-- [Regolith](https://github.com/catppuccin/regolith)
+- [Rboard](https://github.com/catppuccin/rboard)
+- [Regolith Desktop](https://github.com/catppuccin/regolith)
 - [Rofi](https://github.com/catppuccin/rofi)
 - [SDDM](https://github.com/catppuccin/sddm)
-- [TTY](https://github.com/catppuccin/tty)
+- [tty](https://github.com/catppuccin/tty)
 - [Ulauncher](https://github.com/catppuccin/ulauncher)
-- [Wallpapers](https://github.com/catppuccin/wallpapers)
-- [Waybar](https://github.com/catppuccin/waybar)
+- [waybar](https://github.com/catppuccin/waybar)
+- [Windows Files](https://github.com/catppuccin/windows-files)
 - [Xresources](https://github.com/catppuccin/xresources)
-- [Rboard](https://github.com/catppuccin/rboard)
 
 </details>
+<details open>
+<summary>🏄 Browsers</summary>
 
-<details open><summary>🐚 Shells</summary>
-
-- [Fish](https://github.com/catppuccin/fish)
-- [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
-
-</details>
-
-<details open><summary>🤓 Productivity</summary>
-
-- [Bento](https://github.com/catppuccin/bento)
-- [Codeberg](https://github.com/catppuccin/codeberg)
-- [Foliate](https://github.com/catppuccin/foliate)
-- [GitHub](https://github.com/catppuccin/github)
-- [GitUI](https://github.com/catppuccin/gitui)
-- [k9s](https://github.com/catppuccin/k9s)
-- [Lazygit](https://github.com/catppuccin/lazygit)
-- [NeoMutt](https://github.com/catppuccin/neomutt)
-- [OBS](https://github.com/catppuccin/obs)
-- [Proton](https://github.com/catppuccin/proton)
-- [qBittorrent](https://github.com/catppuccin/qbittorrent)
-- [sc-im](https://github.com/catppuccin/sc-im)
-- [ShareX](https://github.com/catppuccin/sharex)
-- [SolveSpace](https://github.com/catppuccin/solvespace)
-- [Sumatra PDF](https://github.com/catppuccin/sumatra-pdf)
-- [Tutanota](https://github.com/catppuccin/tutanota)
-- [Vercel](https://github.com/catppuccin/vercel)
-- [Wikiwand](https://github.com/catppuccin/wikiwand)
-- [Zathura](https://github.com/catppuccin/zathura)
-
-</details>
-
-<details open><summary>🌈 Leisure</summary>
-
-- [BitBurner](https://github.com/catppuccin/bitburner)
-- [Blockbench](https://github.com/catppuccin/blockbench)
-- [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
-- [Home Assistant](https://github.com/catppuccin/home-assistant)
-- [Last.fm](https://github.com/catppuccin/lastfm)
-- [Minecraft](https://github.com/catppuccin/minecraft)
-- [Modrinth](https://github.com/catppuccin/modrinth)
-- [Newsboat](https://github.com/catppuccin/newsboat)
-- [Prism Launcher](https://github.com/catppuccin/prismlauncher)
-- [PyRadio](https://github.com/catppuccin/pyradio)
-- [Spicetify](https://github.com/catppuccin/spicetify)
-- [Spotify Player](https://github.com/catppuccin/spotify-player)
-- [Spotify-TUI](https://github.com/catppuccin/spotify-tui)
-- [Stable Diffusion Web UI](https://github.com/catppuccin/stable-diffusion-web-ui)
-- [Steam](https://github.com/catppuccin/steam)
-- [ULTRAKILL](https://github.com/catppuccin/ultrakill)
-- [YouTube Music](https://github.com/catppuccin/youtubemusic)
-
-</details>
-
-<details open><summary>🖥️ Browsers</summary>
-
-- [Chrome](https://github.com/catppuccin/chrome)
 - [Firefox](https://github.com/catppuccin/firefox)
-- [Vivaldi](https://github.com/catppuccin/vivaldi)
+- [Google Chrome](https://github.com/catppuccin/chrome)
 - [qutebrowser](https://github.com/catppuccin/qutebrowser)
+- [Vivaldi](https://github.com/catppuccin/vivaldi)
 
 </details>
-
-<details open><summary>🔎 Search engines</summary>
-
-- [Brave Search](https://github.com/catppuccin/brave-search)
-- [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
-- [Whoogle](https://github.com/catppuccin/whoogle)
-- [SearXNG](https://github.com/catppuccin/searxng)
-- [Startpage](https://github.com/catppuccin/startpage)
-
-</details>
-
-<details open><summary>🧩 Extensions</summary>
+<details open>
+<summary>🧩 Browser Extensions</summary>
 
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
+- [Nighttab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
 - [Sidebery](https://github.com/catppuccin/sidebery)
 - [Vimium](https://github.com/catppuccin/vimium)
-- [Nighttab](https://github.com/catppuccin/nighttab)
 
 </details>
+<details open>
+<summary>🔎 Search Engines</summary>
 
-<details open><summary>💬 Messaging</summary>
+- [SearXNG](https://github.com/catppuccin/SearXNG)
+- [Startpage](https://github.com/catppuccin/startpage)
+- [Whoogle](https://github.com/catppuccin/whoogle)
 
-- [Aliucord](https://github.com/catppuccin/Aliucord) (Discord on Android)
+</details>
+<details open>
+<summary>💬 Messaging</summary>
+
+- [Aliucord](https://github.com/catppuccin/aliucord)
 - [Cinny](https://github.com/catppuccin/cinny)
 - [Discord](https://github.com/catppuccin/discord)
 - [Element](https://github.com/catppuccin/element)
-- [Enmity](https://github.com/catppuccin/enmity) (Discord on iOS)
+- [Enmity](https://github.com/catppuccin/enmity)
 - [HexChat](https://github.com/catppuccin/hexchat)
 - [Mattermost](https://github.com/catppuccin/mattermost)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [Slack](https://github.com/catppuccin/slack)
 - [Telegram](https://github.com/catppuccin/telegram)
+- [The Lounge](https://github.com/catppuccin/thelounge)
 
 </details>
+<details open>
+<summary>📝 Note taking</summary>
 
-<details open><summary>📝 Note-taking</summary>
-
-- [Anki](https://github.com/catppuccin/anki)
 - [Joplin](https://github.com/catppuccin/joplin)
 - [Obsidian](https://github.com/catppuccin/obsidian)
 - [Remnote](https://github.com/catppuccin/remnote)
 
 </details>
+<details open>
+<summary>🗂️ Productivity</summary>
 
-<details open><summary>🌱 Terminals</summary>
-
-- [Alacritty](https://github.com/catppuccin/alacritty)
-- [Black Box](https://github.com/catppuccin/blackbox)
-- [Contour](https://github.com/catppuccin/contour)
-- [CRT](https://github.com/catppuccin/crt)
-- [Fcitx5](https://github.com/catppuccin/fcitx5)
-- [Foot](https://github.com/catppuccin/foot)
-- [Gnome Terminal](https://github.com/catppuccin/gnome-terminal)
-- [Hyper](https://github.com/catppuccin/hyper)
-- [iTerm](https://github.com/catppuccin/iterm)
-- [Kitty](https://github.com/catppuccin/kitty)
-- [Konsole](https://github.com/catppuccin/konsole)
-- [QTerminal](https://github.com/catppuccin/qterminal)
-- [St](https://github.com/catppuccin/st)
-- [Tabby](https://github.com/catppuccin/tabby)
-- [Terminal.app](https://github.com/catppuccin/Terminal.app)
-- [Terminator](https://github.com/catppuccin/terminator)
-- [Termux](https://github.com/catppuccin/termux)
-- [Tilix](https://github.com/catppuccin/tilix)
-- [Tmux](https://github.com/catppuccin/tmux)
-- [Tym](https://github.com/catppuccin/tym)
-- [Urxvt](https://github.com/catppuccin/urxvt)
-- [Warp](https://github.com/catppuccin/warp)
-- [WezTerm](https://github.com/catppuccin/wezterm)
-- [Windows Terminal](https://github.com/catppuccin/windows-terminal)
-- [Xfce4 Terminal](https://github.com/catppuccin/xfce4-terminal)
-- [Zellij](https://github.com/catppuccin/zellij)
-- [Zutty](https://github.com/catppuccin/zutty)
+- [Alfred](https://github.com/catppuccin/alfred)
+- [Anki](https://github.com/catppuccin/anki)
+- [Bento](https://github.com/catppuccin/bento)
+- [Brave Search](https://github.com/catppuccin/brave-search)
+- [Codeberg](https://github.com/catppuccin/codeberg)
+- [DeepL](https://github.com/catppuccin/deepl)
+- [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
+- [Foliate](https://github.com/catppuccin/foliate)
+- [GitHub](https://github.com/catppuccin/github)
+- [ichi.moe](https://github.com/catppuccin/ichi.moe)
+- [Mailspring](https://github.com/catppuccin/mailspring)
+- [OBS Studio](https://github.com/catppuccin/obs)
+- [Proton](https://github.com/catppuccin/proton)
+- [qBittorrent](https://github.com/catppuccin/qbittorrent)
+- [ShareX](https://github.com/catppuccin/sharex)
+- [SolveSpace](https://github.com/catppuccin/solvespace)
+- [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
+- [Thunderbird](https://github.com/catppuccin/thunderbird)
+- [Tutanota](https://github.com/catppuccin/tutanota)
+- [WikiWand](https://github.com/catppuccin/wikiwand)
+- [Zathura](https://github.com/catppuccin/zathura)
 
 </details>
+<details open>
+<summary>✨ Social</summary>
 
-<details open><summary>✨ Social</summary>
-
-- [AniList](https://github.com/catppuccin/anilist)
 - [Elk](https://github.com/catppuccin/elk)
 - [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
@@ -1124,14 +1119,42 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
 - [Invidious](https://github.com/catppuccin/invidious)
 - [Libreddit](https://github.com/catppuccin/libreddit)
-- [Mailspring](https://github.com/catppuccin/mailspring)
-- [Monkeytype](https://github.com/catppuccin/monkeytype)
+- [Mastodon](https://github.com/catppuccin/mastodon)
 - [Nitter](https://github.com/catppuccin/nitter)
 - [Reddit](https://github.com/catppuccin/reddit)
-- [Thunderbird](https://github.com/catppuccin/thunderbird)
 - [YouTube](https://github.com/catppuccin/youtube)
 
 </details>
+<details open>
+<summary>🌈 Leisure</summary>
+
+- [Amfora](https://github.com/catppuccin/amfora)
+- [AniList](https://github.com/catppuccin/anilist)
+- [Home Assistant](https://github.com/catppuccin/home-assistant)
+- [Last.fm](https://github.com/catppuccin/lastfm)
+- [monkeytype](https://github.com/catppuccin/monkeytype)
+- [PyRadio](https://github.com/catppuccin/pyradio)
+- [Spicetify](https://github.com/catppuccin/spicetify)
+- [spotify-player](https://github.com/catppuccin/spotify-player)
+- [spotify-tui](https://github.com/catppuccin/spotify-tui)
+- [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
+- [Steam](https://github.com/catppuccin/steam)
+- [YouTube Music](https://github.com/catppuccin/youtubemusic)
+
+</details>
+<details open>
+<summary>🎮 Games</summary>
+
+- [BitBurner](https://github.com/catppuccin/bitburner)
+- [Blockbench](https://github.com/catppuccin/blockbench)
+- [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
+- [Minecraft](https://github.com/catppuccin/minecraft)
+- [Modrinth](https://github.com/catppuccin/modrinth)
+- [Prism Launcher](https://github.com/catppuccin/prismlauncher)
+- [ULTRAKILL](https://github.com/catppuccin/ultrakill)
+
+</details>
+<!-- AUTOGEN:PORTLIST END -->
 
 &nbsp;
 
@@ -1144,9 +1167,11 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 If you're making an application or tool using our palette, please let us know by adding it below!
 
-- 🌟 [flotes.app](https://flotes.app/) - A free note-taking app enhanced with flashcard features
-- 🌟 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customisable theme
-  for [Obsidian](https://obsidian.md/)
+<!-- AUTOGEN:SHOWCASE START -->
+<!-- the following section is auto-generated, do not edit -->
+- [flotes.app](https://flotes.app/) - A free note-taking app enhanced with flashcard features
+- [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customizable theme for [Obsidian](https://obsidian.md)
+<!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
 
