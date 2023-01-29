@@ -1,20 +1,7 @@
 #!/usr/bin/env -S deno run --allow-env --allow-read --allow-write
 
-import {
-  Ajv,
-  parseYaml,
-  path,
-  React,
-  rehypeParse,
-  rehypeRemark,
-  remarkStringify,
-  renderToStaticMarkup,
-  schema,
-  unified,
-} from "./deps.ts";
+import { Ajv, parseYaml, path, schema } from "./deps.ts";
 import type { Categories, Port, Ports, Showcases } from "./types.d.ts";
-import { PortList } from "./ports.tsx";
-import { ShowcaseList } from "./showcase.tsx";
 
 const root = new URL(".", import.meta.url).pathname;
 
@@ -36,31 +23,34 @@ if (!validate(data)) {
   Deno.exit(1);
 }
 
-const { categories, ports, showcases } = data;
+export type MappedPort = Port & { html_url: string };
 
-const categorized = Object.values(ports).reduce((acc, port: Port) => {
+const categorized = Object.entries(data.ports).reduce((acc, [slug, port]) => {
   !acc[port.category] && (acc[port.category] = []);
-  acc[port.category].push(port);
+  acc[port.category].push({
+    html_url: `https://github.com/catppuccin/${slug}`,
+    ...port,
+  });
   acc[port.category].sort((a, b) => a.name.localeCompare(b.name));
   return acc;
-}, {} as Record<string, Port[]>);
+}, {} as Record<string, MappedPort[]>);
 
-const portListData = categories.map((category) => {
+const portListData = data.categories.map((category) => {
   return {
     meta: category,
     ports: categorized[category.key],
   };
 });
 
-const updateReadme = async ({
+const updateReadme = ({
   readme,
   section,
   newContent,
 }: {
   readme: string;
   section: string;
-  newContent: React.ReactElement;
-}): Promise<string> => {
+  newContent: string;
+}): string => {
   const preamble =
     "<!-- the following section is auto-generated, do not edit -->";
   const markers = {
@@ -68,15 +58,7 @@ const updateReadme = async ({
     end: `<!-- AUTOGEN:${section.toUpperCase()} END -->`,
   };
 
-  const markdown = await unified()
-    .use(rehypeParse)
-    .use(rehypeRemark)
-    .use(remarkStringify, {
-      bullet: "-",
-    })
-    .process(renderToStaticMarkup(newContent));
-
-  const wrapped = markers.start + "\n" + preamble + "\n" + markdown + "\n" +
+  const wrapped = markers.start + "\n" + preamble + "\n" + newContent + "\n" +
     markers.end;
 
   if (
@@ -97,16 +79,29 @@ const updateReadme = async ({
 const readmePath = path.join(root, "../../README.md");
 let readmeContent = Deno.readTextFileSync(readmePath);
 
+const portContent = portListData.map((data) => {
+  return `<details open>
+<summary>${data.meta.emoji} ${data.meta.name}</summary>
+
+${data.ports.map((port) => `- [${port.name}](${port.html_url})`).join("\n")}
+
+</details>`;
+}).join("\n");
+
+const showcaseContent = data.showcases.map((showcase) => {
+  return `- [${showcase.title}](${showcase.link}) - ${showcase.description}`;
+}).join("\n");
+
 try {
-  readmeContent = await updateReadme({
+  readmeContent = updateReadme({
     readme: readmeContent,
     section: "portlist",
-    newContent: <PortList data={portListData} />,
+    newContent: portContent,
   });
-  readmeContent = await updateReadme({
+  readmeContent = updateReadme({
     readme: readmeContent,
     section: "showcase",
-    newContent: <ShowcaseList data={showcases} />,
+    newContent: showcaseContent,
   });
 } catch (e) {
   console.log("Failed to update the README:", e);

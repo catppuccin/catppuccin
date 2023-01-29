@@ -905,7 +905,7 @@ showcases:
       description: A free note-taking app enhanced with flashcard features
       link: https://flotes.app/
     - title: AnuPpuccin
-      description: Highly customizable theme for <a href="https://obsidian.md">Obsidian</a>
+      description: Highly customizable theme for [Obsidian](https://obsidian.md)
       link: https://github.com/AnubisNekhet/AnuPpuccin
 
 # yaml-language-server: $schema=./ports.schema.json
