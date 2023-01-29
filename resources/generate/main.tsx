@@ -12,6 +12,7 @@ import {
 } from "./deps.ts";
 import type {
   Categories,
+  CategoryItem,
   Port,
   Ports,
   Showcases,
@@ -27,7 +28,7 @@ type Metadata = {
   showcases: Showcases;
 };
 
-const ajv = new Ajv.default();
+const ajv = new Ajv();
 const validate = ajv.compile<Metadata>(schema);
 
 const portsYaml = Deno.readTextFileSync(path.join(root, "../ports.yml"));
