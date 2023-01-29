@@ -1,7 +1,7 @@
 export { parse as parseYaml } from "https://deno.land/std@0.172.0/encoding/yaml.ts";
 export { renderToStaticMarkup } from "https://esm.sh/react-dom@18.2.0/server";
 
-import Ajv from "https://esm.sh/ajv@8.12.0";
+import Ajv from "npm:ajv@8.12.0";
 import React from "https://esm.sh/react@18.2.0";
 import * as path from "https://deno.land/std@0.172.0/path/mod.ts";
 import prettier from "https://esm.sh/prettier@2.8.3";
