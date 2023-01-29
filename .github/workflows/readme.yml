@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+
+name: Generate READMEs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+env:
+  DENO_DIR: deno_cache
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Git Checkout Deno Module
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Set up Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - name: Cache Deno dependencies
+        uses: actions/cache@v2
+        with:
+          key: ${{ hashFiles('resources/generate/deno.json') }}
+          path: ${{ env.DENO_DIR }}
+      - name: Update READMEs
+        working-directory: resources/generate
+        run: ./main.tsx
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: re-generate READMEs"
