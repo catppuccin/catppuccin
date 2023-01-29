@@ -2,21 +2,17 @@
 
 import {
   Ajv,
-  parserHTML,
   parseYaml,
   path,
-  prettier,
   React,
+  rehypeParse,
+  rehypeRemark,
+  remarkStringify,
   renderToStaticMarkup,
   schema,
+  unified,
 } from "./deps.ts";
-import type {
-  Categories,
-  CategoryItem,
-  Port,
-  Ports,
-  Showcases,
-} from "./types.d.ts";
+import type { Categories, Port, Ports, Showcases } from "./types.d.ts";
 import { PortList } from "./ports.tsx";
 import { ShowcaseList } from "./showcase.tsx";
 
@@ -56,7 +52,7 @@ const portListData = categories.map((category) => {
   };
 });
 
-const updateReadme = ({
+const updateReadme = async ({
   readme,
   section,
   newContent,
@@ -64,21 +60,23 @@ const updateReadme = ({
   readme: string;
   section: string;
   newContent: React.ReactElement;
-}): string => {
+}): Promise<string> => {
   const preamble =
     "<!-- the following section is auto-generated, do not edit -->";
   const markers = {
     start: `<!-- AUTOGEN:${section.toUpperCase()} START -->`,
     end: `<!-- AUTOGEN:${section.toUpperCase()} END -->`,
   };
-  const rendered = renderToStaticMarkup(newContent);
-  const formatted = prettier.format(rendered, {
-    parser: "html",
-    plugins: [parserHTML],
-    printWidth: 120,
-  });
 
-  const wrapped = markers.start + "\n" + preamble + "\n" + formatted + "\n" +
+  const markdown = await unified()
+    .use(rehypeParse)
+    .use(rehypeRemark)
+    .use(remarkStringify, {
+      bullet: "-",
+    })
+    .process(renderToStaticMarkup(newContent));
+
+  const wrapped = markers.start + "\n" + preamble + "\n" + markdown + "\n" +
     markers.end;
 
   if (
@@ -100,12 +98,12 @@ const readmePath = path.join(root, "../../README.md");
 let readmeContent = Deno.readTextFileSync(readmePath);
 
 try {
-  readmeContent = updateReadme({
+  readmeContent = await updateReadme({
     readme: readmeContent,
     section: "portlist",
     newContent: <PortList data={portListData} />,
   });
-  readmeContent = updateReadme({
+  readmeContent = await updateReadme({
     readme: readmeContent,
     section: "showcase",
     newContent: <ShowcaseList data={showcases} />,
