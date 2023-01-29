@@ -31,7 +31,7 @@ jobs:
           path: ${{ env.DENO_DIR }}
       - name: Update READMEs
         working-directory: resources/generate
-        run: ./main.tsx
+        run: ./main.ts
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
