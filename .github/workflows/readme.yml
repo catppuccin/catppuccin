@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Git Checkout Deno Module
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
       - name: Set up Deno
@@ -25,7 +25,7 @@ jobs:
         with:
           deno-version: v1.x
       - name: Cache Deno dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           key: ${{ hashFiles('resources/generate/deno.json') }}
           path: ${{ env.DENO_DIR }}
