@@ -1,50 +1,3 @@
-categories:
-    - key: code_editor
-      name: Code Editors & IDEs
-      emoji: 👾
-    - key: development
-      name: Development tools
-      emoji: 💭
-    - key: library
-      name: Libraries
-      emoji: 📚
-    - key: cli
-      name: CLI tools
-      emoji: 🐚
-    - key: terminal
-      name: Terminals
-      emoji: 🌱
-    - key: system
-      name: System
-      emoji: 🔧
-    - key: browser
-      name: Browsers
-      emoji: 🏄
-    - key: browser_extension
-      name: Browser Extensions
-      emoji: 🧩
-    - key: search_engine
-      name: Search Engines
-      emoji: 🔎
-    - key: messaging
-      name: Messaging
-      emoji: 💬
-    - key: note_taking
-      name: Note taking
-      emoji: 📝
-    - key: productivity
-      name: Productivity
-      emoji: 🗂️
-    - key: social
-      name: Social
-      emoji: ✨
-    - key: leisure
-      name: Leisure
-      emoji: 🌈
-    - key: game
-      name: Games
-      emoji: 🎮
-
 ports:
     alacritty:
         name: Alacritty
@@ -904,6 +857,53 @@ ports:
         name: Zutty
         category: terminal
         platform: [linux]
+
+categories:
+    - key: code_editor
+      name: Code Editors & IDEs
+      emoji: 👾
+    - key: development
+      name: Development tools
+      emoji: 💭
+    - key: library
+      name: Libraries
+      emoji: 📚
+    - key: cli
+      name: CLI tools
+      emoji: 🐚
+    - key: terminal
+      name: Terminals
+      emoji: 🌱
+    - key: system
+      name: System
+      emoji: 🔧
+    - key: browser
+      name: Browsers
+      emoji: 🏄
+    - key: browser_extension
+      name: Browser Extensions
+      emoji: 🧩
+    - key: search_engine
+      name: Search Engines
+      emoji: 🔎
+    - key: messaging
+      name: Messaging
+      emoji: 💬
+    - key: note_taking
+      name: Note taking
+      emoji: 📝
+    - key: productivity
+      name: Productivity
+      emoji: 🗂️
+    - key: social
+      name: Social
+      emoji: ✨
+    - key: leisure
+      name: Leisure
+      emoji: 🌈
+    - key: game
+      name: Games
+      emoji: 🎮
 
 showcases:
     - title: flotes.app
