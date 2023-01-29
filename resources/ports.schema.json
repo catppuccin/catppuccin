@@ -1,117 +1,225 @@
 {
-    "definitions": {},
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json",
-    "type": "object",
-    "additionalProperties": false,
-    "patternProperties": {
-        "[A-Za-z0-9_\\-]": {
-            "$id": "#ports/port",
-            "title": "Port",
-            "type": "object",
-            "description": "The GitHub repository name of the port.",
-            "examples": ["nvim"],
-            "required": ["category", "name", "platform"],
-            "properties": {
-                "name": {
-                    "$id": "#ports/port/name",
-                    "title": "Name",
-                    "description": "The Name of the software the port is for",
-                    "type": "string",
-                    "examples": ["Neovim"]
-                },
-                "category": {
-                    "$id": "#ports/port/category",
-                    "title": "Category",
-                    "type": "string",
-                    "enum": [
-                        "browser",
-                        "browser_extension",
-                        "cli",
-                        "code_editor",
-                        "development",
-                        "game",
-                        "leisure",
-                        "library",
-                        "messaging",
-                        "note_taking",
-                        "productivity",
-                        "search_engine",
-                        "social",
-                        "system",
-                        "terminal"
-                    ],
-                    "examples": ["editor"]
-                },
-                "platform": {
-                    "$id": "#ports/port/platform",
-                    "title": "Platform",
-                    "description": "The platforms the port supports. Either an array of supported operating systems, \"agnostic\" (indicating support for all platforms), or \"userstyle\".",
-                    "oneOf": [
-                        {
-                            "type": "array",
-                            "items": {
-                                "$id": "#ports/port/platform/os",
-                                "title": "Operating Systems",
-                                "type": "string",
-                                "enum": [
-                                    "android",
-                                    "ios",
-                                    "linux",
-                                    "macos",
-                                    "windows"
-                                ],
-                                "examples": [
-                                    ["linux", "macos", "windows"],
-                                    ["android", "ios"]
-                                ]
-                            }
-                        },
-                        {
-                            "type": "string",
-                            "enum": ["agnostic", "userstyle"]
-                        }
-                    ]
-                },
-                "color": {
-                    "$id": "#ports/port/color",
-                    "title": "Color",
-                    "description": "The fill color for the icon on the website",
-                    "type": "string",
-                    "enum": [
-                        "rosewater",
-                        "flamingo",
-                        "pink",
-                        "mauve",
-                        "red",
-                        "maroon",
-                        "peach",
-                        "yellow",
-                        "green",
-                        "teal",
-                        "sky",
-                        "sapphire",
-                        "blue",
-                        "lavender",
-                        "text"
-                    ],
-                    "examples": ["pink"]
-                },
-                "icon": {
-                    "$id": "#ports/port/icon",
-                    "title": "Icon",
-                    "description": "The icon to use on the website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.",
-                    "type": "string",
-                    "examples": ["neovim", "neovim.svg"]
-                },
-                "userstyle": {
-                    "$id": "#ports/port/userstyle",
-                    "title": "Userstyle",
-                    "description": "Whether the port is a userstyle",
-                    "type": "boolean",
-                    "examples": [true]
-                }
-            }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "categories": {
+      "$id": "#categories",
+      "title": "Categories",
+      "description": "The categories listed in the README",
+      "type": "array",
+      "items": {
+        "$id": "#categories/item",
+        "title": "Category item",
+        "type": "object",
+        "required": [
+          "key",
+          "name",
+          "emoji"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "key": {
+            "$id": "#categories/category/key",
+            "title": "key",
+            "type": "string",
+            "$ref": "#/$defs/category"
+          },
+          "name": {
+            "$id": "#categories/category/name",
+            "title": "Name",
+            "type": "string"
+          },
+          "emoji": {
+            "$id": "#categories/category/emoji",
+            "title": "Emoji",
+            "type": "string"
+          }
         }
+      }
+    },
+    "ports": {
+      "$id": "#ports",
+      "title": "Ports",
+      "type": "object",
+      "description": "All ports in the catppuccin org.",
+      "patternProperties": {
+        "[A-Za-z0-9_\\-]": {
+          "$id": "#ports/port",
+          "title": "Port",
+          "type": "object",
+          "description": "The GitHub repository name of the port.",
+          "examples": [
+            "nvim"
+          ],
+          "required": [
+            "category",
+            "name",
+            "platform"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "name": {
+              "$id": "#ports/port/name",
+              "title": "Name",
+              "description": "The Name of the software the port is for.",
+              "type": "string",
+              "examples": [
+                "Neovim"
+              ]
+            },
+            "category": {
+              "$id": "#ports/port/category",
+              "title": "Category",
+              "description": "The category that fits the port the most",
+              "$ref": "#/$defs/category"
+            },
+            "platform": {
+              "$id": "#ports/port/platform",
+              "title": "Platform",
+              "description": "The platforms the port supports. Either an array of supported operating systems, \"agnostic\" (indicating support for all platforms), or \"userstyle\".",
+              "oneOf": [
+                {
+                  "type": "array",
+                  "items": {
+                    "$id": "#ports/port/platform/os",
+                    "title": "Operating Systems",
+                    "type": "string",
+                    "enum": [
+                      "android",
+                      "ios",
+                      "linux",
+                      "macos",
+                      "windows"
+                    ],
+                    "examples": [
+                      [
+                        "linux",
+                        "macos",
+                        "windows"
+                      ],
+                      [
+                        "android",
+                        "ios"
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "type": "string",
+                  "enum": [
+                    "agnostic",
+                    "userstyle"
+                  ]
+                }
+              ]
+            },
+            "color": {
+              "$id": "#ports/port/color",
+              "title": "Color",
+              "description": "The fill color for the icon on the website.",
+              "type": "string",
+              "enum": [
+                "rosewater",
+                "flamingo",
+                "pink",
+                "mauve",
+                "red",
+                "maroon",
+                "peach",
+                "yellow",
+                "green",
+                "teal",
+                "sky",
+                "sapphire",
+                "blue",
+                "lavender",
+                "text"
+              ],
+              "examples": [
+                "pink"
+              ]
+            },
+            "icon": {
+              "$id": "#ports/port/icon",
+              "title": "Icon",
+              "description": "The icon to use on the website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.",
+              "type": "string",
+              "examples": [
+                "neovim",
+                "neovim.svg"
+              ]
+            },
+            "userstyle": {
+              "$id": "#ports/port/userstyle",
+              "title": "Userstyle",
+              "description": "Whether the port is a userstyle",
+              "type": "boolean",
+              "examples": [
+                true,
+                false
+              ]
+            }
+          }
+        }
+      }
+    },
+    "showcases": {
+      "$id": "#showcases",
+      "title": "Showcases",
+      "type": "array",
+      "description": "Each showcase listed in the README",
+      "items": {
+        "$id": "#showcase/item",
+        "title": "Showcase item",
+        "type": "object",
+        "required": [
+          "title",
+          "link",
+          "description"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "title": {
+            "$id": "#showcase/showcase/title",
+            "title": "title",
+            "type": "string"
+          },
+          "link": {
+            "$id": "#showcase/showcase/link",
+            "title": "Link",
+            "type": "string"
+          },
+          "description": {
+            "$id": "#showcase/showcase/description",
+            "title": "Link",
+            "type": "string"
+          }
+        }
+      }
     }
+  },
+  "$defs": {
+    "category": {
+      "$id": "#category",
+      "type": "string",
+      "enum": [
+        "browser",
+        "browser_extension",
+        "cli",
+        "code_editor",
+        "development",
+        "game",
+        "leisure",
+        "library",
+        "messaging",
+        "note_taking",
+        "productivity",
+        "search_engine",
+        "social",
+        "system",
+        "terminal"
+      ]
+    }
+  }
 }

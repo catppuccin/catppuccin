@@ -894,6 +894,7 @@ the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-
 
 Catppuccin is available for various apps and in different formats. Here is a list of them:
 
+<!-- AUTOGEN:PORTLIST START -->
 <details open><summary>👾 Code Editors</summary>
 
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
@@ -1132,6 +1133,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [YouTube](https://github.com/catppuccin/youtube)
 
 </details>
+<!-- AUTOGEN:PORTLIST END -->
 
 &nbsp;
 
@@ -1144,9 +1146,11 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 If you're making an application or tool using our palette, please let us know by adding it below!
 
+<!-- AUTOGEN:SHOWCASE START -->
 - 🌟 [flotes.app](https://flotes.app/) - A free note-taking app enhanced with flashcard features
 - 🌟 [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customisable theme
   for [Obsidian](https://obsidian.md/)
+<!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
 
