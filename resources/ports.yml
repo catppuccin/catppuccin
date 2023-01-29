@@ -383,6 +383,11 @@ libreddit:
     platform: userstyle
     icon: reddit
     color: peach
+logseq:
+    name: Logseq
+    category: note_taking
+    platform: [linux, macos, windows]
+    color: green
 lxqt:
     name: LxQT
     category: system
