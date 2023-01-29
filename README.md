@@ -1140,6 +1140,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [spotify-tui](https://github.com/catppuccin/spotify-tui)
 - [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
 - [Steam](https://github.com/catppuccin/steam)
+- [theme.park](https://github.com/catppuccin/theme.park)
 - [YouTube Music](https://github.com/catppuccin/youtubemusic)
 
 </details>
