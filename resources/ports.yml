@@ -696,6 +696,11 @@ ports:
         name: The Lounge
         category: messaging
         platform: agnostic
+    theme.park:
+        name: theme.park
+        category: leisure
+        platform: agnostic
+        color: teal
     thunderbird:
         name: Thunderbird
         category: productivity
