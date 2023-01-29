@@ -27,7 +27,7 @@ jobs:
       - name: Cache Deno dependencies
         uses: actions/cache@v3
         with:
-          key: ${{ hashFiles('resources/generate/deno.json') }}
+          key: ${{ hashFiles('resources/generate/deno.lock') }}
           path: ${{ env.DENO_DIR }}
       - name: Update READMEs
         working-directory: resources/generate
