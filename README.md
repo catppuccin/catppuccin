@@ -1123,6 +1123,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Mastodon](https://github.com/catppuccin/mastodon)
 - [Nitter](https://github.com/catppuccin/nitter)
 - [Reddit](https://github.com/catppuccin/reddit)
+- [Twitch](https://github.com/catppuccin/twitch)
 - [YouTube](https://github.com/catppuccin/youtube)
 
 </details>
