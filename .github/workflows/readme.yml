@@ -1,12 +1,12 @@
-# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
-
 name: Generate READMEs
 
 on:
   push:
-    branches: [main]
+    paths:
+      - "resources/**"
   pull_request:
-    branches: [main]
+    paths:
+      - "resources/**"
 
 env:
   DENO_DIR: deno_cache
@@ -16,8 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Git Checkout Deno Module
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
       - name: Set up Deno
@@ -36,3 +35,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: re-generate README sections"
+          branch: ${{ github.head_ref }}
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
