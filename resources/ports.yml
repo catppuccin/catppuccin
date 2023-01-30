@@ -724,6 +724,10 @@ ports:
         category: productivity
         platform: userstyle
         color: red
+    twitch:
+        name: Twitch
+        category: social
+        platform: userstyle
     tym:
         name: tym
         category: terminal
