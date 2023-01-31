@@ -1174,6 +1174,7 @@ If you're making an application or tool using our palette, please let us know by
 <!-- the following section is auto-generated, do not edit -->
 - [flotes.app](https://flotes.app/) - A free note-taking app enhanced with flashcard features
 - [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customizable theme for [Obsidian](https://obsidian.md)
+- [faerber](https://farbenfroh.io/faerber) - Website for applying custom color schemes to any wallpaper
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;

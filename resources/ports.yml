@@ -921,4 +921,7 @@ showcases:
     - title: AnuPpuccin
       description: Highly customizable theme for [Obsidian](https://obsidian.md)
       link: https://github.com/AnubisNekhet/AnuPpuccin
+    - title: faerber
+      description: Website for applying custom color schemes to any wallpaper
+      link: https://farbenfroh.io/faerber
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
