@@ -444,6 +444,11 @@ ports:
         platform: userstyle
         icon: monkeytype.svg
         color: text
+    moon-animator-2:
+      name: Moon Animator 2
+      category: game
+      platform: [macos, windows]
+      color: orange
     neomutt:
         name: NeoMutt
         category: cli
