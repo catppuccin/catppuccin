@@ -1153,6 +1153,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
 - [Minecraft](https://github.com/catppuccin/minecraft)
 - [Modrinth](https://github.com/catppuccin/modrinth)
+- [Moon Animator 2](https://github.com/catppuccin/moon-animator-2)
 - [Prism Launcher](https://github.com/catppuccin/prismlauncher)
 - [ULTRAKILL](https://github.com/catppuccin/ultrakill)
 
