@@ -579,6 +579,10 @@ ports:
         name: Remnote
         category: note_taking
         platform: agnostic
+    replit:
+        name: Replit
+        category: code_editor
+        platform: agnostic
     revolt:
         name: Revolt
         category: messaging
