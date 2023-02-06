@@ -3,7 +3,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before you submit your port request, **please read our [submission guidelines](https://github.com/catppuccin/catppuccin/blob/main/docs/contributing.md#submission)!**
+        Before you submit your port request, **please read our [submission guidelines](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md#submission)!**
   - type: checkboxes
     attributes:
       label: Will you make the port?
