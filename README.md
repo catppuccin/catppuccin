@@ -1055,6 +1055,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🔎 Search Engines</summary>
 
+- [NixOS Search](https://github.com/catppuccin/nixos-search)
 - [SearXNG](https://github.com/catppuccin/SearXNG)
 - [Startpage](https://github.com/catppuccin/startpage)
 - [Whoogle](https://github.com/catppuccin/whoogle)
