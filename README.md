@@ -959,7 +959,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Glamour](https://github.com/catppuccin/glamour)
 - [k9s](https://github.com/catppuccin/k9s)
 - [Lazygit](https://github.com/catppuccin/lazygit)
-- [Midning Commander](https://github.com/catppuccin/mc)
+- [Midnight Commander](https://github.com/catppuccin/mc)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [sc-im](https://github.com/catppuccin/sc-im)

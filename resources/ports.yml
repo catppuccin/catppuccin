@@ -416,7 +416,7 @@ ports:
         category: messaging
         platform: agnostic
     mc:
-        name: Midning Commander
+        name: Midnight Commander
         category: cli
         platform: [linux, macos]
     mdBook:
