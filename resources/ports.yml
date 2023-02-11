@@ -363,6 +363,10 @@ ports:
         platform: [linux]
         icon: kde
         color: blue
+    ksyntaxhighlighting:
+        name: KSyntaxHighlighting (Kate, Kwrite, etc)
+        category: code_editor
+        platform: [linux, macos, windows]
     lapce:
         name: Lapce
         category: code_editor
