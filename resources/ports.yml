@@ -67,7 +67,7 @@ ports:
         platform: [linux, macos, windows]
     brave-search:
         name: Brave Search
-        category: productivity
+        category: search_engine
         platform: userstyle
         icon: brave
         color: peach
@@ -139,7 +139,7 @@ ports:
         platform: [linux]
     duckduckgo:
         name: DuckDuckGo
-        category: productivity
+        category: search_engine
         platform: userstyle
         color: peach
     dunst:
