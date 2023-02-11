@@ -907,6 +907,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Helix](https://github.com/catppuccin/helix)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
 - [Kakoune](https://github.com/catppuccin/kakoune)
+- [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
 - [Lapce](https://github.com/catppuccin/lapce)
 - [Micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
