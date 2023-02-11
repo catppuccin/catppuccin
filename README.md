@@ -1055,6 +1055,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🔎 Search Engines</summary>
 
+- [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [NixOS Search](https://github.com/catppuccin/nixos-search)
 - [SearXNG](https://github.com/catppuccin/SearXNG)
 - [Startpage](https://github.com/catppuccin/startpage)
@@ -1095,7 +1096,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Brave Search](https://github.com/catppuccin/brave-search)
 - [Codeberg](https://github.com/catppuccin/codeberg)
 - [DeepL](https://github.com/catppuccin/deepl)
-- [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [Foliate](https://github.com/catppuccin/foliate)
 - [GitHub](https://github.com/catppuccin/github)
 - [ichi.moe](https://github.com/catppuccin/ichi.moe)
