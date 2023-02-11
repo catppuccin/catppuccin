@@ -139,7 +139,7 @@ ports:
         platform: [linux]
     duckduckgo:
         name: DuckDuckGo
-        category: productivity
+        category: search_engine
         platform: userstyle
         color: peach
     dunst:
