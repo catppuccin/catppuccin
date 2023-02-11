@@ -983,6 +983,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [iTerm2](https://github.com/catppuccin/iterm)
 - [Kitty](https://github.com/catppuccin/kitty)
 - [Konsole](https://github.com/catppuccin/konsole)
+- [LXTerminal](https://github.com/catppuccin/lxterminal)
 - [QTerminal](https://github.com/catppuccin/qterminal)
 - [st](https://github.com/catppuccin/st)
 - [Tabby](https://github.com/catppuccin/tabby)
