@@ -137,6 +137,11 @@ ports:
         name: dmenu
         category: system
         platform: [linux]
+    dopamine:
+        name: Dopamine
+        category: leisure
+        platform: [linux, macos, windows]
+        color: blue
     duckduckgo:
         name: DuckDuckGo
         category: search_engine
@@ -191,6 +196,10 @@ ports:
         name: FlorisBoard
         category: system
         platform: [android]
+    fluentterminal:
+        name: Fluent Terminal
+        category: terminal
+        platform: [windows]
     foliate:
         name: Foliate
         category: productivity
