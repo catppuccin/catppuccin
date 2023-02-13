@@ -977,6 +977,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Blink](https://github.com/catppuccin/blink)
 - [Contour](https://github.com/catppuccin/contour)
 - [CRT: cool-retro-term](https://github.com/catppuccin/crt)
+- [Fluent Terminal](https://github.com/catppuccin/fluentterminal)
 - [foot](https://github.com/catppuccin/foot)
 - [GNOME Terminal](https://github.com/catppuccin/gnome-terminal)
 - [Hyper](https://github.com/catppuccin/hyper)
@@ -1136,6 +1137,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Amfora](https://github.com/catppuccin/amfora)
 - [AniList](https://github.com/catppuccin/anilist)
+- [Dopamine](https://github.com/catppuccin/dopamine)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [Last.fm](https://github.com/catppuccin/lastfm)
 - [monkeytype](https://github.com/catppuccin/monkeytype)
