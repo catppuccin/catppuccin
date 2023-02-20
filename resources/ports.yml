@@ -962,4 +962,7 @@ showcases:
     - title: faerber
       description: Website for applying custom color schemes to any wallpaper
       link: https://farbenfroh.io/faerber
+    - title: Simple MP
+      description: A simple music player based on Material You design
+      link: https://github.com/lighttigerXIV/SimpleMP-Compose
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
