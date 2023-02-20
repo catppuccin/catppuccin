@@ -1126,6 +1126,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Invidious](https://github.com/catppuccin/invidious)
 - [Libreddit](https://github.com/catppuccin/libreddit)
 - [Mastodon](https://github.com/catppuccin/mastodon)
+- [Misskey](https://github.com/catppuccin/misskey)
 - [Nitter](https://github.com/catppuccin/nitter)
 - [Reddit](https://github.com/catppuccin/reddit)
 - [Twitch](https://github.com/catppuccin/twitch)
@@ -1182,7 +1183,6 @@ If you're making an application or tool using our palette, please let us know by
 - [flotes.app](https://flotes.app/) - A free note-taking app enhanced with flashcard features
 - [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customizable theme for [Obsidian](https://obsidian.md)
 - [faerber](https://farbenfroh.io/faerber) - Website for applying custom color schemes to any wallpaper
-- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player based on Material You design
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
