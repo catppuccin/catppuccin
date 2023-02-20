@@ -1126,6 +1126,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Invidious](https://github.com/catppuccin/invidious)
 - [Libreddit](https://github.com/catppuccin/libreddit)
 - [Mastodon](https://github.com/catppuccin/mastodon)
+- [Misskey](https://github.com/catppuccin/misskey)
 - [Nitter](https://github.com/catppuccin/nitter)
 - [Reddit](https://github.com/catppuccin/reddit)
 - [Twitch](https://github.com/catppuccin/twitch)
