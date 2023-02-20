@@ -142,6 +142,11 @@ ports:
         category: leisure
         platform: [linux, macos, windows]
         color: blue
+    drracket:
+        name: DrRacket
+        category: code_editor
+        platform: [linux, macos, windows]
+        color: red
     duckduckgo:
         name: DuckDuckGo
         category: search_engine
