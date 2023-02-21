@@ -147,6 +147,7 @@ ports:
         category: code_editor
         platform: [linux, macos, windows]
         color: red
+        icon: racket
     duckduckgo:
         name: DuckDuckGo
         category: search_engine
