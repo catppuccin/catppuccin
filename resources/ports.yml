@@ -691,6 +691,10 @@ ports:
         name: Stable Diffusion WebUI
         category: leisure
         platform: userstyle
+    starship:
+        name: Starship
+        category: cli
+        platform: [linux, macos, windows]
     startpage:
         name: Startpage
         category: search_engine
