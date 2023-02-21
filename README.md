@@ -965,6 +965,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [NeoMutt](https://github.com/catppuccin/neomutt)
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [sc-im](https://github.com/catppuccin/sc-im)
+- [Starship](https://github.com/catppuccin/starship)
 - [tmux](https://github.com/catppuccin/tmux)
 - [Zellij](https://github.com/catppuccin/zellij)
 - [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
