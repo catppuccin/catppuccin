@@ -15,6 +15,64 @@ as a colorscheme for a program that styles every UI component it consists of!
 
 &nbsp;
 
+### Submission Workflow
+
+#### (OPTION 1) Sequence Diagram
+
+```mermaid
+sequenceDiagram
+  participant Port Request
+  participant Port Review
+
+  note over Port Request: Idea for a new port
+  note over Port Request: Create a Port<br>Request discussion
+  note over Port Request: Somebody starts<br>work on a draft
+  note over Port Request: Mention @staff<br>when the port is<br>ready for review
+
+  Port Request-->>Port Review: A port review issue is created by staff
+
+  activate Port Review
+  loop
+  note right of Port Review: Community<br>Feedback
+    Port Review->>Port Review: 
+  end
+  deactivate Port Review
+
+  note over Port Review: Transfer to<br>Catppuccin<br>organization
+```
+
+#### (OPTION 2) Flow Chart
+
+```mermaid
+flowchart TB
+  idea(["💭 Idea for a new port"])
+  request["Create a Port Request discussion on GitHub"]
+  draft["🚧 Somebody starts work on a draft"]
+  portready["Mention @staff when the port is ready for review"]
+  review["Community Feedback"]
+  changes["Changes"]
+  transfer["Transfer to Catppuccin organization"]
+  done(["🎉 Done"])
+
+  portready --A port review issue is created--> review
+
+  subgraph Port Review
+    subgraph  
+      review --> changes
+      changes --> review
+    end
+    review ---> transfer --> done
+  end
+
+  subgraph Port Request
+    idea --> request
+    request --> draft
+    draft --> portready
+  end
+```
+
+&nbsp;
+
 ### Submission
 
 **Q. I have a port that is already themed and ready for review!**
