@@ -1,0 +1,17 @@
+name: Org-Wide Issue
+description: Report your issues with the Catppuccin Organisation here!
+labels: [meta]
+body:
+  - type: checkboxes
+    attributes:
+      label: Is there an existing issue for this?
+      description: Please search to see if an issue already exists for your concerns.
+      options:
+        - label: I have searched the existing issues.
+          required: true
+  - type: textarea
+    attributes:
+      label: What is your concern?
+      description: Raise your concern regarding the Catppuccin organisation.
+    validations:
+      required: true
