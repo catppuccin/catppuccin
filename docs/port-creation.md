@@ -34,61 +34,41 @@ as a colorscheme for a program that styles every UI component it consists of!
 - [Maintenance](#maintenance) - Details on the maintenance of ports after they
   have been transferred into the organization!
 
+&nbsp;
+
 ### Workflow
 
-#### (OPTION 1) Sequence Diagram
-
 ```mermaid
-sequenceDiagram
-  participant Port Request
-  participant Port Review
+stateDiagram-v2
+  idea: Port idea
+  idea --> choice
+  choice: Are you willing to make the port?
 
-  note over Port Request: Idea for a new port
-  note over Port Request: Create a Port<br>Request discussion
-  note over Port Request: Somebody starts<br>work on a draft
-  note over Port Request: Mention @staff<br>when the port is<br>ready for review
+  choice --> author: Yes
+  author: Work on a draft for a port
+  author --> author_done
+  author_done: Once finished, create an issue
+  author_done --> staff_mention
 
-  Port Request-->>Port Review: A port review issue is created by staff
+  choice --> request: No
+  request: Open a Port Request discussion
+  request_picked_up: Somebody starts work on a draft
+  request --> request_picked_up
+  request_picked_up --> staff_mention
 
-  activate Port Review
-  loop
-  note right of Port Review: Community<br>Feedback
-    Port Review->>Port Review: 
-  end
-  deactivate Port Review
+  staff_mention: Mention @staff when the port is ready for review
+  staff_mention --> review
+  review: Review period
+  review --> port_adoption
 
-  note over Port Review: Transfer to<br>Catppuccin<br>organization
+  note right of review
+    Community feedback
+  end note
+
+  port_adoption: Port adoption
 ```
 
-#### (OPTION 2) Flow Chart
-
-```mermaid
-flowchart TB
-  idea(["💭 Idea for a new port"])
-  request["Create a Port Request discussion on GitHub"]
-  draft["🚧 Somebody starts work on a draft"]
-  portready["Mention @staff when the port is ready for review"]
-  review["Community Feedback"]
-  changes["Changes"]
-  transfer["Transfer to Catppuccin organization"]
-  done(["🎉 Done"])
-
-  portready --A port review issue is created--> review
-
-  subgraph Port Review
-    subgraph  
-      review --> changes
-      changes --> review
-    end
-    review ---> transfer --> done
-  end
-
-  subgraph Port Request
-    idea --> request
-    request --> draft
-    draft --> portready
-  end
-```
+&nbsp;
 
 ### FAQ
 
