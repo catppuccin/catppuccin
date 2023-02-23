@@ -3,10 +3,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for taking the time to suggest a port! Catppuccin wouldn't be where it is without you <3
-
         > **Note** <br>
-        > If you have already themed your port and are looking to get it reviewed, please raise a [port review]() issue instead!
+        > If you have already themed your port and are looking to get it reviewed, please raise a [port review](https://github.com/catppuccin/catppuccin/issues/new?assignees=&labels=port+request%2Cready+for+review&template=port+review.md&title=Name+of+the+application%2Ftool%2Fwebsite%2Fetc.) issue instead!
   - type: checkboxes
     attributes:
       label: Will you make the port?
@@ -25,25 +23,9 @@ body:
       description: Add any information that hasn't been covered in the previous sections!
   - type: checkboxes
     attributes:
-      label: Code Of Conduct
-      description: By suggesting this port, you agree to follow our [Code
-        of Conduct](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md)
-      options:
-        - label: I agree to follow Catppuccin's Code Of Conduct.
-          required: true
-  - type: checkboxes
-    attributes:
       label: Submission Guidelines
       description: By suggesting this port, you have followed our submission
         guidelines for [port reviews](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md#submission)
       options:
         - label: I have read and followed Catppuccin's submission guidelines.
           required: true
-  - type: checkboxes
-    attributes:
-      label: Style Guidelines
-      description: If you have already started working on your port, ensure that you
-        have followed our [style guidelines](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md#styling)
-      options:
-        - label: I have read and followed Catppuccin's style guidelines.
-          required: false
