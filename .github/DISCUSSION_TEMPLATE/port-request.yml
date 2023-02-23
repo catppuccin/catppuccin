@@ -4,7 +4,7 @@ body:
     attributes:
       value: |
         > **Note** <br>
-        > If you have already themed your port and are looking to get it reviewed, please raise a [port review](https://github.com/catppuccin/catppuccin/issues/new?assignees=&labels=port+request%2Cready+for+review&template=port+review.md&title=Name+of+the+application%2Ftool%2Fwebsite%2Fetc.) issue instead!
+        > If you have already themed your port and are looking to get it reviewed, please raise a [port review](https://github.com/catppuccin/catppuccin/issues/new?assignees=&template=port+review.yml&title=Name+of+the+application%2Ftool%2Fwebsite%2Fetc.) issue instead!
   - type: checkboxes
     attributes:
       label: Will you make the port?
@@ -24,8 +24,8 @@ body:
   - type: checkboxes
     attributes:
       label: Submission Guidelines
-      description: By suggesting this port, you have followed our submission
-        guidelines for [port reviews](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md#submission)
+      description: By suggesting this port, you have followed our submission guidelines
+        for [port reviews](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md#submission)
       options:
         - label: I have read and followed Catppuccin's submission guidelines.
           required: true

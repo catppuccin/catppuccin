@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Port Suggestion
-    url: https://github.com/catppuccin/catppuccin/discussions/new?category=port-suggestions
+  - name: Port Requests
+    url: https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests
     about: Have an idea for a port or currently theming one? Raise a discussion here!
   - name: Community Discord
     url: https://discord.com/invite/r6Mdz5dpFc

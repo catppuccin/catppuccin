@@ -1,7 +1,6 @@
 name: Port Review
 description: Have a port already themed? Submit it for review here!
 title: "Name of the application/tool/website/etc."
-labels: ["port request", "ready for review"]
 body:
   - type: input
     attributes:
