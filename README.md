@@ -896,7 +896,7 @@ If you're interested in using our palette for your own project, make sure to che
 out [catppuccin/palette](https://github.com/catppuccin/palette) where you can find integrations with popular frameworks
 and tools.
 
-If you already have a project using our palette, don't forget to add it to
+Already have a project making use of our palette? Don't forget to add it to
 our [showcase](#-showcase) section below!
 
 &nbsp;
@@ -905,9 +905,9 @@ our [showcase](#-showcase) section below!
 
 > **Note** <br>
 > if you would like to submit a port or learn how to port Catppuccin to a program, please refer to
-> the [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md).
+> the [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md)
 
-See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md).
+See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md)
 
 &nbsp;
 
