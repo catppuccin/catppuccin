@@ -890,6 +890,27 @@ the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-
 
 &nbsp;
 
+### 🔧 Usage
+
+If you're interested in using our palette for your own project, make sure to check
+out [catppuccin/palette](https://github.com/catppuccin/palette) where you can find integrations with popular frameworks
+and tools.
+
+If you already have a project using our palette, don't forget to add it to
+our [showcase](#-showcase) section below!
+
+&nbsp;
+
+### 👐 Contributing
+
+> **Note** <br>
+> if you would like to submit a port or learn how to port Catppuccin to a program, please refer to
+> the [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md).
+
+See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md).
+
+&nbsp;
+
 ### 🪵 Ports and more!
 
 Catppuccin is available for various apps and in different formats. Here is a list of them:
@@ -1187,27 +1208,6 @@ If you're making an application or tool using our palette, please let us know by
 - [faerber](https://farbenfroh.io/faerber) - Website for applying custom color schemes to any wallpaper
 - [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player based on Material You design
 <!-- AUTOGEN:SHOWCASE END -->
-
-&nbsp;
-
-### 👐 Contributing
-
-> **Note** <br>
-> if you would like to submit a port or learn how to port Catppuccin to a program, please refer to
-> the [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md).
-
-See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md).
-
-&nbsp;
-
-### 🔧 Usage
-
-If you're interested in using our palette for your own project, make sure to check
-out [catppuccin/palette](https://github.com/catppuccin/palette) where you can find integrations with popular frameworks
-and tools.
-
-If you already have a project using our palette, don't forget to add it to
-our [showcase](#-showcase) section above!
 
 &nbsp;
 
