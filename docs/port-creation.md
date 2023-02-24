@@ -23,10 +23,15 @@ as a colorscheme for a program that styles every UI component it consists of!
 > and we, the staff team, reserve the right to choose what ports will be
 > included under the organization.
 
+Read through the following headings to ensure that you're adhering to our
+submission guidelines!
+
 - [Workflow](#workflow) - View the ideal Catppuccin port workflow from start to
   finish!
 - [FAQ](#faq) - Unsure where to start? You can find the answers to your
   questions here!
+- [Creation](#creation) - Start creating your ports with our template
+  repository!
 - [Styling](#styling) - Already started work on your port? Make sure you're
   following our style guidelines!
 - [Licensing](#licensing) - Important information about the licensing of ports
@@ -137,12 +142,13 @@ ensure consistency:
   `<app name>`".
   - `<emoji>` should be an emoji that you feel represents the app best.
   - `<app name>` is the name of the app, capitalized properly.
-- Add `catppuccin`, and `theme` to the topics.
+- Add `catppuccin`, `theme`, and the name of the application (e.g.
+  `unreal-engine`) to the topics.
 - Ensure that you have generated the repository following the
   [creation](#creation) steps above.
   - Where possible, try to use
     [relative links](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
-    for linking assets in the README.md.
+    for linking assets in the README.md
   - Update badges on README.md to point towards your repository link instead of
     the template repository.
   - Add yourself to the **Thanks to** section \<3
@@ -154,14 +160,16 @@ ensure consistency:
 
 ### Maintenance
 
-We, the staff team, completely understand that submitting a port may seem
-daunting for the sole purposes of the pressures of involvement in Catppuccin
-past the initial transfer of your port to the organization.
+The staff team wants to let you know that we understand submitting a port may
+feel overwhelming. But don't worry, **we don't expect you to keep maintaining
+your port after it's been transferred to us**. We would love for you to continue
+helping out, but we understand if that's not possible.
 
-We would like to re-assure you that **we do not expect maintainers to keep
-maintaining their ports for the rest of eternity**. While, of course, we would
-love nothing more than for you to stick around. We understand that it's not
-always possible for a plethora of reasons.
+When you submit your port to be transferred, think of it as offering it up for
+co-maintenance. This means you'll work with the staff team to maintain the port
+together! Our main focus will be to maintain consistent quality and
+accessibility standards across all ports. We'll also provide feedback on ways to
+improve your port and help fix any technical issues.
 
 When you submit your port to be merged into the organization, please think of it
 as offering your port for co-maintenance involving yourself and the entirety of
@@ -171,8 +179,8 @@ the staff team!
 
 ### Licensing
 
-Any contribution will be published under the same licensing terms as the project
-itself. However, there are
+Any contribution will be published under the same licensing terms (MIT) as the
+project itself. However, there are
 [exceptions to this rule](https://github.com/search?q=org%3Acatppuccin+-license%3Amit).
 Please get in touch with us if that is the case with your work!
 
