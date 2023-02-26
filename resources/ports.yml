@@ -151,7 +151,7 @@ ports:
     duckduckgo:
         name: DuckDuckGo
         category: search_engine
-        platform: userstyle
+        platform: agnostic
         color: peach
     dunst:
         name: Dunst
@@ -690,7 +690,7 @@ ports:
     stable-diffusion-web-ui:
         name: Stable Diffusion WebUI
         category: leisure
-        platform: userstyle
+        platform: agnostic
     starship:
         name: Starship
         category: cli
