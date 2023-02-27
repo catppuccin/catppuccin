@@ -45,24 +45,25 @@ submission guidelines!
 
 ```mermaid
 stateDiagram-v2
-  idea: Port idea
+  idea: You have an idea for a port
   idea --> choice
-  choice: Are you willing to make the port?
 
-  choice --> author: Yes
-  author: Work on a draft for a port
-  author --> author_done
-  author_done: Once finished, create an issue
-  author_done --> staff_mention
-
+  choice: Have you already completed a draft?
+  choice --> draft_complete: Yes
   choice --> request: No
-  request: Open a Port Request discussion
-  request_picked_up: Somebody starts work on a draft
-  request --> request_picked_up
-  request_picked_up --> staff_mention
 
-  staff_mention: Mention @staff when the port is ready for review
-  staff_mention --> review
+  request: Open a Port Request discussion
+  request --> request_picked_up
+  
+  request_picked_up: You or somebody else works on a draft
+  request_picked_up --> request_complete
+
+  request_complete: The draft is completed to your liking
+  request_complete --> draft_complete
+  
+  draft_complete: Create a Port Review issue
+  draft_complete --> review
+
   review: Review period
   review --> port_adoption
 
