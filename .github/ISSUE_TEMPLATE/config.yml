@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Port Requests
+  - name: Port Request
     url: https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests
     about: Have an idea for a port or currently theming one? Raise a discussion here!
   - name: Community Discord
