@@ -4,7 +4,7 @@ body:
     attributes:
       value: |
         > **Note** <br>
-        > If you have already themed your port and are looking to get it reviewed, please raise a [port review](https://github.com/catppuccin/catppuccin/issues/new?assignees=&template=port+review.yml&title=Name+of+the+application%2Ftool%2Fwebsite%2Fetc.) issue instead!
+        > If you have already themed your port and are looking to get it reviewed, please raise a [port review](https://github.com/catppuccin/catppuccin/issues/new?assignees=&labels=&template=port-review.yml&title=Name+of+the+application%2Ftool%2Fwebsite%2Fetc.) issue instead!
   - type: checkboxes
     attributes:
       label: Will you make the port?
