@@ -1,0 +1,26 @@
+name: Port Review
+description: Have a port already themed? Submit it for review here!
+title: "Name of the application/tool/website/etc."
+body:
+  - type: input
+    attributes:
+      label: Link to repository
+      description: Please link the repository of the port.
+      placeholder: https://github.com/user/example.git
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Screenshots
+      description: Show off some screenshots of the completed port!
+  - type: textarea
+    attributes:
+      label: Any additional comments?
+      description: Add any information that hasn't been covered in the previous sections!
+  - type: checkboxes
+    attributes:
+      label: Submission Guidelines
+      description: By submitting this port for review, you have followed our [submission guidelines](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md#submission)
+      options:
+        - label: I have read and followed Catppuccin's submission guidelines.
+          required: true

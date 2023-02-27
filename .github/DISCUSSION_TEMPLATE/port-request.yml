@@ -1,0 +1,30 @@
+title: "Name of the application/tool/website/etc"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > **Note** <br>
+        > If you have already themed your port and are looking to get it reviewed, please raise a [port review](https://github.com/catppuccin/catppuccin/issues/new?assignees=&template=port+review.yml&title=Name+of+the+application%2Ftool%2Fwebsite%2Fetc.) issue instead!
+  - type: checkboxes
+    attributes:
+      label: Will you make the port?
+      description: The port has a much higher chance of completion if you are willing
+        to get involved!
+      options:
+        - label: Yes, I'm willing to make the port
+  - type: textarea
+    attributes:
+      label: How can the suggested port be themed?
+      description: Please link to relevant documentation or other examples of themes
+        being applied to the suggested port.
+  - type: textarea
+    attributes:
+      label: Any additional comments?
+      description: Add any information that hasn't been covered in the previous sections!
+  - type: checkboxes
+    attributes:
+      label: Submission Guidelines
+      description: By suggesting this port, you have followed our [submission guidelines](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md#submission)
+      options:
+        - label: I have read and followed Catppuccin's submission guidelines.
+          required: true

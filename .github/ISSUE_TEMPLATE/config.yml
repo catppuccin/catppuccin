@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Port Request
     url: https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests
-    about: Make your port requests via GitHub discussions!
+    about: Have an idea for a port or currently theming one? Raise a discussion here!
   - name: Community Discord
     url: https://discord.com/invite/r6Mdz5dpFc
     about: Ask questions and chat to other community members!
