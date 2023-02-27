@@ -171,10 +171,6 @@ together! Our main focus will be to maintain consistent quality and
 accessibility standards across all ports. We'll also provide feedback on ways to
 improve your port and help fix any technical issues.
 
-When you submit your port to be merged into the organization, please think of it
-as offering your port for co-maintenance involving yourself and the entirety of
-the staff team!
-
 &nbsp;
 
 ### Licensing
@@ -182,7 +178,8 @@ the staff team!
 Any contribution will be published under the same licensing terms (MIT) as the
 project itself. However, there are
 [exceptions to this rule](https://github.com/search?q=org%3Acatppuccin+-license%3Amit).
-Please get in touch with us if that is the case with your work!
+Please get in touch with us, if the application you're theming has licensing
+restrictions, or your work is a derivative of a stricter license (e.g. [cursors](https://github.com/catppuccin/cursors#info)).
 
 &nbsp;
 
