@@ -280,6 +280,10 @@ ports:
         name: Helix
         category: code_editor
         platform: [linux, macos, windows]
+    heroic:
+        name: Heroic
+        category: leisure
+        platform: [linux, macos, windows]
     hexchat:
         name: HexChat
         category: messaging
