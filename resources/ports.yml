@@ -610,6 +610,10 @@ ports:
         platform: userstyle
         color: red
         icon: reddit
+    refind:
+        name: rEFInd
+        category: system
+        platform: [linux]
     regolith:
         name: Regolith Desktop
         category: system
