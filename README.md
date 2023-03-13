@@ -1049,6 +1049,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Polybar](https://github.com/catppuccin/polybar)
 - [qt5ct](https://github.com/catppuccin/qt5ct)
 - [Rboard](https://github.com/catppuccin/rboard)
+- [rEFInd](https://github.com/catppuccin/refind)
 - [Regolith Desktop](https://github.com/catppuccin/regolith)
 - [Rofi](https://github.com/catppuccin/rofi)
 - [SDDM](https://github.com/catppuccin/sddm)
