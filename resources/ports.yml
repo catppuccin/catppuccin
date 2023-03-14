@@ -172,7 +172,7 @@ ports:
     elk:
         name: Elk
         category: social
-        platform: agnostic
+        platform: userstyle
     emacs:
         name: Emacs
         category: code_editor
