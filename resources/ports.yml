@@ -857,7 +857,7 @@ ports:
     whoogle:
         name: Whoogle
         category: search_engine
-        platform: userstyle
+        platform: agnostic
     wikiwand:
         name: WikiWand
         category: productivity
