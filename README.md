@@ -941,6 +941,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Vim](https://github.com/catppuccin/vim)
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
 - [Visual Studio Code](https://github.com/catppuccin/vscode)
+- [Visual Studio Code Icons](https://github.com/catppuccin/vscode-icons)
 - [Xcode](https://github.com/catppuccin/xcode)
 - [Xed](https://github.com/catppuccin/xed)
 
