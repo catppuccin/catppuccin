@@ -474,7 +474,7 @@ ports:
     monkeytype:
         name: monkeytype
         category: leisure
-        platform: userstyle
+        platform: agnostic
         icon: monkeytype.svg
         color: text
     moon-animator-2:
