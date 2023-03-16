@@ -1125,6 +1125,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Codeberg](https://github.com/catppuccin/codeberg)
 - [DeepL](https://github.com/catppuccin/deepl)
 - [Foliate](https://github.com/catppuccin/foliate)
+- [FreshRSS](https://github.com/catppuccin/freshrss)
 - [GitHub](https://github.com/catppuccin/github)
 - [ichi.moe](https://github.com/catppuccin/ichi.moe)
 - [Mailspring](https://github.com/catppuccin/mailspring)
