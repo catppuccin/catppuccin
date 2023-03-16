@@ -841,6 +841,12 @@ ports:
         platform: [linux, macos, windows]
         color: blue
         icon: visualstudiocode
+    vscode-icons:
+        name: Visual Studio Code Icons
+        category: code_editor
+        platform: [linux, macos, windows]
+        color: blue
+        icon: visualstudiocode
     warp:
         name: Warp
         category: terminal
