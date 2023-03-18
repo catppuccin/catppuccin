@@ -912,7 +912,7 @@ ports:
     youtubemusic:
         name: YouTube Music
         category: leisure
-        platform: userstyle
+        platform: agnostic
         color: red
     zathura:
         name: Zathura
