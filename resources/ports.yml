@@ -202,6 +202,10 @@ ports:
         name: FlorisBoard
         category: system
         platform: [android]
+    flow-launcher:
+        name: Flow Launcher
+        category: system
+        platform: [windows]
     fluentterminal:
         name: Fluent Terminal
         category: terminal
