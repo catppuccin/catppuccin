@@ -1035,6 +1035,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Dunst](https://github.com/catppuccin/dunst)
 - [fcitx5](https://github.com/catppuccin/fcitx5)
 - [FlorisBoard](https://github.com/catppuccin/floris-board)
+- [Flow Launcher](https://github.com/catppuccin/flow-launcher)
 - [GRUB](https://github.com/catppuccin/grub)
 - [GTK](https://github.com/catppuccin/gtk)
 - [Hyprland](https://github.com/catppuccin/hyprland)
