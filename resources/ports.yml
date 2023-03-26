@@ -234,6 +234,12 @@ ports:
         name: Gedit
         category: code_editor
         platform: [linux]
+    gitea:
+        name: Gitea
+        category: productivity
+        platform: agnostic
+        color: green
+        icon: gitea
     github:
         name: GitHub
         category: productivity
