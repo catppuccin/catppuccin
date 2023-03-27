@@ -1166,6 +1166,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Amfora](https://github.com/catppuccin/amfora)
 - [AniList](https://github.com/catppuccin/anilist)
+- [Cider](https://github.com/catppuccin/cider)
 - [Dopamine](https://github.com/catppuccin/dopamine)
 - [Heroic](https://github.com/catppuccin/heroic)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
