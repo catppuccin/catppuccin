@@ -85,6 +85,11 @@ ports:
         platform: [linux, macos, windows]
         icon: googlechrome
         color: yellow
+    cider:
+        name: Cider
+        category: leisure
+        platform: [linux, macos, windows]
+        color: red
     cinny:
         name: Cinny
         category: messaging
