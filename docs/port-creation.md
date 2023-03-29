@@ -127,7 +127,14 @@ template as a blueprint.
    git remote remove origin
    ```
 
-4. Set up the rest of your port, and push it to your user repository!
+4. Squash previous commits down to one initial commit
+> This removes the template authors from appearing as contributors to your new port
+
+   ```
+   git reset $(git commit-tree HEAD^{tree} -m "init: Start new port")
+   ```
+
+5. Set up the rest of your port, and push it to your user repository!
 
 &nbsp;
 
