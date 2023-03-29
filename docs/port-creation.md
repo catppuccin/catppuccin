@@ -128,8 +128,8 @@ template as a blueprint.
    ```
 
 4. Squash previous commits down to one initial commit
-> This removes the template authors from appearing as contributors to your new port
 
+   > This removes the template authors from appearing as contributors to your new port
    ```
    git reset $(git commit-tree HEAD^{tree} -m "init: Start new port")
    ```
