@@ -104,8 +104,10 @@ Join our community!
 ### 🎨 Palette
 
 **Catppuccin** consists of 4 beautiful pastel color palettes, named **flavors**. All the details can be found below.<br>
-To make the best use of them, please refer to
-the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md).
+If you want to use them for your own project, refer to our [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md) for general use cases and guidelines. Additionally, you can find integrations with popular frameworks and tools in [catppuccin/palette](https://github.com/catppuccin/palette).
+
+Already have a project making use of our palette? Don't forget to add it to
+our [showcase](#-showcase) section below!
 <br><img src="assets/misc/transparent.png" height="10" width="0" />
 
 <details>
@@ -887,17 +889,6 @@ the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-
 	</tr>
 </table>
 </details>
-
-&nbsp;
-
-### 🔧 Usage
-
-If you're interested in using our palette for your own project, make sure to check
-out [catppuccin/palette](https://github.com/catppuccin/palette) where you can find integrations with popular frameworks
-and tools.
-
-Already have a project making use of our palette? Don't forget to add it to
-our [showcase](#-showcase) section below!
 
 &nbsp;
 
