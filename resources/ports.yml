@@ -37,6 +37,10 @@ ports:
         category: cli
         platform: [linux, macos, windows]
         icon: bat.svg
+    bemenu:
+        name: bemenu
+        category: system
+        platform: [linux]
     bento:
         name: Bento
         category: productivity
@@ -61,10 +65,6 @@ ports:
         name: Blockbench
         category: game
         platform: [linux, macos, windows]
-    bmenu:
-        name: bmenu
-        category: system
-        platform: [linux]
     bottom:
         name: bottom
         category: cli
