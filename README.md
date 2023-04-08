@@ -1020,7 +1020,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🔧 System</summary>
 
 - [Base16](https://github.com/catppuccin/base16)
-- [bmenu](https://github.com/catppuccin/bmenu)
+- [bemenu](https://github.com/catppuccin/bemenu)
 - [Conky](https://github.com/catppuccin/conky)
 - [Cursors](https://github.com/catppuccin/cursors)
 - [dmenu](https://github.com/catppuccin/dmenu)
