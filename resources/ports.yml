@@ -61,6 +61,10 @@ ports:
         name: Blockbench
         category: game
         platform: [linux, macos, windows]
+    bmenu:
+        name: bmenu
+        category: system
+        platform: [linux]
     bottom:
         name: bottom
         category: cli
