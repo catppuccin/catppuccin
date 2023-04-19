@@ -1175,8 +1175,8 @@
       Changed Line BG
     </td>
 		<td>
-      Blue (<strong>10% - 20% Opacity)</strong><br>
-      Blue (<strong>15% - 25% Opacity)</strong>
+      Blue <strong>(10% - 20% Opacity)</strong><br>
+      Blue <strong>(15% - 25% Opacity)</strong>
     </td>
 		<td>
       <img src="../assets/palette/circles/latte_blue.png" height="16" width="16"/>
@@ -1195,8 +1195,8 @@
       Inserted Line BG
     </td>
 		<td>
-      Green <strong>10% - 20% Opacity</strong><br>
-      Green <strong>15% - 25% Opacity</strong>
+      Green <strong>(10% - 20% Opacity)</strong><br>
+      Green <strong>(15% - 25% Opacity)</strong>
     </td>
 		<td>
       <img src="../assets/palette/circles/latte_green.png" height="16" width="16"/>
@@ -1215,8 +1215,8 @@
       Removed Line BG
     </td>
 		<td>
-      Red <strong>10% - 20% Opacity</strong><br>
-      Red <strong>15% - 25% Opacity</strong>
+      Red <strong>(10% - 20% Opacity)</strong><br>
+      Red <strong>(15% - 25% Opacity)</strong>
     </td>
 		<td>
       <img src="../assets/palette/circles/latte_red.png" height="16" width="16"/>
