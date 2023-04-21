@@ -1124,6 +1124,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [ichi.moe](https://github.com/catppuccin/ichi.moe)
 - [Mailspring](https://github.com/catppuccin/mailspring)
 - [OBS Studio](https://github.com/catppuccin/obs)
+- [PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
 - [Proton](https://github.com/catppuccin/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
 - [ShareX](https://github.com/catppuccin/sharex)
