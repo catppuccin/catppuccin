@@ -584,6 +584,11 @@ ports:
         name: Polybar
         category: system
         platform: [linux]
+    powerpoint-slides:
+        name: PowerPoint Slides
+        category: productivity
+        icon: microsoftpowerpoint
+        platform: [macos, windows]
     prismlauncher:
         name: Prism Launcher
         category: game
