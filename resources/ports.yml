@@ -751,6 +751,10 @@ ports:
         name: SumatraPDF
         category: productivity
         platform: [windows]
+    swaync:
+        name: SwayNotificationCenter
+        category: system
+        platform: [linux]
     tabby:
         name: Tabby
         category: terminal
