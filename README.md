@@ -1047,6 +1047,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Regolith Desktop](https://github.com/catppuccin/regolith)
 - [Rofi](https://github.com/catppuccin/rofi)
 - [SDDM](https://github.com/catppuccin/sddm)
+- [SwayNotificationCenter](https://github.com/catppuccin/swaync)
 - [tty](https://github.com/catppuccin/tty)
 - [Ulauncher](https://github.com/catppuccin/ulauncher)
 - [waybar](https://github.com/catppuccin/waybar)
