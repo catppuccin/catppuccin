@@ -127,7 +127,9 @@ template as a blueprint.
    git remote remove origin
    ```
 
-4. Set up the rest of your port, and push it to your user repository!
+4. Delete the `.git` folder at the root of the repository and run `git init`. This removes the template authors from appearing as contributors to your new port.
+
+5. Set up the rest of your port, and push it to your user repository!
 
 &nbsp;
 
