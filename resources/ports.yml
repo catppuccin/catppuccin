@@ -364,6 +364,10 @@ ports:
         platform: [macos]
         icon: iterm2
         color: green
+    java:
+        name: Java
+        category: library
+        platform: agnostic
     jetbrains:
         name: JetBrains
         category: code_editor
@@ -516,6 +520,10 @@ ports:
     nighttab:
         name: Nighttab
         category: browser_extension
+        platform: agnostic
+    nim:
+        name: Nim
+        category: library
         platform: agnostic
     nitter:
         name: Nitter
