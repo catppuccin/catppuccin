@@ -955,6 +955,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>📚 Libraries</summary>
 
 - [Go](https://github.com/catppuccin/go)
+- [Java](https://github.com/catppuccin/java)
+- [Nim](https://github.com/catppuccin/nim)
 - [Pantone](https://github.com/catppuccin/pantone)
 - [Python](https://github.com/catppuccin/python)
 - [Rust](https://github.com/catppuccin/rust)
