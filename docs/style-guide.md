@@ -1190,7 +1190,7 @@
 			<td style="background-image: linear-gradient(to bottom, #CBA6F7, #F38BA8, #F5E0DC);"></td>
 		</table>
 	</td>
-	<td rowspan="3" valign="top">Accent gradients should be used sparingly.<br>Thin lines should be used whenever possible.<br>Example gradients shown have been enlarged<br>for easier viewing.</td>
+	<td rowspan="3" valign="top">Accent gradients should be used sparingly.<br>Thin lines should be used whenever possible.<br>Example gradients shown are larger for better viewing.</td>
 </tr>
 <tr>
 	<td>Middle</td>
