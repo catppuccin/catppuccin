@@ -1169,8 +1169,7 @@
 </tr>
 <tr>
 	<th>Syntax</th>
-	<th colspan="2">Color</th>
-	<th colspan="1">Examples</th>
+	<th colspan="3">Color</th>
 	<th>Notes</th>
 </tr>
 <tr>
@@ -1183,14 +1182,12 @@
 		<img src="../assets/palette/circles/mocha_mauve.png" height="16" width="16"/>
 	</td>
 	<td rowspan="3" style="height:200px; padding:0;">
-		<table style="height:100%; width:2px; padding:0; margin:0;">
-			<td style="background-image: linear-gradient(to bottom, #8839EF, #D20F39, #DC8A78);"></td>
-			<td style="background-image: linear-gradient(to bottom, #CA9EE6, #E78284, #F2D5CF);"></td>
-			<td style="background-image: linear-gradient(to bottom, #C6A0F6, #ED8796, #F4DBD6);"></td>
-			<td style="background-image: linear-gradient(to bottom, #CBA6F7, #F38BA8, #F5E0DC);"></td>
-		</table>
+		<img src="../assets/palette/gradients/accent_latte.png" width="3" height="200">
+		<img src="../assets/palette/gradients/accent_frappe.png" width="3" height="200">
+		<img src="../assets/palette/gradients/accent_mach.png" width="3" height="200">
+		<img src="../assets/palette/gradients/accent_mocha.png" width="3" height="200">
 	</td>
-	<td rowspan="3" valign="top">Accent gradients should be used sparingly.<br>Thin lines should be used whenever possible.<br>Example gradients shown are larger for better viewing.</td>
+	<td rowspan="3" valign="top">Accent gradients should be used sparingly.<br>Thin lines should be used whenever possible.</td>
 </tr>
 <tr>
 	<td>Middle</td>
