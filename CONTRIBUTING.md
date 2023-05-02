@@ -19,5 +19,5 @@ changes to this document in a pull request.
 - If it's your first time contributing to a project then you should look to the
   popular [first-contributions](https://github.com/firstcontributions/first-contributions) repository on GitHub. This
   will give you hands-on experience with the features of GitHub required to make a contribution. As always, feel free to
-  join our [Discord](https://discord.com/invite/r6Mdz5dpFc) to ask any questions and clarify your understanding, we are
+  join our [Discord](https://discord.com/servers/catppuccin-907385605422448742) to ask any questions and clarify your understanding, we are
   more than happy to help!

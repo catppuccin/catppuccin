@@ -93,7 +93,7 @@ it!**
 The discussion will be transferred to an issue by the
 [staff team](https://github.com/orgs/catppuccin/teams/staff/members) once we
 have deemed the port ready to be reviewed! Feel free to join our
-[Discord](https://discord.com/invite/r6Mdz5dpFc) and share it there too!
+[Discord](https://discord.com/servers/catppuccin-907385605422448742) and share it there too!
 
 **Q. What types of ports won't be accepted?**
 
