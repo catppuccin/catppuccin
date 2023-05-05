@@ -525,6 +525,10 @@ ports:
         name: Nim
         category: library
         platform: agnostic
+    nilesoft-shell:
+        name: Nilesoft Shell
+        category: system
+        platform: [windows]
     nitter:
         name: Nitter
         category: social
