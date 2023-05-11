@@ -50,15 +50,11 @@
   <tr>
     <td>Surface Elements</td>
     <td>
-      Surface 1<br>
-      Surface 0,<br>
-      Surface 1
+      Surface 0<br>
+      Surface 1,<br>
+      Surface 2
     </td>
     <td>
-      <img src="../assets/palette/circles/latte_surface1.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/frappe_surface1.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/macchiato_surface1.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/mocha_surface1.png" height="16" width="16"/><br>
       <img src="../assets/palette/circles/latte_surface0.png" height="16" width="16"/>
       <img src="../assets/palette/circles/frappe_surface0.png" height="16" width="16"/>
       <img src="../assets/palette/circles/macchiato_surface0.png" height="16" width="16"/>
@@ -66,21 +62,21 @@
       <img src="../assets/palette/circles/latte_surface1.png" height="16" width="16"/>
       <img src="../assets/palette/circles/frappe_surface1.png" height="16" width="16"/>
       <img src="../assets/palette/circles/macchiato_surface1.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/mocha_surface1.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/mocha_surface1.png" height="16" width="16"/><br>
+      <img src="../assets/palette/circles/latte_surface2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/frappe_surface2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/macchiato_surface2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/mocha_surface2.png" height="16" width="16"/>
     </td>
   </tr>
   <tr>
     <td>Overlays</td>
     <td>
-      Overlay 1,<br>
       Overlay 0,<br>
-      Overlay 1
+      Overlay 1,<br>
+      Overlay 2
     </td>
     <td>
-      <img src="../assets/palette/circles/latte_overlay1.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/frappe_overlay1.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/macchiato_overlay1.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/mocha_overlay1.png" height="16" width="16"/><br>
       <img src="../assets/palette/circles/latte_overlay0.png" height="16" width="16"/>
       <img src="../assets/palette/circles/frappe_overlay0.png" height="16" width="16"/>
       <img src="../assets/palette/circles/macchiato_overlay0.png" height="16" width="16"/>
@@ -88,7 +84,11 @@
       <img src="../assets/palette/circles/latte_overlay1.png" height="16" width="16"/>
       <img src="../assets/palette/circles/frappe_overlay1.png" height="16" width="16"/>
       <img src="../assets/palette/circles/macchiato_overlay1.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/mocha_overlay1.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/mocha_overlay1.png" height="16" width="16"/><br>
+      <img src="../assets/palette/circles/latte_overlay2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/frappe_overlay2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/macchiato_overlay2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/mocha_overlay2.png" height="16" width="16"/>
     </td>
   </tr>
   <tr>
