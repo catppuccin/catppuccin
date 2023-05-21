@@ -509,6 +509,10 @@ ports:
         category: game
         platform: [macos, windows]
         color: peach
+    musicbee:
+        name: MusicBee
+        category: leisure
+        platform: [windows]
     neomutt:
         name: NeoMutt
         category: cli
