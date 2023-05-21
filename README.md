@@ -1169,6 +1169,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [Last.fm](https://github.com/catppuccin/lastfm)
 - [monkeytype](https://github.com/catppuccin/monkeytype)
+- [MusicBee](https://github.com/catppuccin/musicbee)
 - [PyRadio](https://github.com/catppuccin/pyradio)
 - [Spicetify](https://github.com/catppuccin/spicetify)
 - [spotify-player](https://github.com/catppuccin/spotify-player)
