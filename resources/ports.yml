@@ -606,6 +606,12 @@ ports:
         icon: microsoftpowerpoint
         color: red
         platform: [macos, windows]
+    powershell:
+        name: PowerShell
+        category: cli
+        icon: powershell
+        platform: agnostic
+        color: blue
     prismlauncher:
         name: Prism Launcher
         category: game
