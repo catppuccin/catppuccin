@@ -1214,6 +1214,7 @@ If you're making an application or tool using our palette, please let us know by
 - [faerber](https://farbenfroh.io/faerber) - Website for applying custom color schemes to any wallpaper
 - [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player based on Material You design
 - [Comfy](https://github.com/Comfy-Themes/Spicetify) - A theme for [Spicetify](https://github.com/spicetify/spicetify-cli) with a basic catppuccin color scheme!
+- [KiCAD](https://github.com/vincentcayadi/kicad-catppuccin) - A theme for the [KiCAD EDA](https://www.kicad.org) a Cross Platform and Open Source Electronics Design Automation Suite!
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
