@@ -160,7 +160,7 @@ ports:
     duckduckgo:
         name: DuckDuckGo
         category: search_engine
-        platform: agnostic
+        platform: userstyle
         color: peach
     dunst:
         name: Dunst
