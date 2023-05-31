@@ -83,7 +83,7 @@ stateDiagram-v2
 **A.** Port reviews can be raised as an issue
 [here](https://github.com/catppuccin/catppuccin/issues/new?assignees=&template=port+review.yml&title=Name+of+the+application%2Ftool%2Fwebsite%2Fetc.)
 since the port is already themed and ready to be reviewed by our
-[staff team](https://github.com/orgs/catppuccin/teams/staff/members)!
+[staff team](https://github.com/catppuccin/community/#current-structure)!
 
 **Q. I have a request for a port to be included and/or I've started working on
 it!**
@@ -91,7 +91,7 @@ it!**
 **A.** Raise a discussion under main repository
 [here](https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests)!
 The discussion will be transferred to an issue by the
-[staff team](https://github.com/orgs/catppuccin/teams/staff/members) once we
+[staff team](https://github.com/catppuccin/community/#current-structure) once we
 have deemed the port ready to be reviewed! Feel free to join our
 [Discord](https://discord.com/servers/catppuccin-907385605422448742) and share it there too!
 
