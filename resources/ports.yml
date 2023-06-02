@@ -600,6 +600,11 @@ ports:
         name: Polybar
         category: system
         platform: [linux]
+    pomotroid:
+        name: Pomotroid
+        category: productivity
+        platform: [linux, macos, windows]
+        color: red
     powerpoint-slides:
         name: PowerPoint Slides
         category: productivity
