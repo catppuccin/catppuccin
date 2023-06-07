@@ -584,6 +584,10 @@ ports:
         name: Openbox
         category: system
         platform: [linux]
+    opera-gx:
+        name: Opera GX
+        category: browser
+        platform: [windows]
     pantone:
         name: Pantone
         category: library
