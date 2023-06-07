@@ -142,6 +142,11 @@ ports:
         category: messaging
         platform: [linux, macos, windows]
         color: blue
+    diohub:
+        name: DioHub
+        category: social
+        platform: [android]
+        color: text
     dmenu:
         name: dmenu
         category: system
