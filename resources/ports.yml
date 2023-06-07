@@ -144,7 +144,7 @@ ports:
         color: blue
     diohub:
         name: DioHub
-        category: social
+        category: productivity
         platform: [android]
         color: text
     dmenu:
