@@ -1122,6 +1122,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Bento](https://github.com/catppuccin/bento)
 - [Codeberg](https://github.com/catppuccin/codeberg)
 - [DeepL](https://github.com/catppuccin/deepl)
+- [DioHub](https://github.com/catppuccin/diohub)
 - [Foliate](https://github.com/catppuccin/foliate)
 - [FreshRSS](https://github.com/catppuccin/freshrss)
 - [Gitea](https://github.com/catppuccin/gitea)
