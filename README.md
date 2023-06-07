@@ -1064,6 +1064,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Firefox](https://github.com/catppuccin/firefox)
 - [Google Chrome](https://github.com/catppuccin/chrome)
+- [Opera GX](https://github.com/catppuccin/opera-gx)
 - [qutebrowser](https://github.com/catppuccin/qutebrowser)
 - [Vivaldi](https://github.com/catppuccin/vivaldi)
 
