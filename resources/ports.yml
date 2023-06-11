@@ -1000,7 +1000,7 @@ ports:
     ueli:
         name: Ueli
         category: system
-        platform: [windows]
+        platform: [windows, macos]
 
 categories:
     - key: code_editor
