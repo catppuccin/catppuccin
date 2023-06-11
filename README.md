@@ -1053,6 +1053,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SDDM](https://github.com/catppuccin/sddm)
 - [SwayNotificationCenter](https://github.com/catppuccin/swaync)
 - [tty](https://github.com/catppuccin/tty)
+- [Ueli](https://github.com/catppuccin/ueli)
 - [Ulauncher](https://github.com/catppuccin/ulauncher)
 - [waybar](https://github.com/catppuccin/waybar)
 - [Windows Files](https://github.com/catppuccin/windows-files)
