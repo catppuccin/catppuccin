@@ -857,6 +857,10 @@ ports:
         name: tym
         category: terminal
         platform: [linux]
+    ueli:
+        name: Ueli
+        category: system
+        platform: [windows, macos]
     ui:
         name: UI
         category: library
