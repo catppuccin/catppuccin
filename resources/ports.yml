@@ -857,6 +857,10 @@ ports:
         name: tym
         category: terminal
         platform: [linux]
+    ueli:
+        name: Ueli
+        category: system
+        platform: [windows, macos]
     ui:
         name: UI
         category: library
@@ -997,10 +1001,6 @@ ports:
         name: Zutty
         category: terminal
         platform: [linux]
-    ueli:
-        name: Ueli
-        category: system
-        platform: [windows, macos]
 
 categories:
     - key: code_editor
