@@ -997,6 +997,10 @@ ports:
         name: Zutty
         category: terminal
         platform: [linux]
+    ueli:
+        name: Ueli
+        category: system
+        platform: [windows]
 
 categories:
     - key: code_editor
