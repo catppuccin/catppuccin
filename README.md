@@ -943,6 +943,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [CodeMirror](https://github.com/catppuccin/codemirror)
 - [egui](https://github.com/catppuccin/egui)
 - [Highlight.js](https://github.com/catppuccin/highlightjs)
+- [ImHex](https://github.com/catppuccin/imhex)
 - [Insomnia](https://github.com/catppuccin/insomnia)
 - [Matplotlib](https://github.com/catppuccin/matplotlib)
 - [mdBook](https://github.com/catppuccin/mdBook)
