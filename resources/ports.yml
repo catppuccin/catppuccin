@@ -346,6 +346,10 @@ ports:
         name: ichi.moe
         category: productivity
         platform: userstyle
+    imhex:
+        name: ImHex
+        category: development
+        platform: [linux, macos, windows]
     infinity:
         name: Infinity for Reddit
         category: social
