@@ -667,6 +667,11 @@ ports:
         platform: [linux]
         icon: lxqt.svg
         color: sky
+    raycast:
+        name: Raycast
+        category: productivity
+        platform: [macos]
+        color: red
     rboard:
         name: Rboard
         category: system
