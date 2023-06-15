@@ -1137,6 +1137,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
 - [Proton](https://github.com/catppuccin/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
+- [Raycast](https://github.com/catppuccin/raycast)
 - [ShareX](https://github.com/catppuccin/sharex)
 - [SolveSpace](https://github.com/catppuccin/solvespace)
 - [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
