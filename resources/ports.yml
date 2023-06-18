@@ -346,6 +346,11 @@ ports:
         name: ichi.moe
         category: productivity
         platform: userstyle
+    ida-debugger:
+        name: IDA (Interactive Disassembler)
+        category: code_editor
+        platform: [linux, macos, windows]
+        color: sapphire
     imhex:
         name: ImHex
         category: development
