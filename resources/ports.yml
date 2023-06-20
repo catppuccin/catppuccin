@@ -248,6 +248,10 @@ ports:
         name: Gedit
         category: code_editor
         platform: [linux]
+    ghostwriter:
+        name: ghostwriter
+        category: productivity
+        platform: [linux, macos, windows]
     gitea:
         name: Gitea
         category: productivity
