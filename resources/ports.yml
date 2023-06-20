@@ -453,6 +453,10 @@ ports:
         category: note_taking
         platform: [linux, macos, windows]
         color: green
+    lua:
+        name: Lua
+        category: library
+        platform: agnostic
     lxqt:
         name: LxQT
         category: system
