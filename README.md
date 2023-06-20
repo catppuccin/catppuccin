@@ -1130,6 +1130,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [DioHub](https://github.com/catppuccin/diohub)
 - [Foliate](https://github.com/catppuccin/foliate)
 - [FreshRSS](https://github.com/catppuccin/freshrss)
+- [ghostwriter](https://github.com/catppuccin/ghostwriter)
 - [Gitea](https://github.com/catppuccin/gitea)
 - [GitHub](https://github.com/catppuccin/github)
 - [ichi.moe](https://github.com/catppuccin/ichi.moe)
