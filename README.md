@@ -958,6 +958,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Go](https://github.com/catppuccin/go)
 - [Java](https://github.com/catppuccin/java)
+- [Lua](https://github.com/catppuccin/lua)
 - [Nim](https://github.com/catppuccin/nim)
 - [Pantone](https://github.com/catppuccin/pantone)
 - [Python](https://github.com/catppuccin/python)
