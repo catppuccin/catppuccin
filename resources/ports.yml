@@ -254,6 +254,10 @@ ports:
         platform: agnostic
         color: green
         icon: gitea
+    ghostwriter:
+        name: ghostwriter
+        category: code_editor
+        platform: [linux, macos, windows]
     github:
         name: GitHub
         category: productivity
