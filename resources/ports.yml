@@ -251,7 +251,7 @@ ports:
     ghostwriter:
         name: ghostwriter
         category: productivity
-        platform: [linux,windows, macos]
+        platform: [linux, macos, windows]
     gitea:
         name: Gitea
         category: productivity
