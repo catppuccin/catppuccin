@@ -9,8 +9,8 @@
 
 > **Note** <br>
 > Text colors are guidelines, certain cases require deviations
-> from the guidelines below. An example would be `text` on colored backgrounds.
-> Legibility always comes first, so please use your own judgement.
+> from the guidelines below. An example would be `text` on colored backgrounds, a good alternative for `text` would be `crust`.
+> **Legibility** always comes first, so please use your own judgement.
 
 <table>
   <tr>
