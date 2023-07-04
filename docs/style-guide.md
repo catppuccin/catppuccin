@@ -802,7 +802,7 @@
 					<th colspan="3" align="center">Constants</th>
 				</tr>
 				<tr>
-					<td>Boolean, Numeric</td>
+					<td>Boolean, Macro, Numeric</td>
 					<td>Peach</td>
 					<td>
 						<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
@@ -812,7 +812,7 @@
 					</td>
 				</tr>
 				<tr>
-					<td>Macro, Regex</td>
+					<td>Regex</td>
 					<td>Peach</td>
 					<td>
 						<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
@@ -1223,12 +1223,22 @@
 				</tr>
 				<tr>
 					<td>Information</td>
-					<td>Teal</td>
+					<td>Sky</td>
 					<td>
-						<img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/latte_sky.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_sky.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_sky.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_sky.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Hint</td>
+					<td>Rosewater</td>
+					<td>
+						<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
 					</td>
 				</tr>
 			</table>
