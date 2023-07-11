@@ -1015,6 +1015,10 @@ ports:
         category: cli
         platform: [linux, macos]
         icon: zellij.svg
+    zsh-fsh:
+        name: ZSH Fast Syntax Highlighting
+        category: cli
+        platform: [linux, macos]
     zsh-syntax-highlighting:
         name: zsh-syntax-highlighting
         category: cli
