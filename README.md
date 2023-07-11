@@ -987,6 +987,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Starship](https://github.com/catppuccin/starship)
 - [tmux](https://github.com/catppuccin/tmux)
 - [Zellij](https://github.com/catppuccin/zellij)
+- [ZSH Fast Syntax Highlighting](https://github.com/catppuccin/zsh-fsh)
 - [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
 
 </details>
