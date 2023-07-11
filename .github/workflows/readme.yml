@@ -34,8 +34,8 @@ jobs:
         run: ./main.ts
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
-        # skip pushing on forks
-        if: ${{ !github.event.pull_request.head.repo.fork }}
+        # only push once upstreamed
+        if: ${{ github.repository == 'catppuccin/catppuccin' && github.ref == 'refs/heads/main' }}
         with:
           commit_message: "chore: re-generate README sections"
           branch: ${{ github.head_ref }}
