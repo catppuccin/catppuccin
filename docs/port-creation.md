@@ -13,6 +13,15 @@
 A port is an adaptation of Catppuccin's palette for an app to use. Think of it
 as a colorscheme for a program that styles every UI component it consists of!
 
+### What's a userstyle?
+
+A userstyle is, in the context of Catppuccin, a port for a website which is themed
+via [Stylus](https://github.com/openstyles/stylus), you can view all of Catppuccin's
+userstyles at [catppuccin/userstyles](https://github.com/catppuccin/userstyles).
+
+> **Note** <br> 
+> **All userstyles are ports, but not all ports are userstyles.**
+
 &nbsp;
 
 ### Submission
@@ -85,8 +94,13 @@ stateDiagram-v2
 since the port is already themed and ready to be reviewed by our
 [staff team](https://github.com/catppuccin/community/#current-structure)!
 
-**Q. I have a request for a port to be included and/or I've started working on
-it!**
+**Q. I have a userstyle that is already finished and ready for review!**
+
+**A.** Finished userstyles should be raised via a [pull request](https://github.com/catppuccin/userstyles/compare)
+to [catppuccin/userstyles](https://github.com/catppuccin/userstyles/compare). You can find further information on
+how to contribute userstyles [here](https://github.com/catppuccin/userstyles/blob/main/docs/userstyle-creation.md).
+
+**Q. I have a request for a port to be included and/or I've started working on it!**
 
 **A.** Raise a discussion under main repository
 [here](https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests)!
