@@ -1123,6 +1123,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🗂️ Productivity</summary>
 
+- [aerc](https://github.com/catppuccin/aerc)
 - [Alfred](https://github.com/catppuccin/alfred)
 - [Anki](https://github.com/catppuccin/anki)
 - [Bento](https://github.com/catppuccin/bento)
