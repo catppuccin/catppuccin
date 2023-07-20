@@ -1,4 +1,8 @@
 ports:
+    aerc:
+        name: aerc
+        category: productivity
+        platform: [linux, macos]
     alacritty:
         name: Alacritty
         category: terminal
