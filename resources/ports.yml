@@ -1095,4 +1095,7 @@ showcases:
     - title: Comfy
       description: A theme for [Spicetify](https://github.com/spicetify/spicetify-cli) with a basic catppuccin color scheme!
       link: https://github.com/Comfy-Themes/Spicetify
+    - title: Catppuccin Noctis
+      description: An alternative to the official VS code theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
+      link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
