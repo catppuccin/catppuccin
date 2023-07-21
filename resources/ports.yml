@@ -456,6 +456,10 @@ ports:
         platform: userstyle
         icon: reddit
         color: peach
+    limine:
+        name: Limine
+        category: system
+        platform: [linux]
     logseq:
         name: Logseq
         category: note_taking
