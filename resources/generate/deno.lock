@@ -57,7 +57,8 @@
     "https://deno.land/std@0.172.0/path/posix.ts": "0874b341c2c6968ca38d323338b8b295ea1dae10fa872a768d812e2e7d634789",
     "https://deno.land/std@0.172.0/path/separator.ts": "0fb679739d0d1d7bf45b68dacfb4ec7563597a902edbaf3c59b50d5bcadd93b1",
     "https://deno.land/std@0.172.0/path/win32.ts": "672942919dd66ce1b8c224e77d3447e2ad8254eaff13fe6946420a9f78fa141e",
-    "https://deno.land/std@0.172.0/types.d.ts": "220ed56662a0bd393ba5d124aa6ae2ad36a00d2fcbc0e8666a65f4606aaa9784"
+    "https://deno.land/std@0.172.0/types.d.ts": "220ed56662a0bd393ba5d124aa6ae2ad36a00d2fcbc0e8666a65f4606aaa9784",
+    "https://raw.githubusercontent.com/catppuccin/userstyles/main/src/userstyles.schema.json": "6613d4fe2df651c606a885212b4232e5250e5f401f1b349d1801cf63428b0fab"
   },
   "npm": {
     "specifiers": {

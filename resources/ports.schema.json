@@ -77,7 +77,7 @@
             "platform": {
               "$id": "#ports/port/platform",
               "title": "Platform",
-              "description": "The platforms the port supports. Either an array of supported operating systems, \"agnostic\" (indicating support for all platforms), or \"userstyle\".",
+              "description": "The platforms the port supports. Either an array of supported operating systems or \"agnostic\" (indicating support for all platforms).",
               "oneOf": [
                 {
                   "type": "array",
@@ -108,8 +108,7 @@
                 {
                   "type": "string",
                   "enum": [
-                    "agnostic",
-                    "userstyle"
+                    "agnostic"
                   ]
                 }
               ]
@@ -148,16 +147,6 @@
               "examples": [
                 "neovim",
                 "neovim.svg"
-              ]
-            },
-            "userstyle": {
-              "$id": "#ports/port/userstyle",
-              "title": "Userstyle",
-              "description": "Whether the port is a userstyle",
-              "type": "boolean",
-              "examples": [
-                true,
-                false
               ]
             }
           }

@@ -21,11 +21,6 @@ ports:
         name: Amfora
         category: leisure
         platform: [linux, macos, windows]
-    anilist:
-        name: AniList
-        category: leisure
-        platform: userstyle
-        color: blue
     anki:
         name: Anki
         category: productivity
@@ -73,12 +68,6 @@ ports:
         name: bottom
         category: cli
         platform: [linux, macos, windows]
-    brave-search:
-        name: Brave Search
-        category: search_engine
-        platform: userstyle
-        icon: brave
-        color: peach
     btop:
         name: Btop++
         category: cli
@@ -98,14 +87,6 @@ ports:
         category: leisure
         platform: [linux, macos, windows]
         color: red
-    cinny:
-        name: Cinny
-        category: messaging
-        platform: userstyle
-    codeberg:
-        name: Codeberg
-        category: productivity
-        platform: userstyle
     codemirror:
         name: CodeMirror
         category: development
@@ -137,10 +118,6 @@ ports:
         platform: agnostic
         icon: darkreader
         color: red
-    deepl:
-        name: DeepL
-        category: productivity
-        platform: userstyle
     discord:
         name: Discord
         category: messaging
@@ -187,10 +164,6 @@ ports:
         name: Element
         category: messaging
         platform: [linux, macos, windows]
-    elk:
-        name: Elk
-        category: social
-        platform: userstyle
     emacs:
         name: Emacs
         category: code_editor
@@ -262,11 +235,6 @@ ports:
         platform: agnostic
         color: green
         icon: gitea
-    github:
-        name: GitHub
-        category: productivity
-        platform: userstyle
-        color: text
     github-readme-stats:
         name: GitHub Readme Stats
         category: social
@@ -307,11 +275,6 @@ ports:
         category: system
         platform: [linux]
         color: green
-    hacker-news:
-        name: Hacker News
-        category: social
-        platform: userstyle
-        icon: ycombinator
     helix:
         name: Helix
         category: code_editor
@@ -350,10 +313,6 @@ ports:
         platform: [linux]
         color: text
         icon: i3wm.svg
-    ichi.moe:
-        name: ichi.moe
-        category: productivity
-        platform: userstyle
     ida-debugger:
         name: IDA (Interactive Disassembler)
         category: code_editor
@@ -374,12 +333,6 @@ ports:
         category: development
         platform: [android]
         color: blue
-    invidious:
-        name: Invidious
-        category: social
-        platform: userstyle
-        icon: youtube
-        color: red
     iterm:
         name: iTerm2
         category: terminal
@@ -439,23 +392,11 @@ ports:
         name: Lapce
         category: code_editor
         platform: [linux, macos, windows]
-    lastfm:
-        name: Last.fm
-        category: leisure
-        platform: userstyle
-        icon: lastdotfm
-        color: red
     lazygit:
         name: Lazygit
         category: cli
         platform: [linux, macos]
         color: green
-    libreddit:
-        name: Libreddit
-        category: social
-        platform: userstyle
-        icon: reddit
-        color: peach
     limine:
         name: Limine
         category: system
@@ -489,10 +430,6 @@ ports:
         name: Mako
         category: system
         platform: [linux]
-    mastodon:
-        name: Mastodon
-        category: social
-        platform: userstyle
     matplotlib:
         name: Matplotlib
         category: development
@@ -523,11 +460,6 @@ ports:
         name: Misskey
         category: social
         platform: agnostic
-    modrinth:
-        name: Modrinth
-        category: game
-        platform: userstyle
-        color: green
     monkeytype:
         name: monkeytype
         category: leisure
@@ -563,18 +495,6 @@ ports:
         name: Nilesoft Shell
         category: system
         platform: [windows]
-    nitter:
-        name: Nitter
-        category: social
-        platform: userstyle
-        icon: twitter
-        color: blue
-    nixos-search:
-        name: NixOS Search
-        category: search_engine
-        platform: userstyle
-        icon: nixos
-        color: blue
     noir:
         name: Noir
         category: browser_extension
@@ -655,12 +575,6 @@ ports:
         name: Prism Launcher
         category: game
         platform: [linux, macos, windows]
-    proton:
-        name: Proton
-        category: productivity
-        platform: userstyle
-        icon: protonmail
-        color: lavender
     pyradio:
         name: PyRadio
         category: leisure
@@ -699,12 +613,6 @@ ports:
         platform: [android]
         color: blue
         icon: gboard.svg
-    reddit:
-        name: Reddit
-        category: social
-        platform: userstyle
-        color: red
-        icon: reddit
     refind:
         name: rEFInd
         category: system
@@ -742,10 +650,6 @@ ports:
         name: SDDM
         category: system
         platform: [linux]
-    SearXNG:
-        name: SearXNG
-        category: search_engine
-        platform: userstyle
     sharex:
         name: ShareX
         category: productivity
@@ -874,15 +778,6 @@ ports:
         name: tty
         category: system
         platform: [linux]
-    tutanota:
-        name: Tutanota
-        category: productivity
-        platform: userstyle
-        color: red
-    twitch:
-        name: Twitch
-        category: social
-        platform: userstyle
     tym:
         name: tym
         category: terminal
@@ -915,10 +810,6 @@ ports:
         name: Urxvt
         category: terminal
         platform: [linux]
-    vercel:
-        name: Vercel
-        category: development
-        platform: userstyle
     vim:
         name: Vim
         category: code_editor
@@ -967,11 +858,6 @@ ports:
         name: Whoogle
         category: search_engine
         platform: agnostic
-    wikiwand:
-        name: WikiWand
-        category: productivity
-        platform: userstyle
-        icon: wikipedia
     windows-files:
         name: Windows Files
         category: system
@@ -1003,11 +889,6 @@ ports:
         category: system
         platform: [linux]
         icon: xdotorg
-    youtube:
-        name: YouTube
-        category: social
-        platform: userstyle
-        color: red
     youtubemusic:
         name: YouTube Music
         category: leisure

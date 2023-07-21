@@ -1,41 +1,72 @@
-#!/usr/bin/env -S deno run --allow-env --allow-read --allow-write
+#!/usr/bin/env -S deno run --allow-env --allow-read --allow-write --allow-net
 
-import { Ajv, parseYaml, path, schema } from "./deps.ts";
+import {
+  Ajv,
+  parseYaml,
+  path,
+  portsSchema,
+  Userstyle,
+  Userstyles,
+  userstylesSchema,
+  userstylesYaml,
+} from "./deps.ts";
 import type { Categories, Port, Ports, Showcases } from "./types.d.ts";
 
 const root = new URL(".", import.meta.url).pathname;
 
-type Metadata = {
+type PortsMetadata = {
   categories: Categories;
   ports: Ports;
   showcases: Showcases;
 };
 
+type UserstylesMetadata = {
+  userstyles: Userstyles;
+};
+
 const ajv = new Ajv();
-const validate = ajv.compile<Metadata>(schema);
+const validatePorts = ajv.compile<PortsMetadata>(portsSchema);
+const validateUserstyles = ajv.compile<PortsMetadata>(userstylesSchema);
 
 const portsYaml = Deno.readTextFileSync(path.join(root, "../ports.yml"));
-const data = parseYaml(portsYaml) as Metadata;
+const portsData = parseYaml(portsYaml) as PortsMetadata;
+
+const userstylesData = parseYaml(
+  await userstylesYaml.text(),
+) as UserstylesMetadata;
 
 // throw error if the YAML is invalid
-if (!validate(data)) {
-  console.log(validate.errors);
+if (!validatePorts(portsData)) {
+  console.log(validatePorts.errors);
   Deno.exit(1);
 }
 
-export type MappedPort = Port & { html_url: string };
+if (!validateUserstyles(userstylesData)) {
+  console.log(validateUserstyles.errors);
+  Deno.exit(1);
+}
 
-const categorized = Object.entries(data.ports).reduce((acc, [slug, port]) => {
-  !acc[port.category] && (acc[port.category] = []);
-  acc[port.category].push({
-    html_url: `https://github.com/catppuccin/${slug}`,
-    ...port,
-  });
-  acc[port.category].sort((a, b) => a.name.localeCompare(b.name));
-  return acc;
-}, {} as Record<string, MappedPort[]>);
+const ports = Object.assign(portsData.ports, userstylesData.userstyles);
 
-const portListData = data.categories.map((category) => {
+export type MappedPort = (Port | Userstyle) & { html_url: string };
+
+const categorized = Object.entries(ports).reduce(
+  (acc, [slug, port]: [string, MappedPort]) => {
+    !acc[port.category] && (acc[port.category] = []);
+    acc[port.category].push({
+      html_url: `https://github.com/catppuccin/${
+        port.readme ? `userstyles/tree/main/styles/${slug}` : slug
+      }`,
+      ...port,
+      name: [port.name].flat().join(", "),
+    });
+    acc[port.category].sort((a, b) => a.name.localeCompare(b.name));
+    return acc;
+  },
+  {} as Record<string, MappedPort[]>,
+);
+
+const portListData = portsData.categories.map((category) => {
   return {
     meta: category,
     ports: categorized[category.key],
@@ -79,18 +110,22 @@ const updateReadme = ({
 const readmePath = path.join(root, "../../README.md");
 let readmeContent = Deno.readTextFileSync(readmePath);
 
-const portContent = portListData.map((data) => {
-  return `<details open>
+const portContent = portListData
+  .map((data) => {
+    return `<details open>
 <summary>${data.meta.emoji} ${data.meta.name}</summary>
 
 ${data.ports.map((port) => `- [${port.name}](${port.html_url})`).join("\n")}
 
 </details>`;
-}).join("\n");
+  })
+  .join("\n");
 
-const showcaseContent = data.showcases.map((showcase) => {
-  return `- [${showcase.title}](${showcase.link}) - ${showcase.description}`;
-}).join("\n");
+const showcaseContent = portsData.showcases
+  .map((showcase) => {
+    return `- [${showcase.title}](${showcase.link}) - ${showcase.description}`;
+  })
+  .join("\n");
 
 try {
   readmeContent = updateReadme({
