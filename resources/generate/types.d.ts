@@ -51,15 +51,10 @@ export type Category =
   | "system"
   | "terminal";
 /**
- * The platforms the port supports. Either an array of supported operating systems, "agnostic" (indicating support for all platforms), or "userstyle".
+ * The platforms the port supports. Either an array of supported operating systems or "agnostic" (indicating support for all platforms).
  */
-export type Platform = OperatingSystems[] | ("agnostic" | "userstyle");
-export type OperatingSystems =
-  | "android"
-  | "ios"
-  | "linux"
-  | "macos"
-  | "windows";
+export type Platform = OperatingSystems[] | "agnostic";
+export type OperatingSystems = "android" | "ios" | "linux" | "macos" | "windows";
 /**
  * The fill color for the icon on the website.
  */
@@ -83,10 +78,6 @@ export type Color =
  * The icon to use on the website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.
  */
 export type Icon = string;
-/**
- * Whether the port is a userstyle
- */
-export type Userstyle = boolean;
 export type Title = string;
 export type Link = string;
 export type Link1 = string;
@@ -123,7 +114,6 @@ export interface Port {
   platform: Platform;
   color?: Color;
   icon?: Icon;
-  userstyle?: Userstyle;
 }
 export interface ShowcaseItem {
   title: Title;
