@@ -983,4 +983,4 @@ showcases:
     - title: Catppuccin Noctis
       description: An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
       link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis
-# yaml-language-server: $schema=ports.schema.json
+# yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
