@@ -58,7 +58,7 @@ stateDiagram-v2
   idea --> choice
 
   choice: Have you already completed a draft?
-  choice --> draft_complete: Yes
+  choice --> is_userstyle: Yes
   choice --> request: No
 
   request: Open a Port Request discussion
@@ -69,6 +69,13 @@ stateDiagram-v2
 
   request_complete: The draft is completed to your liking
   request_complete --> draft_complete
+
+  is_userstyle: Is this themed via Stylus?
+  is_userstyle --> userstyle_review: Yes
+  is_userstyle --> draft_complete: No
+
+  userstyle_review: Submit pull request\nto catppuccin/userstyles
+  userstyle_review --> review
   
   draft_complete: Create a Port Review issue
   draft_complete --> review
