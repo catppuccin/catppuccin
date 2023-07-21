@@ -1041,6 +1041,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [i3/sway](https://github.com/catppuccin/i3)
 - [KDE](https://github.com/catppuccin/kde)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
+- [Limine](https://github.com/catppuccin/limine)
 - [LxQT](https://github.com/catppuccin/lxqt)
 - [Mako](https://github.com/catppuccin/mako)
 - [Nilesoft Shell](https://github.com/catppuccin/nilesoft-shell)

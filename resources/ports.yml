@@ -397,6 +397,10 @@ ports:
         category: cli
         platform: [linux, macos]
         color: green
+    limine:
+        name: Limine
+        category: system
+        platform: [linux]
     logseq:
         name: Logseq
         category: note_taking
