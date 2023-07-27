@@ -1121,13 +1121,12 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Joplin](https://github.com/catppuccin/joplin)
 - [Logseq](https://github.com/catppuccin/logseq)
 - [Obsidian](https://github.com/catppuccin/obsidian)
-- [Remnote](https://github.com/catppuccin/remnote)
+- [RemNote](https://github.com/catppuccin/remnote)
 
 </details>
 <details open>
 <summary>🗂️ Productivity</summary>
 
-- [Advent Of Code](https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code)
 - [aerc](https://github.com/catppuccin/aerc)
 - [Alfred](https://github.com/catppuccin/alfred)
 - [Anki](https://github.com/catppuccin/anki)
@@ -1177,6 +1176,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Misskey](https://github.com/catppuccin/misskey)
 - [Nitter](https://github.com/catppuccin/userstyles/tree/main/styles/nitter)
 - [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
+- [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
 - [Twitch](https://github.com/catppuccin/userstyles/tree/main/styles/twitch)
 - [YouTube](https://github.com/catppuccin/userstyles/tree/main/styles/youtube)
 
@@ -1206,6 +1206,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🎮 Games</summary>
 
+- [Advent Of Code](https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code)
 - [BitBurner](https://github.com/catppuccin/bitburner)
 - [Blockbench](https://github.com/catppuccin/blockbench)
 - [Chess.com](https://github.com/catppuccin/userstyles/tree/main/styles/chess.com)
