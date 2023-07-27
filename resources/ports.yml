@@ -622,7 +622,7 @@ ports:
         category: system
         platform: [linux]
     remnote:
-        name: Remnote
+        name: RemNote
         category: note_taking
         platform: agnostic
     replit:
