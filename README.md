@@ -1082,6 +1082,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
 - [Nighttab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
+- [OldTwitter](https://github.com/catppuccin/oldtwitter)
 - [Sidebery](https://github.com/catppuccin/sidebery)
 - [Vimium](https://github.com/catppuccin/vimium)
 
@@ -1186,6 +1187,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Amfora](https://github.com/catppuccin/amfora)
 - [AniList, AniChart](https://github.com/catppuccin/userstyles/tree/main/styles/anilist)
+- [ChatReplay](https://github.com/catppuccin/userstyles/tree/main/styles/chatreplay)
 - [Cider](https://github.com/catppuccin/cider)
 - [Dopamine](https://github.com/catppuccin/dopamine)
 - [Heroic](https://github.com/catppuccin/heroic)
