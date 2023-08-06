@@ -525,6 +525,10 @@ ports:
         category: note_taking
         platform: [linux, macos, windows]
         color: mauve
+    oldtwitter:
+        name: OldTwitter
+        category: browser_extension
+        platform: agnostic
     openbox:
         name: Openbox
         category: system
