@@ -7,7 +7,7 @@
 
 ### General Usage
 
-> **Note** <br>
+> [!IMPORTANT]<br>
 > Text colors are guidelines, certain cases require deviations
 > from the guidelines below. An example would be `text` on colored backgrounds.
 > Legibility always comes first, so please use your own judgement.
@@ -756,7 +756,7 @@
 
 ### Code Editors
 
-> **Note** <br>
+> [!IMPORTANT]<br>
 > **This is still a work-in-progress.** Additionally, it's
 > important to acknowledge that different editors have different capabilities
 > for theming, please use your own judgement in accordance with the main colors

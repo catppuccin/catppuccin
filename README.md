@@ -894,7 +894,7 @@ our [showcase](#-showcase) section below!
 
 ### 👐 Contributing
 
-> **Note** <br>
+> [!NOTE]<br>
 > if you would like to submit a port or learn how to port Catppuccin to a program, please refer to
 > the [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md)
 
@@ -1226,7 +1226,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 ### 🌟 Showcase
 
-> **Note** <br>
+> [!NOTE]<br>
 > Catppuccin staff reserve the right to remove and reject showcase additions if we determine the addition to be in
 > violation of our [CODE OF CONDUCT](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md). Extremely
 > personal configurations and websites will **not** be added.

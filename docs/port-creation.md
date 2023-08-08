@@ -19,14 +19,14 @@ A userstyle is, in the context of Catppuccin, a port for a website which is them
 via [Stylus](https://github.com/openstyles/stylus), you can view all of Catppuccin's
 userstyles at [catppuccin/userstyles](https://github.com/catppuccin/userstyles).
 
-> **Note** <br> 
+> [!IMPORTANT]<br> 
 > **All userstyles are ports, but not all ports are userstyles.**
 
 &nbsp;
 
 ### Submission
 
-> **Note** <br>
+> [!IMPORTANT]<br>
 > All ports should conform to our
 > [CODE OF CONDUCT](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md)
 > and we, the staff team, reserve the right to choose what ports will be
