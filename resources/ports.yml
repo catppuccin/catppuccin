@@ -240,6 +240,11 @@ ports:
         category: social
         platform: agnostic
         color: text
+    github-readme-streak-stats:
+        name: GitHub Readme Streak Stats
+        category: social
+        platform: agnostic
+        color: text
     github-readme-tech-stack:
         name: GitHub Readme Tech Stack
         category: social
