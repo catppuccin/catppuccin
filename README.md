@@ -1109,6 +1109,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Enmity](https://github.com/catppuccin/enmity)
 - [HexChat](https://github.com/catppuccin/hexchat)
 - [Mattermost](https://github.com/catppuccin/mattermost)
+- [mIRC](https://github.com/catppuccin/mirc)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [Slack](https://github.com/catppuccin/slack)
 - [Telegram](https://github.com/catppuccin/telegram)
