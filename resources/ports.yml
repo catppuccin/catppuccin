@@ -456,6 +456,10 @@ ports:
         name: Minecraft
         category: game
         platform: [linux, macos, windows]
+    mirc:
+        name: mIRC
+        category: messaging
+        platform: [windows]
     misskey:
         name: Misskey
         category: social
