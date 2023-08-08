@@ -155,6 +155,8 @@ ensure consistency:
 
 - The name of the repo must be the app's name in `lower-kebab-case` (e.g.
   `unreal-engine` instead of `Unreal Engine`).
+- Ensure that the default branch is set to `main`. This ensures that the
+  repository is consistent with other ports across the organization.
 - Put the images under `assets/`.
   - Prefer `.webp` over `.png` for images. `.webp` is a more efficient format and is supported by all major browsers.
 - Format the repo's description as "`<emoji>` Soothing pastel theme for
