@@ -1169,6 +1169,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Elk](https://github.com/catppuccin/userstyles/tree/main/styles/elk)
 - [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
+- [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
 - [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
