@@ -156,6 +156,7 @@ ensure consistency:
 - The name of the repo must be the app's name in `lower-kebab-case` (e.g.
   `unreal-engine` instead of `Unreal Engine`).
 - Put the images under `assets/`.
+  - Prefer `.webp` over `.png` for images. `.webp` is a more efficient format and is supported by all major browsers.
 - Format the repo's description as "`<emoji>` Soothing pastel theme for
   `<app name>`".
   - `<emoji>` should be an emoji that you feel represents the app best.
