@@ -259,6 +259,10 @@ ports:
         name: Glamour
         category: cli
         platform: [linux, macos]
+    glazewm:
+        name: GlazeWM
+        category: system
+        platform: [windows]
     gnome-terminal:
         name: GNOME Terminal
         category: terminal
