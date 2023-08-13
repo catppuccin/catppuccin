@@ -1108,6 +1108,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Discord](https://github.com/catppuccin/discord)
 - [Element](https://github.com/catppuccin/element)
 - [Enmity](https://github.com/catppuccin/enmity)
+- [Halloy](https://github.com/catppuccin/halloy)
 - [HexChat](https://github.com/catppuccin/hexchat)
 - [Mattermost](https://github.com/catppuccin/mattermost)
 - [mIRC](https://github.com/catppuccin/mirc)
