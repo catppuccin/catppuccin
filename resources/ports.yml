@@ -284,6 +284,10 @@ ports:
         category: system
         platform: [linux]
         color: green
+    halloy:
+        name: Halloy
+        category: messaging
+        platform: [linux, macos, windows]
     helix:
         name: Helix
         category: code_editor
