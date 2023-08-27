@@ -189,6 +189,10 @@ ports:
         platform: [linux, macos]
         icon: fish.svg
         color: green
+    fleet:
+        name: JetBrains Fleet
+        category: development
+        platform: [linux, macos, windows]
     floris-board:
         name: FlorisBoard
         category: system
