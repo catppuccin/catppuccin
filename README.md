@@ -946,6 +946,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Highlight.js](https://github.com/catppuccin/highlightjs)
 - [ImHex](https://github.com/catppuccin/imhex)
 - [Insomnia](https://github.com/catppuccin/insomnia)
+- [JetBrains Fleet](https://github.com/catppuccin/fleet)
 - [Matplotlib](https://github.com/catppuccin/matplotlib)
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
