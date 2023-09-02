@@ -683,6 +683,10 @@ ports:
         name: Sidebery
         category: browser_extension
         platform: agnostic
+    skim:
+        name: skim
+        category: cli
+        platform: [linux, macos]
     slack:
         name: Slack
         category: messaging
