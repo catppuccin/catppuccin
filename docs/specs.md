@@ -20,8 +20,8 @@ elegant design following a minimal and flat style pattern.
 ### Sub-palettes
 
 Every flavor consists of two sub-palettes: one monochromatic and one analogous. The monochromatic sub-palette consists
-of different shades of a purple-gray and a very pale lavender and is often used for UI components. Whereas the analogous
-palette has every color in the rainbow and is often used for syntactic elements.
+of different shades of a purple-gray and a very pale lavender, and is often used for UI components. Whereas the analogous
+palette has every color in the rainbow and is typically used for syntactic elements.
 
 &nbsp;
 
@@ -30,3 +30,4 @@ palette has every color in the rainbow and is often used for syntactic elements.
 <p align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/infrastructure.png" alt="catppuccin infrastructure"/>
 </p>
+
