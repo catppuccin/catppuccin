@@ -33,7 +33,7 @@
 &nbsp;
 
 <p align="center">
-Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/main/docs"><b>the project's documentation</b></a>, organization-wide assets, resources and code samples for maintainers/developers.
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/main/docs"><b>the project's documentation</b></a>, organization-wide assets, resources, and code samples for maintainers/developers.
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ Join our community!
 
 ### 🧠 Design Philosophy
 
-- **Colorful is better than colorless**: the colorfulness of something contributes to the distinction amongst the parts
+- **Colorful is better than colorless**: the colorfulness of something contributes to the distinction among the parts
   of that _something_, making it marginally easier to understand how things are structured.
 - **There should be balance**: not too dull, not too bright. Suitability under various light conditions is a must.
 - **Harmony is superior to dissonance**: vivacious colors must complement each other.
@@ -104,7 +104,7 @@ Join our community!
 ### 🎨 Palette
 
 **Catppuccin** consists of 4 beautiful pastel color palettes, named **flavors**. All the details can be found below.<br>
-If you want to use them for your own project, refer to our [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md) for general use cases and guidelines. Additionally, you can find integrations with popular frameworks and tools in [catppuccin/palette](https://github.com/catppuccin/palette).
+If you want to use them for your project, refer to our [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md) for general use cases and guidelines. Additionally, you can find integrations with popular frameworks and tools in [catppuccin/palette](https://github.com/catppuccin/palette).
 
 Already have a project making use of our palette? Don't forget to add it to
 our [showcase](#-showcase) section below!
@@ -921,7 +921,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [IDA (Interactive Disassembler)](https://github.com/catppuccin/ida-debugger)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
 - [Kakoune](https://github.com/catppuccin/kakoune)
-- [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
+- [KSyntaxHighlighting (Kate, Kwrite, etc.)](https://github.com/catppuccin/ksyntaxhighlighting)
 - [Lapce](https://github.com/catppuccin/lapce)
 - [Micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
@@ -1237,7 +1237,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 > violation of our [CODE OF CONDUCT](https://github.com/catppuccin/.github/blob/main/CODE_OF_CONDUCT.md). Extremely
 > personal configurations and websites will **not** be added.
 
-If you're making an application or tool using our palette, please let us know by adding it below!
+If you're applying or tool using our palette, please let us know by adding it below!
 
 <!-- AUTOGEN:SHOWCASE START -->
 <!-- the following section is auto-generated, do not edit -->
@@ -1278,3 +1278,4 @@ Thanks to the following tools developing this project is possible:
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
 <p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=b7bdf8"/></a></p>
+
