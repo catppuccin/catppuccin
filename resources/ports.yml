@@ -370,6 +370,10 @@ ports:
         category: note_taking
         platform: [linux, macos, windows]
         color: blue
+    jupyterlab:
+        name: JupyterLab
+        category: development
+        platform: agnostic
     k9s:
         name: k9s
         category: cli
