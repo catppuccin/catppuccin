@@ -370,6 +370,10 @@ ports:
         category: note_taking
         platform: [linux, macos, windows]
         color: blue
+    jupyterlab:
+        name: JupyterLab
+        category: development
+        platform: agnostic
     k9s:
         name: k9s
         category: cli
@@ -683,6 +687,10 @@ ports:
         name: Sidebery
         category: browser_extension
         platform: agnostic
+    skim:
+        name: skim
+        category: cli
+        platform: [linux, macos]
     slack:
         name: Slack
         category: messaging
