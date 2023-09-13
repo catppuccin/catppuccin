@@ -1180,15 +1180,12 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
-- [Invidious](https://github.com/catppuccin/userstyles/tree/main/styles/invidious)
 - [Libreddit](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
 - [Mastodon](https://github.com/catppuccin/userstyles/tree/main/styles/mastodon)
 - [Misskey](https://github.com/catppuccin/misskey)
 - [Nitter](https://github.com/catppuccin/userstyles/tree/main/styles/nitter)
 - [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
 - [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
-- [Twitch](https://github.com/catppuccin/userstyles/tree/main/styles/twitch)
-- [YouTube](https://github.com/catppuccin/userstyles/tree/main/styles/youtube)
 
 </details>
 <details open>
@@ -1201,6 +1198,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Dopamine](https://github.com/catppuccin/dopamine)
 - [Heroic](https://github.com/catppuccin/heroic)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
+- [Invidious](https://github.com/catppuccin/userstyles/tree/main/styles/invidious)
 - [Last.fm](https://github.com/catppuccin/userstyles/tree/main/styles/lastfm)
 - [monkeytype](https://github.com/catppuccin/monkeytype)
 - [MusicBee](https://github.com/catppuccin/musicbee)
@@ -1210,7 +1208,10 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [spotify-tui](https://github.com/catppuccin/spotify-tui)
 - [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
 - [Steam](https://github.com/catppuccin/steam)
+- [Steam Deck](https://github.com/catppuccin/steam-deck)
 - [theme.park](https://github.com/catppuccin/theme.park)
+- [Twitch](https://github.com/catppuccin/userstyles/tree/main/styles/twitch)
+- [YouTube](https://github.com/catppuccin/userstyles/tree/main/styles/youtube)
 - [YouTube Music](https://github.com/catppuccin/youtubemusic)
 
 </details>
@@ -1220,6 +1221,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Advent Of Code](https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code)
 - [BitBurner](https://github.com/catppuccin/bitburner)
 - [Blockbench](https://github.com/catppuccin/blockbench)
+- [bStats](https://github.com/catppuccin/userstyles/tree/main/styles/bstats)
 - [Chess.com](https://github.com/catppuccin/userstyles/tree/main/styles/chess.com)
 - [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
 - [Minecraft](https://github.com/catppuccin/minecraft)
