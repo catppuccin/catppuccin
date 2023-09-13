@@ -744,6 +744,11 @@ ports:
         category: leisure
         platform: [linux, macos, windows]
         color: blue
+    steam-deck:
+        name: Steam Deck
+        category: leisure
+        platform: [linux]
+        color: blue
     sublime-text:
         name: Sublime Text
         category: code_editor
