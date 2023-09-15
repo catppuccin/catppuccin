@@ -27,6 +27,10 @@ ports:
         platform: agnostic
         icon: anki.svg
         color: blue
+    aseprite:
+        name: Aseprite
+        category: productivity
+        platform: [linux, macos, windows]
     base16:
         name: Base16
         category: system
