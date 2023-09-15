@@ -1137,6 +1137,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [aerc](https://github.com/catppuccin/aerc)
 - [Alfred](https://github.com/catppuccin/alfred)
 - [Anki](https://github.com/catppuccin/anki)
+- [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Canvas LMS](https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms)
