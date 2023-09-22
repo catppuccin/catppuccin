@@ -9,12 +9,18 @@ mod stuff;
 pub enum Flag {
     Good,
     Bad,
-    Ugly
+    Ugly,
 }
 
 const QUALITY: Flag = Flag::Good;
 
-struct Table<const N: usize>([[i32; N]; N])
+static COUNTER: AtomicUsize = AtomicUsize::new(0);
+
+extern "C" {
+    static mut ERROR_MESSAGE: *mut std::os::raw::c_char;
+}
+
+struct Table<const N: usize>([[i32; N]; N]);
 
 pub trait Write {
     fn write(&mut self, buf: &[u8]) -> Result<usize>;
@@ -22,7 +28,7 @@ pub trait Write {
 
 struct Object<T> {
     flag: Flag,
-    fields: HashMap<T, u64>
+    fields: HashMap<T, u64>,
 }
 
 union MyUnion {
@@ -42,7 +48,10 @@ impl<T> Write for Object<T> {
 
 impl<T> Default for Object<T> {
     fn default() -> Self {
-        Object { flag: Flag::Good, fields: HashMap::new() }
+        Object {
+            flag: Flag::Good,
+            fields: HashMap::new(),
+        }
     }
 }
 
@@ -90,19 +99,28 @@ fn main() {
         }
     }
 
-    info!("The program \"{}\" calculates the value {}",
-            program, accumulator);
+    info!(
+        "The program \"{}\" calculates the value {}",
+        program, accumulator
+    );
+}
+
+// example syntax for derive
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
+pub struct MyStruct {
+    pub field1: u32,
+    pub field2: u32,
 }
 
 /// Some documentation `with a code`, *an italic text*
 /// and **a bold text**
 /// # Heading
 /// [Rust](https://www.rust-lang.org/)
-#[cfg(target_os="linux")]
+#[cfg(target_os = "linux")]
 unsafe fn a_function<T: 'lifetime>(count: &mut i64) -> ! {
     count += 1;
     'label: loop {
-        let str_with_escapes = "Hello\x20W\u{f3}rld!\u{abcdef}";
+        let str_with_escapes = "Hello\x20W\u{f3}rld!\u{abcd}";
         println!("{} {foo:<4}", str_with_escapes, foo = 42);
     }
 }

@@ -8,8 +8,6 @@
   ],
   "strings with": {
     "no escapes": "pseudopolinomiality"
-    "valid escapes": "C-style\r\n and unicode\u0021",
-    "illegal escapes": "\0377\x\"
   },
   "some numbers": [
     42,

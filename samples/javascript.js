@@ -1,33 +1,37 @@
-var globalVar;
-
+var globalVar
 /**
- * Constructor for AjaxRequest class
- * @param {string} url the url for the request<p/>
+ * Constructor for <code>AjaxRequest</code> class
+ * @param url the url for the request<p/>
  */
 function AjaxRequest(url) {
-  function local() {}
-  var urls = [ "www.cnn.com", 5, globalVar];
-  this.request = new XMLHttpRequest();
-  url = url.replace(/^\s*(.*)/, "$1"); // skip leading whitespace
-  /* check the url to be in urls */
-  var a = "\u1111\z\n\u11";
-  this.foo = new function() {};
-  foo();
-  #
-  var hello = () => console.log("hello")
+    var urls = ['www.cnn.com', 5, globalVar]
+    this.request = new XMLHttpRequest()
+    url = url.replace(/^\s*(.*)/, '$1') // skip leading whitespace
+    /* check the url to be in urls */
+    var a = '\u1111z\n\u11ac'
+    this.foo = new (function () {})()
+    let a = true && false
+    foo()
+    // #
+    const cons = 'abc'
+    let a = true
+    console.log(cons)
+}
+let myObj = {
+    first: 'first',
+    second: 3,
+    o: {
+        hello: 'world',
+    },
 }
 
-@decorator()
-class NameClass {
-}
+typeof 'nice'
+new Class()
+class NameClass {}
+foo({ abc: 'abcde' })
+foo.bar({ foo: 'abc' })
+obj.abc = function () {}
 
-declare module name{
-  declare export var exportedVar: string;
-  declare export function exportedFunction(): void;
-  declare export class ExportedClass {}
+;async () => {
+    await Promise.resolve()
 }
-
-interface MyInterface { }
-type FooBarAlias = string;
-var html =`<div title='HTML injection'>Injected language fragment</div>`;
-var x: MyInterface, y: string, z: FooBarAlias;
