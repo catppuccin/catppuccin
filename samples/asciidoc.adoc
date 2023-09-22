@@ -1,0 +1,121 @@
+= Hello, AsciiDoc!
+
+This is an interactive editor.
+Use it to try https://asciidoc.org[AsciiDoc].
+
+Italic text is surrounded by _underscores_.
+Bold text is surrounded by *asterisks*.
+
+== Section Title
+
+* A list item
+* Another list item
+- A third list item
+
+Some Stuff
+
+1. A numbered list item
+2. Another numbered list item
+3. A third numbered list item
+
+[,ruby]
+----
+puts 'Hello, World!'
+----
+
+
+= h1
+
+== h2
+
+=== h3
+
+==== h4
+
+===== h5
+
+====== h6
+
+
+= Chapter Title
+
+ 
+
+A paragraph with *bold* and _italic_ text.
+
+ 
+
+.Image title
+
+image::an-image.jpg[align=center]
+
+ 
+
+The `xref` macro is used for source-to-source links, like xref:a-book.adoc[].
+
+An external link to https://eclipse.org[Eclipse].
+
+ 
+
+NOTE: One of five built-in admonition block types.
+
+
+= Document Title
+
+:toc:
+
+:url-gitlab: https://gitlab.eclipse.org
+
+ 
+
+A paragraph with *bold* and _italic_ text.
+
+A link to https://eclipse.org[Eclipse].
+
+A reusable link to {url-gitlab}[GitLab].
+
+ 
+
+image::an-image.png[An image,800]
+
+ 
+
+== Section title
+
+ 
+
+* Unordered list item
+
+** Add another marker to make a nested item
+
+* Another unordered list item
+
+ 
+
+NOTE: One of five built-in admonition block types.
+
+ 
+
+=== Subsection title
+
+ 
+
+ Text indented by one space is preformatted.
+
+ 
+
+A source block with a Ruby function named `hello` that prints "`Hello, World!`":
+
+ 
+
+[,ruby]
+
+----
+
+def hello name = 'World'
+
+  puts "Hello, #{name}!"
+
+end
+
+----

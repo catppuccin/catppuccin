@@ -1,0 +1,19 @@
+@use "sass:color";
+
+$primary-color: hotpink;
+
+@mixin border-radius($radius) {
+    -webkit-border-radius: $radius;
+    -moz-border-radius: $radius;
+    border-radius: $radius;
+}
+
+.my-element {
+    color: #{color.change($primary-color, $alpha: 0.1)};
+    width: 100%;
+    overflow: hidden;
+}
+
+.my-other-element {
+    @include border-radius(5px);
+}
