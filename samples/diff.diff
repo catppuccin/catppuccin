@@ -1,0 +1,19 @@
+2c2
+<   int value;
+---
+>   long value;
+4,5d3
+<   void leftOnly() {}
+< 
+7c5
+<    // Left changes
+---
+>    // Right changes
+10c8
+<   void bar() {
+---
+>   void removedFromLeft() {}
+11a10
+>   void bar() {
+12a12
+> 

@@ -19,12 +19,6 @@ namespace foo {
   class Class {
     T n;
   public:
-    /**
-     * Semantic highlighting:
-     * Generated spectrum to pick colors for local variables and parameters:
-     *  Color#1 SC1.1 SC1.2 SC1.3 SC1.4 Color#2 SC2.1 SC2.2 SC2.3 SC2.4 Color#3
-     *  Color#3 SC3.1 SC3.2 SC3.3 SC3.4 Color#4 SC4.1 SC4.2 SC4.3 SC4.4 Color#5
-     */
     void function(int param1, int param2, int param3) {
       int localVar1, localVar2, localVar3;
       int *localVar = new int[1];
