@@ -816,6 +816,10 @@ ports:
         category: cli
         platform: [linux, macos]
         color: green
+    tofi:
+        name: tofi
+        category: system
+        platform: [linux]
     tty:
         name: tty
         category: system
