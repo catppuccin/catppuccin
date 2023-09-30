@@ -944,6 +944,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [CodeMirror](https://github.com/catppuccin/codemirror)
 - [egui](https://github.com/catppuccin/egui)
 - [Highlight.js](https://github.com/catppuccin/highlightjs)
+- [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
 - [ImHex](https://github.com/catppuccin/imhex)
 - [Insomnia](https://github.com/catppuccin/insomnia)
 - [JetBrains Fleet](https://github.com/catppuccin/fleet)
@@ -1062,6 +1063,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Rofi](https://github.com/catppuccin/rofi)
 - [SDDM](https://github.com/catppuccin/sddm)
 - [SwayNotificationCenter](https://github.com/catppuccin/swaync)
+- [tofi](https://github.com/catppuccin/tofi)
 - [tty](https://github.com/catppuccin/tty)
 - [Ueli](https://github.com/catppuccin/ueli)
 - [Ulauncher](https://github.com/catppuccin/ulauncher)
@@ -1099,7 +1101,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Ecosia](https://github.com/catppuccin/userstyles/tree/main/styles/ecosia)
 - [NixOS Search](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search)
 - [SearXNG](https://github.com/catppuccin/userstyles/tree/main/styles/searxng)
-- [Startpage](https://github.com/catppuccin/startpage)
+- [Startpage](https://github.com/catppuccin/userstyles/tree/main/styles/startpage)
 - [Whoogle](https://github.com/catppuccin/whoogle)
 
 </details>
