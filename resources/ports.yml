@@ -281,6 +281,11 @@ ports:
         name: Go
         category: library
         platform: agnostic
+    godot:
+        name: Godot
+        category: code_editor
+        platform: [linux, macos, windows]
+        color: blue
     grub:
         name: GRUB
         category: system
