@@ -283,7 +283,7 @@ ports:
         platform: agnostic
     godot:
         name: Godot
-        category: code_editor
+        category: development
         platform: [linux, macos, windows]
         color: blue
     grub:
