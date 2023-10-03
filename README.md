@@ -917,6 +917,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Emacs](https://github.com/catppuccin/emacs)
 - [Geany](https://github.com/catppuccin/geany)
 - [Gedit](https://github.com/catppuccin/gedit)
+- [Godot](https://github.com/catppuccin/godot)
 - [Helix](https://github.com/catppuccin/helix)
 - [IDA (Interactive Disassembler)](https://github.com/catppuccin/ida-debugger)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
@@ -1167,6 +1168,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Raycast](https://github.com/catppuccin/raycast)
 - [ShareX](https://github.com/catppuccin/sharex)
 - [SolveSpace](https://github.com/catppuccin/solvespace)
+- [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
 - [Thunderbird](https://github.com/catppuccin/thunderbird)
 - [Tutanota](https://github.com/catppuccin/userstyles/tree/main/styles/tutanota)
@@ -1230,6 +1232,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Minecraft](https://github.com/catppuccin/minecraft)
 - [Modrinth](https://github.com/catppuccin/userstyles/tree/main/styles/modrinth)
 - [Moon Animator 2](https://github.com/catppuccin/moon-animator-2)
+- [Planet Minecraft](https://github.com/catppuccin/userstyles/tree/main/styles/planet-minecraft)
 - [Prism Launcher](https://github.com/catppuccin/prismlauncher)
 - [ULTRAKILL](https://github.com/catppuccin/ultrakill)
 
