@@ -917,7 +917,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Emacs](https://github.com/catppuccin/emacs)
 - [Geany](https://github.com/catppuccin/geany)
 - [Gedit](https://github.com/catppuccin/gedit)
-- [Godot](https://github.com/catppuccin/godot)
 - [Helix](https://github.com/catppuccin/helix)
 - [IDA (Interactive Disassembler)](https://github.com/catppuccin/ida-debugger)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
@@ -944,6 +943,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [CodeMirror](https://github.com/catppuccin/codemirror)
 - [egui](https://github.com/catppuccin/egui)
+- [Godot](https://github.com/catppuccin/godot)
 - [Highlight.js](https://github.com/catppuccin/highlightjs)
 - [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
 - [ImHex](https://github.com/catppuccin/imhex)
