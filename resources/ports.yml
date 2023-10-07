@@ -634,6 +634,11 @@ ports:
         category: browser
         platform: [linux, macos, windows]
         icon: qutebrowser.svg
+    qtcreator:
+        name: Qt Creator
+        category: code_editor
+        platform: [linux, macos, windows]
+        color: green
     qterminal:
         name: QTerminal
         category: terminal
