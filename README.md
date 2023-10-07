@@ -927,6 +927,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Neovim](https://github.com/catppuccin/nvim)
 - [Notepad++](https://github.com/catppuccin/notepad-plus-plus)
 - [Nova](https://github.com/catppuccin/nova)
+- [Qt Creator](https://github.com/catppuccin/qtcreator)
 - [Replit](https://github.com/catppuccin/replit)
 - [spyder](https://github.com/catppuccin/spyder)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
