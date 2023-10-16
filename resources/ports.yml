@@ -195,7 +195,7 @@ ports:
         color: green
     fleet:
         name: JetBrains Fleet
-        category: development
+        category: code_editor
         platform: [linux, macos, windows]
     floris-board:
         name: FlorisBoard
@@ -431,6 +431,10 @@ ports:
         name: Limine
         category: system
         platform: [linux]
+    linear:
+        name: Linear
+        category: productivity
+        platform: [linux, macos, windows]
     logseq:
         name: Logseq
         category: note_taking
