@@ -434,7 +434,7 @@ ports:
     linear:
         name: Linear
         category: productivity
-        platform: [linux, macos, windows]
+        platform: agnostic
     logseq:
         name: Logseq
         category: note_taking
