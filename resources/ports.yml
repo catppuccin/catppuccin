@@ -681,6 +681,11 @@ ports:
         category: messaging
         platform: [linux, macos, windows]
         icon: revoltdotchat
+    rio:
+        name: Rio
+        category: terminal
+        color: peach
+        platform: [linux, macos, windows]
     rofi:
         name: Rofi
         category: system
