@@ -1015,6 +1015,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Konsole](https://github.com/catppuccin/konsole)
 - [LXTerminal](https://github.com/catppuccin/lxterminal)
 - [QTerminal](https://github.com/catppuccin/qterminal)
+- [Rio](https://github.com/catppuccin/rio)
 - [st](https://github.com/catppuccin/st)
 - [Tabby](https://github.com/catppuccin/tabby)
 - [Terminal.app](https://github.com/catppuccin/Terminal.app)
