@@ -28,6 +28,8 @@
 		<img alt="Issues" src="https://img.shields.io/github/issues/catppuccin/catppuccin?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
 	<a href="https://discord.com/servers/907385605422448742">
 		<img alt="Discord" src="https://img.shields.io/discord/907385605422448742?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41"></a>
+  <a href="https://www.w3.org/TR/WCAG21/#contrast-minimum">
+    <img src="https://img.shields.io/badge/WCAG_2.1-AA-A6DA95?logo=w3c&logoColor=fff&style=for-the-badge&labelColor=302D41" alt="W3C"></a>
 </p>
 
 &nbsp;
