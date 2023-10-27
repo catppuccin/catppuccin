@@ -1,9 +1,10 @@
 name: Generate READMEs
 
 on:
-  workflow_call:
   workflow_dispatch:
   push:
+    branches:
+      - "main"
     paths:
       - "resources/**"
   pull_request:
@@ -40,5 +41,6 @@ jobs:
         if: ${{ github.repository == 'catppuccin/catppuccin' && github.ref == 'refs/heads/main' }}
         with:
           commit_message: "chore: re-generate README sections"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           branch: ${{ github.head_ref }}
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
