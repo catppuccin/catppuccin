@@ -875,6 +875,10 @@ ports:
         name: Urxvt
         category: terminal
         platform: [linux]
+    v:
+      name: V
+      category: library
+      platform: agnostic
     vim:
         name: Vim
         category: code_editor
