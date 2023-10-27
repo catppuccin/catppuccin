@@ -972,6 +972,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Python](https://github.com/catppuccin/python)
 - [Rust](https://github.com/catppuccin/rust)
 - [UI](https://github.com/catppuccin/ui)
+- [V](https://github.com/catppuccin/v)
 
 </details>
 <details open>
