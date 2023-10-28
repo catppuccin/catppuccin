@@ -213,6 +213,10 @@ ports:
         name: Fluent Terminal
         category: terminal
         platform: [windows]
+    flutter:
+        name: Flutter
+        category: library
+        platform: agnostic
     foliate:
         name: Foliate
         category: productivity
