@@ -196,7 +196,7 @@ ports:
     fitbit:
         name: Fitbit
         category: leisure
-        platform: [agnostic]
+        platform: agnostic
     fleet:
         name: JetBrains Fleet
         category: code_editor
