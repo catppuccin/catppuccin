@@ -964,6 +964,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>📚 Libraries</summary>
 
+- [Flutter](https://github.com/catppuccin/flutter)
 - [Go](https://github.com/catppuccin/go)
 - [Java](https://github.com/catppuccin/java)
 - [Lua](https://github.com/catppuccin/lua)
