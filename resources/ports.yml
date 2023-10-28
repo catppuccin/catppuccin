@@ -193,6 +193,10 @@ ports:
         platform: [linux, macos]
         icon: fish.svg
         color: green
+    fitbit:
+        name: Fitbit
+        category: leisure
+        platform: [agnostic]
     fleet:
         name: JetBrains Fleet
         category: code_editor
