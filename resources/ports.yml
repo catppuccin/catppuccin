@@ -382,6 +382,11 @@ ports:
         category: code_editor
         platform: [linux, macos, windows]
         color: text
+    jetbrains-icons:
+        name: JetBrains Icons
+        category: code_editor
+        platform: [linux, macos, windows]
+        color: text
     joplin:
         name: Joplin
         category: note_taking
