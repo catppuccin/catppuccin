@@ -923,6 +923,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [IDA (Interactive Disassembler)](https://github.com/catppuccin/ida-debugger)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
 - [JetBrains Fleet](https://github.com/catppuccin/fleet)
+- [JetBrains Icons](https://github.com/catppuccin/jetbrains-icons)
 - [Kakoune](https://github.com/catppuccin/kakoune)
 - [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
 - [Lapce](https://github.com/catppuccin/lapce)
