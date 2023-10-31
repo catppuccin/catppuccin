@@ -933,6 +933,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Nova](https://github.com/catppuccin/nova)
 - [Qt Creator](https://github.com/catppuccin/qtcreator)
 - [Replit](https://github.com/catppuccin/replit)
+- [RStudio](https://github.com/catppuccin/rstudio)
 - [spyder](https://github.com/catppuccin/spyder)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
 - [Vim](https://github.com/catppuccin/vim)
