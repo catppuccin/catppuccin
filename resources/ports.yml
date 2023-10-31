@@ -703,6 +703,11 @@ ports:
         name: Rofi
         category: system
         platform: [linux]
+    rstudio:
+        name: RStudio
+        category: code_editor
+        platform: [linux, macos, windows]
+        color: blue
     rust:
         name: Rust
         category: library
@@ -889,9 +894,9 @@ ports:
         category: terminal
         platform: [linux]
     v:
-      name: V
-      category: library
-      platform: agnostic
+        name: V
+        category: library
+        platform: agnostic
     vim:
         name: Vim
         category: code_editor
