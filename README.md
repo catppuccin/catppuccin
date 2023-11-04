@@ -1168,6 +1168,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [InvokeAI](https://github.com/catppuccin/userstyles/tree/main/styles/invokeai)
 - [Linear](https://github.com/catppuccin/linear)
 - [Mailspring](https://github.com/catppuccin/mailspring)
+- [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki)
 - [OBS Studio](https://github.com/catppuccin/obs)
 - [Pomotroid](https://github.com/catppuccin/pomotroid)
 - [PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
@@ -1199,6 +1200,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Mastodon](https://github.com/catppuccin/userstyles/tree/main/styles/mastodon)
 - [Misskey](https://github.com/catppuccin/misskey)
 - [Nitter](https://github.com/catppuccin/userstyles/tree/main/styles/nitter)
+- [Pinterest](https://github.com/catppuccin/userstyles/tree/main/styles/pinterest)
 - [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
 - [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
 
