@@ -1073,4 +1073,7 @@ showcases:
     - title: Meowix Linux
       description: An Arch Linux-based distribution centered around the Catppuccin theme.
       link: https://meowix-linux.github.io/
+    - title: Mind Elixir
+      description: A framework agnostic JavaScript mind map core.
+      link: https://github.com/ssshooter/mind-elixir-core
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
