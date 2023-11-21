@@ -54,7 +54,12 @@ export type Category =
  * The platforms the port supports. Either an array of supported operating systems or "agnostic" (indicating support for all platforms).
  */
 export type Platform = OperatingSystems[] | "agnostic";
-export type OperatingSystems = "android" | "ios" | "linux" | "macos" | "windows";
+export type OperatingSystems =
+  | "android"
+  | "ios"
+  | "linux"
+  | "macos"
+  | "windows";
 /**
  * The fill color for the icon on the website.
  */
