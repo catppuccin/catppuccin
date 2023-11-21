@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "@/": "./",
+    "std/": "https://deno.land/std@0.207.0/",
+    "catppuccin-userstyles/": "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/",
+    "ajv": "npm:ajv@8.12.0"
+  },
+  "tasks": {
+    "update-types": "deno run -A npm:json-schema-to-typescript ./ports.schema.json ./types/ports.d.ts"
+  }
+}

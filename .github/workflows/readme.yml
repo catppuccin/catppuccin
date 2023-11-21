@@ -3,16 +3,10 @@ name: Generate READMEs
 on:
   workflow_dispatch:
   push:
-    branches:
-      - "main"
-    paths:
-      - "resources/**"
+    branches: ["main"]
+    paths: ["resources/**"]
   pull_request:
-    paths:
-      - "resources/**"
-
-env:
-  DENO_DIR: deno_cache
+    paths: ["resources/**"]
 
 jobs:
   readme:
@@ -23,18 +17,18 @@ jobs:
       - uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
-      - name: Set up Deno
-        uses: denoland/setup-deno@v1
+
+      - name: Setup Deno
+        uses: nekowinston/setup-deno@v1
         with:
-          deno-version: v1.x
-      - name: Cache Deno dependencies
-        uses: actions/cache@v3
-        with:
-          key: ${{ hashFiles('resources/generate/deno.lock') }}
-          path: ${{ env.DENO_DIR }}
+          deno-json-path: resources/deno.json
+          deno-lock-path: resources/deno.lock
+          directory: resources
+
       - name: Update READMEs
         working-directory: resources/generate
         run: ./main.ts
+
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         # only push once upstreamed
@@ -43,4 +37,5 @@ jobs:
           commit_message: "chore: re-generate README sections"
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           branch: ${{ github.head_ref }}
+
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json

@@ -1,70 +1,59 @@
 #!/usr/bin/env -S deno run --allow-env --allow-read --allow-write --allow-net
 
+import { join } from "std/path/mod.ts";
 import {
-  Ajv,
-  parseYaml,
-  path,
   portsSchema,
-  Userstyle,
-  Userstyles,
+  updateReadme,
   userstylesSchema,
   userstylesYaml,
-} from "./deps.ts";
-import type { Categories, Port, Ports, Showcases } from "./types.d.ts";
+  validateYaml,
+} from "@/deps.ts";
+import type { PortsSchema, UserStylesSchema } from "@/types/mod.ts";
 
 const root = new URL(".", import.meta.url).pathname;
 
-type PortsMetadata = {
-  categories: Categories;
-  ports: Ports;
-  showcases: Showcases;
-};
+const portsYaml = Deno.readTextFileSync(join(root, "../ports.yml"));
 
-type UserstylesMetadata = {
-  userstyles: Userstyles;
-};
-
-const ajv = new Ajv();
-const validatePorts = ajv.compile<PortsMetadata>(portsSchema);
-const validateUserstyles = ajv.compile<PortsMetadata>(userstylesSchema);
-
-const portsYaml = Deno.readTextFileSync(path.join(root, "../ports.yml"));
-const portsData = parseYaml(portsYaml) as PortsMetadata;
-
-const userstylesData = parseYaml(
-  await userstylesYaml.text(),
-) as UserstylesMetadata;
-
-// throw error if the YAML is invalid
-if (!validatePorts(portsData)) {
-  console.log(validatePorts.errors);
-  Deno.exit(1);
-}
-
-if (!validateUserstyles(userstylesData)) {
-  console.log(validateUserstyles.errors);
-  Deno.exit(1);
+const [portsData, userstylesData] = await Promise.all([
+  await validateYaml<PortsSchema.PortsSchema>(
+    portsYaml,
+    portsSchema,
+  ),
+  await validateYaml<UserStylesSchema.UserstylesSchema>(
+    userstylesYaml,
+    userstylesSchema,
+  ),
+]);
+if (!portsData.ports || !portsData.categories || !userstylesData.userstyles) {
+  throw new Error("ports.yml is empty");
 }
 
 const ports = Object.assign(portsData.ports, userstylesData.userstyles);
 
-export type MappedPort = (Port | Userstyle) & { html_url: string };
+export type MappedPort = (PortsSchema.Port | UserStylesSchema.Userstyle) & {
+  html_url: string;
+};
 
-const categorized = Object.entries(ports).reduce(
-  (acc, [slug, port]: [string, MappedPort]) => {
-    !acc[port.category] && (acc[port.category] = []);
-    acc[port.category].push({
-      html_url: `https://github.com/catppuccin/${
-        port.readme ? `userstyles/tree/main/styles/${slug}` : slug
-      }`,
-      ...port,
-      name: [port.name].flat().join(", "),
-    });
-    acc[port.category].sort((a, b) => a.name.localeCompare(b.name));
-    return acc;
-  },
-  {} as Record<string, MappedPort[]>,
-);
+const categorized = Object.entries(ports)
+  .reduce(
+    (acc, [slug, port]) => {
+      // create a new array if it doesn't exist
+      acc[port.category] ??= [];
+
+      acc[port.category].push({
+        html_url: `https://github.com/catppuccin/${
+          port.readme ? `userstyles/tree/main/styles/${slug}` : slug
+        }`,
+        ...port,
+        name: [port.name].flat().join(", "),
+      });
+      acc[port.category].sort((a, b) =>
+        [a.name].flat()[0].localeCompare([b.name].flat()[0])
+      );
+      return acc;
+    },
+    {} as Record<string, MappedPort[]>,
+  );
 
 const portListData = portsData.categories.map((category) => {
   return {
@@ -73,41 +62,7 @@ const portListData = portsData.categories.map((category) => {
   };
 });
 
-const updateReadme = ({
-  readme,
-  section,
-  newContent,
-}: {
-  readme: string;
-  section: string;
-  newContent: string;
-}): string => {
-  const preamble =
-    "<!-- the following section is auto-generated, do not edit -->";
-  const markers = {
-    start: `<!-- AUTOGEN:${section.toUpperCase()} START -->`,
-    end: `<!-- AUTOGEN:${section.toUpperCase()} END -->`,
-  };
-
-  const wrapped = markers.start + "\n" + preamble + "\n" + newContent + "\n" +
-    markers.end;
-
-  if (
-    !(
-      readmeContent.includes(markers.start) &&
-      readmeContent.includes(markers.end)
-    )
-  ) {
-    throw new Error("Markers not found in README.md");
-  }
-
-  const pre = readme.split(markers.start)[0];
-  const end = readme.split(markers.end)[1];
-
-  return pre + wrapped + end;
-};
-
-const readmePath = path.join(root, "../../README.md");
+const readmePath = join(root, "../../README.md");
 let readmeContent = Deno.readTextFileSync(readmePath);
 
 const portContent = portListData
@@ -122,7 +77,7 @@ ${data.ports.map((port) => `- [${port.name}](${port.html_url})`).join("\n")}
   .join("\n");
 
 const showcaseContent = portsData.showcases
-  .map((showcase) => {
+  ?.map((showcase) => {
     return `- [${showcase.title}](${showcase.link}) - ${showcase.description}`;
   })
   .join("\n");
@@ -133,11 +88,13 @@ try {
     section: "portlist",
     newContent: portContent,
   });
-  readmeContent = updateReadme({
-    readme: readmeContent,
-    section: "showcase",
-    newContent: showcaseContent,
-  });
+  showcaseContent && (
+    readmeContent = updateReadme({
+      readme: readmeContent,
+      section: "showcase",
+      newContent: showcaseContent,
+    })
+  );
 } catch (e) {
   console.log("Failed to update the README:", e);
 } finally {
