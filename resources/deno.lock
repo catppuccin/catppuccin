@@ -155,6 +155,10 @@
     "https://esm.sh/v134/type-fest@4.8.1/denonext/source/union-to-intersection.d.js": "4dda98575465ccb71439587d666e602980113bf8d01bb42067ca6ffeb4fae0e3",
     "https://esm.sh/v134/type-fest@4.8.1/source/simplify.d": "75d5f739975152accd8282ecb89818cc4644e1ee2c73b13055de5e0ad6349f2e",
     "https://esm.sh/v134/type-fest@4.8.1/source/union-to-intersection.d": "7be1a6951fbb06a27c1ad9820a5af2571c77adb65d8fb818ef7c7053e6ed14fa",
+    "https://esm.sh/v135/type-fest@4.8.1/denonext/source/simplify.d.js": "a3a0888441b04e1ab9ac5db803dc2bba5509a78f916ca78e583d26b47f429e5f",
+    "https://esm.sh/v135/type-fest@4.8.1/denonext/source/union-to-intersection.d.js": "4dda98575465ccb71439587d666e602980113bf8d01bb42067ca6ffeb4fae0e3",
+    "https://esm.sh/v135/type-fest@4.8.1/source/simplify.d": "7359c9f2ef1a0d33486b54d31afe5a266317a370d20fe6947f245f4dca9de376",
+    "https://esm.sh/v135/type-fest@4.8.1/source/union-to-intersection.d": "8a73c629d0507dd707e4cbaa3f745ffbd74b5073191ce522afc2ac0639f748cd",
     "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/scripts/generate/utils.ts": "425692ab282931508b416874c6b31f01ad3b30f9e3c574de9c5c3558afc1a531",
     "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/scripts/userstyles.schema.json": "6613d4fe2df651c606a885212b4232e5250e5f401f1b349d1801cf63428b0fab",
     "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/scripts/utils.ts": "3e4a91fb02deef503c248d85bd71ff83b70aa73ee4f915ab006d8f6ab86fe2d9"

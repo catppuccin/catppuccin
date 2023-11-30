@@ -1247,6 +1247,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [bStats](https://github.com/catppuccin/userstyles/tree/main/styles/bstats)
 - [Chess.com](https://github.com/catppuccin/userstyles/tree/main/styles/chess.com)
 - [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
+- [lichess](https://github.com/catppuccin/userstyles/tree/main/styles/lichess)
 - [Minecraft](https://github.com/catppuccin/minecraft)
 - [Modrinth](https://github.com/catppuccin/userstyles/tree/main/styles/modrinth)
 - [Moon Animator 2](https://github.com/catppuccin/moon-animator-2)
@@ -1277,6 +1278,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Comfy](https://github.com/Comfy-Themes/Spicetify) - A theme for [Spicetify](https://github.com/spicetify/spicetify-cli) with a basic catppuccin color scheme!
 - [Catppuccin Noctis](https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis) - An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
 - [Meowix Linux](https://meowix-linux.github.io/) - An Arch Linux-based distribution centered around the Catppuccin theme.
+- [Mind Elixir](https://github.com/ssshooter/mind-elixir-core) - A framework agnostic JavaScript mind map core.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
