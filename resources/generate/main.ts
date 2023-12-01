@@ -1,18 +1,21 @@
 #!/usr/bin/env -S deno run --allow-env --allow-read --allow-write --allow-net
 
 import { join } from "std/path/mod.ts";
-import {
-  portsSchema,
-  updateReadme,
-  userstylesSchema,
-  userstylesYaml,
-  validateYaml,
-} from "@/deps.ts";
+import { updateReadme, validateYaml } from "catppuccin-deno-lib";
+
+import portsSchema from "@/ports.schema.json" assert { type: "json" };
+import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.json" assert {
+  type: "json",
+};
+const userstylesYaml = await fetch(
+  "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml",
+).then((res) => res.text());
+
 import type { PortsSchema, UserStylesSchema } from "@/types/mod.ts";
 
 const root = new URL(".", import.meta.url).pathname;
 
-const portsYaml = Deno.readTextFileSync(join(root, "../ports.yml"));
+const portsYaml = await Deno.readTextFile(join(root, "../ports.yml"));
 
 const [portsData, userstylesData] = await Promise.all([
   await validateYaml<PortsSchema.PortsSchema>(
@@ -63,7 +66,7 @@ const portListData = portsData.categories.map((category) => {
 });
 
 const readmePath = join(root, "../../README.md");
-let readmeContent = Deno.readTextFileSync(readmePath);
+let readmeContent = await Deno.readTextFile(readmePath);
 
 const portContent = portListData
   .map((data) => {
@@ -83,20 +86,16 @@ const showcaseContent = portsData.showcases
   .join("\n");
 
 try {
-  readmeContent = updateReadme({
-    readme: readmeContent,
+  readmeContent = updateReadme(readmeContent, portContent, {
     section: "portlist",
-    newContent: portContent,
   });
   showcaseContent && (
-    readmeContent = updateReadme({
-      readme: readmeContent,
+    readmeContent = updateReadme(readmeContent, showcaseContent, {
       section: "showcase",
-      newContent: showcaseContent,
     })
   );
 } catch (e) {
   console.log("Failed to update the README:", e);
 } finally {
-  Deno.writeTextFileSync(readmePath, readmeContent);
+  await Deno.writeTextFile(readmePath, readmeContent);
 }

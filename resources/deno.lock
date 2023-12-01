@@ -1,43 +1,5 @@
 {
   "version": "3",
-  "packages": {
-    "specifiers": {
-      "npm:ajv@8.12.0": "npm:ajv@8.12.0"
-    },
-    "npm": {
-      "ajv@8.12.0": {
-        "integrity": "sha512-sRu1kpcO9yLtYxBKvqfTeh9KzZEwO3STyX1HT+4CaDzC6HpTGYhIhPIzj9XuKU7KYDwnaeh5hcOwjy1QuJzBPA==",
-        "dependencies": {
-          "fast-deep-equal": "fast-deep-equal@3.1.3",
-          "json-schema-traverse": "json-schema-traverse@1.0.0",
-          "require-from-string": "require-from-string@2.0.2",
-          "uri-js": "uri-js@4.4.1"
-        }
-      },
-      "fast-deep-equal@3.1.3": {
-        "integrity": "sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q==",
-        "dependencies": {}
-      },
-      "json-schema-traverse@1.0.0": {
-        "integrity": "sha512-NM8/P9n3XjXhIZn1lLhkFaACTOURQXjWhV4BA/RnOv8xvgqtqpAX9IO4mRQxSx1Rlo4tqzeqb0sOlruaOy3dug==",
-        "dependencies": {}
-      },
-      "punycode@2.3.1": {
-        "integrity": "sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==",
-        "dependencies": {}
-      },
-      "require-from-string@2.0.2": {
-        "integrity": "sha512-Xf0nWe6RseziFMu+Ap9biiUbmplq6S9/p+7w7YXP/JBHhrUDDUhwa+vANyubuqfZWTveU//DYVGsDG7RKL/vEw==",
-        "dependencies": {}
-      },
-      "uri-js@4.4.1": {
-        "integrity": "sha512-7rKUyy33Q1yc98pQ1DAmLtwX109F7TIfWlW1Ydo8Wl1ii1SeHieeh0HHfPeL2fMXK6z0s8ecKs9frCuLJvndBg==",
-        "dependencies": {
-          "punycode": "punycode@2.3.1"
-        }
-      }
-    }
-  },
   "remote": {
     "https://deno.land/std@0.207.0/assert/assert.ts": "9a97dad6d98c238938e7540736b826440ad8c1c1e54430ca4c4e623e585607ee",
     "https://deno.land/std@0.207.0/assert/assertion_error.ts": "4d0bde9b374dfbcbe8ac23f54f567b77024fb67dbb1906a852d67fe050d42f56",
@@ -150,17 +112,19 @@
     "https://deno.land/std@0.207.0/yaml/schema/json.ts": "5f41dd7c2f1ad545ef6238633ce9ee3d444dfc5a18101e1768bd5504bf90e5e5",
     "https://deno.land/std@0.207.0/yaml/schema/mod.ts": "4472e827bab5025e92bc2eb2eeefa70ecbefc64b2799b765c69af84822efef32",
     "https://deno.land/std@0.207.0/yaml/type.ts": "65553da3da3c029b6589c6e4903f0afbea6768be8fca61580711457151f2b30f",
+    "https://deno.land/x/catppuccin_toolbox@deno-lib-v1.0.0/deno-lib/mod.ts": "c72687f31c7267d121441bb872dab08621a679f6b46e59355391b11f8f9dc160",
+    "https://deno.land/x/catppuccin_toolbox@deno-lib-v1.0.0/deno-lib/updateReadme.ts": "e349b1c0b2c1d1fc317bbc5b506f733d3c03d48ef26d0d62eafb7cc5141ed492",
+    "https://deno.land/x/catppuccin_toolbox@deno-lib-v1.0.0/deno-lib/validateYaml.ts": "aa26af13d5d0b1cddc1c2df5f025ce8666b44070be29db063e336e76779402a4",
     "https://esm.sh/type-fest@4.8.1": "fabf6997a3adf11e45d11e3c4d58d0634ab98f9d72f3116f3694123818ccd457",
     "https://esm.sh/v134/type-fest@4.8.1/denonext/source/simplify.d.js": "a3a0888441b04e1ab9ac5db803dc2bba5509a78f916ca78e583d26b47f429e5f",
     "https://esm.sh/v134/type-fest@4.8.1/denonext/source/union-to-intersection.d.js": "4dda98575465ccb71439587d666e602980113bf8d01bb42067ca6ffeb4fae0e3",
     "https://esm.sh/v134/type-fest@4.8.1/source/simplify.d": "75d5f739975152accd8282ecb89818cc4644e1ee2c73b13055de5e0ad6349f2e",
     "https://esm.sh/v134/type-fest@4.8.1/source/union-to-intersection.d": "7be1a6951fbb06a27c1ad9820a5af2571c77adb65d8fb818ef7c7053e6ed14fa",
-    "https://esm.sh/v135/type-fest@4.8.1/denonext/source/simplify.d.js": "a3a0888441b04e1ab9ac5db803dc2bba5509a78f916ca78e583d26b47f429e5f",
-    "https://esm.sh/v135/type-fest@4.8.1/denonext/source/union-to-intersection.d.js": "4dda98575465ccb71439587d666e602980113bf8d01bb42067ca6ffeb4fae0e3",
-    "https://esm.sh/v135/type-fest@4.8.1/source/simplify.d": "7359c9f2ef1a0d33486b54d31afe5a266317a370d20fe6947f245f4dca9de376",
-    "https://esm.sh/v135/type-fest@4.8.1/source/union-to-intersection.d": "8a73c629d0507dd707e4cbaa3f745ffbd74b5073191ce522afc2ac0639f748cd",
-    "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/scripts/generate/utils.ts": "425692ab282931508b416874c6b31f01ad3b30f9e3c574de9c5c3558afc1a531",
-    "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/scripts/userstyles.schema.json": "6613d4fe2df651c606a885212b4232e5250e5f401f1b349d1801cf63428b0fab",
-    "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/scripts/utils.ts": "3e4a91fb02deef503c248d85bd71ff83b70aa73ee4f915ab006d8f6ab86fe2d9"
+    "https://esm.sh/v135/ajv@8.12.0": "cc1a73af661466c7f4e6a94d93ece78542d700f2165bdb16a531e9db8856c5aa",
+    "https://esm.sh/v135/ajv@8.12.0/denonext/ajv.mjs": "4645df9093d0f8be0e964070a4a7aea8adea06e8883660340931f7a3f979fc65",
+    "https://esm.sh/v135/fast-deep-equal@3.1.3/denonext/fast-deep-equal.mjs": "6313b3e05436550e1c0aeb2a282206b9b8d9213b4c6f247964dd7bb4835fb9e5",
+    "https://esm.sh/v135/json-schema-traverse@1.0.0/denonext/json-schema-traverse.mjs": "c5da8353bc014e49ebbb1a2c0162d29969a14c325da19644e511f96ba670cc45",
+    "https://esm.sh/v135/uri-js@4.4.1/denonext/uri-js.mjs": "901d462f9db207376b39ec603d841d87e6b9e9568ce97dfaab12aa77d0f99f74",
+    "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/scripts/userstyles.schema.json": "6613d4fe2df651c606a885212b4232e5250e5f401f1b349d1801cf63428b0fab"
   }
 }
