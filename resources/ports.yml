@@ -31,6 +31,11 @@ ports:
         name: Aseprite
         category: productivity
         platform: [linux, macos, windows]
+    azuredatastudio:
+        name: Azure Data Studio
+        category: code_editor
+        platform: [linux, macos, windows]
+        alias: vscode
     base16:
         name: Base16
         category: system
@@ -382,11 +387,21 @@ ports:
         category: code_editor
         platform: [linux, macos, windows]
         color: text
+        links:
+            - name: JetBrains Marketplace
+              icon: jetbrains
+              color: text
+              url: https://plugins.jetbrains.com/plugin/18682-catppuccin-theme
     jetbrains-icons:
         name: JetBrains Icons
         category: code_editor
         platform: [linux, macos, windows]
         color: text
+        links:
+            - name: JetBrains Marketplace
+              icon: jetbrains
+              color: text
+              url: https://plugins.jetbrains.com/plugin/23029-catppuccin-icons
     joplin:
         name: Joplin
         category: note_taking
@@ -724,6 +739,11 @@ ports:
         name: ShareX
         category: productivity
         platform: [windows]
+    shiki:
+        name: ShikiJS
+        category: development
+        platform: agnostic
+        url: https://github.com/catppuccin/vscode/tree/compiled
     sidebery:
         name: Sidebery
         category: browser_extension
@@ -813,6 +833,11 @@ ports:
         category: development
         platform: agnostic
         color: sky
+        links:
+            - name: NPM
+              icon: npm
+              color: red
+              url: https://www.npmjs.com/package/@catppuccin/tailwindcss
     telegram:
         name: Telegram
         category: messaging
@@ -911,6 +936,11 @@ ports:
         category: code_editor
         platform: [windows]
         icon: visualstudio
+        links:
+            - name: Visual Studio Marketplace
+              icon: visualstudio
+              color: blue
+              url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.CatppuccinVS
     vivaldi:
         name: Vivaldi
         category: browser
@@ -922,12 +952,26 @@ ports:
         platform: [linux, macos, windows]
         color: blue
         icon: visualstudiocode
+        links:
+            - name: Visual Studio Marketplace
+              icon: visualstudio
+              color: blue
+              url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
+            - name: Open VSX Registry
+              icon: vscodium
+              color: blue
+              url: https://open-vsx.org/extension/Catppuccin/catppuccin-vsc
     vscode-icons:
         name: Visual Studio Code Icons
         category: code_editor
         platform: [linux, macos, windows]
         color: blue
         icon: visualstudiocode
+        links:
+          - name: Visual Studio Marketplace
+            icon: visualstudio
+            color: blue
+            url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
     warp:
         name: Warp
         category: terminal
