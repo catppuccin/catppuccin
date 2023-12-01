@@ -54,12 +54,7 @@ export type Category =
  * The platforms the port supports. Either an array of supported operating systems or "agnostic" (indicating support for all platforms).
  */
 export type Platform = OperatingSystems[] | "agnostic";
-export type OperatingSystems =
-  | "android"
-  | "ios"
-  | "linux"
-  | "macos"
-  | "windows";
+export type OperatingSystems = "android" | "ios" | "linux" | "macos" | "windows";
 /**
  * The fill color for the icon on the website.
  */
@@ -83,9 +78,23 @@ export type Color =
  * The icon to use on the website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.
  */
 export type Icon = string;
+/**
+ * If another port provides the theme for this port, provide the name of the other port here (e.g. `vscode` for `azuredatastudio`, where Azure Data Studio uses the VS Code theme).
+ */
+export type Alias = string;
+/**
+ * If the port is hosted on a specific URL, provide it here.
+ */
+export type URL = string;
+export type Name2 = string;
+export type URL1 = string;
+/**
+ * Links to the port on marketplaces, app stores; documentation, preview pages, etc.
+ */
+export type Links = Link[];
 export type Title = string;
-export type Link = string;
 export type Link1 = string;
+export type Link2 = string;
 /**
  * Each showcase listed in the README
  */
@@ -119,9 +128,16 @@ export interface Port {
   platform: Platform;
   color?: Color;
   icon?: Icon;
+  alias?: Alias;
+  url?: URL;
+  links?: Links;
+}
+export interface Link {
+  name: Name2;
+  url: URL1;
 }
 export interface ShowcaseItem {
   title: Title;
-  link: Link;
-  description: Link1;
+  link: Link1;
+  description: Link2;
 }
