@@ -124,6 +124,10 @@
     "https://esm.sh/v135/ajv@8.12.0/denonext/ajv.mjs": "4645df9093d0f8be0e964070a4a7aea8adea06e8883660340931f7a3f979fc65",
     "https://esm.sh/v135/fast-deep-equal@3.1.3/denonext/fast-deep-equal.mjs": "6313b3e05436550e1c0aeb2a282206b9b8d9213b4c6f247964dd7bb4835fb9e5",
     "https://esm.sh/v135/json-schema-traverse@1.0.0/denonext/json-schema-traverse.mjs": "c5da8353bc014e49ebbb1a2c0162d29969a14c325da19644e511f96ba670cc45",
+    "https://esm.sh/v135/type-fest@4.8.1/denonext/source/simplify.d.js": "a3a0888441b04e1ab9ac5db803dc2bba5509a78f916ca78e583d26b47f429e5f",
+    "https://esm.sh/v135/type-fest@4.8.1/denonext/source/union-to-intersection.d.js": "4dda98575465ccb71439587d666e602980113bf8d01bb42067ca6ffeb4fae0e3",
+    "https://esm.sh/v135/type-fest@4.8.1/source/simplify.d": "7359c9f2ef1a0d33486b54d31afe5a266317a370d20fe6947f245f4dca9de376",
+    "https://esm.sh/v135/type-fest@4.8.1/source/union-to-intersection.d": "8a73c629d0507dd707e4cbaa3f745ffbd74b5073191ce522afc2ac0639f748cd",
     "https://esm.sh/v135/uri-js@4.4.1/denonext/uri-js.mjs": "901d462f9db207376b39ec603d841d87e6b9e9568ce97dfaab12aa77d0f99f74",
     "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/scripts/userstyles.schema.json": "6613d4fe2df651c606a885212b4232e5250e5f401f1b349d1801cf63428b0fab"
   }
