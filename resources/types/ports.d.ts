@@ -134,6 +134,8 @@ export interface Port {
 }
 export interface Link {
   name: Name2;
+  color?: Color;
+  icon?: Icon;
   url: URL1;
 }
 export interface ShowcaseItem {
