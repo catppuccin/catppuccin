@@ -332,6 +332,11 @@ ports:
         name: Highlight.js
         category: development
         platform: agnostic
+        links:
+            - name: NPM
+              icon: npm
+              color: red
+              url: https://www.npmjs.com/package/@catppuccin/highlightjs
     home-assistant:
         name: Home Assistant
         category: leisure
@@ -342,6 +347,11 @@ ports:
         category: terminal
         platform: [linux, macos, windows]
         color: text
+        links:
+            - name: NPM
+              icon: npm
+              color: red
+              url: https://www.npmjs.com/package/hypurr
     hyprland:
         name: Hyprland
         category: system
@@ -575,6 +585,9 @@ ports:
         name: Nova
         category: code_editor
         platform: [macos]
+        links:
+            - name: Nova Extensions
+              url: https://extensions.panic.com/extensions/holler/holler.CatppuccinTheme/
     nvim:
         name: Neovim
         category: code_editor
@@ -900,6 +913,11 @@ ports:
         platform: agnostic
         icon: react
         color: sky
+        links:
+            - name: NPM
+              icon: npm
+              color: red
+              url: https://www.npmjs.com/package/@catppuccin/ui
     ulauncher:
         name: Ulauncher
         category: system
