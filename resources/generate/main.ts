@@ -2,6 +2,7 @@
 
 import { join } from "std/path/mod.ts";
 import { updateReadme, validateYaml } from "catppuccin-deno-lib";
+import { MergeExclusive, SetOptional } from "type-fest";
 
 import portsSchema from "@/ports.schema.json" assert { type: "json" };
 import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.json" assert {
@@ -31,11 +32,33 @@ if (!portsData.ports || !portsData.categories || !userstylesData.userstyles) {
   throw new Error("ports.yml is empty");
 }
 
-const ports = Object.assign(portsData.ports, userstylesData.userstyles);
+export type MappedPort =
+  & MergeExclusive<PortsSchema.Port, UserStylesSchema.Userstyle>
+  & {
+    type: "port" | "userstyle";
+  };
 
-export type MappedPort = (PortsSchema.Port | UserStylesSchema.Userstyle) & {
-  html_url: string;
+// label the ports with their type
+const ports = {
+  ...Object.entries(portsData.ports)
+    .reduce((acc, [slug, port]) => {
+      acc[slug] = {
+        ...port,
+        type: "port",
+      };
+      return acc;
+    }, {} as Record<string, MappedPort>),
+  ...Object.entries(userstylesData.userstyles)
+    .reduce((acc, [slug, userstyle]) => {
+      acc[slug] = {
+        ...userstyle,
+        type: "userstyle",
+      };
+      return acc;
+    }, {} as Record<string, MappedPort>),
 };
+
+const portSlugs = Object.entries(ports).map(([slug]) => slug);
 
 const categorized = Object.entries(ports)
   .reduce(
@@ -43,11 +66,32 @@ const categorized = Object.entries(ports)
       // create a new array if it doesn't exist
       acc[port.category] ??= [];
 
+      // validate the alias against an existing port
+      if (port.alias && !portSlugs.includes(port.alias)) {
+        throw new Error(
+          `port \`${slug}\` points to an alias \`${port.alias}\` that doesn't exist`,
+        );
+      }
+
+      let url = port.url;
+      if (!url) {
+        switch (port.type) {
+          case "port": {
+            const repo = port.alias ?? slug;
+            url = `https://github.com/catppuccin/${repo}`;
+            break;
+          }
+          case "userstyle": {
+            url =
+              `https://github.com/catppuccin/userstyles/tree/main/styles/${slug}`;
+            break;
+          }
+        }
+      }
+
       acc[port.category].push({
-        html_url: `https://github.com/catppuccin/${
-          port.readme ? `userstyles/tree/main/styles/${slug}` : slug
-        }`,
         ...port,
+        url,
         name: [port.name].flat().join(", "),
       });
       acc[port.category].sort((a, b) =>
@@ -55,7 +99,7 @@ const categorized = Object.entries(ports)
       );
       return acc;
     },
-    {} as Record<string, MappedPort[]>,
+    {} as Record<string, SetOptional<MappedPort, "readme" | "platform">[]>,
   );
 
 const portListData = portsData.categories.map((category) => {
@@ -73,7 +117,7 @@ const portContent = portListData
     return `<details open>
 <summary>${data.meta.emoji} ${data.meta.name}</summary>
 
-${data.ports.map((port) => `- [${port.name}](${port.html_url})`).join("\n")}
+${data.ports.map((port) => `- [${port.name}](${port.url})`).join("\n")}
 
 </details>`;
   })

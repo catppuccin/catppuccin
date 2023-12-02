@@ -3,9 +3,10 @@
     "@/": "./",
     "std/": "https://deno.land/std@0.207.0/",
     "catppuccin-deno-lib": "https://deno.land/x/catppuccin_toolbox@deno-lib-v1.0.0/deno-lib/mod.ts",
-    "catppuccin-userstyles/": "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/"
+    "catppuccin-userstyles/": "https://raw.githubusercontent.com/catppuccin/userstyles/c7344a51ba4ca294b1509b53574fc7c1a115e422/",
+    "type-fest": "https://esm.sh/v135/type-fest@4.8.3"
   },
   "tasks": {
-    "update-types": "deno run -A npm:json-schema-to-typescript ./ports.schema.json ./types/ports.d.ts"
+    "update-types": "deno run --no-lock -A npm:json-schema-to-typescript ./ports.schema.json ./types/ports.d.ts"
   }
 }

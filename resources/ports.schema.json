@@ -114,40 +114,65 @@
               ]
             },
             "color": {
-              "$id": "#ports/port/color",
-              "title": "Color",
-              "description": "The fill color for the icon on the website.",
-              "type": "string",
-              "enum": [
-                "rosewater",
-                "flamingo",
-                "pink",
-                "mauve",
-                "red",
-                "maroon",
-                "peach",
-                "yellow",
-                "green",
-                "teal",
-                "sky",
-                "sapphire",
-                "blue",
-                "lavender",
-                "text"
-              ],
-              "examples": [
-                "pink"
-              ]
+              "$ref": "#/$defs/color"
             },
             "icon": {
-              "$id": "#ports/port/icon",
-              "title": "Icon",
-              "description": "The icon to use on the website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.",
-              "type": "string",
+              "$ref": "#/$defs/icon"
+            },
+            "alias": {
+              "$id": "#ports/port/alias",
+              "title": "Alias",
+              "description": "If another port provides the theme for this port, provide the name of the other port here (e.g. `vscode` for `azuredatastudio`, where Azure Data Studio uses the VS Code theme).",
+              "type": "string"
+            },
+            "url": {
+              "$id": "#ports/port/url",
+              "title": "URL",
+              "description": "If the port is hosted on a specific URL, provide it here.",
               "examples": [
-                "neovim",
-                "neovim.svg"
-              ]
+                "https://github.com/catppuccin/vscode/tree/compiled"
+              ],
+              "type": "string"
+            },
+            "links": {
+              "$id": "#ports/port/links",
+              "title": "Links",
+              "description": "Links to the port on marketplaces, app stores; documentation, preview pages, etc.",
+              "type": "array",
+              "items": {
+                "$id": "#ports/port/links/item",
+                "title": "Link",
+                "type": "object",
+                "required": [
+                  "name",
+                  "url"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "name": {
+                    "$id": "#ports/port/links/link/name",
+                    "title": "Name",
+                    "type": "string"
+                  },
+                  "color": {
+                    "$ref": "#/$defs/color"
+                  },
+                  "icon": {
+                    "$ref": "#/$defs/icon"
+                  },
+                  "url": {
+                    "$id": "#ports/port/links/link/url",
+                    "title": "URL",
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "upstreamed": {
+              "$id": "#ports/port/upstreamed",
+              "title": "Upstreamed",
+              "description": "Boolean indicating whether the port has been upstreamed.",
+              "type": "boolean"
             }
           }
         }
@@ -189,6 +214,42 @@
     }
   },
   "$defs": {
+    "icon": {
+      "$id": "#icon",
+      "title": "Icon",
+      "description": "The icon to use on the website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.",
+      "type": "string",
+      "examples": [
+        "neovim",
+        "neovim.svg"
+      ]
+    },
+    "color": {
+      "$id": "#color",
+      "title": "Color",
+      "description": "The fill color for the icon on the website.",
+      "type": "string",
+      "enum": [
+        "rosewater",
+        "flamingo",
+        "pink",
+        "mauve",
+        "red",
+        "maroon",
+        "peach",
+        "yellow",
+        "green",
+        "teal",
+        "sky",
+        "sapphire",
+        "blue",
+        "lavender",
+        "text"
+      ],
+      "examples": [
+        "pink"
+      ]
+    },
     "category": {
       "$id": "#category",
       "type": "string",

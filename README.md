@@ -913,6 +913,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>👾 Code Editors & IDEs</summary>
 
+- [Azure Data Studio](https://github.com/catppuccin/vscode)
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
 - [Cutter](https://github.com/catppuccin/cutter)
 - [DrRacket](https://github.com/catppuccin/drracket)
@@ -958,6 +959,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Matplotlib](https://github.com/catppuccin/matplotlib)
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
+- [ShikiJS](https://github.com/catppuccin/vscode/tree/compiled)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Unreal Engine](https://github.com/catppuccin/unreal-engine)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
