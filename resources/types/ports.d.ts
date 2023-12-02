@@ -92,6 +92,10 @@ export type URL1 = string;
  * Links to the port on marketplaces, app stores; documentation, preview pages, etc.
  */
 export type Links = Link[];
+/**
+ * Boolean indicating whether the port has been upstreamed.
+ */
+export type Upstreamed = boolean;
 export type Title = string;
 export type Link1 = string;
 export type Link2 = string;
@@ -131,6 +135,7 @@ export interface Port {
   alias?: Alias;
   url?: URL;
   links?: Links;
+  upstreamed?: Upstreamed;
 }
 export interface Link {
   name: Name2;

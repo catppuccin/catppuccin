@@ -167,6 +167,12 @@
                   }
                 }
               }
+            },
+            "upstreamed": {
+              "$id": "#ports/port/upstreamed",
+              "title": "Upstreamed",
+              "description": "Boolean indicating whether the port has been upstreamed.",
+              "type": "boolean"
             }
           }
         }
