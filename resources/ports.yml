@@ -1002,7 +1002,7 @@ ports:
         name: WezTerm
         category: terminal
         platform: [linux, macos, windows]
-        icon: wezterm.svg
+        icon: wezterm
         upstreamed: true
     whoogle:
         name: Whoogle
