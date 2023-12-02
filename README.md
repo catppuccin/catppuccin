@@ -1110,6 +1110,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Brave Search](https://github.com/catppuccin/userstyles/tree/main/styles/brave-search)
 - [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [Ecosia](https://github.com/catppuccin/userstyles/tree/main/styles/ecosia)
+- [Google](https://github.com/catppuccin/userstyles/tree/main/styles/google)
 - [NixOS Search](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search)
 - [SearXNG](https://github.com/catppuccin/userstyles/tree/main/styles/searxng)
 - [Startpage](https://github.com/catppuccin/userstyles/tree/main/styles/startpage)
