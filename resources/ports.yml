@@ -1003,6 +1003,7 @@ ports:
         category: terminal
         platform: [linux, macos, windows]
         icon: wezterm.svg
+        upstreamed: true
     whoogle:
         name: Whoogle
         category: search_engine
@@ -1053,6 +1054,7 @@ ports:
         category: cli
         platform: [linux, macos]
         icon: zellij.svg
+        upstreamed: true
     zsh-fsh:
         name: ZSH Fast Syntax Highlighting
         category: cli
