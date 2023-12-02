@@ -58,13 +58,20 @@ const ports = {
     }, {} as Record<string, MappedPort>),
 };
 
+const portSlugs = Object.entries(ports).map(([slug]) => slug);
+
 const categorized = Object.entries(ports)
   .reduce(
     (acc, [slug, port]) => {
       // create a new array if it doesn't exist
       acc[port.category] ??= [];
 
-      console.log(port);
+      // validate the alias against an existing port
+      if (port.alias && !portSlugs.includes(port.alias)) {
+        throw new Error(
+          `port \`${slug}\` points to an alias \`${port.alias}\` that doesn't exist`,
+        );
+      }
 
       let url = port.url;
       if (!url) {
