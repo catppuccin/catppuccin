@@ -1282,6 +1282,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Catppuccin Noctis](https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis) - An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
 - [Meowix Linux](https://meowix-linux.github.io/) - An Arch Linux-based distribution centered around the Catppuccin theme.
 - [Mind Elixir](https://github.com/ssshooter/mind-elixir-core) - A framework agnostic JavaScript mind map core.
+- [Career Vault](https://careervault.io) - A remote job board that shows hundreds of new opportunities every day.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
