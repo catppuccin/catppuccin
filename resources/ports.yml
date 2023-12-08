@@ -940,6 +940,10 @@ ports:
         name: V
         category: library
         platform: agnostic
+    vendetta:
+        name: Vendetta
+        category: Messaging
+        platform: [android, ios]
     vim:
         name: Vim
         category: code_editor
