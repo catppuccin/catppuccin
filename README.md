@@ -1133,6 +1133,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Slack](https://github.com/catppuccin/slack)
 - [Telegram](https://github.com/catppuccin/telegram)
 - [The Lounge](https://github.com/catppuccin/thelounge)
+- [Vendetta](https://github.com/catppuccin/vendetta)
 - [WhatsApp Web](https://github.com/catppuccin/userstyles/tree/main/styles/whatsapp-web)
 
 </details>
