@@ -942,7 +942,7 @@ ports:
         platform: agnostic
     vendetta:
         name: Vendetta
-        category: Messaging
+        category: messaging
         platform: [android, ios]
     vim:
         name: Vim
