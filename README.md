@@ -1188,8 +1188,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [Thunderbird](https://github.com/catppuccin/thunderbird)
-- [Tutanota](https://github.com/catppuccin/userstyles/tree/main/styles/tutanota)
-- [WikiWand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
+- [Tuta](https://github.com/catppuccin/userstyles/tree/main/styles/tuta)
+- [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
 - [Zathura](https://github.com/catppuccin/zathura)
 
 </details>
@@ -1251,7 +1251,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [bStats](https://github.com/catppuccin/userstyles/tree/main/styles/bstats)
 - [Chess.com](https://github.com/catppuccin/userstyles/tree/main/styles/chess.com)
 - [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
-- [lichess](https://github.com/catppuccin/userstyles/tree/main/styles/lichess)
+- [Lichess](https://github.com/catppuccin/userstyles/tree/main/styles/lichess)
 - [Minecraft](https://github.com/catppuccin/minecraft)
 - [Modrinth](https://github.com/catppuccin/userstyles/tree/main/styles/modrinth)
 - [Moon Animator 2](https://github.com/catppuccin/moon-animator-2)
