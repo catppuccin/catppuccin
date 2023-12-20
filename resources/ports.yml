@@ -769,6 +769,10 @@ ports:
         name: Slack
         category: messaging
         platform: agnostic
+    sioyek:
+        name: Sioyek
+        category: productivity
+        platform: [linux, macos, windows]
     solvespace:
         name: SolveSpace
         category: productivity
