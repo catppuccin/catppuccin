@@ -1182,6 +1182,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)
 - [Raycast](https://github.com/catppuccin/raycast)
 - [ShareX](https://github.com/catppuccin/sharex)
+- [Sioyek](https://github.com/catppuccin/sioyek)
 - [Skiff](https://github.com/catppuccin/userstyles/tree/main/styles/skiff)
 - [SolveSpace](https://github.com/catppuccin/solvespace)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
