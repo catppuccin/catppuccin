@@ -1172,6 +1172,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [ichi.moe](https://github.com/catppuccin/userstyles/tree/main/styles/ichi.moe)
 - [InvokeAI](https://github.com/catppuccin/userstyles/tree/main/styles/invokeai)
 - [Linear](https://github.com/catppuccin/linear)
+- [Lingva](https://github.com/catppuccin/userstyles/tree/main/styles/lingva)
 - [Mailspring](https://github.com/catppuccin/mailspring)
 - [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki)
 - [OBS Studio](https://github.com/catppuccin/obs)
