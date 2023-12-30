@@ -1142,9 +1142,6 @@ showcases:
     - title: Catppuccin Noctis
       description: An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
       link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis
-    - title: Meowix Linux
-      description: An Arch Linux-based distribution centered around the Catppuccin theme.
-      link: https://meowix-linux.github.io/
     - title: Mind Elixir
       description: A framework agnostic JavaScript mind map core.
       link: https://github.com/ssshooter/mind-elixir-core
