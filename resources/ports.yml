@@ -1148,4 +1148,7 @@ showcases:
     - title: Career Vault
       description: A remote job board that shows hundreds of new opportunities every day.
       link: https://careervault.io
+    - title: Nebula
+      description: Nebula is a stunning, sleek, and functional web-proxy with support for thousands of popular sites.
+      link: https://github.com/NebulaServices/Nebula
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
