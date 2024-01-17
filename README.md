@@ -951,6 +951,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [CodeMirror](https://github.com/catppuccin/codemirror)
 - [egui](https://github.com/catppuccin/egui)
 - [Godot](https://github.com/catppuccin/godot)
+- [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
 - [Highlight.js](https://github.com/catppuccin/highlightjs)
 - [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
 - [ImHex](https://github.com/catppuccin/imhex)
@@ -1073,6 +1074,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Regolith Desktop](https://github.com/catppuccin/regolith)
 - [Rofi](https://github.com/catppuccin/rofi)
 - [SDDM](https://github.com/catppuccin/sddm)
+- [swaylock](https://github.com/catppuccin/swaylock)
 - [SwayNotificationCenter](https://github.com/catppuccin/swaync)
 - [tofi](https://github.com/catppuccin/tofi)
 - [tty](https://github.com/catppuccin/tty)
@@ -1174,6 +1176,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Linear](https://github.com/catppuccin/linear)
 - [Lingva](https://github.com/catppuccin/userstyles/tree/main/styles/lingva)
 - [Mailspring](https://github.com/catppuccin/mailspring)
+- [Microsoft Word](https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word)
 - [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki)
 - [OBS Studio](https://github.com/catppuccin/obs)
 - [Pomotroid](https://github.com/catppuccin/pomotroid)
@@ -1198,6 +1201,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>✨ Social</summary>
 
+- [Bluesky Social](https://github.com/catppuccin/userstyles/tree/main/styles/bsky)
 - [Elk](https://github.com/catppuccin/userstyles/tree/main/styles/elk)
 - [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
@@ -1205,6 +1209,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
 - [Instagram](https://github.com/catppuccin/userstyles/tree/main/styles/instagram)
+- [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
 - [Libreddit](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
 - [LinkedIn](https://github.com/catppuccin/userstyles/tree/main/styles/linkedin)
 - [Mastodon](https://github.com/catppuccin/userstyles/tree/main/styles/mastodon)
