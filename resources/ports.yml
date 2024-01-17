@@ -837,6 +837,10 @@ ports:
         name: SumatraPDF
         category: productivity
         platform: [windows]
+    swaylock:
+        name: swaylock
+        category: system
+        platform: [linux]
     swaync:
         name: SwayNotificationCenter
         category: system
