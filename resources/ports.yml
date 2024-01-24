@@ -234,6 +234,10 @@ ports:
         name: FreshRSS
         category: productivity
         platform: [linux, macos, windows]
+    fuzzel:
+        name: Fuzzel
+        category: system
+        platform: [linux]
     fzf:
         name: fzf
         category: cli
