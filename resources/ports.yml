@@ -1055,6 +1055,10 @@ ports:
         category: system
         platform: [linux]
         icon: xdotorg
+    yakuake:
+        name: Yakuake
+        category: terminal
+        platform: [linux]
     youtubemusic:
         name: YouTube Music
         category: leisure
