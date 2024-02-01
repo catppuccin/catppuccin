@@ -1037,6 +1037,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [WezTerm](https://github.com/catppuccin/wezterm)
 - [Windows Terminal](https://github.com/catppuccin/windows-terminal)
 - [Xfce4 Terminal](https://github.com/catppuccin/xfce4-terminal)
+- [Yakuake](https://github.com/catppuccin/yakuake)
 - [Zutty](https://github.com/catppuccin/zutty)
 
 </details>
@@ -1115,6 +1116,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Ecosia](https://github.com/catppuccin/userstyles/tree/main/styles/ecosia)
 - [Google](https://github.com/catppuccin/userstyles/tree/main/styles/google)
 - [NixOS Search](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search)
+- [Perplexity](https://github.com/catppuccin/userstyles/tree/main/styles/perplexity)
 - [SearXNG](https://github.com/catppuccin/userstyles/tree/main/styles/searxng)
 - [Startpage](https://github.com/catppuccin/userstyles/tree/main/styles/startpage)
 - [Whoogle](https://github.com/catppuccin/whoogle)
