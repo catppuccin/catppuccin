@@ -230,6 +230,10 @@ ports:
         name: foot
         category: terminal
         platform: [linux]
+    forklift-4:
+        name: 'Forklift 4'
+        category: system
+        platform: [macos]
     freshrss:
         name: FreshRSS
         category: productivity
