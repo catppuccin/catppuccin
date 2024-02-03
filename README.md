@@ -1053,6 +1053,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [fcitx5](https://github.com/catppuccin/fcitx5)
 - [FlorisBoard](https://github.com/catppuccin/floris-board)
 - [Flow Launcher](https://github.com/catppuccin/flow-launcher)
+- [Forklift 4](https://github.com/catppuccin/forklift-4)
 - [Fuzzel](https://github.com/catppuccin/fuzzel)
 - [GlazeWM](https://github.com/catppuccin/glazewm)
 - [GRUB](https://github.com/catppuccin/grub)
