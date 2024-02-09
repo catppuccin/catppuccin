@@ -898,9 +898,9 @@ our [showcase](#-showcase) section below!
 
 > [!NOTE]<br>
 > if you would like to submit a port or learn how to port Catppuccin to a program, please refer to
-> the [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md)
+> the [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md).
 
-See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md).
 
 &nbsp;
 
