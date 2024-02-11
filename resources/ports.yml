@@ -769,6 +769,10 @@ ports:
         name: Sidebery
         category: browser_extension
         platform: agnostic
+    simplex:
+        name: SimpleX
+        category: messaging
+        platform: [android]
     skim:
         name: skim
         category: cli
