@@ -1168,4 +1168,7 @@ showcases:
     - title: Career Vault
       description: A remote job board that shows hundreds of new opportunities every day.
       link: https://careervault.io
+    - title: Loungy
+      description: An open-source application launcher in the vein of Raycast and Alfred.
+      link: https://loungy.app
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
