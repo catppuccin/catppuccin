@@ -1302,6 +1302,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Catppuccin Noctis](https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis) - An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
 - [Mind Elixir](https://github.com/ssshooter/mind-elixir-core) - A framework agnostic JavaScript mind map core.
 - [Career Vault](https://careervault.io) - A remote job board that shows hundreds of new opportunities every day.
+- [Loungy](https://loungy.app) - An open-source application launcher in the vein of Raycast and Alfred.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
