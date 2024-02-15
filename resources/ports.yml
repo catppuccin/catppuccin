@@ -127,6 +127,10 @@ ports:
         platform: agnostic
         icon: darkreader
         color: red
+    delta:
+        name: delta
+        category: cli
+        platform: [linux, macos, windows]
     discord:
         name: Discord
         category: messaging
