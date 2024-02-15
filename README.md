@@ -990,6 +990,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [bottom](https://github.com/catppuccin/bottom)
 - [Btop++](https://github.com/catppuccin/btop)
 - [C.A.V.A.](https://github.com/catppuccin/cava)
+- [delta](https://github.com/catppuccin/delta)
 - [Fish](https://github.com/catppuccin/fish)
 - [fzf](https://github.com/catppuccin/fzf)
 - [GitUI](https://github.com/catppuccin/gitui)
