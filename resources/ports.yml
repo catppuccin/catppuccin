@@ -789,6 +789,10 @@ ports:
         name: SolveSpace
         category: productivity
         platform: [linux]
+    speedcrunch:
+        name: SpeedCrunch
+        category: productivity
+        platform: [linux, macos, windows]
     spicetify:
         name: Spicetify
         category: leisure
