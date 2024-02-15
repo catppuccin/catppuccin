@@ -1200,6 +1200,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Sioyek](https://github.com/catppuccin/sioyek)
 - [Skiff](https://github.com/catppuccin/userstyles/tree/main/styles/skiff)
 - [SolveSpace](https://github.com/catppuccin/solvespace)
+- [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
