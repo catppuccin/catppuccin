@@ -14,9 +14,7 @@ jobs:
     name: Re-generate README sections
 
     steps:
-      - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.head_ref }}
+      - uses: actions/checkout@v4
 
       - name: Setup Deno
         uses: nekowinston/setup-deno@v1
