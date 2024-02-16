@@ -974,6 +974,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Flutter](https://github.com/catppuccin/flutter)
 - [Go](https://github.com/catppuccin/go)
 - [Java](https://github.com/catppuccin/java)
+- [LaTeX](https://github.com/catppuccin/latex)
 - [Lua](https://github.com/catppuccin/lua)
 - [Nim](https://github.com/catppuccin/nim)
 - [Pantone](https://github.com/catppuccin/pantone)
