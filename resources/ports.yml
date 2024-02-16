@@ -468,6 +468,11 @@ ports:
         name: KSyntaxHighlighting (Kate, Kwrite, etc)
         category: code_editor
         platform: [linux, macos, windows]
+    latex:
+        name: LaTeX
+        category: library
+        platform: agnostic
+        icon: latex
     lapce:
         name: Lapce
         category: code_editor
