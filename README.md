@@ -943,6 +943,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Visual Studio Code Icons](https://github.com/catppuccin/vscode-icons)
 - [Xcode](https://github.com/catppuccin/xcode)
 - [Xed](https://github.com/catppuccin/xed)
+- [Zed](https://github.com/catppuccin/zed)
 
 </details>
 <details open>
@@ -960,6 +961,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [JupyterLab](https://github.com/catppuccin/jupyterlab)
 - [Matplotlib](https://github.com/catppuccin/matplotlib)
 - [mdBook](https://github.com/catppuccin/mdBook)
+- [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
 - [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/nextjs)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [ShikiJS](https://github.com/catppuccin/vscode/tree/compiled)
@@ -1189,6 +1191,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Lingva](https://github.com/catppuccin/userstyles/tree/main/styles/lingva)
 - [Mailspring](https://github.com/catppuccin/mailspring)
 - [Microsoft Word](https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word)
+- [Migadu Webmail](https://github.com/catppuccin/userstyles/tree/main/styles/migadu-webmail)
 - [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki)
 - [OBS Studio](https://github.com/catppuccin/obs)
 - [OpenMediaVault](https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault)
