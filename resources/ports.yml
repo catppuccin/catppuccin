@@ -1090,6 +1090,10 @@ ports:
         category: productivity
         platform: [linux]
         icon: zathura.svg
+    zed:
+        name: Zed
+        category: code_editor
+        platform: [macos]
     zellij:
         name: Zellij
         category: cli
