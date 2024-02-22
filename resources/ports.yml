@@ -1083,7 +1083,7 @@ ports:
     yazi:
         name: Yazi
         category: cli
-        platform: agnostic
+        platform: [linux, macos, windows]
         color: peach
     youtubemusic:
         name: YouTube Music
