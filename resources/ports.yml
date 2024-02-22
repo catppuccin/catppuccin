@@ -1099,6 +1099,7 @@ ports:
         name: Zed
         category: code_editor
         platform: [macos]
+        upstreamed: true
     zellij:
         name: Zellij
         category: cli
