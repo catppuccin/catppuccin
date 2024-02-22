@@ -1080,6 +1080,11 @@ ports:
         name: Yakuake
         category: terminal
         platform: [linux]
+    yazi:
+        name: Yazi
+        category: cli
+        platform: [linux, macos, windows]
+        color: peach
     youtubemusic:
         name: YouTube Music
         category: leisure
