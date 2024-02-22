@@ -1008,6 +1008,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [skim](https://github.com/catppuccin/skim)
 - [Starship](https://github.com/catppuccin/starship)
 - [tmux](https://github.com/catppuccin/tmux)
+- [Yazi](https://github.com/catppuccin/yazi)
 - [Zellij](https://github.com/catppuccin/zellij)
 - [ZSH Fast Syntax Highlighting](https://github.com/catppuccin/zsh-fsh)
 - [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
