@@ -106,7 +106,7 @@ const categorized = Object.entries(ports)
 const portListData = portsData.categories.map((category) => {
   return {
     meta: category,
-    ports: categorized[category.key],
+    ports: categorized[category.key] ?? [],
   };
 });
 

@@ -269,6 +269,7 @@
       "$id": "#category",
       "type": "string",
       "enum": [
+        "3d_modelling",
         "analytics",
         "application_launcher",
         "boot_loader",
@@ -284,16 +285,19 @@
         "entertainment",
         "file_manager",
         "game",
+        "game_development",
         "health_and_fitness",
         "library",
         "music",
         "note_taking",
+        "notification_daemon",
         "productivity",
         "search_engine",
         "social_networking",
         "system",
         "terminal",
         "userstyle",
+        "wiki",
         "window_manager"
       ]
     }

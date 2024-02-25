@@ -951,7 +951,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>💭 Development Tools</summary>
 
 - [egui](https://github.com/catppuccin/egui)
-- [Godot](https://github.com/catppuccin/godot)
 - [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
 - [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
 - [Highlight.js](https://github.com/catppuccin/highlightjs)
@@ -967,7 +966,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [ShikiJS](https://github.com/catppuccin/vscode/tree/compiled)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
-- [Unreal Engine](https://github.com/catppuccin/unreal-engine)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
 
 </details>
@@ -1052,12 +1050,10 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Base16](https://github.com/catppuccin/base16)
 - [Conky](https://github.com/catppuccin/conky)
 - [Cursors](https://github.com/catppuccin/cursors)
-- [Dunst](https://github.com/catppuccin/dunst)
 - [fcitx5](https://github.com/catppuccin/fcitx5)
 - [FlorisBoard](https://github.com/catppuccin/floris-board)
 - [GTK](https://github.com/catppuccin/gtk)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
-- [Mako](https://github.com/catppuccin/mako)
 - [Nilesoft Shell](https://github.com/catppuccin/nilesoft-shell)
 - [Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - [Polybar](https://github.com/catppuccin/polybar)
@@ -1065,7 +1061,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Rboard](https://github.com/catppuccin/rboard)
 - [SDDM](https://github.com/catppuccin/sddm)
 - [swaylock](https://github.com/catppuccin/swaylock)
-- [SwayNotificationCenter](https://github.com/catppuccin/swaync)
 - [waybar](https://github.com/catppuccin/waybar)
 - [Xresources](https://github.com/catppuccin/xresources)
 
@@ -1077,6 +1072,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Limine](https://github.com/catppuccin/limine)
 - [Plymouth](https://github.com/catppuccin/plymouth)
 - [rEFInd](https://github.com/catppuccin/refind)
+
+</details>
+<details open>
+<summary>😈 Notification Daemons</summary>
+
+- [Dunst](https://github.com/catppuccin/dunst)
+- [Mako](https://github.com/catppuccin/mako)
+- [SwayNotificationCenter](https://github.com/catppuccin/swaync)
 
 </details>
 <details open>
@@ -1158,12 +1161,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>💌 Email Clients</summary>
+<summary>🧠 Wikis</summary>
 
-- [aerc](https://github.com/catppuccin/aerc)
-- [Mailspring](https://github.com/catppuccin/mailspring)
-- [NeoMutt](https://github.com/catppuccin/neomutt)
-- [Thunderbird](https://github.com/catppuccin/thunderbird)
+
 
 </details>
 <details open>
@@ -1173,7 +1173,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Arch Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki)
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
-- [Blockbench](https://github.com/catppuccin/blockbench)
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Canvas LMS](https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms)
 - [ChatGPT](https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt)
@@ -1204,12 +1203,34 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)
 - [ShareX](https://github.com/catppuccin/sharex)
 - [Skiff](https://github.com/catppuccin/userstyles/tree/main/styles/skiff)
-- [SolveSpace](https://github.com/catppuccin/solvespace)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [Tuta](https://github.com/catppuccin/userstyles/tree/main/styles/tuta)
 - [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
+
+</details>
+<details open>
+<summary>🕹 Game Development</summary>
+
+- [Godot](https://github.com/catppuccin/godot)
+- [Unreal Engine](https://github.com/catppuccin/unreal-engine)
+
+</details>
+<details open>
+<summary>🖼️ 3D Modelling</summary>
+
+- [Blockbench](https://github.com/catppuccin/blockbench)
+- [SolveSpace](https://github.com/catppuccin/solvespace)
+
+</details>
+<details open>
+<summary>💌 Email Clients</summary>
+
+- [aerc](https://github.com/catppuccin/aerc)
+- [Mailspring](https://github.com/catppuccin/mailspring)
+- [NeoMutt](https://github.com/catppuccin/neomutt)
+- [Thunderbird](https://github.com/catppuccin/thunderbird)
 
 </details>
 <details open>

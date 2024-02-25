@@ -6,25 +6,36 @@
  */
 
 export type Key =
+  | "3d_modelling"
   | "analytics"
+  | "application_launcher"
+  | "boot_loader"
   | "browser"
   | "browser_extension"
+  | "calculator"
   | "cli"
   | "code_editor"
+  | "desktop_environment"
   | "development"
+  | "document_viewer"
   | "email_client"
   | "entertainment"
+  | "file_manager"
   | "game"
+  | "game_development"
   | "health_and_fitness"
   | "library"
   | "music"
   | "note_taking"
+  | "notification_daemon"
   | "productivity"
   | "search_engine"
   | "social_networking"
   | "system"
   | "terminal"
-  | "userstyle";
+  | "userstyle"
+  | "wiki"
+  | "window_manager";
 export type Name = string;
 export type Description = string;
 export type Emoji = string;
@@ -44,25 +55,36 @@ export type Name1 = string;
  */
 export type Categories = [Category] | [Category, Category] | [Category, Category, Category];
 export type Category =
+  | "3d_modelling"
   | "analytics"
+  | "application_launcher"
+  | "boot_loader"
   | "browser"
   | "browser_extension"
+  | "calculator"
   | "cli"
   | "code_editor"
+  | "desktop_environment"
   | "development"
+  | "document_viewer"
   | "email_client"
   | "entertainment"
+  | "file_manager"
   | "game"
+  | "game_development"
   | "health_and_fitness"
   | "library"
   | "music"
   | "note_taking"
+  | "notification_daemon"
   | "productivity"
   | "search_engine"
   | "social_networking"
   | "system"
   | "terminal"
-  | "userstyle";
+  | "userstyle"
+  | "wiki"
+  | "window_manager";
 /**
  * The platforms the port supports. Either an array of supported operating systems or "agnostic" (indicating support for all platforms).
  */

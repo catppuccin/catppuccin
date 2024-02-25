@@ -71,7 +71,7 @@ ports:
         platform: [ios]
     blockbench:
         name: Blockbench
-        categories: [productivity, game]
+        categories: [3d_modelling, game]
         platform: [linux, macos, windows]
     bottom:
         name: bottom
@@ -163,7 +163,7 @@ ports:
         color: peach
     dunst:
         name: Dunst
-        categories: [system]
+        categories: [notification_daemon, system]
         platform: [linux]
     dwarf-fortress:
         name: Dwarf Fortress
@@ -308,7 +308,7 @@ ports:
         platform: agnostic
     godot:
         name: Godot
-        categories: [development, game]
+        categories: [game_development]
         platform: [linux, macos, windows]
         color: blue
     grub:
@@ -517,7 +517,7 @@ ports:
         platform: [linux, macos, windows]
     mako:
         name: Mako
-        categories: [system]
+        categories: [notification_daemon, system]
         platform: [linux]
     matplotlib:
         name: Matplotlib
@@ -796,7 +796,7 @@ ports:
         platform: [linux, macos, windows]
     solvespace:
         name: SolveSpace
-        categories: [productivity]
+        categories: [3d_modelling, productivity]
         platform: [linux]
     speedcrunch:
         name: SpeedCrunch
@@ -864,7 +864,7 @@ ports:
         platform: [linux]
     swaync:
         name: SwayNotificationCenter
-        categories: [system]
+        categories: [notification_daemon, system]
         platform: [linux]
     tabby:
         name: Tabby
@@ -958,7 +958,7 @@ ports:
         platform: [linux, macos, windows]
     unreal-engine:
         name: Unreal Engine
-        categories: [development, game]
+        categories: [game_development]
         platform: [linux, macos, windows]
         icon: unrealengine
         color: blue
@@ -1145,6 +1145,10 @@ categories:
       name: Boot Loaders
       description: Tools that are responsible for booting the computer.
       emoji: 👢
+    - key: notification_daemon
+      name: Notification Daemons
+      description: Applications that notify the user of desktop events in an asynchronous manner.
+      emoji: 😈
     - key: desktop_environment
       name: Desktop Environments
       description: A Graphical User Interface that provides a complete user experience for interacting with the operating system.
@@ -1173,14 +1177,26 @@ categories:
       name: Search Engines
       description: Websites that enable users to search and retrieve information from the World Wide Web.
       emoji: 🔎
-    - key: email_client
-      name: Email Clients
-      description: Applications related to sending and receiving email.
-      emoji: 💌
+    - key: wiki
+      name: Wikis
+      description: Websites that hold information edited by multiple users.
+      emoji: 🧠
     - key: productivity
       name: Productivity
       description: Applications that make certain tasks or activities more organised and efficient.
       emoji: 📖
+    - key: game_development
+      name: Game Development
+      description: Applications that are designed for creating, designing and building video games.
+      emoji: 🕹
+    - key: 3d_modelling
+      name: 3D Modelling
+      description: Applications that are designed to create and manipulate objects in three-dimensional space.
+      emoji: 🖼️
+    - key: email_client
+      name: Email Clients
+      description: Applications related to sending and receiving email.
+      emoji: 💌
     - key: note_taking
       name: Note Taking
       description: Tools for creating, organizing, and managing digital notes.
