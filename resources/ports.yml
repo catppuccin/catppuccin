@@ -838,10 +838,6 @@ ports:
         name: Starship
         category: cli
         platform: [linux, macos, windows]
-    startpage:
-        name: Startpage
-        category: search_engine
-        platform: agnostic
     steam:
         name: Steam
         category: leisure
