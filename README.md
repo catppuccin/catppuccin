@@ -1072,6 +1072,56 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
+<summary>👢 Boot Loaders</summary>
+
+- [GRUB](https://github.com/catppuccin/grub)
+- [Limine](https://github.com/catppuccin/limine)
+- [Plymouth](https://github.com/catppuccin/plymouth)
+- [rEFInd](https://github.com/catppuccin/refind)
+
+</details>
+<details open>
+<summary>🖥 Desktop Environments</summary>
+
+- [KDE](https://github.com/catppuccin/kde)
+- [LxQT](https://github.com/catppuccin/lxqt)
+- [Regolith Desktop](https://github.com/catppuccin/regolith)
+
+</details>
+<details open>
+<summary>🪟 Window Managers</summary>
+
+- [GlazeWM](https://github.com/catppuccin/glazewm)
+- [Hyprland](https://github.com/catppuccin/hyprland)
+- [i3/sway](https://github.com/catppuccin/i3)
+- [Openbox](https://github.com/catppuccin/openbox)
+
+</details>
+<details open>
+<summary>🗂️ File Managers</summary>
+
+- [Forklift 4](https://github.com/catppuccin/forklift-4)
+- [Windows Files](https://github.com/catppuccin/windows-files)
+- [Yazi](https://github.com/catppuccin/yazi)
+
+</details>
+<details open>
+<summary>🗃 Application Launchers</summary>
+
+- [Alfred](https://github.com/catppuccin/alfred)
+- [bemenu](https://github.com/catppuccin/bemenu)
+- [dmenu](https://github.com/catppuccin/dmenu)
+- [Flow Launcher](https://github.com/catppuccin/flow-launcher)
+- [Fuzzel](https://github.com/catppuccin/fuzzel)
+- [Plank](https://github.com/catppuccin/plank)
+- [Raycast](https://github.com/catppuccin/raycast)
+- [Rofi](https://github.com/catppuccin/rofi)
+- [tofi](https://github.com/catppuccin/tofi)
+- [Ueli](https://github.com/catppuccin/ueli)
+- [Ulauncher](https://github.com/catppuccin/ulauncher)
+
+</details>
+<details open>
 <summary>🏄 Browsers</summary>
 
 - [Firefox](https://github.com/catppuccin/firefox)
@@ -1108,21 +1158,12 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>📊 Analytics</summary>
+<summary>💌 Email Clients</summary>
 
-- [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
-- [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
-- [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
-
-</details>
-<details open>
-<summary>📝 Note Taking</summary>
-
-- [ghostwriter](https://github.com/catppuccin/ghostwriter)
-- [Joplin](https://github.com/catppuccin/joplin)
-- [Logseq](https://github.com/catppuccin/logseq)
-- [Obsidian](https://github.com/catppuccin/obsidian)
-- [RemNote](https://github.com/catppuccin/remnote)
+- [aerc](https://github.com/catppuccin/aerc)
+- [Mailspring](https://github.com/catppuccin/mailspring)
+- [NeoMutt](https://github.com/catppuccin/neomutt)
+- [Thunderbird](https://github.com/catppuccin/thunderbird)
 
 </details>
 <details open>
@@ -1172,6 +1213,33 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
+<summary>📝 Note Taking</summary>
+
+- [ghostwriter](https://github.com/catppuccin/ghostwriter)
+- [Joplin](https://github.com/catppuccin/joplin)
+- [Logseq](https://github.com/catppuccin/logseq)
+- [Obsidian](https://github.com/catppuccin/obsidian)
+- [RemNote](https://github.com/catppuccin/remnote)
+
+</details>
+<details open>
+<summary>📃 Document Viewers</summary>
+
+- [Foliate](https://github.com/catppuccin/foliate)
+- [Sioyek](https://github.com/catppuccin/sioyek)
+- [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
+- [Zathura](https://github.com/catppuccin/zathura)
+
+</details>
+<details open>
+<summary>📊 Analytics</summary>
+
+- [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
+- [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
+- [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
+
+</details>
+<details open>
 <summary>✨ Social Networking</summary>
 
 - [Aliucord](https://github.com/catppuccin/aliucord)
@@ -1202,6 +1270,20 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
+<summary>🎵 Music</summary>
+
+- [C.A.V.A.](https://github.com/catppuccin/cava)
+- [Cider](https://github.com/catppuccin/cider)
+- [Dopamine](https://github.com/catppuccin/dopamine)
+- [MusicBee](https://github.com/catppuccin/musicbee)
+- [PyRadio](https://github.com/catppuccin/pyradio)
+- [Spicetify](https://github.com/catppuccin/spicetify)
+- [spotify-player](https://github.com/catppuccin/spotify-player)
+- [spotify-tui](https://github.com/catppuccin/spotify-tui)
+- [YouTube Music](https://github.com/catppuccin/youtubemusic)
+
+</details>
+<details open>
 <summary>🎮 Games</summary>
 
 - [Advent Of Code](https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code)
@@ -1222,91 +1304,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>🎵 Music</summary>
-
-- [C.A.V.A.](https://github.com/catppuccin/cava)
-- [Cider](https://github.com/catppuccin/cider)
-- [Dopamine](https://github.com/catppuccin/dopamine)
-- [MusicBee](https://github.com/catppuccin/musicbee)
-- [PyRadio](https://github.com/catppuccin/pyradio)
-- [Spicetify](https://github.com/catppuccin/spicetify)
-- [spotify-player](https://github.com/catppuccin/spotify-player)
-- [spotify-tui](https://github.com/catppuccin/spotify-tui)
-- [YouTube Music](https://github.com/catppuccin/youtubemusic)
-
-</details>
-<details open>
 <summary>🏃 Health & Fitness</summary>
 
 - [Fitbit](https://github.com/catppuccin/fitbit)
-
-</details>
-<details open>
-<summary>💌 Email Clients</summary>
-
-- [aerc](https://github.com/catppuccin/aerc)
-- [Mailspring](https://github.com/catppuccin/mailspring)
-- [NeoMutt](https://github.com/catppuccin/neomutt)
-- [Thunderbird](https://github.com/catppuccin/thunderbird)
-
-</details>
-<details open>
-<summary>🪟 Window Managers</summary>
-
-- [GlazeWM](https://github.com/catppuccin/glazewm)
-- [Hyprland](https://github.com/catppuccin/hyprland)
-- [i3/sway](https://github.com/catppuccin/i3)
-- [Openbox](https://github.com/catppuccin/openbox)
-
-</details>
-<details open>
-<summary>👢 Boot Loaders</summary>
-
-- [GRUB](https://github.com/catppuccin/grub)
-- [Limine](https://github.com/catppuccin/limine)
-- [Plymouth](https://github.com/catppuccin/plymouth)
-- [rEFInd](https://github.com/catppuccin/refind)
-
-</details>
-<details open>
-<summary>📃 Document Viewers</summary>
-
-- [Foliate](https://github.com/catppuccin/foliate)
-- [Sioyek](https://github.com/catppuccin/sioyek)
-- [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
-- [Zathura](https://github.com/catppuccin/zathura)
-
-</details>
-<details open>
-<summary>🖥 Desktop Environments</summary>
-
-- [KDE](https://github.com/catppuccin/kde)
-- [LxQT](https://github.com/catppuccin/lxqt)
-- [Regolith Desktop](https://github.com/catppuccin/regolith)
-
-</details>
-<details open>
-<summary>🗃 Application Launchers</summary>
-
-- [Alfred](https://github.com/catppuccin/alfred)
-- [bemenu](https://github.com/catppuccin/bemenu)
-- [dmenu](https://github.com/catppuccin/dmenu)
-- [Flow Launcher](https://github.com/catppuccin/flow-launcher)
-- [Fuzzel](https://github.com/catppuccin/fuzzel)
-- [Plank](https://github.com/catppuccin/plank)
-- [Raycast](https://github.com/catppuccin/raycast)
-- [Rofi](https://github.com/catppuccin/rofi)
-- [tofi](https://github.com/catppuccin/tofi)
-- [Ueli](https://github.com/catppuccin/ueli)
-- [Ulauncher](https://github.com/catppuccin/ulauncher)
-
-</details>
-<details open>
-<summary>🗂️ File Managers</summary>
-
-- [Forklift 4](https://github.com/catppuccin/forklift-4)
-- [Windows Files](https://github.com/catppuccin/windows-files)
-- [Yazi](https://github.com/catppuccin/yazi)
 
 </details>
 <!-- AUTOGEN:PORTLIST END -->
