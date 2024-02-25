@@ -1080,7 +1080,7 @@ ports:
     yazi:
         name: Yazi
         categories: [file_manager, cli]
-        platform: [linux, macos, windows]
+        platform: [android, linux, macos, windows]
         color: peach
     youtubemusic:
         name: YouTube Music
