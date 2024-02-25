@@ -1166,7 +1166,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SolveSpace](https://github.com/catppuccin/solvespace)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
-- [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [Tuta](https://github.com/catppuccin/userstyles/tree/main/styles/tuta)
 - [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
@@ -1274,6 +1273,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Foliate](https://github.com/catppuccin/foliate)
 - [Sioyek](https://github.com/catppuccin/sioyek)
+- [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
 - [Zathura](https://github.com/catppuccin/zathura)
 
 </details>

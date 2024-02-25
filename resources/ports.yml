@@ -856,7 +856,7 @@ ports:
         icon: sublimetext
     sumatra-pdf:
         name: SumatraPDF
-        categories: [productivity]
+        categories: [document_viewer, productivity]
         platform: [windows]
     swaylock:
         name: swaylock
