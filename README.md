@@ -963,6 +963,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
 - [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/nextjs)
+- [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [ShikiJS](https://github.com/catppuccin/vscode/tree/compiled)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
