@@ -55,7 +55,7 @@ const ports = {
         type: "userstyle",
       };
       return acc;
-    }, {} as Record<string, MappedPort>),
+  }, {} as Record<string, MappedPort>),
 };
 
 const portSlugs = Object.entries(ports).map(([slug]) => slug);
@@ -64,7 +64,8 @@ const categorized = Object.entries(ports)
   .reduce(
     (acc, [slug, port]) => {
       // create a new array if it doesn't exist
-      acc[port.category] ??= [];
+      // THIS IS FOR USERSTYLES, REMOVE ONCE DONE
+      acc[!port.categories ? port.category : port.categories[0]] ??= [];
 
       // validate the alias against an existing port
       if (port.alias && !portSlugs.includes(port.alias)) {
@@ -89,12 +90,12 @@ const categorized = Object.entries(ports)
         }
       }
 
-      acc[port.category].push({
+       acc[!port.categories ? port.category : port.categories[0]].push({
         ...port,
         url,
         name: [port.name].flat().join(", "),
       });
-      acc[port.category].sort((a, b) =>
+       acc[!port.categories ? port.category : port.categories[0]].sort((a, b) =>
         [a.name].flat()[0].localeCompare([b.name].flat()[0])
       );
       return acc;

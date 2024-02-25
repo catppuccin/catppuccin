@@ -6,50 +6,63 @@
  */
 
 export type Key =
+  | "analytics"
   | "browser"
   | "browser_extension"
   | "cli"
   | "code_editor"
   | "development"
+  | "email_client"
+  | "entertainment"
   | "game"
-  | "leisure"
+  | "health_and_fitness"
   | "library"
-  | "messaging"
+  | "music"
   | "note_taking"
   | "productivity"
   | "search_engine"
-  | "social"
+  | "social_networking"
   | "system"
-  | "terminal";
+  | "terminal"
+  | "userstyle";
 export type Name = string;
+export type Description = string;
 export type Emoji = string;
 /**
- * The categories listed in the README
+ * The categories listed in the README.
  */
-export type Categories = CategoryItem[];
+export type CategoryDefinitions = CategoryItem[];
 /**
- * The Name of the software the port is for.
+ * The name of the software the port is for.
  */
 export type Name1 = string;
 /**
- * The category that fits the port the most
+ * The categories that fit the port the most, the first category is the primary category which the port will be listed under on the README.
+ *
+ * @minItems 1
+ * @maxItems 3
  */
+export type Categories = [Category] | [Category, Category] | [Category, Category, Category];
 export type Category =
+  | "analytics"
   | "browser"
   | "browser_extension"
   | "cli"
   | "code_editor"
   | "development"
+  | "email_client"
+  | "entertainment"
   | "game"
-  | "leisure"
+  | "health_and_fitness"
   | "library"
-  | "messaging"
+  | "music"
   | "note_taking"
   | "productivity"
   | "search_engine"
-  | "social"
+  | "social_networking"
   | "system"
-  | "terminal";
+  | "terminal"
+  | "userstyle";
 /**
  * The platforms the port supports. Either an array of supported operating systems or "agnostic" (indicating support for all platforms).
  */
@@ -105,17 +118,18 @@ export type Link2 = string;
 export type Showcases = ShowcaseItem[];
 
 export interface PortsSchema {
-  categories?: Categories;
+  categories?: CategoryDefinitions;
   ports?: Ports;
   showcases?: Showcases;
 }
 export interface CategoryItem {
   key: Key;
   name: Name;
+  description: Description;
   emoji: Emoji;
 }
 /**
- * All ports in the catppuccin org.
+ * All ports in the Catppuccin organisation.
  */
 export interface Ports {
   [k: string]: Port;
@@ -128,7 +142,7 @@ export interface Ports {
  */
 export interface Port {
   name: Name1;
-  category: Category;
+  categories: Categories;
   platform: Platform;
   color?: Color;
   icon?: Icon;

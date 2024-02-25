@@ -4,34 +4,40 @@
   "additionalProperties": false,
   "properties": {
     "categories": {
-      "$id": "#categories",
-      "title": "Categories",
-      "description": "The categories listed in the README",
+      "$id": "#category-definitions",
+      "title": "Category Definitions",
+      "description": "The categories listed in the README.",
       "type": "array",
       "items": {
-        "$id": "#categories/item",
-        "title": "Category item",
+        "$id": "#category-definitions/item",
+        "title": "Category Item",
         "type": "object",
         "required": [
           "key",
           "name",
+          "description",
           "emoji"
         ],
         "additionalProperties": false,
         "properties": {
           "key": {
-            "$id": "#categories/category/key",
+            "$id": "#category-definitions/category/key",
             "title": "key",
             "type": "string",
             "$ref": "#/$defs/category"
           },
           "name": {
-            "$id": "#categories/category/name",
+            "$id": "#category-definitions/category/name",
             "title": "Name",
             "type": "string"
           },
+          "description": {
+            "$id": "#category-definitions/category/description",
+            "title": "Description",
+            "type": "string"
+          },
           "emoji": {
-            "$id": "#categories/category/emoji",
+            "$id": "#category-definitions/category/emoji",
             "title": "Emoji",
             "type": "string"
           }
@@ -42,7 +48,7 @@
       "$id": "#ports",
       "title": "Ports",
       "type": "object",
-      "description": "All ports in the catppuccin org.",
+      "description": "All ports in the Catppuccin organisation.",
       "patternProperties": {
         "[A-Za-z0-9_\\-]": {
           "$id": "#ports/port",
@@ -53,7 +59,7 @@
             "nvim"
           ],
           "required": [
-            "category",
+            "categories",
             "name",
             "platform"
           ],
@@ -62,17 +68,17 @@
             "name": {
               "$id": "#ports/port/name",
               "title": "Name",
-              "description": "The Name of the software the port is for.",
+              "description": "The name of the software the port is for.",
               "type": "string",
               "examples": [
                 "Neovim"
               ]
             },
-            "category": {
-              "$id": "#ports/port/category",
-              "title": "Category",
-              "description": "The category that fits the port the most",
-              "$ref": "#/$defs/category"
+            "categories": {
+              "$id": "#ports/port/categories",
+              "title": "Categories",
+              "description": "The categories that fit the port the most, the first category is the primary category which the port will be listed under on the README.",
+              "$ref": "#/$defs/categories"
             },
             "platform": {
               "$id": "#ports/port/platform",
@@ -250,25 +256,45 @@
         "pink"
       ]
     },
+    "categories": {
+      "$id": "#categories",
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 3,
+      "items": {
+        "$ref": "#/$defs/category"
+      }
+    },
     "category": {
       "$id": "#category",
       "type": "string",
       "enum": [
+        "analytics",
+        "application_launcher",
+        "boot_loader",
         "browser",
         "browser_extension",
+        "calculator",
         "cli",
         "code_editor",
+        "desktop_environment",
         "development",
+        "document_viewer",
+        "email_client",
+        "entertainment",
+        "file_manager",
         "game",
-        "leisure",
+        "health_and_fitness",
         "library",
-        "messaging",
+        "music",
         "note_taking",
         "productivity",
         "search_engine",
-        "social",
+        "social_networking",
         "system",
-        "terminal"
+        "terminal",
+        "userstyle",
+        "window_manager"
       ]
     }
   }
