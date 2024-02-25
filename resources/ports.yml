@@ -900,6 +900,7 @@ ports:
     termux:
         name: Termux
         category: terminal
+        upstreamed: true
         platform: [android]
     thelounge:
         name: The Lounge
