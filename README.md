@@ -1035,6 +1035,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Terminator](https://github.com/catppuccin/terminator)
 - [Termux](https://github.com/catppuccin/termux)
 - [Tilix](https://github.com/catppuccin/tilix)
+- [tty](https://github.com/catppuccin/tty)
 - [tym](https://github.com/catppuccin/tym)
 - [Urxvt](https://github.com/catppuccin/urxvt)
 - [Warp](https://github.com/catppuccin/warp)
@@ -1065,7 +1066,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SDDM](https://github.com/catppuccin/sddm)
 - [swaylock](https://github.com/catppuccin/swaylock)
 - [SwayNotificationCenter](https://github.com/catppuccin/swaync)
-- [tty](https://github.com/catppuccin/tty)
 - [waybar](https://github.com/catppuccin/waybar)
 - [Xresources](https://github.com/catppuccin/xresources)
 

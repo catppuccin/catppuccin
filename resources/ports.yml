@@ -927,7 +927,7 @@ ports:
         platform: [linux]
     tty:
         name: tty
-        categories: [system]
+        categories: [terminal, system]
         platform: [linux]
     tym:
         name: tym
