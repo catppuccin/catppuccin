@@ -1000,7 +1000,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Glamour](https://github.com/catppuccin/glamour)
 - [k9s](https://github.com/catppuccin/k9s)
 - [Lazygit](https://github.com/catppuccin/lazygit)
-- [Midnight Commander](https://github.com/catppuccin/mc)
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [PowerShell](https://github.com/catppuccin/powershell)
 - [sc-im](https://github.com/catppuccin/sc-im)
@@ -1101,6 +1100,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🗂️ File Managers</summary>
 
 - [Forklift 4](https://github.com/catppuccin/forklift-4)
+- [Midnight Commander](https://github.com/catppuccin/mc)
 - [Windows Files](https://github.com/catppuccin/windows-files)
 - [Yazi](https://github.com/catppuccin/yazi)
 

@@ -529,7 +529,7 @@ ports:
         platform: agnostic
     mc:
         name: Midnight Commander
-        categories: [cli]
+        categories: [file_manager, cli]
         platform: [linux, macos]
     mdBook:
         name: mdBook
