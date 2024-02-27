@@ -1185,7 +1185,7 @@ categories:
       name: Wikis
       description: Websites that hold information edited by multiple users.
       emoji: 🧠
-    - key: discussion_forums
+    - key: discussion_forum
       name: Discussion Forums
       description: Platforms that allow people to engage in conversation, share information, and discuss various topics.
       emoji: 🗣️
