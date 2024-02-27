@@ -613,7 +613,7 @@ ports:
         color: green
     obs:
         name: OBS Studio
-        categories: [productivity]
+        categories: [productivity, photo_and_video]
         platform: [linux, macos, windows]
         icon: obsstudio
     obsidian:
@@ -767,7 +767,7 @@ ports:
         platform: [linux]
     sharex:
         name: ShareX
-        categories: [productivity]
+        categories: [photo_and_video, productivity]
         platform: [windows]
     shiki:
         name: ShikiJS
@@ -832,7 +832,7 @@ ports:
         platform: [linux]
     stable-diffusion-web-ui:
         name: Stable Diffusion WebUI
-        categories: [entertainment]
+        categories: [artificial_intelligence, entertainment]
         platform: agnostic
     starship:
         name: Starship
@@ -1177,14 +1177,34 @@ categories:
       name: Search Engines
       description: Websites that enable users to search and retrieve information from the World Wide Web.
       emoji: 🔎
+    - key: translation_tool
+      name: Translation Tools
+      description: Applications that help bridge language gaps by translating one language to another.
+      emoji: 🗺️
     - key: wiki
       name: Wikis
       description: Websites that hold information edited by multiple users.
       emoji: 🧠
+    - key: discussion_forums
+      name: Discussion Forums
+      description: Platforms that allow people to engage in conversation, share information, and discuss various topics.
+      emoji: 🗣️
+    - key: photo_and_video
+      name: Photo & Video
+      description: Applications that help in capturing, editing, managing, storing, or sharing photos and videos.
+      emoji: 📸
+    - key: music
+      name: Music
+      description: Applications related to discovering, listening to and playing music.
+      emoji: 🎵
     - key: productivity
       name: Productivity
       description: Applications that make certain tasks or activities more organised and efficient.
       emoji: 📖
+    - key: email_client
+      name: Email Clients
+      description: Applications related to sending and receiving email.
+      emoji: 💌
     - key: game_development
       name: Game Development
       description: Applications that are designed for creating, designing and building video games.
@@ -1193,10 +1213,6 @@ categories:
       name: 3D Modelling
       description: Applications that are designed to create and manipulate objects in three-dimensional space.
       emoji: 🖼️
-    - key: email_client
-      name: Email Clients
-      description: Applications related to sending and receiving email.
-      emoji: 💌
     - key: note_taking
       name: Note Taking
       description: Tools for creating, organizing, and managing digital notes.
@@ -1205,26 +1221,26 @@ categories:
       name: Document Viewers
       description: Applications that allow users to open, view and interact with documents.
       emoji: 📃
-    - key: analytics
-      name: Analytics
-      description: Tools that provide visualizations and analytics of data.
-      emoji: 📊
     - key: social_networking
       name: Social Networking
       description: Applications that bring people together through text, voice, photo and/or video.
       emoji: ✨
     - key: entertainment
       name: Entertainment
-      description: Applications that are designed to entertain and inform the user.
+      description: Applications designed to entertain the user.
       emoji: 🌈
-    - key: music
-      name: Music
-      description: Applications related to discovering, listening to and playing music.
-      emoji: 🎵
+    - key: analytics
+      name: Analytics
+      description: Applications related to visualizations and analytics of data.
+      emoji: 📊
     - key: game
       name: Games
       description: Applications related to gaming and the idea of game-ification.
       emoji: 🎮
+    - key: artificial_intelligence
+      name: Artifical Intelligence
+      description: Applications related to machine learning, large language models, and neural networks.
+      emoji: 🤖
     - key: health_and_fitness
       name: Health & Fitness
       description: Applications related to healthy living, including fitness and managing stress.
@@ -1249,9 +1265,6 @@ showcases:
     - title: Catppuccin Noctis
       description: An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
       link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis
-    - title: Meowix Linux
-      description: An Arch Linux-based distribution centered around the Catppuccin theme.
-      link: https://meowix-linux.github.io/
     - title: Mind Elixir
       description: A framework agnostic JavaScript mind map core.
       link: https://github.com/ssshooter/mind-elixir-core

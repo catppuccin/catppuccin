@@ -1161,9 +1161,41 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
+<summary>🗺️ Translation Tools</summary>
+
+
+
+</details>
+<details open>
 <summary>🧠 Wikis</summary>
 
 
+
+</details>
+<details open>
+<summary>🗣️ Discussion Forums</summary>
+
+
+
+</details>
+<details open>
+<summary>📸 Photo & Video</summary>
+
+- [ShareX](https://github.com/catppuccin/sharex)
+
+</details>
+<details open>
+<summary>🎵 Music</summary>
+
+- [C.A.V.A.](https://github.com/catppuccin/cava)
+- [Cider](https://github.com/catppuccin/cider)
+- [Dopamine](https://github.com/catppuccin/dopamine)
+- [MusicBee](https://github.com/catppuccin/musicbee)
+- [PyRadio](https://github.com/catppuccin/pyradio)
+- [Spicetify](https://github.com/catppuccin/spicetify)
+- [spotify-player](https://github.com/catppuccin/spotify-player)
+- [spotify-tui](https://github.com/catppuccin/spotify-tui)
+- [YouTube Music](https://github.com/catppuccin/youtubemusic)
 
 </details>
 <details open>
@@ -1201,13 +1233,21 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Proton](https://github.com/catppuccin/userstyles/tree/main/styles/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
 - [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)
-- [ShareX](https://github.com/catppuccin/sharex)
 - [Skiff](https://github.com/catppuccin/userstyles/tree/main/styles/skiff)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [Tuta](https://github.com/catppuccin/userstyles/tree/main/styles/tuta)
 - [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
+
+</details>
+<details open>
+<summary>💌 Email Clients</summary>
+
+- [aerc](https://github.com/catppuccin/aerc)
+- [Mailspring](https://github.com/catppuccin/mailspring)
+- [NeoMutt](https://github.com/catppuccin/neomutt)
+- [Thunderbird](https://github.com/catppuccin/thunderbird)
 
 </details>
 <details open>
@@ -1222,15 +1262,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Blockbench](https://github.com/catppuccin/blockbench)
 - [SolveSpace](https://github.com/catppuccin/solvespace)
-
-</details>
-<details open>
-<summary>💌 Email Clients</summary>
-
-- [aerc](https://github.com/catppuccin/aerc)
-- [Mailspring](https://github.com/catppuccin/mailspring)
-- [NeoMutt](https://github.com/catppuccin/neomutt)
-- [Thunderbird](https://github.com/catppuccin/thunderbird)
 
 </details>
 <details open>
@@ -1250,14 +1281,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Sioyek](https://github.com/catppuccin/sioyek)
 - [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
 - [Zathura](https://github.com/catppuccin/zathura)
-
-</details>
-<details open>
-<summary>📊 Analytics</summary>
-
-- [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
-- [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
-- [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
 
 </details>
 <details open>
@@ -1286,22 +1309,15 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Amfora](https://github.com/catppuccin/amfora)
 - [monkeytype](https://github.com/catppuccin/monkeytype)
-- [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
 - [theme.park](https://github.com/catppuccin/theme.park)
 
 </details>
 <details open>
-<summary>🎵 Music</summary>
+<summary>📊 Analytics</summary>
 
-- [C.A.V.A.](https://github.com/catppuccin/cava)
-- [Cider](https://github.com/catppuccin/cider)
-- [Dopamine](https://github.com/catppuccin/dopamine)
-- [MusicBee](https://github.com/catppuccin/musicbee)
-- [PyRadio](https://github.com/catppuccin/pyradio)
-- [Spicetify](https://github.com/catppuccin/spicetify)
-- [spotify-player](https://github.com/catppuccin/spotify-player)
-- [spotify-tui](https://github.com/catppuccin/spotify-tui)
-- [YouTube Music](https://github.com/catppuccin/youtubemusic)
+- [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
+- [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
+- [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
 
 </details>
 <details open>
@@ -1322,6 +1338,12 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Steam](https://github.com/catppuccin/steam)
 - [Steam Deck](https://github.com/catppuccin/steam-deck)
 - [ULTRAKILL](https://github.com/catppuccin/ultrakill)
+
+</details>
+<details open>
+<summary>🤖 Artifical Intelligence</summary>
+
+- [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
 
 </details>
 <details open>
@@ -1351,7 +1373,6 @@ If you're making an application or tool using our palette, please let us know by
 - [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player based on Material You design
 - [Comfy](https://github.com/Comfy-Themes/Spicetify) - A theme for [Spicetify](https://github.com/spicetify/spicetify-cli) with a basic catppuccin color scheme!
 - [Catppuccin Noctis](https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis) - An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
-- [Meowix Linux](https://meowix-linux.github.io/) - An Arch Linux-based distribution centered around the Catppuccin theme.
 - [Mind Elixir](https://github.com/ssshooter/mind-elixir-core) - A framework agnostic JavaScript mind map core.
 - [Career Vault](https://careervault.io) - A remote job board that shows hundreds of new opportunities every day.
 - [Loungy](https://loungy.app) - An open-source application launcher in the vein of Raycast and Alfred.
