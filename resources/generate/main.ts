@@ -114,6 +114,7 @@ const readmePath = join(root, "../../README.md");
 let readmeContent = await Deno.readTextFile(readmePath);
 
 const portContent = portListData
+  .filter((data) => data.ports.length !== 0)
   .map((data) => {
     return `<details open>
 <summary>${data.meta.emoji} ${data.meta.name}</summary>

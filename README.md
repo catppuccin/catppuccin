@@ -1161,24 +1161,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>🗺️ Translation Tools</summary>
-
-
-
-</details>
-<details open>
-<summary>🧠 Wikis</summary>
-
-
-
-</details>
-<details open>
-<summary>🗣️ Discussion Forums</summary>
-
-
-
-</details>
-<details open>
 <summary>📸 Photo & Video</summary>
 
 - [ShareX](https://github.com/catppuccin/sharex)
