@@ -1238,7 +1238,7 @@ categories:
       description: Applications related to gaming and the idea of game-ification.
       emoji: 🎮
     - key: artificial_intelligence
-      name: Artifical Intelligence
+      name: Artificial Intelligence
       description: Applications related to machine learning, large language models, and neural networks.
       emoji: 🤖
     - key: health_and_fitness

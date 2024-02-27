@@ -1341,7 +1341,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>🤖 Artifical Intelligence</summary>
+<summary>🤖 Artificial Intelligence</summary>
 
 - [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
 
