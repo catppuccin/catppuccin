@@ -125,6 +125,8 @@
     "https://esm.sh/v135/type-fest@4.8.3/source/simplify.d": "6d148e26b1e58ccc7aa9699e2d0de830f0bc4221b6b098700763fd757ff7b5ad",
     "https://esm.sh/v135/type-fest@4.8.3/source/union-to-intersection.d": "e83c6075c4a23e3b01dd9ff87e31a0d91b7a5fdf17bf606d82c9a72e895d939d",
     "https://esm.sh/v135/uri-js@4.4.1/denonext/uri-js.mjs": "901d462f9db207376b39ec603d841d87e6b9e9568ce97dfaab12aa77d0f99f74",
-    "https://raw.githubusercontent.com/catppuccin/userstyles/2c967fe8072c5fc48253a241de2f9d14dab49be0/scripts/userstyles.schema.json": "37ddc67f79e91e5faefa1995826a2df0e73657e94abd0374f2c97873ee4bde0d"
+    "https://raw.githubusercontent.com/catppuccin/userstyles/2c967fe8072c5fc48253a241de2f9d14dab49be0/scripts/userstyles.schema.json": "37ddc67f79e91e5faefa1995826a2df0e73657e94abd0374f2c97873ee4bde0d",
+    "https://raw.githubusercontent.com/catppuccin/userstyles/543241431c080c74d98e7533a63efe10a5a78e66/scripts/userstyles.schema.json": "059275eafe28b6dad46d9833b311e599de28bb6b8bf7dbda9c3a9dca1ce47045",
+    "https://raw.githubusercontent.com/catppuccin/userstyles/fd2a5333e89e51dca118a1053aba0b3b4306b1dd/scripts/userstyles.schema.json": "059275eafe28b6dad46d9833b311e599de28bb6b8bf7dbda9c3a9dca1ce47045"
   }
 }

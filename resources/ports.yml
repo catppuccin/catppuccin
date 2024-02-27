@@ -623,7 +623,7 @@ ports:
         color: mauve
     oldtwitter:
         name: OldTwitter
-        categories: [browser_extension]
+        categories: [browser_extension, discussion_forum, entertainment]
         platform: agnostic
     openbox:
         name: Openbox

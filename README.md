@@ -950,7 +950,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>💭 Development Tools</summary>
 
+- [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
 - [egui](https://github.com/catppuccin/egui)
+- [GitHub](https://github.com/catppuccin/userstyles/tree/main/styles/github)
 - [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
 - [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
 - [Highlight.js](https://github.com/catppuccin/highlightjs)
@@ -1153,16 +1155,43 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Ecosia](https://github.com/catppuccin/userstyles/tree/main/styles/ecosia)
 - [Google](https://github.com/catppuccin/userstyles/tree/main/styles/google)
 - [NixOS Search](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search)
-- [Perplexity](https://github.com/catppuccin/userstyles/tree/main/styles/perplexity)
 - [SearXNG](https://github.com/catppuccin/userstyles/tree/main/styles/searxng)
 - [Startpage](https://github.com/catppuccin/userstyles/tree/main/styles/startpage)
 - [Whoogle](https://github.com/catppuccin/whoogle)
+
+</details>
+<details open>
+<summary>🗺️ Translation Tools</summary>
+
+- [Crowdin](https://github.com/catppuccin/userstyles/tree/main/styles/crowdin)
+- [DeepL](https://github.com/catppuccin/userstyles/tree/main/styles/deepl)
+- [ichi.moe](https://github.com/catppuccin/userstyles/tree/main/styles/ichi.moe)
+- [Lingva](https://github.com/catppuccin/userstyles/tree/main/styles/lingva)
+
+</details>
+<details open>
+<summary>🧠 Wikis</summary>
+
+- [Arch Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki)
+- [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki)
 - [Wikipedia](https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia)
+- [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
+
+</details>
+<details open>
+<summary>🗣️ Discussion Forums</summary>
+
+- [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
+- [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
+- [Libreddit](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
+- [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
 
 </details>
 <details open>
 <summary>📸 Photo & Video</summary>
 
+- [Google Photos](https://github.com/catppuccin/userstyles/tree/main/styles/google-photos)
+- [Pinterest](https://github.com/catppuccin/userstyles/tree/main/styles/pinterest)
 - [ShareX](https://github.com/catppuccin/sharex)
 
 </details>
@@ -1172,9 +1201,11 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [C.A.V.A.](https://github.com/catppuccin/cava)
 - [Cider](https://github.com/catppuccin/cider)
 - [Dopamine](https://github.com/catppuccin/dopamine)
+- [Last.fm](https://github.com/catppuccin/userstyles/tree/main/styles/lastfm)
 - [MusicBee](https://github.com/catppuccin/musicbee)
 - [PyRadio](https://github.com/catppuccin/pyradio)
 - [Spicetify](https://github.com/catppuccin/spicetify)
+- [Spotify Web](https://github.com/catppuccin/userstyles/tree/main/styles/spotify-web)
 - [spotify-player](https://github.com/catppuccin/spotify-player)
 - [spotify-tui](https://github.com/catppuccin/spotify-tui)
 - [YouTube Music](https://github.com/catppuccin/youtubemusic)
@@ -1184,30 +1215,18 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>📖 Productivity</summary>
 
 - [Anki](https://github.com/catppuccin/anki)
-- [Arch Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki)
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Canvas LMS](https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms)
-- [ChatGPT](https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt)
-- [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
-- [Crowdin](https://github.com/catppuccin/userstyles/tree/main/styles/crowdin)
-- [DeepL](https://github.com/catppuccin/userstyles/tree/main/styles/deepl)
 - [DioHub](https://github.com/catppuccin/diohub)
 - [Formative](https://github.com/catppuccin/userstyles/tree/main/styles/formative)
 - [FreshRSS](https://github.com/catppuccin/freshrss)
 - [Gitea](https://github.com/catppuccin/gitea)
-- [GitHub](https://github.com/catppuccin/userstyles/tree/main/styles/github)
-- [Gmail](https://github.com/catppuccin/userstyles/tree/main/styles/gmail)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [homepage](https://github.com/catppuccin/userstyles/tree/main/styles/homepage)
-- [ichi.moe](https://github.com/catppuccin/userstyles/tree/main/styles/ichi.moe)
-- [InvokeAI](https://github.com/catppuccin/userstyles/tree/main/styles/invokeai)
 - [Linear](https://github.com/catppuccin/linear)
-- [Lingva](https://github.com/catppuccin/userstyles/tree/main/styles/lingva)
 - [Microsoft Word](https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word)
-- [Migadu Webmail](https://github.com/catppuccin/userstyles/tree/main/styles/migadu-webmail)
-- [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki)
 - [OBS Studio](https://github.com/catppuccin/obs)
 - [OpenMediaVault](https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault)
 - [Pomotroid](https://github.com/catppuccin/pomotroid)
@@ -1215,21 +1234,22 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Proton](https://github.com/catppuccin/userstyles/tree/main/styles/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
 - [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)
-- [Skiff](https://github.com/catppuccin/userstyles/tree/main/styles/skiff)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
-- [Tuta](https://github.com/catppuccin/userstyles/tree/main/styles/tuta)
-- [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
 
 </details>
 <details open>
 <summary>💌 Email Clients</summary>
 
 - [aerc](https://github.com/catppuccin/aerc)
+- [Gmail](https://github.com/catppuccin/userstyles/tree/main/styles/gmail)
 - [Mailspring](https://github.com/catppuccin/mailspring)
+- [Migadu Webmail](https://github.com/catppuccin/userstyles/tree/main/styles/migadu-webmail)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
+- [Skiff](https://github.com/catppuccin/userstyles/tree/main/styles/skiff)
 - [Thunderbird](https://github.com/catppuccin/thunderbird)
+- [Tuta](https://github.com/catppuccin/userstyles/tree/main/styles/tuta)
 
 </details>
 <details open>
@@ -1269,29 +1289,45 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>✨ Social Networking</summary>
 
 - [Aliucord](https://github.com/catppuccin/aliucord)
+- [Bluesky Social](https://github.com/catppuccin/userstyles/tree/main/styles/bsky)
+- [Cinny](https://github.com/catppuccin/userstyles/tree/main/styles/cinny)
 - [Discord](https://github.com/catppuccin/discord)
 - [Element](https://github.com/catppuccin/element)
+- [Elk](https://github.com/catppuccin/userstyles/tree/main/styles/elk)
 - [Enmity](https://github.com/catppuccin/enmity)
 - [Halloy](https://github.com/catppuccin/halloy)
 - [HexChat](https://github.com/catppuccin/hexchat)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
+- [Instagram](https://github.com/catppuccin/userstyles/tree/main/styles/instagram)
+- [LinkedIn](https://github.com/catppuccin/userstyles/tree/main/styles/linkedin)
+- [Mastodon](https://github.com/catppuccin/userstyles/tree/main/styles/mastodon)
 - [Mattermost](https://github.com/catppuccin/mattermost)
 - [mIRC](https://github.com/catppuccin/mirc)
 - [Misskey](https://github.com/catppuccin/misskey)
+- [Nitter](https://github.com/catppuccin/userstyles/tree/main/styles/nitter)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [SimpleX](https://github.com/catppuccin/simplex)
 - [Slack](https://github.com/catppuccin/slack)
+- [Snapchat Web](https://github.com/catppuccin/userstyles/tree/main/styles/snapchat-web)
 - [Telegram](https://github.com/catppuccin/telegram)
 - [The Lounge](https://github.com/catppuccin/thelounge)
+- [Twitter](https://github.com/catppuccin/userstyles/tree/main/styles/twitter)
 - [Vendetta](https://github.com/catppuccin/vendetta)
+- [WhatsApp Web](https://github.com/catppuccin/userstyles/tree/main/styles/whatsapp-web)
 
 </details>
 <details open>
 <summary>🌈 Entertainment</summary>
 
 - [Amfora](https://github.com/catppuccin/amfora)
+- [AniList, AniChart](https://github.com/catppuccin/userstyles/tree/main/styles/anilist)
+- [ChatReplay](https://github.com/catppuccin/userstyles/tree/main/styles/chatreplay)
+- [Invidious](https://github.com/catppuccin/userstyles/tree/main/styles/invidious)
 - [monkeytype](https://github.com/catppuccin/monkeytype)
+- [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
 - [theme.park](https://github.com/catppuccin/theme.park)
+- [Twitch](https://github.com/catppuccin/userstyles/tree/main/styles/twitch)
+- [YouTube](https://github.com/catppuccin/userstyles/tree/main/styles/youtube)
 
 </details>
 <details open>
@@ -1325,6 +1361,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🤖 Artificial Intelligence</summary>
 
+- [ChatGPT](https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt)
+- [InvokeAI](https://github.com/catppuccin/userstyles/tree/main/styles/invokeai)
+- [Perplexity](https://github.com/catppuccin/userstyles/tree/main/styles/perplexity)
 - [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
 
 </details>
