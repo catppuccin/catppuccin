@@ -950,6 +950,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>💭 Development Tools</summary>
 
+- [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
 - [egui](https://github.com/catppuccin/egui)
 - [GitHub](https://github.com/catppuccin/userstyles/tree/main/styles/github)
@@ -1207,7 +1208,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
-- [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [DioHub](https://github.com/catppuccin/diohub)
 - [FreshRSS](https://github.com/catppuccin/freshrss)
 - [Gitea](https://github.com/catppuccin/gitea)
