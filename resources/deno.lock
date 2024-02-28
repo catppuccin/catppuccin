@@ -125,6 +125,7 @@
     "https://esm.sh/v135/type-fest@4.8.3/source/simplify.d": "6d148e26b1e58ccc7aa9699e2d0de830f0bc4221b6b098700763fd757ff7b5ad",
     "https://esm.sh/v135/type-fest@4.8.3/source/union-to-intersection.d": "e83c6075c4a23e3b01dd9ff87e31a0d91b7a5fdf17bf606d82c9a72e895d939d",
     "https://esm.sh/v135/uri-js@4.4.1/denonext/uri-js.mjs": "901d462f9db207376b39ec603d841d87e6b9e9568ce97dfaab12aa77d0f99f74",
+    "https://raw.githubusercontent.com/catppuccin/userstyles/01a66f7263f0001a877e3de9608c828fd11a4275/scripts/userstyles.schema.json": "8b5db48cee30d01f577ffe69575f9234dc8d9e0d5980376646b05c5a3a35a4b9",
     "https://raw.githubusercontent.com/catppuccin/userstyles/543241431c080c74d98e7533a63efe10a5a78e66/scripts/userstyles.schema.json": "059275eafe28b6dad46d9833b311e599de28bb6b8bf7dbda9c3a9dca1ce47045"
   }
 }

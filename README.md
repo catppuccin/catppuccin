@@ -1209,9 +1209,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
-- [Canvas LMS](https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms)
 - [DioHub](https://github.com/catppuccin/diohub)
-- [Formative](https://github.com/catppuccin/userstyles/tree/main/styles/formative)
 - [FreshRSS](https://github.com/catppuccin/freshrss)
 - [Gitea](https://github.com/catppuccin/gitea)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
@@ -1224,7 +1222,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
 - [Proton](https://github.com/catppuccin/userstyles/tree/main/styles/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
-- [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
@@ -1265,6 +1262,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Logseq](https://github.com/catppuccin/logseq)
 - [Obsidian](https://github.com/catppuccin/obsidian)
 - [RemNote](https://github.com/catppuccin/remnote)
+
+</details>
+<details open>
+<summary>🎓 Education</summary>
+
+- [Canvas LMS](https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms)
+- [Formative](https://github.com/catppuccin/userstyles/tree/main/styles/formative)
+- [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)
 
 </details>
 <details open>
