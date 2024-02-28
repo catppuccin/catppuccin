@@ -1249,6 +1249,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Cider](https://github.com/catppuccin/cider)
 - [Dopamine](https://github.com/catppuccin/dopamine)
 - [Fitbit](https://github.com/catppuccin/fitbit)
+- [Google Photos](https://github.com/catppuccin/userstyles/tree/main/styles/google-photos)
 - [Heroic](https://github.com/catppuccin/heroic)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [Invidious](https://github.com/catppuccin/userstyles/tree/main/styles/invidious)
