@@ -119,7 +119,7 @@ ports:
         icon: cursors.svg
     cutter:
         name: Cutter
-        categories: [code_editor]
+        categories: [code_editor, development]
         platform: [linux, macos, windows]
     dark-reader:
         name: Dark Reader
@@ -327,7 +327,7 @@ ports:
         platform: [linux, macos, windows]
     heroic:
         name: Heroic
-        categories: [game]
+        categories: [game, application_launcher]
         platform: [linux, macos, windows]
     hexchat:
         name: HexChat
@@ -371,7 +371,7 @@ ports:
         icon: i3wm.svg
     ida-debugger:
         name: IDA (Interactive Disassembler)
-        categories: [code_editor]
+        categories: [code_editor, development]
         platform: [linux, macos, windows]
         color: sapphire
     imhex:
@@ -618,7 +618,7 @@ ports:
         color: mauve
     oldtwitter:
         name: OldTwitter
-        categories: [browser_extension, discussion_forum, entertainment]
+        categories: [browser_extension, social_networking]
         platform: agnostic
     openbox:
         name: Openbox
@@ -668,7 +668,7 @@ ports:
         color: blue
     prismlauncher:
         name: Prism Launcher
-        categories: [game]
+        categories: [game, application_launcher]
         platform: [linux, macos, windows]
     pyradio:
         name: PyRadio
@@ -835,12 +835,12 @@ ports:
         platform: [linux, macos, windows]
     steam:
         name: Steam
-        categories: [game]
+        categories: [game, application_launcher, entertainment]
         platform: [linux, macos, windows]
         color: blue
     steam-deck:
         name: Steam Deck
-        categories: [game]
+        categories: [game, entertainment]
         platform: [linux]
         color: blue
     sublime-text:
@@ -1146,7 +1146,7 @@ categories:
       emoji: 😈
     - key: desktop_environment
       name: Desktop Environments
-      description: A Graphical User Interface that provides a complete user experience for interacting with the operating system.
+      description: Graphical User Interfaces providing a complete experience for interacting with the operating system.
       emoji: 🖥
     - key: window_manager
       name: Window Managers
@@ -1242,7 +1242,7 @@ categories:
       emoji: 🤖
     - key: health_and_fitness
       name: Health & Fitness
-      description: Applications related to healthy living, including fitness and managing stress.
+      description: Applications related to healthy living, fitness, and managing stress.
       emoji: 🏃
 
 showcases:
@@ -1273,4 +1273,4 @@ showcases:
     - title: Loungy
       description: An open-source application launcher in the vein of Raycast and Alfred.
       link: https://loungy.app
-# yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
+# yaml-language-server: $schema=./ports.schema.json
