@@ -1205,7 +1205,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>📖 Productivity</summary>
 
-- [Anki](https://github.com/catppuccin/anki)
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
@@ -1267,6 +1266,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🎓 Education</summary>
 
+- [Anki](https://github.com/catppuccin/anki)
 - [Canvas LMS](https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms)
 - [Formative](https://github.com/catppuccin/userstyles/tree/main/styles/formative)
 - [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)

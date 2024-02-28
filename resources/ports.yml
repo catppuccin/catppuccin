@@ -23,7 +23,7 @@ ports:
         platform: [linux, macos, windows]
     anki:
         name: Anki
-        categories: [productivity]
+        categories: [education, productivity]
         platform: agnostic
         icon: anki.svg
         color: blue
