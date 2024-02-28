@@ -9,8 +9,7 @@ import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.js
   type: "json",
 };
 const userstylesYaml = await fetch(
-  // TODO: Revert to main branch after merging PR on catppuccin/userstyles
-  "https://raw.githubusercontent.com/catppuccin/userstyles/docs/multiple-categories/scripts/userstyles.yml",
+  "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml",
 ).then((res) => res.text());
 
 import type { PortsSchema, UserStylesSchema } from "@/types/mod.ts";
