@@ -3,7 +3,7 @@
     "@/": "./",
     "std/": "https://deno.land/std@0.207.0/",
     "catppuccin-deno-lib": "https://deno.land/x/catppuccin_toolbox@deno-lib-v1.0.0/deno-lib/mod.ts",
-    "catppuccin-userstyles/": "https://raw.githubusercontent.com/catppuccin/userstyles/2c967fe8072c5fc48253a241de2f9d14dab49be0/",
+    "catppuccin-userstyles/": "https://raw.githubusercontent.com/catppuccin/userstyles/01a66f7263f0001a877e3de9608c828fd11a4275/",
     "type-fest": "https://esm.sh/v135/type-fest@4.8.3"
   },
   "tasks": {

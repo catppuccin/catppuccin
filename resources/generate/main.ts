@@ -9,7 +9,8 @@ import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.js
   type: "json",
 };
 const userstylesYaml = await fetch(
-  "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml",
+  // TODO: Revert to main branch after merging PR on catppuccin/userstyles
+  "https://raw.githubusercontent.com/catppuccin/userstyles/docs/multiple-categories/scripts/userstyles.yml",
 ).then((res) => res.text());
 
 import type { PortsSchema, UserStylesSchema } from "@/types/mod.ts";
@@ -55,7 +56,7 @@ const ports = {
         type: "userstyle",
       };
       return acc;
-    }, {} as Record<string, MappedPort>),
+  }, {} as Record<string, MappedPort>),
 };
 
 const portSlugs = Object.entries(ports).map(([slug]) => slug);
@@ -64,7 +65,7 @@ const categorized = Object.entries(ports)
   .reduce(
     (acc, [slug, port]) => {
       // create a new array if it doesn't exist
-      acc[port.category] ??= [];
+      acc[port.categories[0]] ??= [];
 
       // validate the alias against an existing port
       if (port.alias && !portSlugs.includes(port.alias)) {
@@ -89,12 +90,12 @@ const categorized = Object.entries(ports)
         }
       }
 
-      acc[port.category].push({
+       acc[port.categories[0]].push({
         ...port,
         url,
         name: [port.name].flat().join(", "),
       });
-      acc[port.category].sort((a, b) =>
+       acc[port.categories[0]].sort((a, b) =>
         [a.name].flat()[0].localeCompare([b.name].flat()[0])
       );
       return acc;
@@ -105,7 +106,7 @@ const categorized = Object.entries(ports)
 const portListData = portsData.categories.map((category) => {
   return {
     meta: category,
-    ports: categorized[category.key],
+    ports: categorized[category.key] ?? [],
   };
 });
 
@@ -113,6 +114,7 @@ const readmePath = join(root, "../../README.md");
 let readmeContent = await Deno.readTextFile(readmePath);
 
 const portContent = portListData
+  .filter((data) => data.ports.length !== 0)
   .map((data) => {
     return `<details open>
 <summary>${data.meta.emoji} ${data.meta.name}</summary>
