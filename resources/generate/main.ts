@@ -9,6 +9,7 @@ import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.js
   type: "json",
 };
 const userstylesYaml = await fetch(
+  // TODO: Revert to main branch after merging PR on catppuccin/userstyles
   "https://raw.githubusercontent.com/catppuccin/userstyles/docs/multiple-categories/scripts/userstyles.yml",
 ).then((res) => res.text());
 
@@ -64,8 +65,7 @@ const categorized = Object.entries(ports)
   .reduce(
     (acc, [slug, port]) => {
       // create a new array if it doesn't exist
-      // THIS IS FOR USERSTYLES, REMOVE ONCE DONE
-      acc[!port.categories ? port.category : port.categories[0]] ??= [];
+      acc[port.categories[0]] ??= [];
 
       // validate the alias against an existing port
       if (port.alias && !portSlugs.includes(port.alias)) {
@@ -90,12 +90,12 @@ const categorized = Object.entries(ports)
         }
       }
 
-       acc[!port.categories ? port.category : port.categories[0]].push({
+       acc[port.categories[0]].push({
         ...port,
         url,
         name: [port.name].flat().join(", "),
       });
-       acc[!port.categories ? port.category : port.categories[0]].sort((a, b) =>
+       acc[port.categories[0]].sort((a, b) =>
         [a.name].flat()[0].localeCompare([b.name].flat()[0])
       );
       return acc;
