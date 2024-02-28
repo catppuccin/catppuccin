@@ -1179,15 +1179,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>🗣️ Discussion Forums</summary>
-
-- [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
-- [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
-- [Libreddit](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
-- [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
-
-</details>
-<details open>
 <summary>📸 Photo & Video</summary>
 
 - [Google Photos](https://github.com/catppuccin/userstyles/tree/main/styles/google-photos)
@@ -1297,7 +1288,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Enmity](https://github.com/catppuccin/enmity)
 - [Halloy](https://github.com/catppuccin/halloy)
 - [HexChat](https://github.com/catppuccin/hexchat)
-- [Infinity for Reddit](https://github.com/catppuccin/infinity)
 - [Instagram](https://github.com/catppuccin/userstyles/tree/main/styles/instagram)
 - [LinkedIn](https://github.com/catppuccin/userstyles/tree/main/styles/linkedin)
 - [Mastodon](https://github.com/catppuccin/userstyles/tree/main/styles/mastodon)
@@ -1317,6 +1307,16 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
+<summary>🗣️ Discussion Forums</summary>
+
+- [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
+- [Infinity for Reddit](https://github.com/catppuccin/infinity)
+- [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
+- [Libreddit](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
+- [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
+
+</details>
+<details open>
 <summary>🌈 Entertainment</summary>
 
 - [Amfora](https://github.com/catppuccin/amfora)
@@ -1328,14 +1328,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [theme.park](https://github.com/catppuccin/theme.park)
 - [Twitch](https://github.com/catppuccin/userstyles/tree/main/styles/twitch)
 - [YouTube](https://github.com/catppuccin/userstyles/tree/main/styles/youtube)
-
-</details>
-<details open>
-<summary>📊 Analytics</summary>
-
-- [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
-- [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
-- [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
 
 </details>
 <details open>
@@ -1356,6 +1348,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Steam](https://github.com/catppuccin/steam)
 - [Steam Deck](https://github.com/catppuccin/steam-deck)
 - [ULTRAKILL](https://github.com/catppuccin/ultrakill)
+
+</details>
+<details open>
+<summary>📊 Analytics</summary>
+
+- [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
+- [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
+- [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
 
 </details>
 <details open>

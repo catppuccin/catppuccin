@@ -1,7 +1,7 @@
 ports:
     aerc:
         name: aerc
-        categories: [email_client, productivity]
+        categories: [email_client, productivity, cli]
         platform: [linux, macos]
     alacritty:
         name: Alacritty
@@ -380,7 +380,7 @@ ports:
         platform: [linux, macos, windows]
     infinity:
         name: Infinity for Reddit
-        categories: [social_networking]
+        categories: [discussion_forum, social_networking]
         platform: [android]
         icon: reddit
         color: peach
@@ -533,7 +533,7 @@ ports:
         icon: mdbook
     micro:
         name: Micro
-        categories: [code_editor]
+        categories: [code_editor, cli]
         platform: [linux, macos, windows]
         icon: micro.svg
     minecraft:
@@ -1180,10 +1180,6 @@ categories:
       name: Wikis
       description: Websites that hold information edited by multiple users.
       emoji: 🧠
-    - key: discussion_forum
-      name: Discussion Forums
-      description: Platforms that allow people to engage in conversation, share information, and discuss various topics.
-      emoji: 🗣️
     - key: photo_and_video
       name: Photo & Video
       description: Applications that help in capturing, editing, managing, storing, or sharing photos and videos.
@@ -1212,6 +1208,10 @@ categories:
       name: Note Taking
       description: Tools for creating, organizing, and managing digital notes.
       emoji: 📝
+    - key: education
+      name: Education
+      description: Applications that faciliate learning, knowledge acquisition and skill development.
+      emoji: 🎓
     - key: document_viewer
       name: Document Viewers
       description: Applications that allow users to open, view and interact with documents.
@@ -1220,18 +1220,22 @@ categories:
       name: Social Networking
       description: Applications that bring people together through text, voice, photo and/or video.
       emoji: ✨
+    - key: discussion_forum
+      name: Discussion Forums
+      description: Platforms that allow people to engage in conversation, share information, and discuss various topics.
+      emoji: 🗣️
     - key: entertainment
       name: Entertainment
       description: Applications designed to entertain the user.
       emoji: 🌈
-    - key: analytics
-      name: Analytics
-      description: Applications related to visualizations and analytics of data.
-      emoji: 📊
     - key: game
       name: Games
       description: Applications related to gaming and the idea of game-ification.
       emoji: 🎮
+    - key: analytics
+      name: Analytics
+      description: Applications related to visualizations and analytics of data.
+      emoji: 📊
     - key: artificial_intelligence
       name: Artificial Intelligence
       description: Applications related to machine learning, large language models, and neural networks.
