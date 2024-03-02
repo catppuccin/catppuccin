@@ -7,11 +7,13 @@ ports:
         name: Alacritty
         categories: [terminal]
         color: peach
+        icon: alacritty
         platform: [linux, macos, windows]
     alfred:
         name: Alfred
         categories: [application_launcher, productivity]
         color: mauve
+        icon: alfred
         platform: [macos]
     aliucord:
         name: Aliucord
@@ -30,6 +32,7 @@ ports:
     aseprite:
         name: Aseprite
         categories: [productivity]
+        icon: aseprite
         platform: [linux, macos, windows]
     azuredatastudio:
         name: Azure Data Studio
@@ -52,6 +55,8 @@ ports:
     bento:
         name: Bento
         categories: [productivity]
+        icon: bento
+        color: lavender
         platform: agnostic
     binary-ninja:
         name: Binary Ninja
@@ -72,6 +77,8 @@ ports:
     blockbench:
         name: Blockbench
         categories: [3d_modelling, game]
+        icon: blockbench
+        color: sky
         platform: [linux, macos, windows]
     bottom:
         name: bottom
@@ -99,6 +106,8 @@ ports:
     codemirror:
         name: CodeMirror
         categories: [code_editor]
+        color: red
+        icon: codemirror
         platform: agnostic
     conky:
         name: Conky
@@ -126,7 +135,6 @@ ports:
         categories: [browser_extension]
         platform: agnostic
         icon: darkreader
-        color: red
     delta:
         name: delta
         categories: [cli]
@@ -136,6 +144,7 @@ ports:
         categories: [social_networking]
         platform: [linux, macos, windows]
         color: blue
+        icon: discord
     diohub:
         name: DioHub
         categories: [productivity]
@@ -172,6 +181,8 @@ ports:
         name: Element
         categories: [social_networking]
         platform: [linux, macos, windows]
+        color: green
+        icon: element
     emacs:
         name: Emacs
         categories: [code_editor, system]
@@ -190,21 +201,25 @@ ports:
         name: Firefox
         categories: [browser]
         platform: [linux, macos, windows]
-        color: red
+        color: peach
+        icon: firefoxbrowser
     fish:
         name: Fish
         categories: [cli]
         platform: [linux, macos]
-        icon: fish.svg
         color: green
+        icon: fish.svg
     fitbit:
         name: Fitbit
         categories: [health_and_fitness]
         platform: agnostic
+        color: teal
+        icon: fitbit
     fleet:
         name: JetBrains Fleet
         categories: [code_editor]
         platform: [linux, macos, windows]
+        icon: jetbrains
     floris-board:
         name: FlorisBoard
         categories: [system]
@@ -221,6 +236,8 @@ ports:
         name: Flutter
         categories: [library]
         platform: agnostic
+        color: blue
+        icon: flutter
     foliate:
         name: Foliate
         categories: [document_viewer, productivity]
@@ -268,16 +285,19 @@ ports:
         categories: [analytics]
         platform: agnostic
         color: text
+        icon: github
     github-readme-streak-stats:
         name: GitHub Readme Streak Stats
         categories: [analytics]
         platform: agnostic
         color: text
+        icon: github
     github-readme-tech-stack:
         name: GitHub Readme Tech Stack
         categories: [analytics]
         platform: agnostic
         color: text
+        icon: github
     gitui:
         name: GitUI
         categories: [cli]
@@ -301,11 +321,14 @@ ports:
         name: Go
         categories: [library]
         platform: agnostic
+        color: sapphire
+        icon: go
     godot:
         name: Godot
         categories: [game_development]
         platform: [linux, macos, windows]
         color: blue
+        icon: godotengine
     grub:
         name: GRUB
         categories: [boot_loader, system]
@@ -317,6 +340,7 @@ ports:
         categories: [system]
         platform: [linux]
         color: green
+        icon: gtk
     halloy:
         name: Halloy
         categories: [social_networking]
@@ -349,11 +373,13 @@ ports:
         categories: [productivity]
         platform: agnostic
         icon: homeassistant
+        color: blue
     hyper:
         name: Hyper
         categories: [terminal]
         platform: [linux, macos, windows]
         color: text
+        icon: hyper
         links:
             - name: NPM
               icon: npm
@@ -367,8 +393,8 @@ ports:
         name: i3/sway
         categories: [window_manager, system]
         platform: [linux]
-        color: text
-        icon: i3wm.svg
+        color: sky
+        icon: i3
     ida-debugger:
         name: IDA (Interactive Disassembler)
         categories: [code_editor, development]
@@ -388,7 +414,8 @@ ports:
         name: Insomnia
         categories: [development]
         platform: [android]
-        color: blue
+        color: mauve
+        icon: insomnia
     iterm:
         name: iTerm2
         categories: [terminal]
@@ -424,10 +451,13 @@ ports:
         categories: [note_taking]
         platform: [linux, macos, windows]
         color: blue
+        icon: joplin
     jupyterlab:
         name: JupyterLab
         categories: [development, analytics]
         platform: agnostic
+        color: peach
+        icon: jupyter
     k9s:
         name: k9s
         categories: [cli]
@@ -447,6 +477,7 @@ ports:
         categories: [desktop_environment, system]
         platform: [linux]
         color: blue
+        icon: kde
     kitty:
         name: Kitty
         categories: [terminal]
@@ -472,6 +503,8 @@ ports:
         name: Lapce
         categories: [code_editor]
         platform: [linux, macos, windows]
+        color: blue
+        icon: lapce
     lazygit:
         name: Lazygit
         categories: [cli]
@@ -485,15 +518,20 @@ ports:
         name: Linear
         categories: [productivity]
         platform: agnostic
+        color: lavender
+        icon: linear
     logseq:
         name: Logseq
         categories: [note_taking]
         platform: [linux, macos, windows]
-        color: green
+        color: teal
+        icon: logseq
     lua:
         name: Lua
         categories: [library]
         platform: agnostic
+        color: blue
+        icon: lua
     lxqt:
         name: LxQT
         categories: [desktop_environment, system]
@@ -522,6 +560,8 @@ ports:
         name: Mattermost
         categories: [social_networking]
         platform: agnostic
+        color: blue
+        icon: mattermost
     mc:
         name: Midnight Commander
         categories: [file_manager, cli]
@@ -530,16 +570,20 @@ ports:
         name: mdBook
         categories: [development]
         platform: agnostic
+        color: text
         icon: mdbook
     micro:
         name: Micro
         categories: [code_editor, cli]
         platform: [linux, macos, windows]
-        icon: micro.svg
+        color: lavender
+        icon: microeditor
     minecraft:
         name: Minecraft
         categories: [game]
         platform: [linux, macos, windows]
+        color: green
+        icon: minecraft
     mirc:
         name: mIRC
         categories: [social_networking]
@@ -548,12 +592,14 @@ ports:
         name: Misskey
         categories: [social_networking]
         platform: agnostic
+        color: green
+        icon: misskey
     monkeytype:
         name: monkeytype
         categories: [entertainment]
         platform: agnostic
-        icon: monkeytype.svg
-        color: text
+        color: yellow
+        icon: monkeytype
     moon-animator-2:
         name: Moon Animator 2
         categories: [game]
@@ -579,6 +625,8 @@ ports:
         name: Nim
         categories: [library]
         platform: agnostic
+        color: yellow
+        icon: nim
     nilesoft-shell:
         name: Nilesoft Shell
         categories: [system]
@@ -610,12 +658,14 @@ ports:
         name: OBS Studio
         categories: [productivity, photo_and_video]
         platform: [linux, macos, windows]
+        color: text
         icon: obsstudio
     obsidian:
         name: Obsidian
         categories: [note_taking]
         platform: [linux, macos, windows]
         color: mauve
+        icon: obsidian
     oldtwitter:
         name: OldTwitter
         categories: [browser_extension, social_networking]
@@ -628,6 +678,8 @@ ports:
         name: Opera GX
         categories: [browser]
         platform: [windows]
+        color: maroon
+        icon: operagx
     pantone:
         name: Pantone
         categories: [library]
@@ -663,9 +715,9 @@ ports:
     powershell:
         name: PowerShell
         categories: [cli]
-        icon: powershell
         platform: agnostic
         color: blue
+        icon: powershell
     prismlauncher:
         name: Prism Launcher
         categories: [game, application_launcher]
@@ -678,10 +730,14 @@ ports:
         name: Python
         categories: [library]
         platform: agnostic
+        color: blue
+        icon: python
     qbittorrent:
         name: qBittorrent
         categories: [productivity]
         platform: [linux, macos, windows]
+        color: blue
+        icon: qbittorrent
     qt5ct:
         name: qt5ct
         categories: [system]
@@ -696,6 +752,7 @@ ports:
         categories: [code_editor]
         platform: [linux, macos, windows]
         color: green
+        icon: qt
     qterminal:
         name: QTerminal
         categories: [terminal]
@@ -706,7 +763,8 @@ ports:
         name: Raycast
         categories: [application_launcher, productivity]
         platform: [macos]
-        color: red
+        color: maroon
+        icon: raycast
     rboard:
         name: Rboard
         categories: [system]
@@ -729,10 +787,13 @@ ports:
         name: Replit
         categories: [code_editor]
         platform: agnostic
+        color: peach
+        icon: replit
     revolt:
         name: Revolt
         categories: [social_networking]
         platform: [linux, macos, windows]
+        color: maroon
         icon: revoltdotchat
     rio:
         name: Rio
@@ -747,11 +808,14 @@ ports:
         name: RStudio
         categories: [code_editor, analytics]
         platform: [linux, macos, windows]
-        color: blue
+        color: sky
+        icon: rstudio
     rust:
         name: Rust
         categories: [library]
         platform: agnostic
+        color: text
+        icon: rust
     sc-im:
         name: sc-im
         categories: [cli, analytics]
@@ -764,6 +828,8 @@ ports:
         name: ShareX
         categories: [photo_and_video, productivity]
         platform: [windows]
+        color: blue
+        icon: sharex
     shiki:
         name: ShikiJS
         categories: [development]
@@ -785,6 +851,8 @@ ports:
         name: Slack
         categories: [social_networking]
         platform: agnostic
+        color: mauve
+        icon: slack
     sioyek:
         name: Sioyek
         categories: [document_viewer, productivity]
@@ -833,11 +901,14 @@ ports:
         name: Starship
         categories: [cli]
         platform: [linux, macos, windows]
+        color: pink
+        icon: starship
     steam:
         name: Steam
         categories: [game, application_launcher, entertainment]
         platform: [linux, macos, windows]
-        color: blue
+        color: text
+        icon: steam
     steam-deck:
         name: Steam Deck
         categories: [game, entertainment]
@@ -870,6 +941,7 @@ ports:
         categories: [development]
         platform: agnostic
         color: sky
+        icon: tailwindcss
         links:
             - name: NPM
               icon: npm
@@ -880,6 +952,7 @@ ports:
         categories: [social_networking]
         platform: agnostic
         color: blue
+        icon: telegram
     terminator:
         name: Terminator
         categories: [terminal]
@@ -907,6 +980,7 @@ ports:
         categories: [email_client, productivity]
         platform: [linux, macos, windows]
         color: blue
+        icon: thunderbird
     tilix:
         name: Tilix
         categories: [terminal]
@@ -916,6 +990,7 @@ ports:
         categories: [cli]
         platform: [linux, macos]
         color: green
+        icon: tmux
     tofi:
         name: tofi
         categories: [application_launcher, system]
@@ -965,6 +1040,8 @@ ports:
         name: V
         categories: [library]
         platform: agnostic
+        color: lavender
+        icon: v
     vendetta:
         name: Vendetta
         categories: [social_networking]
@@ -974,6 +1051,7 @@ ports:
         categories: [code_editor, cli]
         platform: [linux, macos, windows]
         color: green
+        icon: vim
     vimium:
         name: Vimium
         categories: [browser_extension]
@@ -982,6 +1060,7 @@ ports:
         name: Visual Studio
         categories: [code_editor]
         platform: [windows]
+        color: mauve
         icon: visualstudio
         links:
             - name: Visual Studio Marketplace
@@ -992,7 +1071,8 @@ ports:
         name: Vivaldi
         categories: [browser]
         platform: [linux, macos, windows]
-        color: peach
+        color: red
+        icon: vivaldi
     vscode:
         name: Visual Studio Code
         categories: [code_editor]
@@ -1023,6 +1103,8 @@ ports:
         name: Warp
         categories: [terminal]
         platform: [macos]
+        color: blue
+        icon: warp
     waybar:
         name: waybar
         categories: [system]
@@ -1031,6 +1113,7 @@ ports:
         name: WezTerm
         categories: [terminal]
         platform: [linux, macos, windows]
+        color: mauve
         icon: wezterm
         upstreamed: true
     whoogle:
@@ -1054,11 +1137,13 @@ ports:
         categories: [code_editor]
         platform: [macos]
         color: blue
+        icon: xcode
     xfce4-terminal:
         name: Xfce4 Terminal
         categories: [terminal]
         platform: [linux]
-        icon: xfce.svg
+        color: blue
+        icon: xfce
     xed:
         name: Xed
         categories: [code_editor]
@@ -1082,6 +1167,7 @@ ports:
         categories: [music]
         platform: agnostic
         color: red
+        icon: youtubemusic
     zathura:
         name: Zathura
         categories: [document_viewer, productivity]
@@ -1102,10 +1188,14 @@ ports:
         name: ZSH Fast Syntax Highlighting
         categories: [cli]
         platform: [linux, macos]
+        color: peach
+        icon: zsh
     zsh-syntax-highlighting:
         name: zsh-syntax-highlighting
         categories: [cli]
         platform: [linux, macos]
+        color: peach
+        icon: zsh
     zutty:
         name: Zutty
         categories: [terminal]
