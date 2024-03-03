@@ -175,6 +175,7 @@ ensure consistency:
     [catwalk](https://github.com/catppuccin/toolbox#-catwalk). (e.g.
     [vscode](https://github.com/catppuccin/vscode#catppuccin-for-vscode) and
     [discord](https://github.com/catppuccin/discord#catppuccin-for-discord))
+  - Change the preview paths to use relative links (e.g `assets/preview.webp`)
   - Add yourself to the **Thanks to** section \<3
 - Ensure uppercase meta files (e.g. `README.md`)
 - Don't add health files (e.g. `CODE_OF_CONDUCT.md`, `SUPPORT.md`), those are
