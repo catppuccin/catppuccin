@@ -431,6 +431,7 @@ ports:
         categories: [code_editor]
         platform: [linux, macos, windows]
         color: text
+        icon: jetbrains
         links:
             - name: JetBrains Marketplace
               icon: jetbrains
@@ -441,6 +442,7 @@ ports:
         categories: [code_editor]
         platform: [linux, macos, windows]
         color: text
+        icon: jetbrains
         links:
             - name: JetBrains Marketplace
               icon: jetbrains
@@ -914,6 +916,7 @@ ports:
         categories: [game, entertainment]
         platform: [linux]
         color: blue
+        icon: steamdeck
     sublime-text:
         name: Sublime Text
         categories: [code_editor]
