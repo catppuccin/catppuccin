@@ -19,6 +19,7 @@ ports:
         name: Aliucord
         categories: [social_networking]
         platform: [android]
+        icon: discord
     amfora:
         name: Amfora
         categories: [entertainment]
