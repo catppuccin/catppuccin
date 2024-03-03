@@ -195,6 +195,8 @@ ports:
         name: Enmity
         categories: [social_networking]
         platform: [ios]
+        color: blue
+        icon: discord
     fcitx5:
         name: fcitx5
         categories: [system]
