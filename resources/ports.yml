@@ -1049,6 +1049,7 @@ ports:
         name: Vendetta
         categories: [social_networking]
         platform: [android, ios]
+        icon: discord
     vim:
         name: Vim
         categories: [code_editor, cli]
