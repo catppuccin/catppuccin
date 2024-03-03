@@ -1317,7 +1317,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
 - [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
-- [Libreddit](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
+- [Libreddit, Redlib](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
 - [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
 
 </details>
@@ -1327,6 +1327,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Amfora](https://github.com/catppuccin/amfora)
 - [AniList, AniChart](https://github.com/catppuccin/userstyles/tree/main/styles/anilist)
 - [ChatReplay](https://github.com/catppuccin/userstyles/tree/main/styles/chatreplay)
+- [Holodex](https://github.com/catppuccin/userstyles/tree/main/styles/holodex)
 - [Invidious](https://github.com/catppuccin/userstyles/tree/main/styles/invidious)
 - [monkeytype](https://github.com/catppuccin/monkeytype)
 - [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
@@ -1346,6 +1347,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Heroic](https://github.com/catppuccin/heroic)
 - [Lichess](https://github.com/catppuccin/userstyles/tree/main/styles/lichess)
 - [Minecraft](https://github.com/catppuccin/minecraft)
+- [Minesweeper Online](https://github.com/catppuccin/userstyles/tree/main/styles/minesweeper)
 - [Modrinth](https://github.com/catppuccin/userstyles/tree/main/styles/modrinth)
 - [Moon Animator 2](https://github.com/catppuccin/moon-animator-2)
 - [Planet Minecraft](https://github.com/catppuccin/userstyles/tree/main/styles/planet-minecraft)
