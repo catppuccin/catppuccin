@@ -840,7 +840,7 @@ ports:
         name: ShikiJS
         categories: [development]
         platform: agnostic
-        url: https://github.com/catppuccin/vscode/tree/compiled
+        url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
     sidebery:
         name: Sidebery
         categories: [browser_extension]
