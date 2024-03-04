@@ -967,7 +967,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/nextjs)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
-- [ShikiJS](https://github.com/catppuccin/vscode/tree/compiled)
+- [ShikiJS](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
 
