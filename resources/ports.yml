@@ -19,6 +19,8 @@ ports:
         name: Aliucord
         categories: [social_networking]
         platform: [android]
+        color: blue
+        icon: discord
     amfora:
         name: Amfora
         categories: [entertainment]
@@ -193,6 +195,8 @@ ports:
         name: Enmity
         categories: [social_networking]
         platform: [ios]
+        color: blue
+        icon: discord
     fcitx5:
         name: fcitx5
         categories: [system]
@@ -1049,6 +1053,8 @@ ports:
         name: Vendetta
         categories: [social_networking]
         platform: [android, ios]
+        color: blue
+        icon: discord
     vim:
         name: Vim
         categories: [code_editor, cli]
