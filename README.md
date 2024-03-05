@@ -1221,6 +1221,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
 - [Proton](https://github.com/catppuccin/userstyles/tree/main/styles/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
+- [Scrivener](https://github.com/catppuccin/scrivener)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
@@ -1319,6 +1320,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
 - [Libreddit, Redlib](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
 - [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
+- [TabNews](https://github.com/catppuccin/userstyles/tree/main/styles/tabnews)
 
 </details>
 <details open>
