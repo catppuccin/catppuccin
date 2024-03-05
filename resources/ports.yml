@@ -826,6 +826,10 @@ ports:
         name: sc-im
         categories: [cli, analytics]
         platform: [linux, macos]
+    scrivener:
+        name: Scrivener
+        categories: [productivity]
+        platform: [macos]
     sddm:
         name: SDDM
         categories: [system]
