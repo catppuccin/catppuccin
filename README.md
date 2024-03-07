@@ -1193,6 +1193,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [C.A.V.A.](https://github.com/catppuccin/cava)
 - [Cider](https://github.com/catppuccin/cider)
 - [Dopamine](https://github.com/catppuccin/dopamine)
+- [Hyperpipe](https://github.com/catppuccin/userstyles/tree/main/styles/hyperpipe)
 - [Last.fm](https://github.com/catppuccin/userstyles/tree/main/styles/lastfm)
 - [MusicBee](https://github.com/catppuccin/musicbee)
 - [PyRadio](https://github.com/catppuccin/pyradio)
