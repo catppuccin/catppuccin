@@ -1,22 +1,24 @@
 ### Credits
 
-All icons are from [Icons8](https://icons8.com/license)
+Dev and Contributor icons are from [Icons8](https://icons8.com/license)
 
 #### core
 
 ![core](./teal_core.png)
 
-<a target="_blank" href="https://icons8.com/icon/87404/shield">Shield</a> icon
-by <a target="_blank" href="https://icons8.com">Icons8</a> +
-<a target="_blank" href="https://icons8.com/icon/103475/cat-footprint">Cat
-Footprint</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+Person wearing Tie icon by lemon
 
 #### staff
 
 ![staff](./mauve_staff.png)
 
-<a target="_blank" href="https://icons8.com/icon/86879/name-tag">Name Tag</a>
-icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+Simple Person icon by lemon
+
+#### mods
+
+![mods](./peach_moderator.png)
+
+Sword icon by lemon
 
 #### dev
 
