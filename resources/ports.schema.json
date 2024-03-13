@@ -61,7 +61,8 @@
           "required": [
             "categories",
             "name",
-            "platform"
+            "platform",
+            "color"
           ],
           "additionalProperties": false,
           "properties": {
@@ -223,7 +224,7 @@
     "icon": {
       "$id": "#icon",
       "title": "Icon",
-      "description": "The icon to use on the website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.",
+      "description": "The icon to use on the Catppuccin website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.",
       "type": "string",
       "examples": [
         "neovim",
@@ -233,7 +234,7 @@
     "color": {
       "$id": "#color",
       "title": "Color",
-      "description": "The fill color for the icon on the website.",
+      "description": "The fill color for the icon on the Catppuccin website, which should match the color used by Simple Icons. If the icon does not exist in Simple Icons, choose the most suitable color from the branding.",
       "type": "string",
       "enum": [
         "rosewater",

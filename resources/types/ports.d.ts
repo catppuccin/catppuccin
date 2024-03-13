@@ -101,7 +101,7 @@ export type Category =
 export type Platform = OperatingSystems[] | "agnostic";
 export type OperatingSystems = "android" | "ios" | "linux" | "macos" | "windows";
 /**
- * The fill color for the icon on the website.
+ * The fill color for the icon on the Catppuccin website, which should match the color used by Simple Icons. If the icon does not exist in Simple Icons, choose the most suitable color from the branding.
  */
 export type Color =
   | "rosewater"
@@ -120,7 +120,7 @@ export type Color =
   | "lavender"
   | "text";
 /**
- * The icon to use on the website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.
+ * The icon to use on the Catppuccin website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.
  */
 export type Icon = string;
 /**
@@ -176,7 +176,7 @@ export interface Port {
   name: Name1;
   categories: Categories;
   platform: Platform;
-  color?: Color;
+  color: Color;
   icon?: Icon;
   alias?: Alias;
   url?: URL;

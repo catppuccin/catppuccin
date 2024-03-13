@@ -3,6 +3,7 @@ ports:
         name: aerc
         categories: [email_client, productivity, cli]
         platform: [linux, macos]
+        color: text
     alacritty:
         name: Alacritty
         categories: [terminal]
@@ -25,6 +26,7 @@ ports:
         name: Amfora
         categories: [entertainment]
         platform: [linux, macos, windows]
+        color: text
     anki:
         name: Anki
         categories: [education, productivity]
@@ -35,25 +37,31 @@ ports:
         name: Aseprite
         categories: [productivity]
         icon: aseprite
+        color: text
         platform: [linux, macos, windows]
     azuredatastudio:
         name: Azure Data Studio
         categories: [code_editor]
         platform: [linux, macos, windows]
+        icon: microsoftazure
+        color: blue
         alias: vscode
     base16:
         name: Base16
         categories: [system]
         platform: agnostic
+        color: text
     bat:
         name: bat
         categories: [cli]
         platform: [linux, macos, windows]
         icon: bat.svg
+        color: sapphire
     bemenu:
         name: bemenu
         categories: [application_launcher, system]
         platform: [linux]
+        color: text
     bento:
         name: Bento
         categories: [productivity]
@@ -64,18 +72,22 @@ ports:
         name: Binary Ninja
         categories: [code_editor]
         platform: [linux, macos, windows]
+        color: red
     bitburner:
         name: BitBurner
         categories: [game]
         platform: [linux, macos, windows]
+        color: green
     blackbox:
         name: Black Box
         categories: [terminal]
         platform: [linux]
+        color: text
     blink:
         name: Blink
         categories: [terminal]
         platform: [ios]
+        color: teal
     blockbench:
         name: Blockbench
         categories: [3d_modelling, game]
@@ -86,14 +98,17 @@ ports:
         name: bottom
         categories: [cli, analytics]
         platform: [linux, macos, windows]
+        color: text
     btop:
         name: Btop++
         categories: [cli, analytics]
         platform: [linux, macos]
+        color: red
     cava:
         name: C.A.V.A.
         categories: [music, cli]
         platform: [linux, macos]
+        color: sky
     chrome:
         name: Google Chrome
         categories: [browser]
@@ -115,32 +130,39 @@ ports:
         name: Conky
         categories: [system, analytics]
         platform: [linux]
+        color: mauve
     contour:
         name: Contour
         categories: [terminal]
         platform: [linux, macos, windows]
+        color: pink
     crt:
         name: 'CRT: cool-retro-term'
         categories: [terminal]
         platform: [linux, macos]
+        color: green
     cursors:
         name: Cursors
         categories: [system]
         platform: [linux]
         icon: cursors.svg
+        color: text
     cutter:
         name: Cutter
         categories: [code_editor, development]
         platform: [linux, macos, windows]
+        color: text
     dark-reader:
         name: Dark Reader
         categories: [browser_extension]
         platform: agnostic
         icon: darkreader
+        color: teal
     delta:
         name: delta
         categories: [cli]
         platform: [linux, macos, windows]
+        color: text
     discord:
         name: Discord
         categories: [social_networking]
@@ -156,6 +178,7 @@ ports:
         name: dmenu
         categories: [application_launcher, system]
         platform: [linux]
+        color: sapphire
     dopamine:
         name: Dopamine
         categories: [music]
@@ -171,14 +194,17 @@ ports:
         name: Dunst
         categories: [notification_daemon, system]
         platform: [linux]
+        color: text
     dwarf-fortress:
         name: Dwarf Fortress
         categories: [game]
         platform: [linux, macos, windows]
+        color: text
     egui:
         name: egui
         categories: [development]
         platform: [linux, macos, windows]
+        color: text
     element:
         name: Element
         categories: [social_networking]
@@ -201,6 +227,7 @@ ports:
         name: fcitx5
         categories: [system]
         platform: [linux]
+        color: text
     firefox:
         name: Firefox
         categories: [browser]
@@ -224,18 +251,22 @@ ports:
         categories: [code_editor]
         platform: [linux, macos, windows]
         icon: jetbrains
+        color: text
     floris-board:
         name: FlorisBoard
         categories: [system]
         platform: [android]
+        color: green
     flow-launcher:
         name: Flow Launcher
         categories: [application_launcher, system]
         platform: [windows]
+        color: sapphire
     fluentterminal:
         name: Fluent Terminal
         categories: [terminal]
         platform: [windows]
+        color: text
     flutter:
         name: Flutter
         categories: [library]
@@ -246,38 +277,47 @@ ports:
         name: Foliate
         categories: [document_viewer, productivity]
         platform: [linux]
+        color: teal
     foot:
         name: foot
         categories: [terminal]
         platform: [linux]
+        color: text
     forklift-4:
         name: 'Forklift 4'
         categories: [file_manager, system]
         platform: [macos]
+        color: peach
     freshrss:
         name: FreshRSS
         categories: [productivity]
         platform: [linux, macos, windows]
+        color: sapphire
     fuzzel:
         name: Fuzzel
         categories: [application_launcher, system]
         platform: [linux]
+        color: text
     fzf:
         name: fzf
         categories: [cli]
         platform: [linux, macos]
+        color: text
     geany:
         name: Geany
         categories: [code_editor]
         platform: [linux]
+        color: yellow
     gedit:
         name: Gedit
         categories: [code_editor]
         platform: [linux]
+        color: text
     ghostwriter:
         name: ghostwriter
         categories: [note_taking, productivity]
         platform: [linux, macos, windows]
+        color: red
     gitea:
         name: Gitea
         categories: [productivity]
@@ -307,14 +347,17 @@ ports:
         categories: [cli]
         platform: [linux, macos]
         icon: gitui.svg
+        color: text
     glamour:
         name: Glamour
         categories: [cli]
         platform: [linux, macos]
+        color: pink
     glazewm:
         name: GlazeWM
         categories: [window_manager, system]
         platform: [windows]
+        color: text
     gnome-terminal:
         name: GNOME Terminal
         categories: [terminal]
@@ -349,14 +392,17 @@ ports:
         name: Halloy
         categories: [social_networking]
         platform: [linux, macos, windows]
+        color: peach
     helix:
         name: Helix
         categories: [code_editor, cli]
         platform: [linux, macos, windows]
+        color: mauve
     heroic:
         name: Heroic
         categories: [game, application_launcher]
         platform: [linux, macos, windows]
+        color: sky
     hexchat:
         name: HexChat
         categories: [social_networking]
@@ -367,6 +413,7 @@ ports:
         name: Highlight.js
         categories: [development]
         platform: agnostic
+        color: maroon
         links:
             - name: NPM
               icon: npm
@@ -393,6 +440,7 @@ ports:
         name: Hyprland
         categories: [window_manager, system]
         platform: [linux]
+        color: sapphire
     i3:
         name: i3/sway
         categories: [window_manager, system]
@@ -408,6 +456,7 @@ ports:
         name: ImHex
         categories: [development]
         platform: [linux, macos, windows]
+        color: text
     infinity:
         name: Infinity for Reddit
         categories: [discussion_forum, social_networking]
@@ -430,6 +479,7 @@ ports:
         name: Java
         categories: [library]
         platform: agnostic
+        color: maroon
     jetbrains:
         name: JetBrains
         categories: [code_editor]
@@ -474,10 +524,12 @@ ports:
         name: Kvantum
         categories: [system]
         platform: [linux]
+        color: text
     kakoune:
         name: Kakoune
         categories: [code_editor, cli]
         platform: [linux, macos]
+        color: green
     kde:
         name: KDE
         categories: [desktop_environment, system]
@@ -500,11 +552,14 @@ ports:
         name: KSyntaxHighlighting (Kate, Kwrite, etc)
         categories: [code_editor]
         platform: [linux, macos, windows]
+        icon: kde
+        color: blue
     latex:
         name: LaTeX
         categories: [library]
         platform: agnostic
         icon: latex
+        color: teal
     lapce:
         name: Lapce
         categories: [code_editor]
@@ -520,6 +575,7 @@ ports:
         name: Limine
         categories: [boot_loader, system]
         platform: [linux]
+        color: mauve
     linear:
         name: Linear
         categories: [productivity]
@@ -554,14 +610,18 @@ ports:
         name: Mailspring
         categories: [email_client, productivity]
         platform: [linux, macos, windows]
+        color: lavender
     mako:
         name: Mako
         categories: [notification_daemon, system]
         platform: [linux]
+        icon: wayland
+        color: yellow
     matplotlib:
         name: Matplotlib
         categories: [development, analytics]
         platform: agnostic
+        color: blue
     mattermost:
         name: Mattermost
         categories: [social_networking]
@@ -572,6 +632,7 @@ ports:
         name: Midnight Commander
         categories: [file_manager, cli]
         platform: [linux, macos]
+        color: sky
     mdBook:
         name: mdBook
         categories: [development]
@@ -594,6 +655,7 @@ ports:
         name: mIRC
         categories: [social_networking]
         platform: [windows]
+        color: text
     misskey:
         name: Misskey
         categories: [social_networking]
@@ -615,18 +677,22 @@ ports:
         name: MusicBee
         categories: [music]
         platform: [windows]
+        color: yellow
     neomutt:
         name: NeoMutt
         categories: [email_client, cli]
         platform: [linux, macos]
+        color: green
     newsboat:
         name: Newsboat
         categories: [cli]
         platform: [linux, macos]
+        color: peach
     nighttab:
         name: Nighttab
         categories: [browser_extension]
         platform: agnostic
+        color: text
     nim:
         name: Nim
         categories: [library]
@@ -637,10 +703,12 @@ ports:
         name: Nilesoft Shell
         categories: [system]
         platform: [windows]
+        color: sapphire
     noir:
         name: Noir
         categories: [browser_extension]
         platform: [ios]
+        color: mauve
     notepad-plus-plus:
         name: Notepad++
         categories: [code_editor]
@@ -651,6 +719,7 @@ ports:
         name: Nova
         categories: [code_editor]
         platform: [macos]
+        color: red
         links:
             - name: Nova Extensions
               url: https://extensions.panic.com/extensions/holler/holler.CatppuccinTheme/
@@ -676,10 +745,13 @@ ports:
         name: OldTwitter
         categories: [browser_extension, social_networking]
         platform: agnostic
+        icon: twitter
+        color: blue
     openbox:
         name: Openbox
         categories: [window_manager, system]
         platform: [linux]
+        color: sky
     opera-gx:
         name: Opera GX
         categories: [browser]
@@ -690,23 +762,28 @@ ports:
         name: Pantone
         categories: [library]
         platform: agnostic
+        color: text
     papirus-folders:
         name: Papirus Folders
         categories: [system]
         platform: [linux]
         icon: folders.svg
+        color: text
     plank:
         name: Plank
         categories: [application_launcher, system]
         platform: [linux]
+        color: sky
     plymouth:
         name: Plymouth
         categories: [boot_loader, system]
         platform: [linux]
+        color: blue
     polybar:
         name: Polybar
         categories: [system]
         platform: [linux]
+        color: maroon
     pomotroid:
         name: Pomotroid
         categories: [productivity]
@@ -728,10 +805,12 @@ ports:
         name: Prism Launcher
         categories: [game, application_launcher]
         platform: [linux, macos, windows]
+        color: text
     pyradio:
         name: PyRadio
         categories: [music]
         platform: [linux, macos, windows]
+        color: text
     python:
         name: Python
         categories: [library]
@@ -748,11 +827,13 @@ ports:
         name: qt5ct
         categories: [system]
         platform: [linux]
+        color: text
     qutebrowser:
         name: qutebrowser
         categories: [browser]
         platform: [linux, macos, windows]
         icon: qutebrowser.svg
+        color: blue
     qtcreator:
         name: Qt Creator
         categories: [code_editor]
@@ -781,14 +862,17 @@ ports:
         name: rEFInd
         categories: [boot_loader, system]
         platform: [linux]
+        color: text
     regolith:
         name: Regolith Desktop
         categories: [desktop_environment, system]
         platform: [linux]
+        color: red
     remnote:
         name: RemNote
         categories: [note_taking]
         platform: agnostic
+        color: blue
     replit:
         name: Replit
         categories: [code_editor]
@@ -810,6 +894,7 @@ ports:
         name: Rofi
         categories: [application_launcher, system]
         platform: [linux]
+        color: text
     rstudio:
         name: RStudio
         categories: [code_editor, analytics]
@@ -826,14 +911,17 @@ ports:
         name: sc-im
         categories: [cli, analytics]
         platform: [linux, macos]
+        color: green
     scrivener:
         name: Scrivener
         categories: [productivity]
         platform: [macos]
+        color: maroon
     sddm:
         name: SDDM
         categories: [system]
         platform: [linux]
+        color: sky
     sharex:
         name: ShareX
         categories: [photo_and_video, productivity]
@@ -845,18 +933,22 @@ ports:
         categories: [development]
         platform: agnostic
         url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
+        color: text
     sidebery:
         name: Sidebery
         categories: [browser_extension]
         platform: agnostic
+        color: text
     simplex:
         name: SimpleX
         categories: [social_networking]
         platform: [android]
+        color: sapphire
     skim:
         name: skim
         categories: [cli]
         platform: [linux, macos]
+        color: text
     slack:
         name: Slack
         categories: [social_networking]
@@ -867,14 +959,17 @@ ports:
         name: Sioyek
         categories: [document_viewer, productivity]
         platform: [linux, macos, windows]
+        color: text
     solvespace:
         name: SolveSpace
         categories: [3d_modelling, productivity]
         platform: [linux]
+        color: mauve
     speedcrunch:
         name: SpeedCrunch
         categories: [productivity]
         platform: [linux, macos, windows]
+        color: maroon
     spicetify:
         name: Spicetify
         categories: [music]
@@ -903,10 +998,13 @@ ports:
         name: st
         categories: [terminal]
         platform: [linux]
+        color: blue
+        icon: suckless
     stable-diffusion-web-ui:
         name: Stable Diffusion WebUI
         categories: [artificial_intelligence, entertainment]
         platform: agnostic
+        color: text
     starship:
         name: Starship
         categories: [cli]
@@ -935,18 +1033,24 @@ ports:
         name: SumatraPDF
         categories: [document_viewer, productivity]
         platform: [windows]
+        color: yellow
     swaylock:
         name: swaylock
         categories: [system]
         platform: [linux]
+        color: yellow
+        icon: wayland
     swaync:
         name: SwayNotificationCenter
         categories: [notification_daemon, system]
         platform: [linux]
+        color: yellow
+        icon: wayland
     tabby:
         name: Tabby
         categories: [terminal]
         platform: [linux, macos, windows]
+        color: lavender
     tailwindcss:
         name: Tailwind CSS
         categories: [development]
@@ -968,19 +1072,23 @@ ports:
         name: Terminator
         categories: [terminal]
         platform: [linux]
+        color: red
     Terminal.app:
         name: Terminal.app
         categories: [terminal]
         platform: [macos]
+        color: text
     termux:
         name: Termux
         categories: [terminal]
         upstreamed: true
         platform: [android]
+        color: text
     thelounge:
         name: The Lounge
         categories: [social_networking]
         platform: agnostic
+        color: peach
     theme.park:
         name: theme.park
         categories: [entertainment]
@@ -996,6 +1104,7 @@ ports:
         name: Tilix
         categories: [terminal]
         platform: [linux]
+        color: text
     tmux:
         name: tmux
         categories: [cli]
@@ -1006,18 +1115,22 @@ ports:
         name: tofi
         categories: [application_launcher, system]
         platform: [linux]
+        color: text
     tty:
         name: tty
         categories: [terminal, system]
         platform: [linux]
+        color: text
     tym:
         name: tym
         categories: [terminal]
         platform: [linux]
+        color: text
     ueli:
         name: Ueli
         categories: [application_launcher, system]
         platform: [windows, macos]
+        color: text
     ui:
         name: UI
         categories: [library]
@@ -1033,10 +1146,12 @@ ports:
         name: Ulauncher
         categories: [application_launcher, system]
         platform: [linux]
+        color: teal
     ultrakill:
         name: ULTRAKILL
         categories: [game, entertainment]
         platform: [linux, macos, windows]
+        color: text
     unreal-engine:
         name: Unreal Engine
         categories: [game_development]
@@ -1047,6 +1162,7 @@ ports:
         name: Urxvt
         categories: [terminal]
         platform: [linux]
+        color: text
     v:
         name: V
         categories: [library]
@@ -1069,6 +1185,8 @@ ports:
         name: Vimium
         categories: [browser_extension]
         platform: agnostic
+        color: green
+        icon: vim
     visual-studio:
         name: Visual Studio
         categories: [code_editor]
@@ -1122,6 +1240,8 @@ ports:
         name: waybar
         categories: [system]
         platform: [linux]
+        color: yellow
+        icon: wayland
     wezterm:
         name: WezTerm
         categories: [terminal]
@@ -1133,6 +1253,7 @@ ports:
         name: Whoogle
         categories: [search_engine]
         platform: agnostic
+        color: lavender
     windows-files:
         name: Windows Files
         categories: [file_manager, system]
@@ -1161,15 +1282,18 @@ ports:
         name: Xed
         categories: [code_editor]
         platform: [linux]
+        color: text
     xresources:
         name: Xresources
         categories: [system]
         platform: [linux]
         icon: xdotorg
+        color: peach
     yakuake:
         name: Yakuake
         categories: [terminal]
         platform: [linux]
+        color: text
     yazi:
         name: Yazi
         categories: [file_manager, cli]
@@ -1186,17 +1310,20 @@ ports:
         categories: [document_viewer, productivity]
         platform: [linux]
         icon: zathura.svg
+        color: teal
     zed:
         name: Zed
         categories: [code_editor]
         platform: [macos]
         upstreamed: true
+        color: blue
     zellij:
         name: Zellij
         categories: [cli]
         platform: [linux, macos]
-        icon: zellij.svg
         upstreamed: true
+        icon: zellij.svg
+        color: green
     zsh-fsh:
         name: ZSH Fast Syntax Highlighting
         categories: [cli]
@@ -1213,6 +1340,7 @@ ports:
         name: Zutty
         categories: [terminal]
         platform: [linux]
+        color: text
 
 categories:
     - key: code_editor
