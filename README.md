@@ -1089,7 +1089,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🖥 Desktop Environments</summary>
 
 - [KDE](https://github.com/catppuccin/kde)
-- [LxQT](https://github.com/catppuccin/lxqt)
+- [LXQt](https://github.com/catppuccin/lxqt)
 - [Regolith Desktop](https://github.com/catppuccin/regolith)
 
 </details>
