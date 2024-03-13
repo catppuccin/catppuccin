@@ -539,7 +539,7 @@ ports:
         color: blue
         icon: lua
     lxqt:
-        name: LxQT
+        name: LXQt
         categories: [desktop_environment, system]
         platform: [linux]
         icon: lxqt.svg
