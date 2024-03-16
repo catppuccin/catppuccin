@@ -922,6 +922,11 @@ ports:
         categories: [system]
         platform: [linux]
         color: sky
+    serenity-os:
+        name: Serenity OS
+        categories: [system]
+        platform: agnostic
+        color: red
     sharex:
         name: ShareX
         categories: [photo_and_video, productivity]
