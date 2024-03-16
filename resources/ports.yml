@@ -924,8 +924,8 @@ ports:
         color: sky
     serenity-os:
         name: Serenity OS
-        categories: [system],
-        platform: agnostic,
+        categories: [system]
+        platform: agnostic
         color: red
     sharex:
         name: ShareX
