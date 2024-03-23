@@ -2,6 +2,14 @@ collaborators:
   - &sgoudham
     name: Hammy
     url: https://github.com/sgoudham
+  - &isabelincorp
+    url: https://github.com/isabelincorp
+  - &isabelroses
+    url: https://github.com/isabelroses
+  - &hyperreal64
+    url: https://github.com/hyperreal64
+  - &backwardspy
+    url: https://github.com/backwardspy
 
 ports:
     aerc:
@@ -37,6 +45,7 @@ ports:
         platform: [linux, macos, windows]
         color: text
         current-maintainers: []
+        past-maintainers: [*hyperreal64]
     anki:
         name: Anki
         categories: [education, productivity]
@@ -241,7 +250,7 @@ ports:
         categories: [game]
         platform: [linux, macos, windows]
         color: text
-        current-maintainers: []
+        current-maintainers: [*backwardspy]
     egui:
         name: egui
         categories: [development]
@@ -288,7 +297,7 @@ ports:
         platform: [linux, macos]
         color: green
         icon: fish.svg
-        current-maintainers: []
+        current-maintainers: [*backwardspy]
     fitbit:
         name: Fitbit
         categories: [health_and_fitness]
@@ -449,14 +458,14 @@ ports:
         platform: [linux, macos, windows]
         color: blue
         icon: godotengine
-        current-maintainers: []
+        current-maintainers: [*backwardspy]
     grub:
         name: GRUB
         categories: [boot_loader, system]
         platform: [linux]
         icon: gnu
         color: text
-        current-maintainers: []
+        current-maintainers: [*isabelincorp]
     gtk:
         name: GTK
         categories: [system]
@@ -882,7 +891,7 @@ ports:
         platform: agnostic
         icon: twitter
         color: blue
-        current-maintainers: []
+        current-maintainers: [*isabelincorp]
     openbox:
         name: Openbox
         categories: [window_manager, system]
@@ -965,7 +974,7 @@ ports:
         platform: agnostic
         color: blue
         icon: python
-        current-maintainers: []
+        current-maintainers: [*backwardspy]
     qbittorrent:
         name: qBittorrent
         categories: [productivity]
@@ -992,7 +1001,7 @@ ports:
         platform: [linux, macos, windows]
         color: green
         icon: qt
-        current-maintainers: []
+        current-maintainers: [*backwardspy]
     qterminal:
         name: QTerminal
         categories: [terminal]
@@ -1071,7 +1080,7 @@ ports:
         platform: agnostic
         color: text
         icon: rust
-        current-maintainers: []
+        current-maintainers: [*backwardspy]
     sc-im:
         name: sc-im
         categories: [cli, analytics]
@@ -1089,7 +1098,7 @@ ports:
         categories: [system]
         platform: [linux]
         color: sky
-        current-maintainers: []
+        current-maintainers: [*isabelroses]
     serenity-os:
         name: Serenity OS
         categories: [system]
@@ -1292,6 +1301,7 @@ ports:
         platform: agnostic
         color: peach
         current-maintainers: []
+        past-maintainers: [*hyperreal64]
     theme.park:
         name: theme.park
         categories: [entertainment]
@@ -1578,6 +1588,7 @@ ports:
         color: peach
         icon: zsh
         current-maintainers: []
+        past-maintainers: [*hyperreal64]
     zutty:
         name: Zutty
         categories: [terminal]
