@@ -1185,6 +1185,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>📸 Photo & Video</summary>
 
 - [Google Photos](https://github.com/catppuccin/userstyles/tree/main/styles/google-photos)
+- [imv](https://github.com/catppuccin/imv)
 - [mpv](https://github.com/catppuccin/mpv)
 - [Pinterest](https://github.com/catppuccin/userstyles/tree/main/styles/pinterest)
 - [ShareX](https://github.com/catppuccin/sharex)
