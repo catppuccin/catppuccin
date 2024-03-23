@@ -185,7 +185,7 @@ ports:
         color: pink
         current-maintainers: []
     crt:
-        name: "CRT: cool-retro-term"
+        name: 'CRT: cool-retro-term'
         categories: [terminal]
         platform: [linux, macos]
         color: green
@@ -359,7 +359,7 @@ ports:
         color: text
         current-maintainers: []
     forklift-4:
-        name: "Forklift 4"
+        name: 'Forklift 4'
         categories: [file_manager, system]
         platform: [macos]
         color: peach
