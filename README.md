@@ -967,6 +967,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/nextjs)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
+- [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [ShikiJS](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
@@ -1318,6 +1319,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🗣️ Discussion Forums</summary>
 
+- [Giscus](https://github.com/catppuccin/giscus)
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
 - [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
@@ -1335,6 +1337,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Holodex](https://github.com/catppuccin/userstyles/tree/main/styles/holodex)
 - [Invidious](https://github.com/catppuccin/userstyles/tree/main/styles/invidious)
 - [monkeytype](https://github.com/catppuccin/monkeytype)
+- [Picrew](https://github.com/catppuccin/userstyles/tree/main/styles/picrew)
 - [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
 - [theme.park](https://github.com/catppuccin/theme.park)
 - [Twitch](https://github.com/catppuccin/userstyles/tree/main/styles/twitch)
