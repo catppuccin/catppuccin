@@ -462,6 +462,11 @@ ports:
         categories: [development]
         platform: [linux, macos, windows]
         color: text
+    imv:
+        name: imv
+        categories: [photo_and_video]
+        platform: [linux]
+        color: mauve
     infinity:
         name: Infinity for Reddit
         categories: [discussion_forum, social_networking]
