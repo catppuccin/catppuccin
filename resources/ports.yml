@@ -464,7 +464,7 @@ ports:
         color: text
     imv:
         name: imv
-        categories: [photo_and_video]
+        categories: [photo_and_video, cli]
         platform: [linux]
         color: mauve
     infinity:
@@ -685,7 +685,7 @@ ports:
         color: peach
     mpv:
         name: mpv
-        categories: [photo_and_video]
+        categories: [photo_and_video, cli]
         platform: [linux]
         color: mauve
     musicbee:
