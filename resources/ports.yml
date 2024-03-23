@@ -12,6 +12,10 @@ collaborators:
     url: https://github.com/backwardspy
   - &112cxyz
     url: https://github.com/112cxyz
+  - &89iuv
+    url: https://github.com/89iuv
+  - &vdbe
+    url: https://github.com/vdbe
 
 ports:
     aerc:
@@ -1329,7 +1333,7 @@ ports:
         platform: [linux, macos]
         color: green
         icon: tmux
-        current-maintainers: []
+        current-maintainers: [*89iuv, *vdbe]
     tofi:
         name: tofi
         categories: [application_launcher, system]
