@@ -1,19 +1,22 @@
 collaborators:
-  - &sgoudham
-    name: Hammy
-    url: https://github.com/sgoudham
-  - &isabelincorp
-    url: https://github.com/isabelincorp
-  - &isabelroses
-    url: https://github.com/isabelroses
-  - &hyperreal64
-    url: https://github.com/hyperreal64
-  - &backwardspy
-    url: https://github.com/backwardspy
   - &112cxyz
     url: https://github.com/112cxyz
   - &89iuv
     url: https://github.com/89iuv
+  - &backwardspy
+    name: pigeon
+    url: https://github.com/backwardspy
+  - &ghostx32
+    url: https://github.com/ghostx31
+  - &hyperreal64
+    url: https://github.com/hyperreal64
+  - &isabelincorp
+    url: https://github.com/isabelincorp
+  - &isabelroses
+    url: https://github.com/isabelroses
+  - &sgoudham
+    name: Hammy
+    url: https://github.com/sgoudham
   - &vdbe
     url: https://github.com/vdbe
 
