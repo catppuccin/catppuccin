@@ -14,6 +14,9 @@ collaborators:
     url: https://github.com/isabelincorp
   - &isabelroses
     url: https://github.com/isabelroses
+  - &NickSquiggles
+    name: Nick
+    url: https://github.com/NickSquiggles
   - &sgoudham
     name: Hammy
     url: https://github.com/sgoudham
@@ -1101,7 +1104,7 @@ ports:
     categories: [productivity]
     platform: [macos]
     color: maroon
-    current-maintainers: []
+    current-maintainers: [*NickSquiggles]
   sddm:
     name: SDDM
     categories: [system]
