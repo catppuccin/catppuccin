@@ -348,6 +348,11 @@ ports:
         platform: [linux, macos]
         icon: gitui.svg
         color: text
+    giscus:
+        name: Giscus
+        categories: [discussion_forum]
+        platform: agnostic
+        color: sky
     glamour:
         name: Glamour
         categories: [cli]
