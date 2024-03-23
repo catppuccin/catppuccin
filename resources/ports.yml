@@ -678,6 +678,11 @@ ports:
         categories: [game]
         platform: [macos, windows]
         color: peach
+    mpv:
+        name: mpv
+        categories: [photo_and_video]
+        platform: [linux]
+        color: mauve
     musicbee:
         name: MusicBee
         categories: [music]
