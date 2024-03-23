@@ -10,6 +10,8 @@ collaborators:
     url: https://github.com/hyperreal64
   - &backwardspy
     url: https://github.com/backwardspy
+  - &112cxyz
+    url: https://github.com/112cxyz
 
 ports:
     aerc:
@@ -277,7 +279,7 @@ ports:
         platform: [ios]
         color: blue
         icon: discord
-        current-maintainers: []
+        current-maintainers: [*112cxyz]
     fcitx5:
         name: fcitx5
         categories: [system]
