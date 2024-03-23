@@ -1,24 +1,24 @@
 collaborators:
-  - &112cxyz
-    url: https://github.com/112cxyz
-  - &89iuv
-    url: https://github.com/89iuv
-  - &backwardspy
-    name: pigeon
-    url: https://github.com/backwardspy
-  - &ghostx32
-    url: https://github.com/ghostx31
-  - &hyperreal64
-    url: https://github.com/hyperreal64
-  - &isabelincorp
-    url: https://github.com/isabelincorp
-  - &isabelroses
-    url: https://github.com/isabelroses
-  - &sgoudham
-    name: Hammy
-    url: https://github.com/sgoudham
-  - &vdbe
-    url: https://github.com/vdbe
+    - &112cxyz
+      url: https://github.com/112cxyz
+    - &89iuv
+      url: https://github.com/89iuv
+    - &backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
+    - &ghostx32
+      url: https://github.com/ghostx31
+    - &hyperreal64
+      url: https://github.com/hyperreal64
+    - &isabelincorp
+      url: https://github.com/isabelincorp
+    - &isabelroses
+      url: https://github.com/isabelroses
+    - &sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    - &vdbe
+      url: https://github.com/vdbe
 
 ports:
     aerc:
@@ -185,7 +185,7 @@ ports:
         color: pink
         current-maintainers: []
     crt:
-        name: 'CRT: cool-retro-term'
+        name: "CRT: cool-retro-term"
         categories: [terminal]
         platform: [linux, macos]
         color: green
@@ -272,7 +272,7 @@ ports:
         platform: [linux, macos, windows]
         color: green
         icon: element
-        current-maintainers: []
+        current-maintainers: [*ghostx32]
     emacs:
         name: Emacs
         categories: [code_editor, system]
@@ -306,7 +306,7 @@ ports:
         platform: [linux, macos]
         color: green
         icon: fish.svg
-        current-maintainers: [*backwardspy]
+        current-maintainers: [*ghostx32, *backwardspy]
     fitbit:
         name: Fitbit
         categories: [health_and_fitness]
@@ -351,7 +351,7 @@ ports:
         categories: [document_viewer, productivity]
         platform: [linux]
         color: teal
-        current-maintainers: []
+        current-maintainers: [*ghostx32]
     foot:
         name: foot
         categories: [terminal]
@@ -359,7 +359,7 @@ ports:
         color: text
         current-maintainers: []
     forklift-4:
-        name: 'Forklift 4'
+        name: "Forklift 4"
         categories: [file_manager, system]
         platform: [macos]
         color: peach
@@ -619,7 +619,7 @@ ports:
         platform: [linux, macos, windows]
         color: blue
         icon: joplin
-        current-maintainers: []
+        current-maintainers: [*ghostx32]
     jupyterlab:
         name: JupyterLab
         categories: [development, analytics]
@@ -1468,10 +1468,10 @@ ports:
         color: blue
         icon: visualstudiocode
         links:
-          - name: Visual Studio Marketplace
-            icon: visualstudio
-            color: blue
-            url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
+            - name: Visual Studio Marketplace
+              icon: visualstudio
+              color: blue
+              url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
         current-maintainers: []
     warp:
         name: Warp
