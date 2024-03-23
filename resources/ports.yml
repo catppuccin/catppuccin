@@ -318,6 +318,11 @@ ports:
         categories: [note_taking, productivity]
         platform: [linux, macos, windows]
         color: red
+    giscus:
+        name: Giscus
+        categories: [discussion_forum]
+        platform: agnostic
+        color: sky
     gitea:
         name: Gitea
         categories: [productivity]
@@ -348,11 +353,6 @@ ports:
         platform: [linux, macos]
         icon: gitui.svg
         color: text
-    giscus:
-        name: Giscus
-        categories: [discussion_forum]
-        platform: agnostic
-        color: sky
     glamour:
         name: Glamour
         categories: [cli]
