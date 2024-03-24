@@ -1,9 +1,13 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin Theme
+	Catppuccin
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
+
+<h6 align="center">
+  <a href="http://ipa-reader.xyz/?text=%CB%8Ck%C3%A6tp%CA%8A%CB%88t%CA%83i%CB%90n">/ˌkætpʊˈtʃiːn/</a>
+</h6>
 
 <h6 align="center">
   <a href="https://github.com/catppuccin/catppuccin#-palette">Palette</a>
@@ -967,6 +971,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/nextjs)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
+- [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [ShikiJS](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
@@ -1184,6 +1189,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>📸 Photo & Video</summary>
 
 - [Google Photos](https://github.com/catppuccin/userstyles/tree/main/styles/google-photos)
+- [imv](https://github.com/catppuccin/imv)
+- [mpv](https://github.com/catppuccin/mpv)
 - [Pinterest](https://github.com/catppuccin/userstyles/tree/main/styles/pinterest)
 - [ShareX](https://github.com/catppuccin/sharex)
 
@@ -1318,6 +1325,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🗣️ Discussion Forums</summary>
 
+- [Giscus](https://github.com/catppuccin/giscus)
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
 - [Infinity for Reddit](https://github.com/catppuccin/infinity)
 - [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
@@ -1335,6 +1343,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Holodex](https://github.com/catppuccin/userstyles/tree/main/styles/holodex)
 - [Invidious](https://github.com/catppuccin/userstyles/tree/main/styles/invidious)
 - [monkeytype](https://github.com/catppuccin/monkeytype)
+- [Picrew](https://github.com/catppuccin/userstyles/tree/main/styles/picrew)
 - [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
 - [theme.park](https://github.com/catppuccin/theme.park)
 - [Twitch](https://github.com/catppuccin/userstyles/tree/main/styles/twitch)

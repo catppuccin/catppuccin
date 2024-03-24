@@ -403,6 +403,12 @@ ports:
         platform: [linux, macos, windows]
         color: red
         current-maintainers: []
+    giscus:
+        name: Giscus
+        categories: [discussion_forum]
+        platform: agnostic
+        color: sky
+        current-maintainers: []
     gitea:
         name: Gitea
         categories: [productivity]
@@ -564,6 +570,12 @@ ports:
         categories: [development]
         platform: [linux, macos, windows]
         color: text
+        current-maintainers: []
+    imv:
+        name: imv
+        categories: [photo_and_video, cli]
+        platform: [linux]
+        color: mauve
         current-maintainers: []
     infinity:
         name: Infinity for Reddit
@@ -816,6 +828,12 @@ ports:
         categories: [game]
         platform: [macos, windows]
         color: peach
+        current-maintainers: []
+    mpv:
+        name: mpv
+        categories: [photo_and_video, cli]
+        platform: [linux]
+        color: mauve
         current-maintainers: []
     musicbee:
         name: MusicBee
