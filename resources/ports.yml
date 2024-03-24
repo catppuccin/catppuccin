@@ -525,7 +525,7 @@ ports:
         categories: [code_editor, cli]
         platform: [linux, macos, windows]
         color: mauve
-        current-maintainers: []
+        current-maintainers: [*backwardspy]
     heroic:
         name: Heroic
         categories: [game, application_launcher]
