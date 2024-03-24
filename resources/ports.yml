@@ -1061,7 +1061,7 @@ ports:
         color: yellow
         icon: wayland
     swaync:
-        name: SwayNotificationCenter
+        name: swaync
         categories: [notification_daemon, system]
         platform: [linux]
         color: yellow
