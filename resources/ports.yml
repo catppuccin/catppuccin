@@ -3,6 +3,8 @@ collaborators:
       url: https://github.com/112cxyz
     - &89iuv
       url: https://github.com/89iuv
+    - &Anomalocaridid
+      url: https://github.com/Anomalocaridid
     - &backwardspy
       name: pigeon
       url: https://github.com/backwardspy
@@ -20,6 +22,8 @@ collaborators:
     - &sgoudham
       name: Hammy
       url: https://github.com/sgoudham
+    - &uncenter
+      url: https://github.com/uncenter
     - &vdbe
       url: https://github.com/vdbe
 
@@ -218,7 +222,7 @@ ports:
         categories: [cli]
         platform: [linux, macos, windows]
         color: text
-        current-maintainers: []
+        current-maintainers: [*Anomalocaridid]
     discord:
         name: Discord
         categories: [social_networking]
@@ -408,7 +412,7 @@ ports:
         categories: [discussion_forum]
         platform: agnostic
         color: sky
-        current-maintainers: []
+        current-maintainers: [*uncenter]
     gitea:
         name: Gitea
         categories: [productivity]
@@ -576,7 +580,7 @@ ports:
         categories: [photo_and_video, cli]
         platform: [linux]
         color: mauve
-        current-maintainers: []
+        current-maintainers: [*Anomalocaridid]
     infinity:
         name: Infinity for Reddit
         categories: [discussion_forum, social_networking]
@@ -834,7 +838,7 @@ ports:
         categories: [photo_and_video, cli]
         platform: [linux]
         color: mauve
-        current-maintainers: []
+        current-maintainers: [*Anomalocaridid]
     musicbee:
         name: MusicBee
         categories: [music]
@@ -1574,7 +1578,7 @@ ports:
         categories: [file_manager, cli]
         platform: [android, linux, macos, windows]
         color: peach
-        current-maintainers: []
+        current-maintainers: [*uncenter]
     youtubemusic:
         name: YouTube Music
         categories: [music]
