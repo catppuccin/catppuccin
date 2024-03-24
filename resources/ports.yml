@@ -5,9 +5,15 @@ collaborators:
       url: https://github.com/89iuv
     - &Anomalocaridid
       url: https://github.com/Anomalocaridid
+    - &ayamir
+      url: https://github.com/ayamir
     - &backwardspy
       name: pigeon
       url: https://github.com/backwardspy
+    - &davidbgonz
+      url: https://github.com/davidbgonz
+    - &Delta456
+      url: https://github.com/Delta456
     - &ghostx32
       url: https://github.com/ghostx31
     - &hyperreal64
@@ -19,9 +25,20 @@ collaborators:
     - &NickSquiggles
       name: Nick
       url: https://github.com/NickSquiggles
+    - &ohitstom
+      url: https://github.com/ohitstom
+    - &quentinguidee
+      name: Quentin
+      url: https://github.com/quentinguidee
+    - &rogeruiz
+      url: https://github.com/rogeruiz
+    - &schoblaska
+      url: https://github.com/schoblaska
     - &sgoudham
       name: Hammy
       url: https://github.com/sgoudham
+    - &tecandrew
+      url: https://github.com/tecandrew
     - &uncenter
       url: https://github.com/uncenter
     - &vdbe
@@ -90,6 +107,7 @@ ports:
         platform: agnostic
         color: text
         current-maintainers: []
+        past-maintainers: [*schoblaska]
     bat:
         name: bat
         categories: [cli]
@@ -300,6 +318,7 @@ ports:
         platform: [linux]
         color: text
         current-maintainers: []
+        past-maintainers: [*ayamir]
     firefox:
         name: Firefox
         categories: [browser]
@@ -619,7 +638,7 @@ ports:
               icon: jetbrains
               color: text
               url: https://plugins.jetbrains.com/plugin/18682-catppuccin-theme
-        current-maintainers: [*sgoudham]
+        current-maintainers: [*sgoudham, *quentinguidee]
     jetbrains-icons:
         name: JetBrains Icons
         categories: [code_editor]
@@ -631,7 +650,7 @@ ports:
               icon: jetbrains
               color: text
               url: https://plugins.jetbrains.com/plugin/23029-catppuccin-icons
-        current-maintainers: []
+        current-maintainers: [*quentinguidee]
     joplin:
         name: Joplin
         categories: [note_taking]
@@ -1202,7 +1221,8 @@ ports:
         platform: [linux, macos, windows]
         color: green
         icon: spotify
-        current-maintainers: []
+        current-maintainers: [*ohitstom]
+        past-maintainers: [*davidbgonz]
     spotify-player:
         name: spotify-player
         categories: [music]
@@ -1361,7 +1381,7 @@ ports:
         platform: [linux, macos]
         color: green
         icon: tmux
-        current-maintainers: [*89iuv, *vdbe]
+        current-maintainers: [*rogeruiz, *89iuv, *vdbe]
     tofi:
         name: tofi
         categories: [application_launcher, system]
@@ -1416,7 +1436,7 @@ ports:
         platform: [linux, macos, windows]
         icon: unrealengine
         color: blue
-        current-maintainers: []
+        current-maintainers: [*quentinguidee]
     urxvt:
         name: Urxvt
         categories: [terminal]
@@ -1429,7 +1449,7 @@ ports:
         platform: agnostic
         color: lavender
         icon: v
-        current-maintainers: []
+        current-maintainers: [*Delta456]
     vendetta:
         name: Vendetta
         categories: [social_networking]
@@ -1546,7 +1566,7 @@ ports:
         platform: [macos]
         color: blue
         icon: xcode
-        current-maintainers: []
+        current-maintainers: [*quentinguidee]
     xfce4-terminal:
         name: Xfce4 Terminal
         categories: [terminal]
@@ -1599,7 +1619,7 @@ ports:
         platform: [macos]
         upstreamed: true
         color: blue
-        current-maintainers: []
+        current-maintainers: [*tecandrew]
     zellij:
         name: Zellij
         categories: [cli]
