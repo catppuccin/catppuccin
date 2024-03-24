@@ -530,7 +530,7 @@ ports:
         platform: [linux, macos]
         icon: kubernetes
         color: blue
-    Kvantum:
+    kvantum:
         name: Kvantum
         categories: [system]
         platform: [linux]
@@ -1093,7 +1093,7 @@ ports:
         categories: [terminal]
         platform: [linux]
         color: red
-    Terminal.app:
+    terminaldotapp:
         name: Terminal.app
         categories: [terminal]
         platform: [macos]
