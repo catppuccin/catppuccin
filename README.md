@@ -1088,7 +1088,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Dunst](https://github.com/catppuccin/dunst)
 - [Mako](https://github.com/catppuccin/mako)
-- [SwayNotificationCenter](https://github.com/catppuccin/swaync)
+- [swaync](https://github.com/catppuccin/swaync)
 
 </details>
 <details open>
