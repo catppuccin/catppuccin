@@ -239,7 +239,7 @@ ports:
         categories: [cli]
         platform: [linux, macos]
         color: green
-        icon: fish.svg
+        icon: fishshell
     fitbit:
         name: Fitbit
         categories: [health_and_fitness]
@@ -1337,6 +1337,7 @@ ports:
         platform: [macos]
         upstreamed: true
         color: blue
+        icon: zedindustries
     zellij:
         name: Zellij
         categories: [cli]
