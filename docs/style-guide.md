@@ -796,7 +796,10 @@
 					</td>
 				</tr>
 				<tr>
-					<td>Escape Sequences, Regex</td>
+					<td>
+						Escape Sequences<br>
+						Regex
+					</td>
 					<td>Pink</td>
 					<td>
 						<img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
