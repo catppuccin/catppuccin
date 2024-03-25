@@ -776,37 +776,10 @@
 					<th colspan="2">Color</th>
 				</tr>
 				<tr>
-					<td>Keyword</td>
-					<td>Mauve</td>
-					<td>
-						<img src="../assets/palette/circles/latte_mauve.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_mauve.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_mauve.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_mauve.png" height="16" width="16"/>
-					</td>
+					<th colspan="3" align="center">Comments</th>
 				</tr>
 				<tr>
-					<td>Strings</td>
-					<td>Green</td>
-					<td>
-						<img src="../assets/palette/circles/latte_green.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_green.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_green.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_green.png" height="16" width="16"/>
-					</td>
-				</tr>
-				<tr>
-					<td>Escape Sequences</td>
-					<td>Pink</td>
-					<td>
-						<img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_pink.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_pink.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_pink.png" height="16" width="16"/>
-					</td>
-				</tr>
-				<tr>
-					<td>Comments</td>
+					<td>Linewise</td>
 					<td>Overlay 0</td>
 					<td>
 						<img src="../assets/palette/circles/latte_overlay0.png" height="16" width="16"/>
@@ -816,7 +789,20 @@
 					</td>
 				</tr>
 				<tr>
-					<td>Constants, Numbers</td>
+					<td>Blockwise</td>
+					<td>Overlay 0</td>
+					<td>
+						<img src="../assets/palette/circles/latte_overlay0.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_overlay0.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_overlay0.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_overlay0.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="3" align="center">Constants</th>
+				</tr>
+				<tr>
+					<td>Boolean, Macro, Numeric</td>
 					<td>Peach</td>
 					<td>
 						<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
@@ -826,7 +812,113 @@
 					</td>
 				</tr>
 				<tr>
-					<td>Operators</td>
+					<td>Regex</td>
+					<td>Peach</td>
+					<td>
+						<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_peach.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_peach.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_peach.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>String Literal</td>
+					<td>Green</td>
+					<td>
+						<img src="../assets/palette/circles/latte_green.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_green.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_green.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_green.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Single Character</td>
+					<td>Teal</td>
+					<td>
+						<img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Escape Sequence</td>
+					<td>Pink</td>
+					<td>
+						<img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_pink.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="3" align="center">Identifiers</th>
+				</tr>
+				<tr>
+					<td>Variable</td>
+					<td>Text</td>
+					<td>
+						<img src="../assets/palette/circles/latte_text.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_text.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_text.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_text.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Parameter</td>
+					<td>Rosewater</td>
+					<td>
+						<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="3" align="center">Keywords</th>
+				</tr>
+				<tr>
+					<td>Conditional, Loop</td>
+					<td>Mauve</td>
+					<td>
+						<img src="../assets/palette/circles/latte_mauve.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_mauve.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_mauve.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_mauve.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Exception Handler</td>
+					<td>Peach</td>
+					<td>
+						<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_peach.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_peach.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_peach.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Label</td>
+					<td>Rosewater</td>
+					<td>
+						<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td><code>return</code><sub>(literally)</sub></td>
+					<td>Pink</td>
+					<td>
+						<img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_pink.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td><code>export</code><sub>(literally)</sub>, Operator</td>
 					<td>Sky</td>
 					<td>
 						<img src="../assets/palette/circles/latte_sky.png" height="16" width="16"/>
@@ -836,27 +928,7 @@
 					</td>
 				</tr>
 				<tr>
-					<td>Braces, Delimiters</td>
-					<td>Overlay 2</td>
-					<td>
-						<img src="../assets/palette/circles/latte_overlay2.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_overlay2.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_overlay2.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_overlay2.png" height="16" width="16"/>
-					</td>
-				</tr>
-				<tr>
-					<td>Methods, Functions</td>
-					<td>Blue</td>
-					<td>
-						<img src="../assets/palette/circles/latte_blue.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_blue.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_blue.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_blue.png" height="16" width="16"/>
-					</td>
-				</tr>
-				<tr>
-					<td>Parameters</td>
+					<td>Others</td>
 					<td>Maroon</td>
 					<td>
 						<img src="../assets/palette/circles/latte_maroon.png" height="16" width="16"/>
@@ -866,23 +938,162 @@
 					</td>
 				</tr>
 				<tr>
-					<td>Builtins</td>
-					<td>Red</td>
+					<th colspan="3" align="center">Preprocessor Statements</th>
+				</tr>
+				<tr>
+					<td><code>#include</code>-like</td>
+					<td>Teal</td>
 					<td>
-						<img src="../assets/palette/circles/latte_red.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_red.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_red.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_red.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/>
 					</td>
 				</tr>
 				<tr>
-					<td>Classes, Metadata</td>
+					<td>Others</td>
+					<td>Pink</td>
+					<td>
+						<img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_pink.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="3" align="center">Other Entities</th>
+				</tr>
+				<tr>
+					<td>Constructor Call</td>
+					<td>Sapphire</td>
+					<td>
+						<img src="../assets/palette/circles/latte_sapphire.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_sapphire.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_sapphire.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_sapphire.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Function, Method</td>
+					<td>Blue</td>
+					<td>
+						<img src="../assets/palette/circles/latte_blue.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_blue.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_blue.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_blue.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Tag</td>
+					<td>Lavender</td>
+					<td>
+						<img src="../assets/palette/circles/latte_lavender.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_lavender.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_lavender.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_lavender.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Metadata, Type</td>
 					<td>Yellow</td>
 					<td>
 						<img src="../assets/palette/circles/latte_yellow.png" height="16" width="16"/>
 						<img src="../assets/palette/circles/frappe_yellow.png" height="16" width="16"/>
 						<img src="../assets/palette/circles/macchiato_yellow.png" height="16" width="16"/>
 						<img src="../assets/palette/circles/mocha_yellow.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Field, Namespace, Property</td>
+					<td>Rosewater</td>
+					<td>
+						<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Other Symbols</td>
+					<td>Flamingo</td>
+					<td>
+						<img src="../assets/palette/circles/latte_flamingo.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_flamingo.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_flamingo.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_flamingo.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Braces, Brackets</td>
+					<td>Overlay 2</td>
+					<td>
+						<img src="../assets/palette/circles/latte_overlay2.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_overlay2.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_overlay2.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_overlay2.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Attribute<sub>(HTML)</sub></td>
+					<td>Teal</td>
+					<td>
+						<img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Delimiter<sub>(HTML)</sub></td>
+					<td>Sky</td>
+					<td>
+						<img src="../assets/palette/circles/latte_sky.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_sky.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_sky.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_sky.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Tag<sub>(HTML)</sub></td>
+					<td>Mauve</td>
+					<td>
+						<img src="../assets/palette/circles/latte_mauve.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_mauve.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_mauve.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_mauve.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="3" align="center">Builtins</th>
+				</tr>
+				<tr>
+					<td>Method, Function</td>
+					<td>Peach</td>
+					<td>
+						<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_peach.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_peach.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_peach.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Constant<sub>(reserved)</sub></td>
+					<td>Lavender</td>
+					<td>
+						<img src="../assets/palette/circles/latte_lavender.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_lavender.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_lavender.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_lavender.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Variable<sub>(reserved)</sub></td>
+					<td>Red</td>
+					<td>
+						<img src="../assets/palette/circles/latte_red.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_red.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_red.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_red.png" height="16" width="16"/>
 					</td>
 				</tr>
 			</table>
@@ -906,6 +1117,26 @@
 						<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
 						<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
 						<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Specials</td>
+					<td>Pink</td>
+					<td>
+						<img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_pink.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Delimiters</td>
+					<td>Teal</td>
+					<td>
+						<img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/>
 					</td>
 				</tr>
 				<tr>
@@ -942,24 +1173,24 @@
 						Active Search BG
 					</td>
 					<td>
-						Text<br>
-						Teal<br>
-						Text<br>
+						Pink<br>
+						Surface 1<br>
+						Mantle<br>
 						Red
 					</td>
 					<td>
-						<img src="../assets/palette/circles/latte_text.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_text.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_text.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_text.png" height="16" width="16"/><br>
-						<img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/><br>
-						<img src="../assets/palette/circles/latte_text.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_text.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_text.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_text.png" height="16" width="16"/><br>
+						<img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_pink.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_pink.png" height="16" width="16"/><br>
+						<img src="../assets/palette/circles/latte_surface1.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_surface1.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_surface1.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_surface1.png" height="16" width="16"/><br>
+						<img src="../assets/palette/circles/latte_mantle.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_mantle.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_mantle.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_mantle.png" height="16" width="16"/><br>
 						<img src="../assets/palette/circles/latte_red.png" height="16" width="16"/>
 						<img src="../assets/palette/circles/frappe_red.png" height="16" width="16"/>
 						<img src="../assets/palette/circles/macchiato_red.png" height="16" width="16"/>
@@ -992,12 +1223,22 @@
 				</tr>
 				<tr>
 					<td>Information</td>
-					<td>Teal</td>
+					<td>Sky</td>
 					<td>
-						<img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/>
-						<img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/latte_sky.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_sky.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_sky.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_sky.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Hint</td>
+					<td>Rosewater</td>
+					<td>
+						<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
 					</td>
 				</tr>
 			</table>
@@ -1162,6 +1403,185 @@
 <table>
 	<tr>
 		<th colspan="3" align="center">
+			<h4>LSP Semantic Highlight</h4>
+		</th>
+	</tr>
+	<tr>
+		<th>ID</th>
+		<th colspan="2">Links to...</th>
+	</tr>
+	<tr>
+		<td><code>class</code>, <code>enum</code>, <code>interface</code>,<br><code>struct</code>, <code>type(.defaultLibrary)</code></td>
+		<td>Type<br>Type</td>
+		<td>
+			<img src="../assets/palette/circles/latte_yellow.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_yellow.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_yellow.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_yellow.png" height="16" width="16"/><br>
+			<img src="../assets/palette/circles/latte_yellow.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_yellow.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_yellow.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_yellow.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>enumMember</code>, <code>macro</code></td>
+		<td>Macro</td>
+		<td>
+			<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_peach.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>regexp</code></td>
+		<td>Regex</td>
+		<td>
+			<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_peach.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>number</code></td>
+		<td>Numeric</td>
+		<td>
+			<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_peach.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>function.defaultLibrary</code></td>
+		<td>Builtins (Function)</td>
+		<td>
+			<img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_peach.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_peach.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>namespace</code></td>
+		<td>Namespace</td>
+		<td>
+			<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>parameter</code>, <code>typeParameter</code></td>
+		<td>Parameter</td>
+		<td>
+			<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>property</code></td>
+		<td>Property</td>
+		<td>
+			<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>label</code></td>
+		<td>Label</td>
+		<td>
+			<img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>keyword</code></td>
+		<td>Keywords (Others)</td>
+		<td>
+			<img src="../assets/palette/circles/latte_maroon.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_maroon.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_maroon.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_maroon.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>string</code></td>
+		<td>String Literal</td>
+		<td>
+			<img src="../assets/palette/circles/latte_green.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_green.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_green.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_green.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>operator</code></td>
+		<td>Operator</td>
+		<td>
+			<img src="../assets/palette/circles/latte_sky.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_sky.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_sky.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_sky.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>function</code>, <code>method</code></td>
+		<td>Function / Method</td>
+		<td>
+			<img src="../assets/palette/circles/latte_blue.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_blue.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_blue.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_blue.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>event</code></td>
+		<td>Tag</td>
+		<td>
+			<img src="../assets/palette/circles/latte_lavender.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_lavender.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_lavender.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_lavender.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>variable</code></td>
+		<td>Variable</td>
+		<td>
+			<img src="../assets/palette/circles/latte_text.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_text.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_text.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_text.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td><code>decorator</code>, <code>comment</code></td>
+		<td>Comments</td>
+		<td>
+			<img src="../assets/palette/circles/latte_overlay0.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/frappe_overlay0.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/macchiato_overlay0.png" height="16" width="16"/>
+			<img src="../assets/palette/circles/mocha_overlay0.png" height="16" width="16"/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><em>Note: Types with other standard token modifiers shall be linked to their<br>parent categories.</em></td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th colspan="3" align="center">
 			<h4>Diff & Merge</h4>
 		</th>
 	</tr>
@@ -1230,7 +1650,6 @@
 		</td>
 	</tr>
 </table>
-
 
 <table>
 	<tr>
