@@ -22,6 +22,8 @@ collaborators:
       url: https://github.com/isabelincorp
     - &isabelroses
       url: https://github.com/isabelroses
+    - &justTOBBI
+      url: https://github.com/justTOBBI
     - &NickSquiggles
       name: Nick
       url: https://github.com/NickSquiggles
@@ -32,6 +34,8 @@ collaborators:
       url: https://github.com/quentinguidee
     - &rogeruiz
       url: https://github.com/rogeruiz
+    - &rubyowo
+      url: https://github.com/rubyowo
     - &schoblaska
       url: https://github.com/schoblaska
     - &sgoudham
@@ -43,6 +47,8 @@ collaborators:
       url: https://github.com/uncenter
     - &vdbe
       url: https://github.com/vdbe
+    - &VictorTennekes
+      url: https://github.com/VictorTennekes
 
 ports:
     aerc:
@@ -58,6 +64,7 @@ ports:
         icon: alacritty
         platform: [linux, macos, windows]
         current-maintainers: []
+        past-maintainers: [*VictorTennekes]
     alfred:
         name: Alfred
         categories: [application_launcher, productivity]
@@ -247,7 +254,7 @@ ports:
         platform: [linux, macos, windows]
         color: blue
         icon: discord
-        current-maintainers: []
+        current-maintainers: [*rubyowo]
     diohub:
         name: DioHub
         categories: [productivity]
@@ -513,7 +520,7 @@ ports:
         platform: [linux]
         color: green
         icon: gtk
-        current-maintainers: []
+        current-maintainers: [*rubyowo]
     halloy:
         name: Halloy
         categories: [social_networking]
@@ -574,14 +581,14 @@ ports:
         categories: [window_manager, system]
         platform: [linux]
         color: sapphire
-        current-maintainers: []
+        current-maintainers: [*rubyowo]
     i3:
         name: i3/sway
         categories: [window_manager, system]
         platform: [linux]
         color: sky
         icon: i3
-        current-maintainers: []
+        current-maintainers: [*rubyowo]
     ida-debugger:
         name: IDA (Interactive Disassembler)
         categories: [code_editor, development]
@@ -621,6 +628,7 @@ ports:
         icon: iterm2
         color: green
         current-maintainers: []
+        past-maintainers: [*VictorTennekes]
     java:
         name: Java
         categories: [library]
@@ -846,6 +854,7 @@ ports:
         color: yellow
         icon: monkeytype
         current-maintainers: []
+        past-maintainers: [*VictorTennekes]
     moon-animator-2:
         name: Moon Animator 2
         categories: [game]
@@ -882,6 +891,7 @@ ports:
         platform: agnostic
         color: text
         current-maintainers: []
+        past-maintainers: [*justTOBBI]
     nim:
         name: Nim
         categories: [library]
@@ -989,6 +999,7 @@ ports:
         platform: [linux]
         color: maroon
         current-maintainers: []
+        past-maintainers: [*justTOBBI]
     pomotroid:
         name: Pomotroid
         categories: [productivity]
@@ -1069,6 +1080,7 @@ ports:
         color: maroon
         icon: raycast
         current-maintainers: []
+        past-maintainers: [*rubyowo]
     rboard:
         name: Rboard
         categories: [system]
@@ -1094,6 +1106,7 @@ ports:
         platform: agnostic
         color: blue
         current-maintainers: []
+        past-maintainers: [*justTOBBI]
     replit:
         name: Replit
         categories: [code_editor]
@@ -1531,7 +1544,7 @@ ports:
         platform: [linux]
         color: yellow
         icon: wayland
-        current-maintainers: []
+        current-maintainers: [*rubyowo]
     wezterm:
         name: WezTerm
         categories: [terminal]
@@ -1580,6 +1593,7 @@ ports:
         platform: [linux]
         color: text
         current-maintainers: []
+        past-maintainers: [*justTOBBI]
     xresources:
         name: Xresources
         categories: [system]
@@ -1605,7 +1619,7 @@ ports:
         platform: agnostic
         color: red
         icon: youtubemusic
-        current-maintainers: []
+        current-maintainers: [*rubyowo]
     zathura:
         name: Zathura
         categories: [document_viewer, productivity]
