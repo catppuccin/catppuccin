@@ -550,7 +550,6 @@ ports:
         name: Kitty
         categories: [terminal]
         platform: [linux, macos]
-        icon: kitty.svg
         color: green
     konsole:
         name: Konsole
