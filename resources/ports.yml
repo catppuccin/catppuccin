@@ -338,9 +338,8 @@ ports:
         categories: [cli]
         platform: [linux, macos]
         color: green
-        icon: fish.svg
-        current-maintainers: [*ghostx32, *backwardspy]
         icon: fishshell
+        current-maintainers: [*ghostx32, *backwardspy]
     fitbit:
         name: Fitbit
         categories: [health_and_fitness]
