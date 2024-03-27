@@ -450,7 +450,7 @@ ports:
         name: Hyprlock
         categories: [system]
         platform: [linux]
-        color: mauve
+        color: sapphire
     i3:
         name: i3/sway
         categories: [window_manager, system]
