@@ -796,7 +796,10 @@
 					</td>
 				</tr>
 				<tr>
-					<td>Escape Sequences</td>
+					<td>
+						Escape Sequences<br>
+						Regex
+					</td>
 					<td>Pink</td>
 					<td>
 						<img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
@@ -883,6 +886,16 @@
 						<img src="../assets/palette/circles/frappe_yellow.png" height="16" width="16"/>
 						<img src="../assets/palette/circles/macchiato_yellow.png" height="16" width="16"/>
 						<img src="../assets/palette/circles/mocha_yellow.png" height="16" width="16"/>
+					</td>
+				</tr>
+				<tr>
+					<td>Enum Variants</td>
+					<td>Teal</td>
+					<td>
+						<img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/>
+						<img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/>
 					</td>
 				</tr>
 			</table>

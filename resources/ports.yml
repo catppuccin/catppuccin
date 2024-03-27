@@ -340,6 +340,7 @@ ports:
         color: green
         icon: fish.svg
         current-maintainers: [*ghostx32, *backwardspy]
+        icon: fishshell
     fitbit:
         name: Fitbit
         categories: [health_and_fitness]
@@ -1312,7 +1313,7 @@ ports:
         icon: wayland
         current-maintainers: []
     swaync:
-        name: SwayNotificationCenter
+        name: swaync
         categories: [notification_daemon, system]
         platform: [linux]
         color: yellow
@@ -1634,6 +1635,7 @@ ports:
         upstreamed: true
         color: blue
         current-maintainers: [*tecandrew]
+        icon: zedindustries
     zellij:
         name: Zellij
         categories: [cli]
