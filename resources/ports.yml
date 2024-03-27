@@ -705,7 +705,6 @@ ports:
         name: Kitty
         categories: [terminal]
         platform: [linux, macos]
-        icon: kitty.svg
         color: green
         current-maintainers: []
     konsole:
@@ -834,7 +833,7 @@ ports:
         categories: [game]
         platform: [linux, macos, windows]
         color: green
-        icon: minecraft
+        icon: minecraft.svg
         current-maintainers: []
     mirc:
         name: mIRC
@@ -1168,7 +1167,7 @@ ports:
         color: sky
         current-maintainers: [*isabelroses]
     serenity-os:
-        name: Serenity OS
+        name: SerenityOS
         categories: [system]
         platform: agnostic
         color: red
