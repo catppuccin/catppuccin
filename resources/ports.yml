@@ -660,7 +660,7 @@ ports:
         categories: [game]
         platform: [linux, macos, windows]
         color: green
-        icon: minecraft
+        icon: minecraft.svg
     mirc:
         name: mIRC
         categories: [social_networking]
