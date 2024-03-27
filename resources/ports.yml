@@ -938,7 +938,7 @@ ports:
         platform: [linux]
         color: sky
     serenity-os:
-        name: Serenity OS
+        name: SerenityOS
         categories: [system]
         platform: agnostic
         color: red
