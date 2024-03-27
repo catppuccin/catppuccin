@@ -29,6 +29,8 @@ collaborators:
       url: https://github.com/NickSquiggles
     - &ohitstom
       url: https://github.com/ohitstom
+    - &opakholis
+      url: https://github.com/opakholis
     - &quentinguidee
       name: Quentin
       url: https://github.com/quentinguidee
@@ -620,7 +622,7 @@ ports:
         platform: [android]
         color: mauve
         icon: insomnia
-        current-maintainers: []
+        current-maintainers: [*opakholis]
     iterm:
         name: iTerm2
         categories: [terminal]
