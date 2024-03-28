@@ -27,6 +27,8 @@ collaborators:
     - &NickSquiggles
       name: Nick
       url: https://github.com/NickSquiggles
+    - &NikSneMC
+      url: https://github.com/NikSneMC
     - &ohitstom
       url: https://github.com/ohitstom
     - &opakholis
@@ -584,6 +586,12 @@ ports:
         platform: [linux]
         color: sapphire
         current-maintainers: [*rubyowo]
+    hyprlock:
+        name: Hyprlock
+        categories: [system]
+        platform: [linux]
+        color: sapphire
+        current-maintainers: [*NikSneMC]
     i3:
         name: i3/sway
         categories: [window_manager, system]
