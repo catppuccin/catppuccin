@@ -3,46 +3,13 @@
   "type": "object",
   "additionalProperties": false,
   "properties": {
-    "categories": {
-      "$id": "#category-definitions",
-      "title": "Category Definitions",
-      "description": "The categories listed in the README.",
+    "collaborators": {
+      "$id": "#all-collaborators",
+      "title": "All Collaborators",
+      "description": "Represents all maintainers and contributors to all ports.",
       "type": "array",
-      "items": {
-        "$id": "#category-definitions/item",
-        "title": "Category Item",
-        "type": "object",
-        "required": [
-          "key",
-          "name",
-          "description",
-          "emoji"
-        ],
-        "additionalProperties": false,
-        "properties": {
-          "key": {
-            "$id": "#category-definitions/category/key",
-            "title": "key",
-            "type": "string",
-            "$ref": "#/$defs/category"
-          },
-          "name": {
-            "$id": "#category-definitions/category/name",
-            "title": "Name",
-            "type": "string"
-          },
-          "description": {
-            "$id": "#category-definitions/category/description",
-            "title": "Description",
-            "type": "string"
-          },
-          "emoji": {
-            "$id": "#category-definitions/category/emoji",
-            "title": "Emoji",
-            "type": "string"
-          }
-        }
-      }
+      "minItems": 1,
+      "$ref": "#/$defs/collaborators"
     },
     "ports": {
       "$id": "#ports",
@@ -62,7 +29,8 @@
             "categories",
             "name",
             "platform",
-            "color"
+            "color",
+            "current-maintainers"
           ],
           "additionalProperties": false,
           "properties": {
@@ -180,7 +148,63 @@
               "title": "Upstreamed",
               "description": "Boolean indicating whether the port has been upstreamed.",
               "type": "boolean"
+            },
+            "current-maintainers": {
+              "$id": "#ports/port/current-maintainers",
+              "title": "Current Maintainers",
+              "description": "List of all active maintainers for this port.",
+              "type": "array",
+              "$ref": "#/$defs/collaborators"
+            },
+            "past-maintainers": {
+              "$id": "#ports/port/past-maintainers",
+              "title": "Past Maintainers",
+              "type": "array",
+              "minItems": 1,
+              "description": "List of all maintainers that have previously maintained this port.",
+              "$ref": "#/$defs/collaborators"
             }
+          }
+        }
+      }
+    },
+    "categories": {
+      "$id": "#category-definitions",
+      "title": "Category Definitions",
+      "description": "The categories listed in the README.",
+      "type": "array",
+      "items": {
+        "$id": "#category-definitions/item",
+        "title": "Category Item",
+        "type": "object",
+        "required": [
+          "key",
+          "name",
+          "description",
+          "emoji"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "key": {
+            "$id": "#category-definitions/category/key",
+            "title": "key",
+            "type": "string",
+            "$ref": "#/$defs/category"
+          },
+          "name": {
+            "$id": "#category-definitions/category/name",
+            "title": "Name",
+            "type": "string"
+          },
+          "description": {
+            "$id": "#category-definitions/category/description",
+            "title": "Description",
+            "type": "string"
+          },
+          "emoji": {
+            "$id": "#category-definitions/category/emoji",
+            "title": "Emoji",
+            "type": "string"
           }
         }
       }
@@ -221,6 +245,28 @@
     }
   },
   "$defs": {
+    "collaborators": {
+      "$id": "#collaborators",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Display Name",
+            "description": "The display name of the collaborator."
+          },
+          "url": {
+            "type": "string",
+            "title": "GitHub Profile",
+            "description": "The GitHub profile link of the collaborator."
+          }
+        },
+        "required": [
+          "url"
+        ]
+      }
+    },
     "icon": {
       "$id": "#icon",
       "title": "Icon",
