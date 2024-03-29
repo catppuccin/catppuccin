@@ -198,14 +198,14 @@
   <tr>
     <td>Selection Background</td>
     <td>
-      Surface 2<br>
-      <strong>40% - 60% Opacity</strong>
+      Overlay 2<br>
+      <strong>20% - 30% Opacity</strong>
     </td>
     <td>
-      <img src="../assets/palette/circles/latte_surface2.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/frappe_surface2.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/macchiato_surface2.png" height="16" width="16"/>
-      <img src="../assets/palette/circles/mocha_surface2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/latte_overlay2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/frappe_overlay2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/macchiato_overlay2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/mocha_overlay2.png" height="16" width="16"/>
     </td>
   </tr>
   <tr>
@@ -596,7 +596,7 @@
 
 ### Code Editors
 
-> [!IMPORTANT]<br>
+> [!IMPORTANT]
 > **This is still a work-in-progress.** Additionally, it's
 > important to acknowledge that different editors have different capabilities
 > for theming, please use your own judgement in accordance with the main colors
@@ -636,6 +636,16 @@
           </td>
         </tr>
         <tr>
+          <td>Symbols, Atoms</td>
+          <td>Red</td>
+          <td>
+            <img src="../assets/palette/circles/latte_red.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/frappe_red.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/macchiato_red.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/mocha_red.png" height="16" width="16"/>
+          </td>
+        </tr>
+        <tr>
           <td>
             Escape Sequences<br>
             Regex
@@ -650,12 +660,12 @@
         </tr>
         <tr>
           <td>Comments</td>
-          <td>Overlay 0</td>
+          <td>Overlay 2</td>
           <td>
-            <img src="../assets/palette/circles/latte_overlay0.png" height="16" width="16"/>
-            <img src="../assets/palette/circles/frappe_overlay0.png" height="16" width="16"/>
-            <img src="../assets/palette/circles/macchiato_overlay0.png" height="16" width="16"/>
-            <img src="../assets/palette/circles/mocha_overlay0.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/latte_overlay2.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/frappe_overlay2.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/macchiato_overlay2.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/mocha_overlay2.png" height="16" width="16"/>
           </td>
         </tr>
         <tr>
@@ -719,7 +729,11 @@
           </td>
         </tr>
         <tr>
-          <td>Classes, Metadata</td>
+          <td>
+            Classes, Interfaces,<br>
+            Annotations, Metadata,<br>
+            Enums, Types
+          </td>
           <td>Yellow</td>
           <td>
             <img src="../assets/palette/circles/latte_yellow.png" height="16" width="16"/>
@@ -736,6 +750,32 @@
             <img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/>
             <img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/>
             <img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Property<br>
+            (e.g. JSON keys)
+          </td>
+          <td>Blue</td>
+          <td>
+            <img src="../assets/palette/circles/latte_blue.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/frappe_blue.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/macchiato_blue.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/mocha_blue.png" height="16" width="16"/>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Attributes<br>
+            (e.g. XML-style attributes)
+          </td>
+          <td>Yellow</td>
+          <td>
+            <img src="../assets/palette/circles/latte_yellow.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/frappe_yellow.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/macchiato_yellow.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/mocha_yellow.png" height="16" width="16"/>
           </td>
         </tr>
       </table>
@@ -759,6 +799,39 @@
             <img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
             <img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
             <img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
+          </td>
+        </tr>
+        <tr>
+          <td>Cursor Line</td>
+          <td>
+            Text<br>
+            <strong>10% Opacity</strong>
+          </td>
+          <td>
+            <img src="../assets/palette/circles/latte_text.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/frappe_text.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/macchiato_text.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/mocha_text.png" height="16" width="16"/>
+          </td>
+        </tr>
+        <tr>
+          <td>Line Numbers</td>
+          <td>Overlay 1</td>
+          <td>
+            <img src="../assets/palette/circles/latte_overlay1.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/frappe_overlay1.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/macchiato_overlay1.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/mocha_overlay1.png" height="16" width="16"/>
+          </td>
+        </tr>
+        <tr>
+          <td>Active Line Number</td>
+          <td>Lavender</td>
+          <td>
+            <img src="../assets/palette/circles/latte_lavender.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/frappe_lavender.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/macchiato_lavender.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/mocha_lavender.png" height="16" width="16"/>
           </td>
         </tr>
         <tr>
@@ -1083,7 +1156,6 @@
     </td>
   </tr>
 </table>
-
 
 <table>
   <tr>
