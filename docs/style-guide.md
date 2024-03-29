@@ -755,7 +755,7 @@
         <tr>
           <td>
             Property<br>
-            (JSON, YAML, TOML etc)
+            (e.g. JSON keys)
           </td>
           <td>Blue</td>
           <td>
@@ -768,7 +768,7 @@
         <tr>
           <td>
             Attributes<br>
-            (XML, etc)
+            (e.g. XML-style attributes)
           </td>
           <td>Yellow</td>
           <td>
