@@ -446,6 +446,11 @@ ports:
         categories: [window_manager, system]
         platform: [linux]
         color: sapphire
+    hyprlock:
+        name: Hyprlock
+        categories: [system]
+        platform: [linux]
+        color: sapphire
     i3:
         name: i3/sway
         categories: [window_manager, system]
@@ -550,7 +555,6 @@ ports:
         name: Kitty
         categories: [terminal]
         platform: [linux, macos]
-        icon: kitty.svg
         color: green
     konsole:
         name: Konsole
@@ -660,7 +664,7 @@ ports:
         categories: [game]
         platform: [linux, macos, windows]
         color: green
-        icon: minecraft
+        icon: minecraft.svg
     mirc:
         name: mIRC
         categories: [social_networking]

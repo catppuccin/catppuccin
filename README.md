@@ -1061,6 +1061,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [fcitx5](https://github.com/catppuccin/fcitx5)
 - [FlorisBoard](https://github.com/catppuccin/floris-board)
 - [GTK](https://github.com/catppuccin/gtk)
+- [Hyprlock](https://github.com/catppuccin/hyprlock)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
 - [Nilesoft Shell](https://github.com/catppuccin/nilesoft-shell)
 - [Papirus Folders](https://github.com/catppuccin/papirus-folders)
