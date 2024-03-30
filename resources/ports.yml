@@ -1160,7 +1160,7 @@ ports:
         platform: [windows]
         color: maroon
         icon: operagx
-        current-maintainers: []
+        current-maintainers: [*isabelroses]
     pantone:
         name: Pantone
         categories: [library]
@@ -1538,7 +1538,7 @@ ports:
         platform: agnostic
         color: blue
         icon: telegram
-        current-maintainers: []
+        current-maintainers: [*isabelincorp]
     terminator:
         name: Terminator
         categories: [terminal]
