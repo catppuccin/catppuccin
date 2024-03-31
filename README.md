@@ -1299,6 +1299,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Aliucord](https://github.com/catppuccin/aliucord)
 - [Bluesky Social](https://github.com/catppuccin/userstyles/tree/main/styles/bsky)
+- [Chatterino 2](https://github.com/catppuccin/chatterino2)
 - [Cinny](https://github.com/catppuccin/userstyles/tree/main/styles/cinny)
 - [Discord](https://github.com/catppuccin/discord)
 - [Element](https://github.com/catppuccin/element)
