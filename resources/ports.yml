@@ -329,6 +329,12 @@ ports:
         platform: agnostic
         color: green
         icon: gitea
+    github-file-explorer-icons:
+        name: GitHub File Explorer Icons
+        categories: [browser_extension]
+        platform: agnostic
+        color: text
+        icon: github
     github-readme-stats:
         name: GitHub Readme Stats
         categories: [analytics]
