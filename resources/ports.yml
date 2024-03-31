@@ -627,6 +627,13 @@ ports:
         color: green
         icon: gitea
         current-maintainers: []
+    github-file-explorer-icons:
+        name: GitHub File Explorer Icons
+        categories: [browser_extension]
+        platform: agnostic
+        color: text
+        icon: github
+        current-maintainers: [*uncenter]
     github-readme-stats:
         name: GitHub Readme Stats
         categories: [analytics]
