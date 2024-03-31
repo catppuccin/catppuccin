@@ -106,6 +106,8 @@ collaborators:
       url: https://github.com/lemon-sh
     - &lewisakura
       url: https://github.com/lewisakura
+    - &likendev
+      url: https://github.com/likendev
     - &lighttigerXIV
       url: https://github.com/lighttigerXIV
     - &lokesh-krishna
@@ -1055,6 +1057,12 @@ ports:
         icon: misskey
         upstreamed: true
         current-maintainers: [*catb00mer]
+    mobaxterm:
+        name: MobaXterm
+        categories: [terminal]
+        platform: [windows]
+        color: blue
+        current-maintainers: [*likendev]
     monkeytype:
         name: monkeytype
         categories: [entertainment]

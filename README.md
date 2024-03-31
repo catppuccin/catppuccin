@@ -1033,6 +1033,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Kitty](https://github.com/catppuccin/kitty)
 - [Konsole](https://github.com/catppuccin/konsole)
 - [LXTerminal](https://github.com/catppuccin/lxterminal)
+- [MobaXterm](https://github.com/catppuccin/mobaxterm)
 - [QTerminal](https://github.com/catppuccin/qterminal)
 - [Rio](https://github.com/catppuccin/rio)
 - [st](https://github.com/catppuccin/st)
