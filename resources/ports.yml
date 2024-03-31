@@ -133,6 +133,8 @@ collaborators:
       url: https://github.com/NikSneMC
     - &nullchilly
       url: https://github.com/nullchilly
+    - &nullishamy
+      url: https://github.com/nullishamy
     - &nyxkrage
       url: https://github.com/nyxkrage
     - &ohitstom
@@ -821,7 +823,7 @@ ports:
         categories: [library]
         platform: agnostic
         color: maroon
-        current-maintainers: [*sgoudham]
+        current-maintainers: [*sgoudham, *nullishamy]
     jetbrains:
         name: JetBrains
         categories: [code_editor]
@@ -926,7 +928,7 @@ ports:
         categories: [cli]
         platform: [linux, macos]
         color: green
-        current-maintainers: []
+        current-maintainers: [*nullishamy]
     limine:
         name: Limine
         categories: [boot_loader, system]
@@ -1365,7 +1367,7 @@ ports:
         categories: [system]
         platform: agnostic
         color: red
-        current-maintainers: []
+        current-maintainers: [*nullishamy]
     sharex:
         name: ShareX
         categories: [photo_and_video, productivity]
@@ -1578,7 +1580,7 @@ ports:
         platform: [linux, macos, windows]
         color: blue
         icon: thunderbird
-        current-maintainers: []
+        current-maintainers: [*nullishamy]
     tilix:
         name: Tilix
         categories: [terminal]
