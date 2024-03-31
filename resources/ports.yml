@@ -109,6 +109,11 @@ ports:
         categories: [music, cli]
         platform: [linux, macos]
         color: sky
+    chatterino2:
+        name: Chatterino 2
+        categories: [social_networking]
+        platform: [linux, macos, windows]
+        color: text
     chrome:
         name: Google Chrome
         categories: [browser]
