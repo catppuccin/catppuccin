@@ -972,7 +972,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
-- [ShikiJS](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
+- [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
 
@@ -1315,6 +1315,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [mIRC](https://github.com/catppuccin/mirc)
 - [Misskey](https://github.com/catppuccin/misskey)
 - [Nitter](https://github.com/catppuccin/userstyles/tree/main/styles/nitter)
+- [Pronouns.page](https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.page)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [SimpleX](https://github.com/catppuccin/simplex)
 - [Slack](https://github.com/catppuccin/slack)
