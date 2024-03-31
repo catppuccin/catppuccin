@@ -32,12 +32,6 @@ collaborators:
       url: https://github.com/brambozz
     - &Brianalmeida
       url: https://github.com/Brianalmeida
-    - &djflan
-      url: https://github.com/djflan
-    - &fapfaff
-      url: https://github.com/fapfaff
-    - &fathulfahmy
-      url: https://github.com/fathulfahmy
     - &caarlos0
       url: https://github.com/caarlos0
     - &CallMeEchoCodes
@@ -58,12 +52,20 @@ collaborators:
       url: https://github.com/Delta456
     - &denis-g
       url: https://github.com/denis-g
+    - &djflan
+      url: https://github.com/djflan
     - &DonutDev
       url: https://github.com/DonutDev
     - &DorielRivalet
       url: https://github.com/DorielRivalet
     - &Dukatron
       url: https://github.com/Dukatron
+    - &fapfaff
+      url: https://github.com/fapfaff
+    - &fathulfahmy
+      url: https://github.com/fathulfahmy
+    - &fruzitent
+      url: https://github.com/fruzitent
     - &gabrielmagno
       url: https://github.com/gabrielmagno
     - &ghishadow
@@ -358,6 +360,12 @@ ports:
         platform: [linux, macos]
         color: sky
         current-maintainers: []
+    chatterino2:
+        name: Chatterino 2
+        categories: [social_networking]
+        platform: [linux, macos, windows]
+        color: text
+        current-maintainers: [*fruzitent]
     chrome:
         name: Google Chrome
         categories: [browser]
