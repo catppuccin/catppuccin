@@ -687,6 +687,11 @@ ports:
         platform: agnostic
         color: green
         icon: misskey
+    mobaxterm:
+        name: MobaXterm
+        categories: [terminal]
+        platform: [windows]
+        color: blue
     monkeytype:
         name: monkeytype
         categories: [entertainment]
