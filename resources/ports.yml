@@ -1399,11 +1399,11 @@ ports:
         icon: sharex
         current-maintainers: [*sgoudham]
     shiki:
-        name: ShikiJS
+        name: Shiki
         categories: [development]
         platform: agnostic
         url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
-        color: text
+        color: sapphire
         current-maintainers: []
     sidebery:
         name: Sidebery
