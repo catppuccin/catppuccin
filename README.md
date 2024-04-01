@@ -1125,8 +1125,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Alfred](https://github.com/catppuccin/alfred)
 - [bemenu](https://github.com/catppuccin/bemenu)
 - [dmenu](https://github.com/catppuccin/dmenu)
-- [fr33zmenu](https://github.com/catppuccin/fr33zmenu)
 - [Flow Launcher](https://github.com/catppuccin/flow-launcher)
+- [Fr33zmenu](https://github.com/catppuccin/fr33zmenu)
 - [Fuzzel](https://github.com/catppuccin/fuzzel)
 - [Plank](https://github.com/catppuccin/plank)
 - [Raycast](https://github.com/catppuccin/raycast)
@@ -1239,6 +1239,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
+- [tldraw](https://github.com/catppuccin/userstyles/tree/main/styles/tldraw)
 
 </details>
 <details open>
