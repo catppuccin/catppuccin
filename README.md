@@ -1125,6 +1125,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Alfred](https://github.com/catppuccin/alfred)
 - [bemenu](https://github.com/catppuccin/bemenu)
 - [dmenu](https://github.com/catppuccin/dmenu)
+- [fr33zmenu](https://github.com/catppuccin/fr33zmenu)
 - [Flow Launcher](https://github.com/catppuccin/flow-launcher)
 - [Fuzzel](https://github.com/catppuccin/fuzzel)
 - [Plank](https://github.com/catppuccin/plank)
