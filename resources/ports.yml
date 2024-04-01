@@ -293,6 +293,11 @@ ports:
         categories: [file_manager, system]
         platform: [macos]
         color: peach
+    fr33zmenu:
+        name: Fr33zmenu
+        categories: [application_launcher, system]
+        platform: [linux]
+        color: text
     freshrss:
         name: FreshRSS
         categories: [productivity]
