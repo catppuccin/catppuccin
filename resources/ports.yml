@@ -587,6 +587,12 @@ ports:
         platform: [macos]
         color: peach
         current-maintainers: [*denis-g]
+    fr33zmenu:
+        name: Fr33zmenu
+        categories: [application_launcher, system]
+        platform: [linux]
+        color: text
+        current-maintainers: [*iruzo]
     freshrss:
         name: FreshRSS
         categories: [productivity]
