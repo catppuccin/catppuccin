@@ -1161,6 +1161,12 @@ ports:
         categories: [application_launcher, system]
         platform: [linux]
         color: text
+    trilium-notes:
+        name: Trilium Notes
+        categories: [note_taking]
+        platform: [linux, macos, windows]
+        color: maroon
+        icon: trilium
     tty:
         name: tty
         categories: [terminal, system]
