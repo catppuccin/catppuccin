@@ -1277,6 +1277,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Logseq](https://github.com/catppuccin/logseq)
 - [Obsidian](https://github.com/catppuccin/obsidian)
 - [RemNote](https://github.com/catppuccin/remnote)
+- [Trilium Notes](https://github.com/catppuccin/trilium-notes)
 
 </details>
 <details open>
