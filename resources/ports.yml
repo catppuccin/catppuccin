@@ -181,6 +181,8 @@ collaborators:
       url: https://github.com/rithikasilva
     - &rubyowo
       url: https://github.com/rubyowo
+    - &SadAlexa
+      url: https://github.com/SadAlexa
     - &sakkke
       url: https://github.com/sakkke
     - &Sekki21956
@@ -1638,6 +1640,13 @@ ports:
         platform: [linux]
         color: text
         current-maintainers: [*iruzo]
+    trilium-notes:
+        name: Trilium Notes
+        categories: [note_taking]
+        platform: [linux, macos, windows]
+        color: maroon
+        icon: trilium
+        current-maintainers: [*SadAlexa]
     tty:
         name: tty
         categories: [terminal, system]
