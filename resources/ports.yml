@@ -15,6 +15,9 @@ collaborators:
       url: https://github.com/AngelBerihuete
     - &Anomalocaridid
       url: https://github.com/Anomalocaridid
+    - &AnubisNekhet
+      name: Anubis
+      url: https://github.com/AnubisNekhet
     - &asrvd
       url: https://github.com/asrvd
     - &aszecsei
@@ -28,6 +31,8 @@ collaborators:
       url: https://github.com/backwardspy
     - &bagelwaffle
       url: https://github.com/bagelwaffle
+    - &BlueFalconHD
+      url: https://github.com/BlueFalconHD
     - &brambozz
       url: https://github.com/brambozz
     - &Brianalmeida
@@ -182,6 +187,9 @@ collaborators:
       url: https://github.com/Sekki21956
     - &schoblaska
       url: https://github.com/schoblaska
+    - &ShyyLexi
+      name: Lexi
+      url: https://github.com/ShyyLexi
     - &sgoudham
       name: Hammy
       url: https://github.com/sgoudham
@@ -270,7 +278,8 @@ ports:
         platform: agnostic
         icon: anki.svg
         color: blue
-        current-maintainers: []
+        current-maintainers: [*AnubisNekhet]
+        past-maintainers: [*BlueFalconHD]
     aseprite:
         name: Aseprite
         categories: [productivity]
@@ -312,7 +321,7 @@ ports:
         icon: bento
         color: lavender
         platform: agnostic
-        current-maintainers: []
+        current-maintainers: [*BlueFalconHD]
     binary-ninja:
         name: Binary Ninja
         categories: [code_editor]
@@ -521,7 +530,7 @@ ports:
         platform: [linux, macos, windows]
         color: peach
         icon: firefoxbrowser
-        current-maintainers: [*isabelincorp]
+        current-maintainers: [*isabelincorp, *ShyyLexi]
     fish:
         name: Fish
         categories: [cli]
@@ -677,7 +686,7 @@ ports:
         platform: [linux, macos]
         icon: gitui.svg
         color: text
-        current-maintainers: []
+        current-maintainers: [*BlueFalconHD]
     glamour:
         name: Glamour
         categories: [cli]
@@ -1197,7 +1206,7 @@ ports:
         categories: [library]
         platform: agnostic
         color: text
-        current-maintainers: []
+        current-maintainers: [*BlueFalconHD]
     papirus-folders:
         name: Papirus Folders
         categories: [system]
