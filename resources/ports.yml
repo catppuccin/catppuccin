@@ -145,6 +145,8 @@ collaborators:
       url: https://github.com/mekb-turtle
     - &meme8383
       url: https://github.com/meme8383
+    - &moseeking
+      url: https://github.com/moseeking
     - &Mqisty
       url: https://github.com/Mqisty
     - &mrdoge515
@@ -1553,6 +1555,12 @@ ports:
         icon: spyderide
         color: red
         current-maintainers: [*meme8383]
+    squirrel:
+        name: Squirrel (Rime for macOS)
+        categories: [productivity]
+        platform: [macos]
+        color: text
+        current-maintainers: [*moseeking]
     st:
         name: st
         categories: [terminal]
