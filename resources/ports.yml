@@ -744,6 +744,11 @@ ports:
         categories: [system]
         platform: [windows]
         color: sapphire
+    nix:
+        name: Nix
+        categories: [system]
+        platform: [linux, macos]
+        color: sapphire
     noir:
         name: Noir
         categories: [browser_extension]
