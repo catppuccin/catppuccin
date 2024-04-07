@@ -748,7 +748,8 @@ ports:
         name: Nix
         categories: [system]
         platform: [linux, macos]
-        color: sapphire
+        color: blue
+        icon: nixos
     noir:
         name: Noir
         categories: [browser_extension]
