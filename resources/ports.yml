@@ -1199,7 +1199,7 @@ ports:
         name: Nix
         categories: [system]
         platform: [linux, macos]
-        color: sapphire
+        color: blue
         icon: nixos
         current-maintainers: [*Stonks3141, *getchoo]
     noir:
