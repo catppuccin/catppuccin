@@ -1039,6 +1039,11 @@ ports:
         platform: [linux, macos, windows]
         icon: spyderide
         color: red
+    squirrel:
+        name: Squirrel (Rime for macOS)
+        categories: [productivity]
+        platform: [macos]
+        color: text
     st:
         name: st
         categories: [terminal]
