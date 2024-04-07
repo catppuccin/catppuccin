@@ -974,6 +974,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
+- [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
 
 </details>
@@ -1237,6 +1238,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
 - [Scrivener](https://github.com/catppuccin/scrivener)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
+- [Squirrel (Rime for macOS)](https://github.com/catppuccin/squirrel)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [tldraw](https://github.com/catppuccin/userstyles/tree/main/styles/tldraw)
