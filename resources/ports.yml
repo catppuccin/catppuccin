@@ -1319,8 +1319,7 @@ ports:
         platform: agnostic
         color: blue
         icon: powershell
-        current-maintainers: []
-        past-maintainers: [*JK-Flip-Flop96]
+        current-maintainers: [*JK-Flip-Flop96]
     prismlauncher:
         name: Prism Launcher
         categories: [game, application_launcher]
