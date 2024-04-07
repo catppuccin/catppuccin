@@ -1051,8 +1051,7 @@ ports:
         platform: [linux]
         icon: lxqt.svg
         color: sky
-        current-maintainers: []
-        past-maintainers: [*DonutDev]
+        current-maintainers: [*DonutDev]
     lxterminal:
         name: LXTerminal
         categories: [terminal]
