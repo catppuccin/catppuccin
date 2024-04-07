@@ -1066,6 +1066,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Hyprlock](https://github.com/catppuccin/hyprlock)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
 - [Nilesoft Shell](https://github.com/catppuccin/nilesoft-shell)
+- [Nix](https://github.com/catppuccin/nix)
 - [Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - [Polybar](https://github.com/catppuccin/polybar)
 - [qt5ct](https://github.com/catppuccin/qt5ct)

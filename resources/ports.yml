@@ -83,6 +83,8 @@ collaborators:
       url: https://github.com/fruzitent
     - &gabrielmagno
       url: https://github.com/gabrielmagno
+    - &getchoo
+      url: https://github.com/getchoo
     - &ghishadow
       url: https://github.com/ghishadow
     - &ghostx31
@@ -1194,6 +1196,13 @@ ports:
         platform: [windows]
         color: sapphire
         current-maintainers: [*jayylmao]
+    nix:
+        name: Nix
+        categories: [system]
+        platform: [linux, macos]
+        color: sapphire
+        icon: nixos
+        current-maintainers: [*Stonks3141, *getchoo]
     noir:
         name: Noir
         categories: [browser_extension]
