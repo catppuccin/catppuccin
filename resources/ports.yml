@@ -55,8 +55,8 @@ ports:
         name: bat
         categories: [cli]
         platform: [linux, macos, windows]
-        icon: bat.svg
-        color: sapphire
+        icon: bat
+        color: blue
     bemenu:
         name: bemenu
         categories: [application_launcher, system]
