@@ -5,53 +5,35 @@
  * and run json-schema-to-typescript to regenerate this file.
  */
 
-export type Key =
-  | "3d_modelling"
-  | "analytics"
-  | "application_launcher"
-  | "artificial_intelligence"
-  | "boot_loader"
-  | "browser"
-  | "browser_extension"
-  | "cli"
-  | "code_editor"
-  | "desktop_environment"
-  | "development"
-  | "discussion_forum"
-  | "document_viewer"
-  | "education"
-  | "email_client"
-  | "entertainment"
-  | "file_manager"
-  | "game"
-  | "game_development"
-  | "health_and_fitness"
-  | "library"
-  | "music"
-  | "note_taking"
-  | "notification_daemon"
-  | "photo_and_video"
-  | "productivity"
-  | "search_engine"
-  | "self_hosted"
-  | "social_networking"
-  | "system"
-  | "terminal"
-  | "translation_tool"
-  | "userstyle"
-  | "wiki"
-  | "window_manager";
-export type Name = string;
-export type Description = string;
-export type Emoji = string;
 /**
- * The categories listed in the README.
+ * Represents all maintainers and contributors to all ports.
+ *
+ * @minItems 1
  */
-export type CategoryDefinitions = CategoryItem[];
+export type AllCollaborators = [
+  {
+    name?: DisplayName;
+    url: GitHubProfile;
+    [k: string]: unknown;
+  },
+  ...{
+    name?: DisplayName;
+    url: GitHubProfile;
+    [k: string]: unknown;
+  }[]
+];
+/**
+ * The display name of the collaborator.
+ */
+export type DisplayName = string;
+/**
+ * The GitHub profile link of the collaborator.
+ */
+export type GitHubProfile = string;
 /**
  * The name of the software the port is for.
  */
-export type Name1 = string;
+export type Name = string;
 /**
  * The categories that fit the port the most, the first category is the primary category which the port will be listed under on the README.
  *
@@ -131,7 +113,7 @@ export type Alias = string;
  * If the port is hosted on a specific URL, provide it here.
  */
 export type URL = string;
-export type Name2 = string;
+export type Name1 = string;
 export type URL1 = string;
 /**
  * Links to the port on marketplaces, app stores; documentation, preview pages, etc.
@@ -141,6 +123,74 @@ export type Links = Link[];
  * Boolean indicating whether the port has been upstreamed.
  */
 export type Upstreamed = boolean;
+/**
+ * List of all active maintainers for this port.
+ */
+export type CurrentMaintainers = {
+  name?: DisplayName;
+  url: GitHubProfile;
+  [k: string]: unknown;
+}[];
+/**
+ * List of all maintainers that have previously maintained this port.
+ *
+ * @minItems 1
+ */
+export type PastMaintainers = [
+  {
+    name?: DisplayName;
+    url: GitHubProfile;
+    [k: string]: unknown;
+  },
+  ...{
+    name?: DisplayName;
+    url: GitHubProfile;
+    [k: string]: unknown;
+  }[]
+];
+export type Key =
+  | "3d_modelling"
+  | "analytics"
+  | "application_launcher"
+  | "artificial_intelligence"
+  | "boot_loader"
+  | "browser"
+  | "browser_extension"
+  | "cli"
+  | "code_editor"
+  | "desktop_environment"
+  | "development"
+  | "discussion_forum"
+  | "document_viewer"
+  | "education"
+  | "email_client"
+  | "entertainment"
+  | "file_manager"
+  | "game"
+  | "game_development"
+  | "health_and_fitness"
+  | "library"
+  | "music"
+  | "note_taking"
+  | "notification_daemon"
+  | "photo_and_video"
+  | "productivity"
+  | "search_engine"
+  | "self_hosted"
+  | "social_networking"
+  | "system"
+  | "terminal"
+  | "translation_tool"
+  | "userstyle"
+  | "wiki"
+  | "window_manager";
+export type Name2 = string;
+export type Description = string;
+export type Emoji = string;
+/**
+ * The categories listed in the README.
+ */
+export type CategoryDefinitions = CategoryItem[];
 export type Title = string;
 export type Link1 = string;
 export type Link2 = string;
@@ -150,15 +200,10 @@ export type Link2 = string;
 export type Showcases = ShowcaseItem[];
 
 export interface PortsSchema {
-  categories?: CategoryDefinitions;
+  collaborators?: AllCollaborators;
   ports?: Ports;
+  categories?: CategoryDefinitions;
   showcases?: Showcases;
-}
-export interface CategoryItem {
-  key: Key;
-  name: Name;
-  description: Description;
-  emoji: Emoji;
 }
 /**
  * All ports in the Catppuccin organisation.
@@ -173,7 +218,7 @@ export interface Ports {
  * via the `patternProperty` "[A-Za-z0-9_\-]".
  */
 export interface Port {
-  name: Name1;
+  name: Name;
   categories: Categories;
   platform: Platform;
   color: Color;
@@ -182,12 +227,20 @@ export interface Port {
   url?: URL;
   links?: Links;
   upstreamed?: Upstreamed;
+  "current-maintainers": CurrentMaintainers;
+  "past-maintainers"?: PastMaintainers;
 }
 export interface Link {
-  name: Name2;
+  name: Name1;
   color?: Color;
   icon?: Icon;
   url: URL1;
+}
+export interface CategoryItem {
+  key: Key;
+  name: Name2;
+  description: Description;
+  emoji: Emoji;
 }
 export interface ShowcaseItem {
   title: Title;
