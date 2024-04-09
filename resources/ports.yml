@@ -351,8 +351,8 @@ ports:
         name: bat
         categories: [cli]
         platform: [linux, macos, windows]
-        icon: bat.svg
-        color: sapphire
+        icon: bat
+        color: blue
         current-maintainers: [*ghostx31, *nekowinston]
     bemenu:
         name: bemenu
