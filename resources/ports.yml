@@ -294,7 +294,7 @@ ports:
         color: peach
         icon: alacritty
         platform: [linux, macos, windows]
-        current-maintainers: []
+        current-maintainers: [*nekowinston]
         past-maintainers: [*VictorTennekes]
     alfred:
         name: Alfred
@@ -903,7 +903,7 @@ ports:
         platform: [macos]
         icon: iterm2
         color: green
-        current-maintainers: []
+        current-maintainers: [*nekowinston]
         past-maintainers: [*VictorTennekes]
     java:
         name: Java
