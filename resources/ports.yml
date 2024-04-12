@@ -1755,7 +1755,8 @@ ports:
               icon: npm
               color: red
               url: https://www.npmjs.com/package/@catppuccin/ui
-        current-maintainers: [*didair]
+        current-maintainers: []
+        past-maintainers: [*didair]
     ulauncher:
         name: Ulauncher
         categories: [application_launcher, system]
