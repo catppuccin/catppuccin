@@ -147,6 +147,8 @@ collaborators:
       url: https://github.com/mekb-turtle
     - &meme8383
       url: https://github.com/meme8383
+    - &Moodzz1
+      url: https://github.com/Moodzz1
     - &moseeking
       url: https://github.com/moseeking
     - &Mqisty
@@ -196,8 +198,6 @@ collaborators:
     - &quentinguidee
       name: Quentin
       url: https://github.com/quentinguidee
-    - &Quinxxxx
-      url: https://github.com/Quinxxxx
     - &rayhanadev
       url: https://github.com/rayhanadev
     - &remiposo
@@ -206,6 +206,8 @@ collaborators:
       url: https://github.com/reniivali
     - &rogeruiz
       url: https://github.com/rogeruiz
+    - &riivx
+      url: https://github.com/riivx
     - &rithikasilva
       url: https://github.com/rithikasilva
     - &rubyowo
@@ -1388,7 +1390,7 @@ ports:
         platform: [android]
         color: blue
         icon: gboard.svg
-        current-maintainers: [*Quinxxxx]
+        current-maintainers: [*Moodzz1]
     refind:
         name: rEFInd
         categories: [boot_loader, system]
@@ -1797,7 +1799,7 @@ ports:
         platform: [android, ios]
         color: blue
         icon: discord
-        current-maintainers: [*Quinxxxx]
+        current-maintainers: [*riivx, *Moodzz1]
     vim:
         name: Vim
         categories: [code_editor, cli]
