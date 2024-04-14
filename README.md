@@ -961,6 +961,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
 - [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
 - [Highlight.js](https://github.com/catppuccin/highlightjs)
+- [Home Manager Options Search](https://github.com/catppuccin/userstyles/tree/main/styles/home-manager-options-search)
 - [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
 - [ImHex](https://github.com/catppuccin/imhex)
 - [Insomnia](https://github.com/catppuccin/insomnia)
