@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/catppuccin?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/catppuccin?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/catppuccin/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/catppuccin?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/catppuccin/issues"><img src="https://img.shields.io/github/issues/catppuccin/catppuccin?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
 	<a href="https://discord.com/servers/907385605422448742"><img src="https://img.shields.io/discord/907385605422448742?style=for-the-badge&logo=discord&color=c6a0f6&logoColor=cad3f5&labelColor=363a4f"></a>
 </p>
 
