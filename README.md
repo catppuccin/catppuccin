@@ -949,6 +949,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>💭 Development Tools</summary>
 
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
+- [Chroma](https://github.com/catppuccin/chroma)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
 - [egui](https://github.com/catppuccin/egui)
 - [GitHub](https://github.com/catppuccin/userstyles/tree/main/styles/github)
