@@ -2173,4 +2173,7 @@ showcases:
     - title: Loungy
       description: An open-source application launcher in the vein of Raycast and Alfred.
       link: https://loungy.app
+    - title: Reciper
+      description: A simple, open-source recipe management app.
+      link: https://github.com/judemont/reciper
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
