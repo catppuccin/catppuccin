@@ -960,6 +960,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
 - [ImHex](https://github.com/catppuccin/imhex)
 - [Insomnia](https://github.com/catppuccin/insomnia)
+- [iSH](https://github.com/catppuccin/ish)
 - [JupyterLab](https://github.com/catppuccin/jupyterlab)
 - [Matplotlib](https://github.com/catppuccin/matplotlib)
 - [mdBook](https://github.com/catppuccin/mdBook)
