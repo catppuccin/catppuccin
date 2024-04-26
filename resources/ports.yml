@@ -81,6 +81,8 @@ collaborators:
       url: https://github.com/fathulfahmy
     - &fruzitent
       url: https://github.com/fruzitent
+    - &g3rhard
+      url: https://github.com/g3rhard
     - &gabrielmagno
       url: https://github.com/gabrielmagno
     - &getchoo
@@ -910,6 +912,12 @@ ports:
         color: mauve
         icon: insomnia
         current-maintainers: [*opakholis]
+    ish:
+        name: iSH
+        categories: [development]
+        platform: [ios]
+        color: text
+        current-maintainers: [*g3rhard]
     iterm:
         name: iTerm2
         categories: [terminal]
