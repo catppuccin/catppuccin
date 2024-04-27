@@ -1614,7 +1614,8 @@ ports:
         platform: [linux, macos, windows]
         color: yellow
         icon: sublimetext
-        current-maintainers: [*ghostx31, *MatthiasPortzel]
+        current-maintainers: [*MatthiasPortzel]
+        past-maintainers: [*ghostx31]
     sumatra-pdf:
         name: SumatraPDF
         categories: [document_viewer, productivity]
