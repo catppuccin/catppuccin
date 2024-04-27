@@ -1222,6 +1222,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Bento](https://github.com/catppuccin/bento)
 - [DioHub](https://github.com/catppuccin/diohub)
 - [FreshRSS](https://github.com/catppuccin/freshrss)
+- [gh dash](https://github.com/catppuccin/gh-dash)
 - [Gitea](https://github.com/catppuccin/gitea)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [homepage](https://github.com/catppuccin/userstyles/tree/main/styles/homepage)
