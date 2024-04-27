@@ -147,6 +147,8 @@ collaborators:
       url: https://github.com/M3nny
     - &mainrs
       url: https://github.com/mainrs
+    - &MatthiasPortzel
+      url: https://github.com/MatthiasPortzel
     - &mbeckrich
       url: https://github.com/mbeckrich
     - &mekb-turtle
@@ -1631,7 +1633,8 @@ ports:
         platform: [linux, macos, windows]
         color: yellow
         icon: sublimetext
-        current-maintainers: [*ghostx31]
+        current-maintainers: [*MatthiasPortzel]
+        past-maintainers: [*ghostx31]
     sumatra-pdf:
         name: SumatraPDF
         categories: [document_viewer, productivity]
