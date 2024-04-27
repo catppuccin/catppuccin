@@ -703,6 +703,12 @@ ports:
         platform: [linux]
         color: text
         current-maintainers: [*sacerd-OS]
+    gh-dash:
+        name: gh dash
+        categories: [productivity]
+        platform: [linux, macos, windows]
+        color: text
+        current-maintainers: [*isabelroses]
     ghostwriter:
         name: ghostwriter
         categories: [note_taking, productivity]
