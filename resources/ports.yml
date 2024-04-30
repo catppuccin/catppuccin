@@ -3,6 +3,8 @@ collaborators:
       url: https://github.com/112cxyz
     - &21st-centuryman
       url: https://github.com/21st-centuryman
+    - &42Willow
+      url: https://github.com/42Willow
     - &89iuv
       url: https://github.com/89iuv
     - &abhishekmj303
@@ -421,6 +423,12 @@ ports:
         platform: [linux, macos]
         color: red
         current-maintainers: [*lokesh-krishna]
+    calibre:
+        name: Calibre
+        categories: [document_viewer, productivity]
+        platform: [linux, macos, windows]
+        color: peach
+        current-maintainers: [*42Willow]
     cava:
         name: C.A.V.A.
         categories: [music, cli]
