@@ -1427,6 +1427,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Mind Elixir](https://github.com/ssshooter/mind-elixir-core) - A framework agnostic JavaScript mind map core.
 - [Career Vault](https://careervault.io) - A remote job board that shows hundreds of new opportunities every day.
 - [Loungy](https://loungy.app) - An open-source application launcher in the vein of Raycast and Alfred.
+- [Reciper](https://github.com/judemont/reciper) - A simple, open-source recipe management app.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
