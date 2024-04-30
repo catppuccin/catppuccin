@@ -1293,6 +1293,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>📃 Document Viewers</summary>
 
+- [Calibre](https://github.com/catppuccin/calibre)
 - [Foliate](https://github.com/catppuccin/foliate)
 - [Sioyek](https://github.com/catppuccin/sioyek)
 - [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
