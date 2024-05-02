@@ -1006,6 +1006,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Lazygit](https://github.com/catppuccin/lazygit)
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [PowerShell](https://github.com/catppuccin/powershell)
+- [Process Compose](https://github.com/catppuccin/process-compose)
 - [sc-im](https://github.com/catppuccin/sc-im)
 - [skim](https://github.com/catppuccin/skim)
 - [Starship](https://github.com/catppuccin/starship)
