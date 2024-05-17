@@ -974,7 +974,7 @@ ports:
               icon: jetbrains
               color: text
               url: https://plugins.jetbrains.com/plugin/23029-catppuccin-icons
-        current-maintainers: [*quentinguidee,*thelooter]
+        current-maintainers: [*quentinguidee, *thelooter]
     joplin:
         name: Joplin
         categories: [note_taking]
