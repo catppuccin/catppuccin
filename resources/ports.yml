@@ -262,6 +262,8 @@ collaborators:
       url: https://github.com/tetov
     - &TheExistingOne
       url: https://github.com/TheExistingOne
+    - &thelooter
+      url: https://github.com/thelooter
     - &tiepp
       url: https://github.com/tiepp
     - &Tnixc
@@ -972,7 +974,7 @@ ports:
               icon: jetbrains
               color: text
               url: https://plugins.jetbrains.com/plugin/23029-catppuccin-icons
-        current-maintainers: [*quentinguidee]
+        current-maintainers: [*quentinguidee, *thelooter]
     joplin:
         name: Joplin
         categories: [note_taking]
