@@ -981,6 +981,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>📚 Libraries</summary>
 
 - [Flutter](https://github.com/catppuccin/flutter)
+- [Gleam](https://github.com/catppuccin/gleam)
 - [Go](https://github.com/catppuccin/go)
 - [Java](https://github.com/catppuccin/java)
 - [LaTeX](https://github.com/catppuccin/latex)
