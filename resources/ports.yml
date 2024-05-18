@@ -147,6 +147,8 @@ collaborators:
       url: https://github.com/LudoPinelli
     - &M3nny
       url: https://github.com/M3nny
+    - &MAHcodes
+      url: https://github.com/MAHcodes
     - &mainrs
       url: https://github.com/mainrs
     - &MatthiasPortzel
@@ -787,6 +789,12 @@ ports:
         platform: [windows]
         color: text
         current-maintainers: [*fathulfahmy]
+    gleam:
+        name: Gleam
+        categories: [library]
+        platform: agnostic
+        color: pink
+        current-maintainers: [*MAHcodes]
     gnome-terminal:
         name: GNOME Terminal
         categories: [terminal]
