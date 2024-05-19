@@ -466,7 +466,8 @@ ports:
         categories: [music]
         platform: [linux, macos, windows]
         color: red
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     codemirror:
         name: CodeMirror
         categories: [code_editor]
