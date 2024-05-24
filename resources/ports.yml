@@ -864,7 +864,7 @@ ports:
         platform: agnostic
         color: maroon
         links:
-            - name: NPM
+            - name: npm
               icon: npm
               color: red
               url: https://www.npmjs.com/package/@catppuccin/highlightjs
@@ -883,7 +883,7 @@ ports:
         color: text
         icon: hyper
         links:
-            - name: NPM
+            - name: npm
               icon: npm
               color: red
               url: https://www.npmjs.com/package/hypurr
@@ -1699,7 +1699,7 @@ ports:
         color: sky
         icon: tailwindcss
         links:
-            - name: NPM
+            - name: npm
               icon: npm
               color: red
               url: https://www.npmjs.com/package/@catppuccin/tailwindcss
@@ -1806,7 +1806,7 @@ ports:
         icon: react
         color: sky
         links:
-            - name: NPM
+            - name: npm
               icon: npm
               color: red
               url: https://www.npmjs.com/package/@catppuccin/ui
