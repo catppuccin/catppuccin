@@ -859,7 +859,7 @@ ports:
         color: peach
         current-maintainers: [*aszecsei]
     highlightjs:
-        name: Highlight.js
+        name: highlight.js
         categories: [development]
         platform: agnostic
         color: maroon
