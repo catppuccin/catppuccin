@@ -310,15 +310,16 @@ ports:
         color: peach
         icon: alacritty
         platform: [linux, macos, windows]
-        current-maintainers: [*nekowinston]
-        past-maintainers: [*VictorTennekes]
+        current-maintainers: []
+        past-maintainers: [*VictorTennekes, *nekowinston]
     alfred:
         name: Alfred
         categories: [application_launcher, productivity]
         color: mauve
         icon: alfred
         platform: [macos]
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     aliucord:
         name: Aliucord
         categories: [social_networking]
@@ -355,7 +356,8 @@ ports:
         icon: microsoftazure
         color: blue
         alias: vscode
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     base16:
         name: Base16
         categories: [system]
@@ -369,7 +371,8 @@ ports:
         platform: [linux, macos, windows]
         icon: bat
         color: blue
-        current-maintainers: [*ghostx31, *nekowinston]
+        current-maintainers: [*ghostx31]
+        past-maintainers: [*nekowinston]
     bemenu:
         name: bemenu
         categories: [application_launcher, system]
@@ -420,7 +423,8 @@ ports:
         categories: [cli, analytics]
         platform: [linux, macos, windows]
         color: text
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     btop:
         name: Btop++
         categories: [cli, analytics]
@@ -740,7 +744,8 @@ ports:
         platform: agnostic
         color: green
         icon: gitea
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     github-file-explorer-icons:
         name: GitHub File Explorer Icons
         categories: [browser_extension]
@@ -802,7 +807,8 @@ ports:
         platform: [linux]
         color: text
         icon: gnometerminal
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     go:
         name: Go
         categories: [library]
@@ -868,7 +874,8 @@ ports:
               icon: npm
               color: red
               url: https://www.npmjs.com/package/@catppuccin/highlightjs
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     home-assistant:
         name: Home Assistant
         categories: [productivity]
@@ -951,8 +958,8 @@ ports:
         platform: [macos]
         icon: iterm2
         color: green
-        current-maintainers: [*nekowinston]
-        past-maintainers: [*VictorTennekes]
+        current-maintainers: []
+        past-maintainers: [*VictorTennekes, *nekowinston]
     java:
         name: Java
         categories: [library]
@@ -1004,7 +1011,8 @@ ports:
         platform: [linux, macos]
         icon: kubernetes
         color: blue
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     Kvantum:
         name: Kvantum
         categories: [system]
@@ -1134,7 +1142,8 @@ ports:
         platform: agnostic
         color: blue
         icon: mattermost
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     mc:
         name: Midnight Commander
         categories: [file_manager, cli]
@@ -1255,7 +1264,8 @@ ports:
         categories: [browser_extension]
         platform: [ios]
         color: mauve
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     notepad-plus-plus:
         name: Notepad++
         categories: [code_editor]
@@ -1379,7 +1389,8 @@ ports:
         categories: [cli, development]
         platform: [linux, macos, windows]
         color: text
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     pyradio:
         name: PyRadio
         categories: [music]
@@ -1413,7 +1424,8 @@ ports:
         platform: [linux, macos, windows]
         icon: qutebrowser.svg
         color: blue
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     qtcreator:
         name: Qt Creator
         categories: [code_editor]
@@ -1510,7 +1522,8 @@ ports:
         categories: [cli, analytics]
         platform: [linux, macos]
         color: green
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     scrivener:
         name: Scrivener
         categories: [productivity]
@@ -1542,7 +1555,8 @@ ports:
         platform: agnostic
         url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
         color: sapphire
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     sidebery:
         name: Sidebery
         categories: [browser_extension]
@@ -1703,7 +1717,8 @@ ports:
               icon: npm
               color: red
               url: https://www.npmjs.com/package/@catppuccin/tailwindcss
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     telegram:
         name: Telegram
         categories: [social_networking]
@@ -1723,7 +1738,8 @@ ports:
         categories: [terminal]
         platform: [macos]
         color: text
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     termux:
         name: Termux
         categories: [terminal]
@@ -1902,8 +1918,8 @@ ports:
               icon: vscodium
               color: blue
               url: https://open-vsx.org/extension/Catppuccin/catppuccin-vsc
-        current-maintainers: [*nekowinston]
-        past-maintainers: [*ghostx31, *VictorTennekes]
+        current-maintainers: []
+        past-maintainers: [*ghostx31, *VictorTennekes, *nekowinston]
     vscode-icons:
         name: Visual Studio Code Icons
         categories: [code_editor]
@@ -1922,7 +1938,8 @@ ports:
         platform: [macos]
         color: blue
         icon: warp
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     waybar:
         name: waybar
         categories: [system]
@@ -1937,7 +1954,8 @@ ports:
         color: mauve
         icon: wezterm
         upstreamed: true
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     whoogle:
         name: Whoogle
         categories: [search_engine]
@@ -2037,7 +2055,8 @@ ports:
         platform: [linux, macos]
         color: peach
         icon: zsh
-        current-maintainers: [*nekowinston]
+        current-maintainers: []
+        past-maintainers: [*nekowinston]
     zsh-syntax-highlighting:
         name: zsh-syntax-highlighting
         categories: [cli]
