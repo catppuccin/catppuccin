@@ -951,6 +951,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Chroma](https://github.com/catppuccin/chroma)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
+- [crates.io](https://github.com/catppuccin/userstyles/tree/main/styles/crates.io)
+- [docs.rs](https://github.com/catppuccin/userstyles/tree/main/styles/docs.rs)
 - [egui](https://github.com/catppuccin/egui)
 - [freedesktop.org](https://github.com/catppuccin/userstyles/tree/main/styles/freedesktop)
 - [GitHub](https://github.com/catppuccin/userstyles/tree/main/styles/github)
@@ -1187,6 +1189,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🧠 Wikis</summary>
 
 - [Arch Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki)
+- [mdBook](https://github.com/catppuccin/userstyles/tree/main/styles/mdbook)
 - [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki)
 - [Wikipedia](https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia)
 - [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
