@@ -81,6 +81,8 @@ collaborators:
       url: https://github.com/fapfaff
     - &fathulfahmy
       url: https://github.com/fathulfahmy
+    - &Flapperoo
+      url: https://github.com/Flapperoo
     - &fruzitent
       url: https://github.com/fruzitent
     - &g3rhard
@@ -470,7 +472,7 @@ ports:
         categories: [music]
         platform: [linux, macos, windows]
         color: red
-        current-maintainers: []
+        current-maintainers: [*Flapperoo]
         past-maintainers: [*nekowinston]
     codemirror:
         name: CodeMirror
