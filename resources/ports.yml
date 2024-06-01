@@ -1355,7 +1355,7 @@ ports:
         color: red
         current-maintainers: [*coldenate]
     powerpoint-slides:
-        name: Microsoft PowerPoint
+        name: Microsoft PowerPoint Slides
         categories: [productivity]
         icon: microsoftpowerpoint
         color: red
