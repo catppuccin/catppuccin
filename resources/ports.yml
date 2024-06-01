@@ -13,8 +13,8 @@ collaborators:
       url: https://github.com/AdalZanabria
     - &AlphaTechnolog
       url: https://github.com/AlphaTechnolog
-    - &andreasgrafen
-      url: https://github.com/andreasgrafen
+    - &unseen-ninja
+      url: https://github.com/unseen-ninja
     - &AngelBerihuete
       url: https://github.com/AngelBerihuete
     - &Anomalocaridid
@@ -1041,7 +1041,7 @@ ports:
         categories: [terminal]
         platform: [linux, macos]
         color: green
-        current-maintainers: [*andreasgrafen]
+        current-maintainers: [*unseen-ninja]
     konsole:
         name: Konsole
         categories: [terminal]
@@ -1490,7 +1490,7 @@ ports:
         platform: [linux, macos, windows]
         color: maroon
         icon: revoltdotchat
-        current-maintainers: [*andreasgrafen]
+        current-maintainers: [*unseen-ninja]
         past-maintainers: [*pocco81]
     rio:
         name: Rio
