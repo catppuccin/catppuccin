@@ -927,14 +927,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Kakoune](https://github.com/catppuccin/kakoune)
 - [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
 - [Lapce](https://github.com/catppuccin/lapce)
-- [Micro](https://github.com/catppuccin/micro)
+- [micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
 - [Notepad++](https://github.com/catppuccin/notepad-plus-plus)
 - [Nova](https://github.com/catppuccin/nova)
 - [Qt Creator](https://github.com/catppuccin/qtcreator)
 - [Replit](https://github.com/catppuccin/replit)
 - [RStudio](https://github.com/catppuccin/rstudio)
-- [spyder](https://github.com/catppuccin/spyder)
+- [Spyder](https://github.com/catppuccin/spyder)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
 - [Vim](https://github.com/catppuccin/vim)
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
@@ -958,7 +958,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [GitHub](https://github.com/catppuccin/userstyles/tree/main/styles/github)
 - [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
 - [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
-- [Highlight.js](https://github.com/catppuccin/highlightjs)
+- [highlight.js](https://github.com/catppuccin/highlightjs)
 - [Home Manager Options Search](https://github.com/catppuccin/userstyles/tree/main/styles/home-manager-options-search)
 - [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
 - [ImHex](https://github.com/catppuccin/imhex)
@@ -1002,14 +1002,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [bat](https://github.com/catppuccin/bat)
 - [bottom](https://github.com/catppuccin/bottom)
-- [Btop++](https://github.com/catppuccin/btop)
+- [btop++](https://github.com/catppuccin/btop)
 - [delta](https://github.com/catppuccin/delta)
-- [Fish](https://github.com/catppuccin/fish)
+- [fish shell](https://github.com/catppuccin/fish)
 - [fzf](https://github.com/catppuccin/fzf)
 - [GitUI](https://github.com/catppuccin/gitui)
 - [Glamour](https://github.com/catppuccin/glamour)
 - [k9s](https://github.com/catppuccin/k9s)
-- [Lazygit](https://github.com/catppuccin/lazygit)
+- [lazygit](https://github.com/catppuccin/lazygit)
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [PowerShell](https://github.com/catppuccin/powershell)
 - [Process Compose](https://github.com/catppuccin/process-compose)
@@ -1029,13 +1029,13 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Black Box](https://github.com/catppuccin/blackbox)
 - [Blink](https://github.com/catppuccin/blink)
 - [Contour](https://github.com/catppuccin/contour)
-- [CRT: cool-retro-term](https://github.com/catppuccin/crt)
+- [cool-retro-term](https://github.com/catppuccin/crt)
 - [Fluent Terminal](https://github.com/catppuccin/fluentterminal)
 - [foot](https://github.com/catppuccin/foot)
 - [GNOME Terminal](https://github.com/catppuccin/gnome-terminal)
 - [Hyper](https://github.com/catppuccin/hyper)
 - [iTerm2](https://github.com/catppuccin/iterm)
-- [Kitty](https://github.com/catppuccin/kitty)
+- [kitty](https://github.com/catppuccin/kitty)
 - [Konsole](https://github.com/catppuccin/konsole)
 - [LXTerminal](https://github.com/catppuccin/lxterminal)
 - [MobaXterm](https://github.com/catppuccin/mobaxterm)
@@ -1095,7 +1095,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>😈 Notification Daemons</summary>
 
 - [Dunst](https://github.com/catppuccin/dunst)
-- [Mako](https://github.com/catppuccin/mako)
+- [mako](https://github.com/catppuccin/mako)
 - [swaync](https://github.com/catppuccin/swaync)
 
 </details>
@@ -1104,7 +1104,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [KDE](https://github.com/catppuccin/kde)
 - [LXQt](https://github.com/catppuccin/lxqt)
-- [Regolith Desktop](https://github.com/catppuccin/regolith)
+- [Regolith](https://github.com/catppuccin/regolith)
 
 </details>
 <details open>
@@ -1132,12 +1132,12 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [bemenu](https://github.com/catppuccin/bemenu)
 - [dmenu](https://github.com/catppuccin/dmenu)
 - [Flow Launcher](https://github.com/catppuccin/flow-launcher)
-- [Fr33zmenu](https://github.com/catppuccin/fr33zmenu)
+- [fr33zmenu](https://github.com/catppuccin/fr33zmenu)
 - [Fuzzel](https://github.com/catppuccin/fuzzel)
 - [Plank](https://github.com/catppuccin/plank)
 - [Raycast](https://github.com/catppuccin/raycast)
 - [Rofi](https://github.com/catppuccin/rofi)
-- [tofi](https://github.com/catppuccin/tofi)
+- [Tofi](https://github.com/catppuccin/tofi)
 - [Ueli](https://github.com/catppuccin/ueli)
 - [Ulauncher](https://github.com/catppuccin/ulauncher)
 
@@ -1157,7 +1157,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
 - [GitHub File Explorer Icons](https://github.com/catppuccin/github-file-explorer-icons)
-- [Nighttab](https://github.com/catppuccin/nighttab)
+- [nightTab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
 - [OldTwitter](https://github.com/catppuccin/oldtwitter)
 - [Sidebery](https://github.com/catppuccin/sidebery)
@@ -1209,7 +1209,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🎵 Music</summary>
 
-- [C.A.V.A.](https://github.com/catppuccin/cava)
+- [Cava](https://github.com/catppuccin/cava)
 - [Cider](https://github.com/catppuccin/cider)
 - [Dopamine](https://github.com/catppuccin/dopamine)
 - [Hyperpipe](https://github.com/catppuccin/userstyles/tree/main/styles/hyperpipe)
@@ -1217,9 +1217,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [MusicBee](https://github.com/catppuccin/musicbee)
 - [PyRadio](https://github.com/catppuccin/pyradio)
 - [Spicetify](https://github.com/catppuccin/spicetify)
+- [Spotify TUI](https://github.com/catppuccin/spotify-tui)
 - [Spotify Web](https://github.com/catppuccin/userstyles/tree/main/styles/spotify-web)
 - [spotify-player](https://github.com/catppuccin/spotify-player)
-- [spotify-tui](https://github.com/catppuccin/spotify-tui)
 - [YouTube Music](https://github.com/catppuccin/youtubemusic)
 
 </details>
@@ -1230,18 +1230,18 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Bento](https://github.com/catppuccin/bento)
 - [DioHub](https://github.com/catppuccin/diohub)
 - [FreshRSS](https://github.com/catppuccin/freshrss)
-- [gh dash](https://github.com/catppuccin/gh-dash)
+- [gh-dash](https://github.com/catppuccin/gh-dash)
 - [Gitea](https://github.com/catppuccin/gitea)
 - [Google Drive](https://github.com/catppuccin/userstyles/tree/main/styles/google-drive)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [homepage](https://github.com/catppuccin/userstyles/tree/main/styles/homepage)
 - [inoreader](https://github.com/catppuccin/userstyles/tree/main/styles/inoreader)
 - [Linear](https://github.com/catppuccin/linear)
+- [Microsoft PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
 - [Microsoft Word](https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word)
 - [OBS Studio](https://github.com/catppuccin/obs)
 - [openmediavault](https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault)
 - [Pomotroid](https://github.com/catppuccin/pomotroid)
-- [PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
 - [Proton](https://github.com/catppuccin/userstyles/tree/main/styles/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
 - [Scrivener](https://github.com/catppuccin/scrivener)
@@ -1302,7 +1302,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>📃 Document Viewers</summary>
 
-- [Calibre](https://github.com/catppuccin/calibre)
+- [calibre](https://github.com/catppuccin/calibre)
 - [Foliate](https://github.com/catppuccin/foliate)
 - [Sioyek](https://github.com/catppuccin/sioyek)
 - [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
@@ -1346,7 +1346,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Giscus](https://github.com/catppuccin/giscus)
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
-- [Infinity for Reddit](https://github.com/catppuccin/infinity)
+- [Infinity For Reddit](https://github.com/catppuccin/infinity)
 - [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
 - [Libreddit, Redlib](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
 - [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
@@ -1361,7 +1361,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [ChatReplay](https://github.com/catppuccin/userstyles/tree/main/styles/chatreplay)
 - [Holodex](https://github.com/catppuccin/userstyles/tree/main/styles/holodex)
 - [Invidious](https://github.com/catppuccin/userstyles/tree/main/styles/invidious)
-- [monkeytype](https://github.com/catppuccin/monkeytype)
+- [Monkeytype](https://github.com/catppuccin/monkeytype)
 - [Picrew](https://github.com/catppuccin/userstyles/tree/main/styles/picrew)
 - [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
 - [theme.park](https://github.com/catppuccin/theme.park)
@@ -1373,7 +1373,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🎮 Games</summary>
 
 - [Advent Of Code](https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code)
-- [BitBurner](https://github.com/catppuccin/bitburner)
+- [Bitburner](https://github.com/catppuccin/bitburner)
 - [bStats](https://github.com/catppuccin/userstyles/tree/main/styles/bstats)
 - [Chess.com](https://github.com/catppuccin/userstyles/tree/main/styles/chess.com)
 - [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
