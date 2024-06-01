@@ -395,7 +395,7 @@ ports:
         color: red
         current-maintainers: [*kkrypt0nn]
     bitburner:
-        name: BitBurner
+        name: Bitburner
         categories: [game]
         platform: [linux, macos, windows]
         color: green
@@ -428,19 +428,19 @@ ports:
         current-maintainers: []
         past-maintainers: [*nekowinston]
     btop:
-        name: Btop++
+        name: btop++
         categories: [cli, analytics]
         platform: [linux, macos]
         color: red
         current-maintainers: [*lokesh-krishna]
     calibre:
-        name: Calibre
+        name: calibre
         categories: [document_viewer, productivity]
         platform: [linux, macos, windows]
         color: peach
         current-maintainers: [*42Willow]
     cava:
-        name: C.A.V.A.
+        name: Cava
         categories: [music, cli]
         platform: [linux, macos]
         color: sky
@@ -497,7 +497,7 @@ ports:
         current-maintainers: []
         past-maintainers: [*TarunDaCoder]
     crt:
-        name: "CRT: cool-retro-term"
+        name: cool-retro-term
         categories: [terminal]
         platform: [linux, macos]
         color: green
@@ -619,7 +619,7 @@ ports:
         icon: firefoxbrowser
         current-maintainers: [*isabelincorp, *ShyyLexi]
     fish:
-        name: Fish
+        name: fish shell
         categories: [cli]
         platform: [linux, macos]
         color: green
@@ -685,7 +685,7 @@ ports:
         color: peach
         current-maintainers: [*denis-g]
     fr33zmenu:
-        name: Fr33zmenu
+        name: fr33zmenu
         categories: [application_launcher, system]
         platform: [linux]
         color: text
@@ -723,7 +723,7 @@ ports:
         color: text
         current-maintainers: [*sacerd-OS]
     gh-dash:
-        name: gh dash
+        name: gh-dash
         categories: [productivity]
         platform: [linux, macos, windows]
         color: text
@@ -867,12 +867,12 @@ ports:
         color: peach
         current-maintainers: [*aszecsei]
     highlightjs:
-        name: Highlight.js
+        name: highlight.js
         categories: [development]
         platform: agnostic
         color: maroon
         links:
-            - name: NPM
+            - name: npm
               icon: npm
               color: red
               url: https://www.npmjs.com/package/@catppuccin/highlightjs
@@ -892,7 +892,7 @@ ports:
         color: text
         icon: hyper
         links:
-            - name: NPM
+            - name: npm
               icon: npm
               color: red
               url: https://www.npmjs.com/package/hypurr
@@ -935,7 +935,7 @@ ports:
         color: mauve
         current-maintainers: [*Anomalocaridid]
     infinity:
-        name: Infinity for Reddit
+        name: Infinity For Reddit
         categories: [discussion_forum, social_networking]
         platform: [android]
         icon: reddit
@@ -1037,7 +1037,7 @@ ports:
         current-maintainers: [*Sourcastic]
         past-maintainers: [*Prayag2]
     kitty:
-        name: Kitty
+        name: kitty
         categories: [terminal]
         platform: [linux, macos]
         color: green
@@ -1071,7 +1071,7 @@ ports:
         icon: lapce
         current-maintainers: [*ghishadow]
     lazygit:
-        name: Lazygit
+        name: lazygit
         categories: [cli]
         platform: [linux, macos]
         color: green
@@ -1126,7 +1126,7 @@ ports:
         current-maintainers: []
         past-maintainers: [*elkrien]
     mako:
-        name: Mako
+        name: mako
         categories: [notification_daemon, system]
         platform: [linux]
         icon: wayland
@@ -1160,7 +1160,7 @@ ports:
         icon: mdbook
         current-maintainers: [*sgoudham]
     micro:
-        name: Micro
+        name: micro
         categories: [code_editor, cli]
         platform: [linux, macos, windows]
         color: lavender
@@ -1196,7 +1196,7 @@ ports:
         color: blue
         current-maintainers: [*likendev]
     monkeytype:
-        name: monkeytype
+        name: Monkeytype
         categories: [entertainment]
         platform: agnostic
         color: yellow
@@ -1235,7 +1235,7 @@ ports:
         current-maintainers: []
         past-maintainers: [*ignamartinoli]
     nighttab:
-        name: Nighttab
+        name: nightTab
         categories: [browser_extension]
         platform: agnostic
         color: text
@@ -1367,7 +1367,7 @@ ports:
         color: red
         current-maintainers: [*coldenate]
     powerpoint-slides:
-        name: PowerPoint Slides
+        name: Microsoft PowerPoint Slides
         categories: [productivity]
         icon: microsoftpowerpoint
         color: red
@@ -1464,7 +1464,7 @@ ports:
         color: text
         current-maintainers: [*fapfaff]
     regolith:
-        name: Regolith Desktop
+        name: Regolith
         categories: [desktop_environment, system]
         platform: [linux]
         color: red
@@ -1619,14 +1619,14 @@ ports:
         current-maintainers: []
         past-maintainers: [*elkrien]
     spotify-tui:
-        name: spotify-tui
+        name: Spotify TUI
         categories: [music, cli]
         platform: [linux, macos, windows]
         color: green
         icon: spotify
         current-maintainers: [*Sekki21956]
     spyder:
-        name: spyder
+        name: Spyder
         categories: [code_editor]
         platform: [linux, macos, windows]
         icon: spyderide
@@ -1715,7 +1715,7 @@ ports:
         color: sky
         icon: tailwindcss
         links:
-            - name: NPM
+            - name: npm
               icon: npm
               color: red
               url: https://www.npmjs.com/package/@catppuccin/tailwindcss
@@ -1787,7 +1787,7 @@ ports:
         icon: tmux
         current-maintainers: [*rogeruiz, *89iuv, *vdbe]
     tofi:
-        name: tofi
+        name: Tofi
         categories: [application_launcher, system]
         platform: [linux]
         color: text
@@ -1824,7 +1824,7 @@ ports:
         icon: react
         color: sky
         links:
-            - name: NPM
+            - name: npm
               icon: npm
               color: red
               url: https://www.npmjs.com/package/@catppuccin/ui
