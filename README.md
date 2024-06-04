@@ -1066,7 +1066,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Cursors](https://github.com/catppuccin/cursors)
 - [fcitx5](https://github.com/catppuccin/fcitx5)
 - [FlorisBoard](https://github.com/catppuccin/floris-board)
-- [GTK](https://github.com/catppuccin/gtk)
 - [Hyprlock](https://github.com/catppuccin/hyprlock)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
 - [Nilesoft Shell](https://github.com/catppuccin/nilesoft-shell)
@@ -1160,7 +1159,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [nightTab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
 - [OldTwitter](https://github.com/catppuccin/oldtwitter)
-- [Sidebery](https://github.com/catppuccin/sidebery)
 - [Vimium](https://github.com/catppuccin/vimium)
 
 </details>
@@ -1312,7 +1310,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>✨ Social Networking</summary>
 
-- [Aliucord](https://github.com/catppuccin/aliucord)
 - [Bluesky Social](https://github.com/catppuccin/userstyles/tree/main/styles/bsky)
 - [Chatterino 2](https://github.com/catppuccin/chatterino2)
 - [Cinny](https://github.com/catppuccin/userstyles/tree/main/styles/cinny)
@@ -1385,7 +1382,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Moon Animator 2](https://github.com/catppuccin/moon-animator-2)
 - [Planet Minecraft](https://github.com/catppuccin/userstyles/tree/main/styles/planet-minecraft)
 - [Prism Launcher](https://github.com/catppuccin/prismlauncher)
-- [Steam](https://github.com/catppuccin/steam)
 - [Steam Deck](https://github.com/catppuccin/steam-deck)
 - [ULTRAKILL](https://github.com/catppuccin/ultrakill)
 

@@ -148,6 +148,10 @@ export type PastMaintainers = [
     [k: string]: unknown;
   }[]
 ];
+/**
+ * A short summary of why the port was archived.
+ */
+export type ArchiveReason = string;
 export type Key =
   | "3d_modelling"
   | "analytics"
@@ -202,6 +206,7 @@ export type Showcases = ShowcaseItem[];
 export interface PortsSchema {
   collaborators?: AllCollaborators;
   ports?: Ports;
+  archived?: ArchivedPorts;
   categories?: CategoryDefinitions;
   showcases?: Showcases;
 }
@@ -235,6 +240,26 @@ export interface Link {
   color?: Color;
   icon?: Icon;
   url: URL1;
+}
+/**
+ * All archived ports in the Catppuccin organisation.
+ */
+export interface ArchivedPorts {
+  [k: string]: Port1;
+}
+/**
+ * The GitHub repository name of the archived port.
+ *
+ * This interface was referenced by `ArchivedPorts`'s JSON-Schema definition
+ * via the `patternProperty` "[A-Za-z0-9_\-]".
+ */
+export interface Port1 {
+  name: Name;
+  reason: ArchiveReason;
+  categories: Categories;
+  platform: Platform;
+  color: Color;
+  icon?: Icon;
 }
 export interface CategoryItem {
   key: Key;

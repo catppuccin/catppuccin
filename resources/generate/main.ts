@@ -55,7 +55,7 @@ const ports = {
         type: "userstyle",
       };
       return acc;
-  }, {} as Record<string, MappedPort>),
+    }, {} as Record<string, MappedPort>),
 };
 
 const portSlugs = Object.entries(ports).map(([slug]) => slug);
@@ -89,12 +89,12 @@ const categorized = Object.entries(ports)
         }
       }
 
-       acc[port.categories[0]].push({
+      acc[port.categories[0]].push({
         ...port,
         url,
         name: [port.name].flat().join(", "),
       });
-       acc[port.categories[0]].sort((a, b) =>
+      acc[port.categories[0]].sort((a, b) =>
         [a.name].flat()[0].localeCompare([b.name].flat()[0])
       );
       return acc;
