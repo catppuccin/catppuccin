@@ -35,58 +35,13 @@
           "additionalProperties": false,
           "properties": {
             "name": {
-              "$id": "#ports/port/name",
-              "title": "Name",
-              "description": "The name of the software the port is for.",
-              "type": "string",
-              "examples": [
-                "Neovim"
-              ]
+              "$ref": "#/$defs/port-display-name"
             },
             "categories": {
-              "$id": "#ports/port/categories",
-              "title": "Categories",
-              "description": "The categories that fit the port the most, the first category is the primary category which the port will be listed under on the README.",
-              "$ref": "#/$defs/categories"
+              "$ref": "#/$defs/port-categories"
             },
             "platform": {
-              "$id": "#ports/port/platform",
-              "title": "Platform",
-              "description": "The platforms the port supports. Either an array of supported operating systems or \"agnostic\" (indicating support for all platforms).",
-              "oneOf": [
-                {
-                  "type": "array",
-                  "items": {
-                    "$id": "#ports/port/platform/os",
-                    "title": "Operating Systems",
-                    "type": "string",
-                    "enum": [
-                      "android",
-                      "ios",
-                      "linux",
-                      "macos",
-                      "windows"
-                    ],
-                    "examples": [
-                      [
-                        "linux",
-                        "macos",
-                        "windows"
-                      ],
-                      [
-                        "android",
-                        "ios"
-                      ]
-                    ]
-                  }
-                },
-                {
-                  "type": "string",
-                  "enum": [
-                    "agnostic"
-                  ]
-                }
-              ]
+              "$ref": "#/$defs/port-platform"
             },
             "color": {
               "$ref": "#/$defs/color"
@@ -163,6 +118,54 @@
               "minItems": 1,
               "description": "List of all maintainers that have previously maintained this port.",
               "$ref": "#/$defs/collaborators"
+            }
+          }
+        }
+      }
+    },
+    "archived": {
+      "$id": "#archived",
+      "title": "Archived Ports",
+      "description": "All archived ports in the Catppuccin organisation.",
+      "type": "object",
+      "patternProperties": {
+        "[A-Za-z0-9_\\-]": {
+          "$id": "#archived/port/name",
+          "title": "Port",
+          "type": "object",
+          "description": "The GitHub repository name of the archived port.",
+          "examples": [
+            "steam"
+          ],
+          "required": [
+            "name",
+            "reason",
+            "categories",
+            "platform",
+            "color"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "name": {
+              "$ref": "#/$defs/port-display-name"
+            },
+            "reason": {
+              "$id": "#/archived/port/reason",
+              "title": "Archive Reason",
+              "description": "A short summary of why the port was archived.",
+              "type": "string"
+            },
+            "categories": {
+              "$ref": "#/$defs/port-categories"
+            },
+            "platform": {
+              "$ref": "#/$defs/port-platform"
+            },
+            "color": {
+              "$ref": "#/$defs/color"
+            },
+            "icon": {
+              "$ref": "#/$defs/icon"
             }
           }
         }
@@ -266,6 +269,60 @@
           "url"
         ]
       }
+    },
+    "port-display-name": {
+      "$id": "#port-display-name",
+      "title": "Name",
+      "description": "The name of the software the port is for.",
+      "type": "string",
+      "examples": [
+        "Neovim"
+      ]
+    },
+    "port-categories": {
+      "$id": "#port-categories",
+      "title": "Categories",
+      "description": "The categories that fit the port the most, the first category is the primary category which the port will be listed under on the README.",
+      "$ref": "#/$defs/categories"
+    },
+    "port-platform": {
+      "$id": "#port-platform",
+      "title": "Platform",
+      "description": "The platforms the port supports. Either an array of supported operating systems or \"agnostic\" (indicating support for all platforms).",
+      "oneOf": [
+        {
+          "type": "array",
+          "items": {
+            "$id": "#ports/port/platform/os",
+            "title": "Operating Systems",
+            "type": "string",
+            "enum": [
+              "android",
+              "ios",
+              "linux",
+              "macos",
+              "windows"
+            ],
+            "examples": [
+              [
+                "linux",
+                "macos",
+                "windows"
+              ],
+              [
+                "android",
+                "ios"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "string",
+          "enum": [
+            "agnostic"
+          ]
+        }
+      ]
     },
     "icon": {
       "$id": "#icon",

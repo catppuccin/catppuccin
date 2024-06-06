@@ -322,13 +322,6 @@ ports:
     platform: [macos]
     current-maintainers: []
     past-maintainers: [*nekowinston]
-  aliucord:
-    name: Aliucord
-    categories: [social_networking]
-    platform: [android]
-    color: blue
-    icon: discord
-    current-maintainers: [*isabelincorp]
   amfora:
     name: Amfora
     categories: [entertainment]
@@ -833,13 +826,6 @@ ports:
     color: text
     current-maintainers: [*isabelincorp]
     past-maintainers: [*elkrien]
-  gtk:
-    name: GTK
-    categories: [system]
-    platform: [linux]
-    color: green
-    icon: gtk
-    current-maintainers: [*rubyowo, *Syndrizzle]
   halloy:
     name: Halloy
     categories: [social_networking]
@@ -1559,12 +1545,6 @@ ports:
     color: sapphire
     current-maintainers: []
     past-maintainers: [*nekowinston]
-  sidebery:
-    name: Sidebery
-    categories: [browser_extension]
-    platform: agnostic
-    color: text
-    current-maintainers: []
   simplex:
     name: SimpleX
     categories: [social_networking]
@@ -1660,13 +1640,6 @@ ports:
     color: pink
     icon: starship
     current-maintainers: [*JoshPaulie]
-  steam:
-    name: Steam
-    categories: [game, application_launcher, entertainment]
-    platform: [linux, macos, windows]
-    color: text
-    icon: steam
-    current-maintainers: []
   steam-deck:
     name: Steam Deck
     categories: [game, entertainment]
@@ -2073,6 +2046,35 @@ ports:
     platform: [linux]
     color: text
     current-maintainers: [*sakkke]
+
+archived:
+  aliucord:
+    name: Aliucord
+    reason: "Maintainer thought the upstream project was unmaintained, this port could be revived again."
+    categories: [social_networking]
+    platform: [android]
+    color: blue
+    icon: discord
+  gtk:
+    name: GTK
+    reason: "Incredibly difficult to theme and maintain, this port could be revived if better theming methods arise. (highly unlikely)"
+    categories: [system]
+    platform: [linux]
+    color: green
+    icon: gtk
+  sidebery:
+    name: Sidebery
+    reason: "Sidebery automatically takes in colours from the Firefox theme, this port is now redundant."
+    categories: [browser_extension]
+    platform: agnostic
+    color: text
+  steam:
+    name: Steam
+    reason: "Incredibly difficult to theme and maintain, this port could be revived if better theming methods arise. (highly unlikely)"
+    categories: [game, application_launcher, entertainment]
+    platform: [linux, macos, windows]
+    color: text
+    icon: steam
 
 categories:
   - key: code_editor
