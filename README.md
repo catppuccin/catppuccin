@@ -1226,6 +1226,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
+- [cobalt](https://github.com/catppuccin/userstyles/tree/main/styles/cobalt)
 - [DioHub](https://github.com/catppuccin/diohub)
 - [FreshRSS](https://github.com/catppuccin/freshrss)
 - [gh-dash](https://github.com/catppuccin/gh-dash)
