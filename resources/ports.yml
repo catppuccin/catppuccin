@@ -2241,4 +2241,4 @@ showcases:
   - title: Reciper
     description: A simple, open-source recipe management app.
     link: https://github.com/judemont/reciper
-# yaml-language-server: $schema=ports.schema.json
+# yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
