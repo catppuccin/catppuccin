@@ -589,6 +589,7 @@ ports:
     categories: [library]
     platform: agnostic
     color: lavender
+    icon: elixir
     current-maintainers: [*MikaelFangel]
   emacs:
     name: Emacs
