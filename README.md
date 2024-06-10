@@ -956,6 +956,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [egui](https://github.com/catppuccin/egui)
 - [freedesktop.org](https://github.com/catppuccin/userstyles/tree/main/styles/freedesktop)
 - [GitHub](https://github.com/catppuccin/userstyles/tree/main/styles/github)
+- [go.dev](https://github.com/catppuccin/userstyles/tree/main/styles/go.dev)
 - [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
 - [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
 - [highlight.js](https://github.com/catppuccin/highlightjs)
