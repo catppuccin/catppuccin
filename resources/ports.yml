@@ -161,6 +161,8 @@ collaborators:
     url: https://github.com/mekb-turtle
   - &meme8383
     url: https://github.com/meme8383
+  - &MikaelFangel
+    url: https://github.com/MikaelFangel
   - &Moodzz1
     url: https://github.com/Moodzz1
   - &moseeking
@@ -582,6 +584,12 @@ ports:
     color: green
     icon: element
     current-maintainers: [*ghostx31]
+  elixir:
+    name: elixir
+    categories: [library]
+    platform: agnostic
+    color: lavender
+    current-maintainers: [*MikaelFangel]
   emacs:
     name: Emacs
     categories: [code_editor, system]
