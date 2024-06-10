@@ -983,6 +983,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>📚 Libraries</summary>
 
+- [elixir](https://github.com/catppuccin/elixir)
 - [Flutter](https://github.com/catppuccin/flutter)
 - [Gleam](https://github.com/catppuccin/gleam)
 - [Go](https://github.com/catppuccin/go)
