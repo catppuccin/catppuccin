@@ -57,6 +57,8 @@ collaborators:
     url: https://github.com/Daeraxa
   - &daveyholler
     url: https://github.com/daveyholler
+  - &davfsa
+    url: https://github.com/davfsa
   - &davidbgonz
     url: https://github.com/davidbgonz
   - &daylinmorgan
@@ -640,7 +642,7 @@ ports:
     platform: [linux, macos, windows]
     icon: jetbrains
     color: text
-    current-maintainers: [*kkrypt0nn]
+    current-maintainers: [*kkrypt0nn, *davfsa]
   floris-board:
     name: FlorisBoard
     categories: [system]
