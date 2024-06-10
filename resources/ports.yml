@@ -585,7 +585,7 @@ ports:
     icon: element
     current-maintainers: [*ghostx31]
   elixir:
-    name: elixir
+    name: Elixir
     categories: [library]
     platform: agnostic
     color: lavender
