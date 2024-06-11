@@ -169,8 +169,6 @@ collaborators:
     url: https://github.com/Moodzz1
   - &moseeking
     url: https://github.com/moseeking
-  - &Mqisty
-    url: https://github.com/Mqisty
   - &mrdoge515
     url: https://github.com/mrdoge515
   - &mrtnvgr
@@ -1382,7 +1380,7 @@ ports:
     categories: [game, application_launcher]
     platform: [linux, macos, windows]
     color: text
-    current-maintainers: [*Mqisty]
+    current-maintainers: []
   process-compose:
     name: Process Compose
     categories: [cli, development]
