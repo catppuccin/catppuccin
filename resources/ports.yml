@@ -956,10 +956,15 @@ ports:
   insomnia:
     name: Insomnia
     categories: [development]
-    platform: [android]
+    platform: [linux, macos, windows]
     color: mauve
     icon: insomnia
     current-maintainers: [*opakholis]
+    links:
+      - name: npm
+        icon: npm
+        color: red
+        url: https://www.npmjs.com/package/@catppuccin/insomnia-plugin-catppuccin
   ish:
     name: iSH
     categories: [development]
