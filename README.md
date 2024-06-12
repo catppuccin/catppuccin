@@ -952,6 +952,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Chroma](https://github.com/catppuccin/chroma)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
 - [crates.io](https://github.com/catppuccin/userstyles/tree/main/styles/crates.io)
+- [daisyUI](https://github.com/catppuccin/daisyui)
 - [docs.rs](https://github.com/catppuccin/userstyles/tree/main/styles/docs.rs)
 - [egui](https://github.com/catppuccin/egui)
 - [freedesktop.org](https://github.com/catppuccin/userstyles/tree/main/styles/freedesktop)
