@@ -149,6 +149,9 @@ collaborators:
     url: https://github.com/lokesh-krishna
   - &LudoPinelli
     url: https://github.com/LudoPinelli
+  - &Liumingxun
+    name: Lime
+    url: https://github.com/Liumingxun
   - &M3nny
     url: https://github.com/M3nny
   - &MAHcodes
@@ -513,6 +516,18 @@ ports:
     platform: [linux, macos, windows]
     color: text
     current-maintainers: [*kkrypt0nn]
+  daisyui:
+    name: daisyUI
+    categories: [development]
+    platform: agnostic
+    color: mauve
+    icon: daisyui
+    current-maintainers: [*Liumingxun]
+    links:
+      - name: npm
+        icon: npm
+        color: red
+        url: https://www.npmjs.com/package/@catppuccin/daisyui
   dark-reader:
     name: Dark Reader
     categories: [browser_extension]
