@@ -1381,6 +1381,7 @@ ports:
     platform: [linux, macos, windows]
     color: text
     current-maintainers: []
+    past-maintainers: [*Mqisty]
   process-compose:
     name: Process Compose
     categories: [cli, development]
