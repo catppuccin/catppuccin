@@ -1123,6 +1123,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Forklift 4](https://github.com/catppuccin/forklift-4)
 - [Midnight Commander](https://github.com/catppuccin/mc)
+- [MiXplorer](https://github.com/catppuccin/mixplorer)
 - [Windows Files](https://github.com/catppuccin/windows-files)
 - [Yazi](https://github.com/catppuccin/yazi)
 
