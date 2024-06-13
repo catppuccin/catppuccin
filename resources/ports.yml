@@ -219,6 +219,8 @@ collaborators:
   - &quentinguidee
     name: Quentin
     url: https://github.com/quentinguidee
+  - &r58Playz
+    url: https://github.com/r58Playz
   - &rayhanadev
     url: https://github.com/rayhanadev
   - &remiposo
@@ -467,6 +469,13 @@ ports:
     color: yellow
     current-maintainers: []
     past-maintainers: [*elkrien]
+  chrome-devtools:
+    name: Google Chrome DevTools
+    categories: [browser_extension]
+    platform: [linux, macos, windows]
+    icon: googlechrome
+    color: yellow
+    current-maintainers: [*r58Playz]
   cider:
     name: Cider
     categories: [music]
