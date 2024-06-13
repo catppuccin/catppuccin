@@ -1411,7 +1411,8 @@ ports:
     categories: [game, application_launcher]
     platform: [linux, macos, windows]
     color: text
-    current-maintainers: [*Mqisty]
+    current-maintainers: []
+    past-maintainers: [*Mqisty]
   process-compose:
     name: Process Compose
     categories: [cli, development]
