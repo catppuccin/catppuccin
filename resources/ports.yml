@@ -26,6 +26,9 @@ collaborators:
     url: https://github.com/asrvd
   - &aszecsei
     url: https://github.com/aszecsei
+  - &auriafoxgirl
+    name: Auria
+    url: https://github.com/auriafoxgirl
   - &Aurn1ox
     url: https://github.com/Aurn1ox
   - &ayamir
@@ -1215,6 +1218,12 @@ ports:
     icon: misskey
     upstreamed: true
     current-maintainers: [*catb00mer]
+  mixplorer:
+    name: MiXplorer
+    categories: [file_manager]
+    platform: [android]
+    color: blue
+    current-maintainers: [*auriafoxgirl]
   mobaxterm:
     name: MobaXterm
     categories: [terminal]
