@@ -1163,7 +1163,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Google Chrome DevTools](https://github.com/catppuccin/chrome-devtools)
 - [nightTab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
-- [OldTwitter](https://github.com/catppuccin/oldtwitter)
 - [Vimium](https://github.com/catppuccin/vimium)
 
 </details>
