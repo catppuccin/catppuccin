@@ -1340,13 +1340,6 @@ ports:
     color: mauve
     icon: obsidian
     current-maintainers: [*mbeckrich]
-  oldtwitter:
-    name: OldTwitter
-    categories: [browser_extension, social_networking]
-    platform: agnostic
-    icon: twitter
-    color: blue
-    current-maintainers: [*isabelincorp]
   openbox:
     name: Openbox
     categories: [window_manager, system]
@@ -2112,6 +2105,13 @@ archived:
     platform: [linux]
     color: green
     icon: gtk
+  oldtwitter:
+    name: OldTwitter
+    reason: "Extension is unusable due to X/Twitter's extensive measures to limit third party modifications, this port could be revived."
+    categories: [browser_extension, social_networking]
+    platform: agnostic
+    icon: twitter
+    color: blue
   sidebery:
     name: Sidebery
     reason: "Sidebery automatically takes in colours from the Firefox theme, this port is now redundant."
