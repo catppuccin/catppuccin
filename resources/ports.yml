@@ -363,7 +363,7 @@ ports:
     icon: microsoftazure
     color: blue
     alias: vscode
-    current-maintainers: []
+    current-maintainers: [*backwardspy]
     past-maintainers: [*nekowinston]
   base16:
     name: Base16
@@ -1593,7 +1593,7 @@ ports:
     platform: agnostic
     url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
     color: sapphire
-    current-maintainers: []
+    current-maintainers: [*backwardspy]
     past-maintainers: [*nekowinston]
   simplex:
     name: SimpleX
@@ -1943,7 +1943,7 @@ ports:
         icon: vscodium
         color: blue
         url: https://open-vsx.org/extension/Catppuccin/catppuccin-vsc
-    current-maintainers: []
+    current-maintainers: [*backwardspy]
     past-maintainers: [*ghostx31, *VictorTennekes, *nekowinston]
   vscode-icons:
     name: Visual Studio Code Icons
