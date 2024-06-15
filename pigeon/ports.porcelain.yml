@@ -5512,1000 +5512,1729 @@ userstyles-collaborators:
 - name: Eli
   url: https://github.com/Flapperoo
 userstyles:
-  advent-of-code:
-    name: Advent Of Code
-    categories: [game, entertainment]
-    icon: adventofcode
-    color: yellow
-    readme:
-      app-link: https://adventofcode.com
-    current-maintainers:
-    - url: https://github.com/rubyowo
-  anilist:
-    name: [AniList, AniChart]
-    categories: [entertainment, social_networking]
-    icon: anilist
-    color: sky
-    readme:
-      app-link: ['https://anilist.co', 'https://anichart.net']
-      usage: '> [!NOTE]
+- name: Advent Of Code
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  icon: adventofcode
+  color: yellow
+  readme:
+    app-link: https://adventofcode.com
+  current-maintainers:
+  - url: https://github.com/rubyowo
+  key: advent-of-code
+- name: [AniList, AniChart]
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: anilist
+  color: sky
+  readme:
+    app-link: ['https://anilist.co', 'https://anichart.net']
+    usage: '> [!NOTE]
 
-        > This theme applies to [AniChart](https://anichart.net/) as well, which is
-        an extension of AniList.
+      > This theme applies to [AniChart](https://anichart.net/) as well, which is
+      an extension of AniList.
 
-        '
-    current-maintainers:
-    - url: https://github.com/AnubisNekhet
-  arch-wiki:
-    name: Arch Wiki
-    categories: [wiki, productivity]
-    icon: archlinux
-    color: blue
-    readme:
-      app-link: https://wiki.archlinux.org/
-      usage: Make sure to use the default **Light** theme
-    current-maintainers:
-    - name: GenShibe
-      url: https://github.com/GenShibe
-  boringproxy:
-    name: boringproxy
-    categories: [development]
-    color: text
-    readme:
-      app-link: https://boringproxy.io
-    current-maintainers:
-    - name: Gandalf the Blue
-      url: https://github.com/Gandalf-the-Blue
-  brave-search:
-    name: Brave Search
-    categories: [search_engine]
-    icon: brave
-    color: peach
-    readme:
-      app-link: https://search.brave.com
-      usage: Make sure to set the theme to either dark or light in Brave Search settings,
-        as the automatic setting will not work.
-    current-maintainers:
-    - url: https://github.com/ndsboy
-  bsky:
-    name: Bluesky Social
-    categories: [social_networking, entertainment]
-    icon: bluesky
-    color: blue
-    readme:
-      app-link: https://bsky.app
-    current-maintainers:
-    - name: rooot
-      url: https://github.com/RoootTheFox
-  bstats:
-    name: bStats
-    categories: [game, entertainment]
-    color: green
-    readme:
-      app-link: https://bstats.org
-      usage: Make sure to use the default **Teal** theme from the built-in color picker
-        (located at the bottom of the page) for the best experience!
-    current-maintainers:
-    - name: rockquiet
-      url: https://github.com/rockquiet
-  canvas-lms:
-    name: Canvas LMS
-    categories: [education, productivity]
-    icon: canvas
-    color: red
-    readme:
-      app-link: https://www.instructure.com/canvas
-    current-maintainers: []
-    past-maintainers:
-    - name: TheMemeSniper
-      url: https://github.com/TheMemeSniper
-  chatgpt:
-    name: ChatGPT
-    categories: [artificial_intelligence, productivity]
-    icon: openai
-    color: green
-    readme:
-      app-link: https://chat.openai.com
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-    past-maintainers:
-    - url: https://github.com/rubyowo
-  chatreplay:
-    name: ChatReplay
-    categories: [entertainment, social_networking]
-    color: peach
-    readme:
-      app-link: https://chatreplay.stream
-    current-maintainers:
-    - url: https://github.com/AnubisNekhet
-  chess.com:
-    name: Chess.com
-    categories: [game, education]
-    icon: chessdotcom
-    color: green
-    readme:
-      app-link: https://chess.com
-    current-maintainers:
-    - name: coldenate
-      url: https://github.com/coldenate
-    - name: Isabel
-      url: https://github.com/isabelroses
-    past-maintainers:
-    - name: skele
-      url: https://github.com/skelebro1
-  cinny:
-    name: Cinny
-    categories: [social_networking]
-    color: text
-    readme:
-      app-link: https://cinny.in
-    current-maintainers:
-    - name: Sena
-      url: https://github.com/jn-sena
-  codeberg:
-    name: Codeberg
-    categories: [development, productivity]
-    icon: codeberg
-    color: blue
-    readme:
-      app-link: https://codeberg.org
-    current-maintainers:
-    - name: Isabel
-      url: https://github.com/isabelroses
-    past-maintainers:
-    - url: https://github.com/justTOBBI
-  cobalt:
-    name: cobalt
-    categories: [productivity, photo_and_video]
-    color: text
-    readme:
-      app-link: https://cobalt.tools
-    current-maintainers:
-    - name: keri
-      url: https://github.com/kerichdev
-  crates.io:
-    name: crates.io
-    categories: [development]
-    icon: rust
-    color: yellow
-    readme:
-      app-link: https://crates.io
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-  crowdin:
-    name: Crowdin
-    categories: [translation_tool, productivity]
-    icon: crowdin
-    color: text
-    readme:
-      app-link: https://crowdin.com
-    current-maintainers:
-    - name: Ryan Cao
-      url: https://github.com/ryanccn
-  deepl:
-    name: DeepL
-    categories: [translation_tool, productivity]
-    icon: deepl
-    color: blue
-    readme:
-      app-link: https://deepl.com
-    current-maintainers:
-    - name: Ren
-      url: https://github.com/watatomo
-  docs.rs:
-    name: docs.rs
-    categories: [development]
-    icon: docsdotrs
-    color: yellow
-    readme:
-      app-link: https://docs.rs
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-  duckduckgo:
-    name: DuckDuckGo
-    categories: [search_engine]
-    icon: duckduckgo
-    color: peach
-    readme:
-      app-link: https://duckduckgo.com
-    current-maintainers:
-    - name: GenShibe
-      url: https://github.com/GenShibe
-  ecosia:
-    name: Ecosia
-    categories: [search_engine]
-    color: green
-    readme:
-      app-link: https://www.ecosia.org
-    current-maintainers:
-    - name: Isabel
-      url: https://github.com/isabelroses
-  elk:
-    name: Elk
-    categories: [social_networking]
-    color: peach
-    readme:
-      app-link: https://elk.zone
-    current-maintainers:
-    - name: Ryan Cao
-      url: https://github.com/ryanccn
-  freedesktop:
-    name: freedesktop.org
-    categories: [development]
-    icon: freedesktopdotorg
-    color: blue
-    readme:
-      app-link: https://www.freedesktop.org
-    current-maintainers:
-    - url: https://github.com/NK308
-      name: NK308
-  formative:
-    name: Formative
-    categories: [education, productivity]
-    color: blue
-    readme:
-      app-link: https://app.formative.com/home
-    current-maintainers:
-    - name: r58Playz
-      url: https://github.com/r58Playz
-  github:
-    name: GitHub
-    categories: [development, productivity, social_networking]
-    icon: github
-    color: text
-    readme:
-      usage: Switch to a default GitHub light/dark theme via **Settings** > **Appearance**
-        for the best experience!
-      app-link: https://github.com
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-    past-maintainers:
-    - name: Lemon
-      url: https://github.com/unseen-ninja
-    - url: https://github.com/Pocco81
-    - name: Umbreon
-      url: https://github.com/GlowingUmbreon
-  gmail:
-    name: Gmail
-    categories: [email_client, productivity]
-    icon: gmail
-    color: peach
-    readme:
-      usage: Switch to either the dark or default themes via the **gear icon** > **themes**
-        > **view all** for the best experience!
-      app-link: https://mail.google.com
-    current-maintainers: []
-    past-maintainers:
-    - name: Isabel
-      url: https://github.com/isabelroses
-  go.dev:
-    name: go.dev
-    categories: [development, wiki]
-    icon: go
-    color: sapphire
-    readme:
-      app-link: https://go.dev
-    current-maintainers:
-    - name: Eli
-      url: https://github.com/Flapperoo
-  google:
-    name: Google
-    categories: [search_engine]
-    icon: google
-    color: sapphire
-    readme:
-      app-link: https://google.com
-    current-maintainers:
-    - url: https://github.com/GitMuslim
-  google-drive:
-    name: Google Drive
-    categories: [productivity]
-    icon: googledrive
-    color: blue
-    readme:
-      app-link: https://drive.google.com
-    current-maintainers:
-    - name: r58Playz
-      url: https://github.com/r58Playz
-  google-photos:
-    name: Google Photos
-    categories: [photo_and_video]
-    icon: googlephotos
-    color: sapphire
-    readme:
-      app-link: https://photos.google.com
-    current-maintainers:
-    - name: GenShibe
-      url: https://github.com/GenShibe
-  graphite:
-    name: Graphite
-    categories: [development, productivity]
-    icon: graphite
-    color: text
-    readme:
-      app-link: https://app.graphite.dev
-    current-maintainers:
-    - name: Isabel
-      url: https://github.com/isabelroses
-  hackage:
-    name: Hackage
-    categories: [development, productivity]
-    icon: haskell
-    color: mauve
-    readme:
-      app-link: https://hackage.haskell.org
-    current-maintainers:
-    - name: Sena
-      url: https://github.com/jn-sena
-  hacker-news:
-    name: Hacker News
-    categories: [discussion_forum, entertainment, social_networking]
-    icon: ycombinator
-    color: peach
-    readme:
-      app-link: https://news.ycombinator.com
-    current-maintainers:
-    - name: Lucas Melin
-      url: https://github.com/lucasmelin
-  holodex:
-    name: Holodex
-    categories: [entertainment, social_networking, photo_and_video]
-    color: pink
-    readme:
-      app-link: https://holodex.net
-      usage: '> **Note** <br>
+      '
+  current-maintainers:
+  - url: https://github.com/AnubisNekhet
+  key: anilist
+- name: Arch Wiki
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: archlinux
+  color: blue
+  readme:
+    app-link: https://wiki.archlinux.org/
+    usage: Make sure to use the default **Light** theme
+  current-maintainers:
+  - name: GenShibe
+    url: https://github.com/GenShibe
+  key: arch-wiki
+- name: boringproxy
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  color: text
+  readme:
+    app-link: https://boringproxy.io
+  current-maintainers:
+  - name: Gandalf the Blue
+    url: https://github.com/Gandalf-the-Blue
+  key: boringproxy
+- name: Brave Search
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  icon: brave
+  color: peach
+  readme:
+    app-link: https://search.brave.com
+    usage: Make sure to set the theme to either dark or light in Brave Search settings,
+      as the automatic setting will not work.
+  current-maintainers:
+  - url: https://github.com/ndsboy
+  key: brave-search
+- name: Bluesky Social
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  icon: bluesky
+  color: blue
+  readme:
+    app-link: https://bsky.app
+  current-maintainers:
+  - name: rooot
+    url: https://github.com/RoootTheFox
+  key: bsky
+- name: bStats
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  color: green
+  readme:
+    app-link: https://bstats.org
+    usage: Make sure to use the default **Teal** theme from the built-in color picker
+      (located at the bottom of the page) for the best experience!
+  current-maintainers:
+  - name: rockquiet
+    url: https://github.com/rockquiet
+  key: bstats
+- name: Canvas LMS
+  categories:
+  - key: education
+    name: Education
+    description: Applications that faciliate learning, knowledge acquisition and skill
+      development.
+    emoji: 🎓
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: canvas
+  color: red
+  readme:
+    app-link: https://www.instructure.com/canvas
+  current-maintainers: []
+  past-maintainers:
+  - name: TheMemeSniper
+    url: https://github.com/TheMemeSniper
+  key: canvas-lms
+- name: ChatGPT
+  categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: openai
+  color: green
+  readme:
+    app-link: https://chat.openai.com
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  past-maintainers:
+  - url: https://github.com/rubyowo
+  key: chatgpt
+- name: ChatReplay
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  color: peach
+  readme:
+    app-link: https://chatreplay.stream
+  current-maintainers:
+  - url: https://github.com/AnubisNekhet
+  key: chatreplay
+- name: Chess.com
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: education
+    name: Education
+    description: Applications that faciliate learning, knowledge acquisition and skill
+      development.
+    emoji: 🎓
+  icon: chessdotcom
+  color: green
+  readme:
+    app-link: https://chess.com
+  current-maintainers:
+  - name: coldenate
+    url: https://github.com/coldenate
+  - name: Isabel
+    url: https://github.com/isabelroses
+  past-maintainers:
+  - name: skele
+    url: https://github.com/skelebro1
+  key: chess.com
+- name: Cinny
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  color: text
+  readme:
+    app-link: https://cinny.in
+  current-maintainers:
+  - name: Sena
+    url: https://github.com/jn-sena
+  key: cinny
+- name: Codeberg
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: codeberg
+  color: blue
+  readme:
+    app-link: https://codeberg.org
+  current-maintainers:
+  - name: Isabel
+    url: https://github.com/isabelroses
+  past-maintainers:
+  - url: https://github.com/justTOBBI
+  key: codeberg
+- name: cobalt
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  color: text
+  readme:
+    app-link: https://cobalt.tools
+  current-maintainers:
+  - name: keri
+    url: https://github.com/kerichdev
+  key: cobalt
+- name: crates.io
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  icon: rust
+  color: yellow
+  readme:
+    app-link: https://crates.io
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: crates.io
+- name: Crowdin
+  categories:
+  - key: translation_tool
+    name: Translation Tools
+    description: Applications that help bridge language gaps by translating one language
+      to another.
+    emoji: 🗺️
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: crowdin
+  color: text
+  readme:
+    app-link: https://crowdin.com
+  current-maintainers:
+  - name: Ryan Cao
+    url: https://github.com/ryanccn
+  key: crowdin
+- name: DeepL
+  categories:
+  - key: translation_tool
+    name: Translation Tools
+    description: Applications that help bridge language gaps by translating one language
+      to another.
+    emoji: 🗺️
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: deepl
+  color: blue
+  readme:
+    app-link: https://deepl.com
+  current-maintainers:
+  - name: Ren
+    url: https://github.com/watatomo
+  key: deepl
+- name: docs.rs
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  icon: docsdotrs
+  color: yellow
+  readme:
+    app-link: https://docs.rs
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: docs.rs
+- name: DuckDuckGo
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  icon: duckduckgo
+  color: peach
+  readme:
+    app-link: https://duckduckgo.com
+  current-maintainers:
+  - name: GenShibe
+    url: https://github.com/GenShibe
+  key: duckduckgo
+- name: Ecosia
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  color: green
+  readme:
+    app-link: https://www.ecosia.org
+  current-maintainers:
+  - name: Isabel
+    url: https://github.com/isabelroses
+  key: ecosia
+- name: Elk
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  color: peach
+  readme:
+    app-link: https://elk.zone
+  current-maintainers:
+  - name: Ryan Cao
+    url: https://github.com/ryanccn
+  key: elk
+- name: freedesktop.org
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  icon: freedesktopdotorg
+  color: blue
+  readme:
+    app-link: https://www.freedesktop.org
+  current-maintainers:
+  - url: https://github.com/NK308
+    name: NK308
+  key: freedesktop
+- name: Formative
+  categories:
+  - key: education
+    name: Education
+    description: Applications that faciliate learning, knowledge acquisition and skill
+      development.
+    emoji: 🎓
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  color: blue
+  readme:
+    app-link: https://app.formative.com/home
+  current-maintainers:
+  - name: r58Playz
+    url: https://github.com/r58Playz
+  key: formative
+- name: GitHub
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: github
+  color: text
+  readme:
+    usage: Switch to a default GitHub light/dark theme via **Settings** > **Appearance**
+      for the best experience!
+    app-link: https://github.com
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  past-maintainers:
+  - name: Lemon
+    url: https://github.com/unseen-ninja
+  - url: https://github.com/Pocco81
+  - name: Umbreon
+    url: https://github.com/GlowingUmbreon
+  key: github
+- name: Gmail
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: gmail
+  color: peach
+  readme:
+    usage: Switch to either the dark or default themes via the **gear icon** > **themes**
+      > **view all** for the best experience!
+    app-link: https://mail.google.com
+  current-maintainers: []
+  past-maintainers:
+  - name: Isabel
+    url: https://github.com/isabelroses
+  key: gmail
+- name: go.dev
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  icon: go
+  color: sapphire
+  readme:
+    app-link: https://go.dev
+  current-maintainers:
+  - name: Eli
+    url: https://github.com/Flapperoo
+  key: go.dev
+- name: Google
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  icon: google
+  color: sapphire
+  readme:
+    app-link: https://google.com
+  current-maintainers:
+  - url: https://github.com/GitMuslim
+  key: google
+- name: Google Drive
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: googledrive
+  color: blue
+  readme:
+    app-link: https://drive.google.com
+  current-maintainers:
+  - name: r58Playz
+    url: https://github.com/r58Playz
+  key: google-drive
+- name: Google Photos
+  categories:
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  icon: googlephotos
+  color: sapphire
+  readme:
+    app-link: https://photos.google.com
+  current-maintainers:
+  - name: GenShibe
+    url: https://github.com/GenShibe
+  key: google-photos
+- name: Graphite
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: graphite
+  color: text
+  readme:
+    app-link: https://app.graphite.dev
+  current-maintainers:
+  - name: Isabel
+    url: https://github.com/isabelroses
+  key: graphite
+- name: Hackage
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: haskell
+  color: mauve
+  readme:
+    app-link: https://hackage.haskell.org
+  current-maintainers:
+  - name: Sena
+    url: https://github.com/jn-sena
+  key: hackage
+- name: Hacker News
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: ycombinator
+  color: peach
+  readme:
+    app-link: https://news.ycombinator.com
+  current-maintainers:
+  - name: Lucas Melin
+    url: https://github.com/lucasmelin
+  key: hacker-news
+- name: Holodex
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  color: pink
+  readme:
+    app-link: https://holodex.net
+    usage: '> **Note** <br>
 
-        > Holodex''s selected theme is ignored.
+      > Holodex''s selected theme is ignored.
 
-        '
-    current-maintainers:
-    - name: Guaxinim5573
-      url: https://github.com/Guaxinim5573
-  home-manager-options-search:
-    name: Home Manager Options Search
-    categories: [development]
-    color: blue
-    readme:
-      app-link: https://home-manager-options.extranix.com
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-  homepage:
-    name: homepage
-    categories: [productivity]
-    color: sky
-    readme:
-      app-link: https://github.com/benphelps/homepage
-    current-maintainers:
-    - name: Gandalf the Blue
-      url: https://github.com/Gandalf-the-Blue
-  hoppscotch:
-    name: Hoppscotch
-    categories: [development, productivity]
-    icon: hoppscotch
-    color: green
-    readme:
-      app-link: https://hoppscotch.io/
-    current-maintainers:
-    - url: https://github.com/justTOBBI
-  hyperpipe:
-    name: Hyperpipe
-    categories: [music]
-    color: teal
-    readme:
-      app-link: https://hyperpipe.surge.sh/
-    current-maintainers:
-    - name: Sena
-      url: https://github.com/jn-sena
-  ichi.moe:
-    name: ichi.moe
-    categories: [translation_tool, productivity]
-    color: pink
-    readme:
-      app-link: https://ichi.moe
-    current-maintainers:
-    - name: Ren
-      url: https://github.com/watatomo
-  inoreader:
-    name: inoreader
-    categories: [productivity]
-    icon: inoreader
-    color: blue
-    readme:
-      app-link: https://inoreader.com
-    current-maintainers:
-    - name: Thomas Philippot
-      url: https://github.com/thomas-philippot
-  instagram:
-    name: Instagram
-    categories: [social_networking, photo_and_video, entertainment]
-    icon: instagram
-    color: pink
-    readme:
-      app-link: https://instagram.com
-    current-maintainers:
-    - name: GenShibe
-      url: https://github.com/GenShibe
-    past-maintainers:
-    - name: haiksgithub
-      url: https://github.com/haiksgithub
-    - name: Isabel
-      url: https://github.com/isabelroses
-  invidious:
-    name: Invidious
-    categories: [entertainment, social_networking]
-    icon: youtube
-    color: red
-    readme:
-      app-link: https://invidious.io
-    current-maintainers: []
-    past-maintainers:
-    - name: Lemon
-      url: https://github.com/unseen-ninja
-    - name: winston
-      url: https://github.com/nekowinston
-  invokeai:
-    name: InvokeAI
-    categories: [artificial_intelligence, productivity]
-    color: yellow
-    readme:
-      app-link: https://invoke-ai.github.io/InvokeAI
-    current-maintainers:
-    - name: Ryan Cao
-      url: https://github.com/ryanccn
-  keyoxide:
-    name: Keyoxide
-    categories: [development]
-    color: mauve
-    readme:
-      app-link: https://keyoxide.org
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-  lastfm:
-    name: Last.fm
-    categories: [music, entertainment]
-    icon: lastdotfm
-    color: red
-    readme:
-      app-link: https://last.fm
-    current-maintainers:
-    - url: https://github.com/AnubisNekhet
-    past-maintainers:
-    - url: https://github.com/Gingeh
-  lemmy:
-    name: Lemmy
-    categories: [discussion_forum, entertainment, social_networking]
-    icon: lemmy
-    color: green
-    readme:
-      app-link: https://lemmy.world
-    current-maintainers:
-    - name: Gandalf the Blue
-      url: https://github.com/Gandalf-the-Blue
-  libreddit:
-    name: [Libreddit, Redlib]
-    categories: [discussion_forum, entertainment, social_networking]
-    icon: reddit
-    color: peach
-    readme:
-      app-link: ['https://github.com/libreddit/libreddit', 'https://github.com/redlib-org/redlib']
-    current-maintainers: []
-    past-maintainers:
-    - name: Lemon
-      url: https://github.com/unseen-ninja
-  lichess:
-    name: Lichess
-    categories: [game]
-    icon: lichess
-    color: text
-    readme:
-      usage: Switch to a default Lichess light/dark theme via **Username** > **Background**
-        for the best experience!
-      app-link: https://lichess.org/
-    current-maintainers:
-    - name: coopw
-      url: https://github.com/coopw1
-  lingva:
-    name: Lingva
-    categories: [translation_tool, productivity]
-    color: green
-    readme:
-      app-link: https://github.com/thedaviddelta/lingva-translate
-    current-maintainers:
-    - url: https://github.com/rubyowo
-  linkedin:
-    name: LinkedIn
-    categories: [social_networking]
-    icon: linkedin
-    color: blue
-    readme:
-      app-link: https://www.linkedin.com
-    current-maintainers:
-    - name: Isabel
-      url: https://github.com/isabelroses
-  mastodon:
-    name: Mastodon
-    categories: [social_networking, entertainment]
-    icon: mastodon
-    color: lavender
-    readme:
-      app-link: https://github.com/mastodon/mastodon
-      faq:
-      - question: '**The theme does not look the same as the preview?**'
-        answer: Your Mastodon instance may be using its own custom CSS, which is changing
-          the look of the theme.
-    current-maintainers:
-    - name: Isabel
-      url: https://github.com/isabelroses
-    past-maintainers:
-    - name: Lemon
-      url: https://github.com/unseen-ninja
-  mdbook:
-    name: mdBook
-    categories: [wiki, development]
-    icon: mdbook
-    color: text
-    readme:
-      app-link: https://rust-lang.github.io/mdBook/
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-  mdn:
-    name: MDN
-    categories: [development, wiki]
-    icon: mdnwebdocs
-    color: text
-    readme:
-      app-link: https://developer.mozilla.org
-    current-maintainers:
-    - name: soya_daizu
-      url: https://github.com/soya-daizu
-  modrinth:
-    name: Modrinth
-    categories: [game]
-    icon: modrinth
-    color: green
-    readme:
-      app-link: https://modrinth.com
-    current-maintainers:
-    - url: https://github.com/thismoon
-  microsoft-word:
-    name: Microsoft Word
-    categories: [productivity]
-    icon: microsoftword
-    color: blue
-    readme:
-      app-link: https://office.com
-    current-maintainers:
-    - url: https://github.com/GitMuslim
-  migadu-webmail:
-    name: Migadu Webmail
-    categories: [email_client, productivity]
-    icon: migadu
-    color: blue
-    readme:
-      app-link: https://webmail.migadu.com/
-      usage: '> [!NOTE]
+      '
+  current-maintainers:
+  - name: Guaxinim5573
+    url: https://github.com/Guaxinim5573
+  key: holodex
+- name: Home Manager Options Search
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  color: blue
+  readme:
+    app-link: https://home-manager-options.extranix.com
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: home-manager-options-search
+- name: homepage
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  color: sky
+  readme:
+    app-link: https://github.com/benphelps/homepage
+  current-maintainers:
+  - name: Gandalf the Blue
+    url: https://github.com/Gandalf-the-Blue
+  key: homepage
+- name: Hoppscotch
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: hoppscotch
+  color: green
+  readme:
+    app-link: https://hoppscotch.io/
+  current-maintainers:
+  - url: https://github.com/justTOBBI
+  key: hoppscotch
+- name: Hyperpipe
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  color: teal
+  readme:
+    app-link: https://hyperpipe.surge.sh/
+  current-maintainers:
+  - name: Sena
+    url: https://github.com/jn-sena
+  key: hyperpipe
+- name: ichi.moe
+  categories:
+  - key: translation_tool
+    name: Translation Tools
+    description: Applications that help bridge language gaps by translating one language
+      to another.
+    emoji: 🗺️
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  color: pink
+  readme:
+    app-link: https://ichi.moe
+  current-maintainers:
+  - name: Ren
+    url: https://github.com/watatomo
+  key: ichi.moe
+- name: inoreader
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: inoreader
+  color: blue
+  readme:
+    app-link: https://inoreader.com
+  current-maintainers:
+  - name: Thomas Philippot
+    url: https://github.com/thomas-philippot
+  key: inoreader
+- name: Instagram
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  icon: instagram
+  color: pink
+  readme:
+    app-link: https://instagram.com
+  current-maintainers:
+  - name: GenShibe
+    url: https://github.com/GenShibe
+  past-maintainers:
+  - name: haiksgithub
+    url: https://github.com/haiksgithub
+  - name: Isabel
+    url: https://github.com/isabelroses
+  key: instagram
+- name: Invidious
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: youtube
+  color: red
+  readme:
+    app-link: https://invidious.io
+  current-maintainers: []
+  past-maintainers:
+  - name: Lemon
+    url: https://github.com/unseen-ninja
+  - name: winston
+    url: https://github.com/nekowinston
+  key: invidious
+- name: InvokeAI
+  categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  color: yellow
+  readme:
+    app-link: https://invoke-ai.github.io/InvokeAI
+  current-maintainers:
+  - name: Ryan Cao
+    url: https://github.com/ryanccn
+  key: invokeai
+- name: Keyoxide
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  color: mauve
+  readme:
+    app-link: https://keyoxide.org
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: keyoxide
+- name: Last.fm
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  icon: lastdotfm
+  color: red
+  readme:
+    app-link: https://last.fm
+  current-maintainers:
+  - url: https://github.com/AnubisNekhet
+  past-maintainers:
+  - url: https://github.com/Gingeh
+  key: lastfm
+- name: Lemmy
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: lemmy
+  color: green
+  readme:
+    app-link: https://lemmy.world
+  current-maintainers:
+  - name: Gandalf the Blue
+    url: https://github.com/Gandalf-the-Blue
+  key: lemmy
+- name: [Libreddit, Redlib]
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: reddit
+  color: peach
+  readme:
+    app-link: ['https://github.com/libreddit/libreddit', 'https://github.com/redlib-org/redlib']
+  current-maintainers: []
+  past-maintainers:
+  - name: Lemon
+    url: https://github.com/unseen-ninja
+  key: libreddit
+- name: Lichess
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  icon: lichess
+  color: text
+  readme:
+    usage: Switch to a default Lichess light/dark theme via **Username** > **Background**
+      for the best experience!
+    app-link: https://lichess.org/
+  current-maintainers:
+  - name: coopw
+    url: https://github.com/coopw1
+  key: lichess
+- name: Lingva
+  categories:
+  - key: translation_tool
+    name: Translation Tools
+    description: Applications that help bridge language gaps by translating one language
+      to another.
+    emoji: 🗺️
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  color: green
+  readme:
+    app-link: https://github.com/thedaviddelta/lingva-translate
+  current-maintainers:
+  - url: https://github.com/rubyowo
+  key: lingva
+- name: LinkedIn
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: linkedin
+  color: blue
+  readme:
+    app-link: https://www.linkedin.com
+  current-maintainers:
+  - name: Isabel
+    url: https://github.com/isabelroses
+  key: linkedin
+- name: Mastodon
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  icon: mastodon
+  color: lavender
+  readme:
+    app-link: https://github.com/mastodon/mastodon
+    faq:
+    - question: '**The theme does not look the same as the preview?**'
+      answer: Your Mastodon instance may be using its own custom CSS, which is changing
+        the look of the theme.
+  current-maintainers:
+  - name: Isabel
+    url: https://github.com/isabelroses
+  past-maintainers:
+  - name: Lemon
+    url: https://github.com/unseen-ninja
+  key: mastodon
+- name: mdBook
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  icon: mdbook
+  color: text
+  readme:
+    app-link: https://rust-lang.github.io/mdBook/
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: mdbook
+- name: MDN
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  icon: mdnwebdocs
+  color: text
+  readme:
+    app-link: https://developer.mozilla.org
+  current-maintainers:
+  - name: soya_daizu
+    url: https://github.com/soya-daizu
+  key: mdn
+- name: Modrinth
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  icon: modrinth
+  color: green
+  readme:
+    app-link: https://modrinth.com
+  current-maintainers:
+  - url: https://github.com/thismoon
+  key: modrinth
+- name: Microsoft Word
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: microsoftword
+  color: blue
+  readme:
+    app-link: https://office.com
+  current-maintainers:
+  - url: https://github.com/GitMuslim
+  key: microsoft-word
+- name: Migadu Webmail
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: migadu
+  color: blue
+  readme:
+    app-link: https://webmail.migadu.com/
+    usage: '> [!NOTE]
 
-        > Set Migadu Webmail''s built-in theme to ''Migadu'' for the optimal experience.
+      > Set Migadu Webmail''s built-in theme to ''Migadu'' for the optimal experience.
 
-        '
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-  minesweeper:
-    name: Minesweeper Online
-    categories: [game]
-    color: text
-    readme:
-      app-link: https://minesweeper.online
-    current-maintainers:
-    - url: https://github.com/GitMuslim
-  nitter:
-    name: Nitter
-    categories: [social_networking, discussion_forum, entertainment]
-    icon: twitter
-    color: blue
-    readme:
-      app-link: https://nitter.net
-    current-maintainers:
-    - url: https://github.com/AnubisNekhet
-  nixos-search:
-    name: NixOS Search
-    categories: [search_engine]
-    icon: nixos
-    color: blue
-    readme:
-      app-link: https://search.nixos.org
-    current-maintainers:
-    - name: Sydney Newmark
-      url: https://github.com/cecelot
-  nixos.wiki:
-    name: NixOS Wiki
-    categories: [wiki, productivity]
-    icon: nixos
-    color: blue
-    readme:
-      app-link: https://nixos.wiki
-    current-maintainers: []
-    past-maintainers:
-    - name: winston
-      url: https://github.com/nekowinston
-  npm:
-    name: npm
-    categories: [development]
-    icon: npm
-    color: red
-    readme:
-      app-link: https://www.npmjs.com/
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-  openmediavault:
-    name: openmediavault
-    categories: [productivity]
-    icon: openmediavault
-    color: sky
-    readme:
-      app-link: https://www.openmediavault.org/
-    current-maintainers:
-    - name: Gandalf the Blue
-      url: https://github.com/Gandalf-the-Blue
-  paste.rs:
-    name: paste.rs
-    categories: [development]
-    icon: pastebin
-    color: peach
-    readme:
-      app-link: https://paste.rs
-    current-maintainers:
-    - name: Guaxinim5573
-      url: https://github.com/Guaxinim5573
-    past-maintainers:
-    - name: Stonks3141
-      url: https://github.com/Stonks3141
-  perplexity:
-    name: Perplexity
-    categories: [artificial_intelligence, search_engine]
-    icon: perplexity
-    color: teal
-    readme:
-      app-link: https://www.perplexity.ai
-    current-maintainers:
-    - name: Isabel
-      url: https://github.com/isabelroses
-    - name: Tnixc
-      url: https://github.com/Tnixc
-  picrew:
-    name: Picrew
-    categories: [entertainment, photo_and_video]
-    color: yellow
-    readme:
-      app-link: https://picrew.me
-    current-maintainers:
-    - name: Natalie Raine
-      url: https://github.com/Nyatalieeee
-  pinterest:
-    name: Pinterest
-    categories: [photo_and_video, entertainment, social_networking]
-    icon: pinterest
-    color: red
-    readme:
-      app-link: https://www.pinterest.com
-    current-maintainers: []
-    past-maintainers:
-    - name: Sena
-      url: https://github.com/jn-sena
-  planet-minecraft:
-    name: Planet Minecraft
-    categories: [game]
-    color: green
-    readme:
-      app-link: https://planetminecraft.com
-    current-maintainers:
-    - name: Amelia Rose
-      url: https://github.com/Nyameliaaaa
-  pronouns.page:
-    name: Pronouns.page
-    categories: [social_networking]
-    icon: pronounsdotpage
-    color: pink
-    readme:
-      app-link: https://pronouns.page/
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-  proton:
-    name: Proton
-    categories: [productivity, email_client]
-    icon: protonmail
-    color: mauve
-    readme:
-      app-link: https://proton.me/
-      usage: '> [!NOTE]
+      '
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: migadu-webmail
+- name: Minesweeper Online
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  color: text
+  readme:
+    app-link: https://minesweeper.online
+  current-maintainers:
+  - url: https://github.com/GitMuslim
+  key: minesweeper
+- name: Nitter
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  icon: twitter
+  color: blue
+  readme:
+    app-link: https://nitter.net
+  current-maintainers:
+  - url: https://github.com/AnubisNekhet
+  key: nitter
+- name: NixOS Search
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  icon: nixos
+  color: blue
+  readme:
+    app-link: https://search.nixos.org
+  current-maintainers:
+  - name: Sydney Newmark
+    url: https://github.com/cecelot
+  key: nixos-search
+- name: NixOS Wiki
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: nixos
+  color: blue
+  readme:
+    app-link: https://nixos.wiki
+  current-maintainers: []
+  past-maintainers:
+  - name: winston
+    url: https://github.com/nekowinston
+  key: nixos.wiki
+- name: npm
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  icon: npm
+  color: red
+  readme:
+    app-link: https://www.npmjs.com/
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: npm
+- name: openmediavault
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: openmediavault
+  color: sky
+  readme:
+    app-link: https://www.openmediavault.org/
+  current-maintainers:
+  - name: Gandalf the Blue
+    url: https://github.com/Gandalf-the-Blue
+  key: openmediavault
+- name: paste.rs
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  icon: pastebin
+  color: peach
+  readme:
+    app-link: https://paste.rs
+  current-maintainers:
+  - name: Guaxinim5573
+    url: https://github.com/Guaxinim5573
+  past-maintainers:
+  - name: Stonks3141
+    url: https://github.com/Stonks3141
+  key: paste.rs
+- name: Perplexity
+  categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  icon: perplexity
+  color: teal
+  readme:
+    app-link: https://www.perplexity.ai
+  current-maintainers:
+  - name: Isabel
+    url: https://github.com/isabelroses
+  - name: Tnixc
+    url: https://github.com/Tnixc
+  key: perplexity
+- name: Picrew
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  color: yellow
+  readme:
+    app-link: https://picrew.me
+  current-maintainers:
+  - name: Natalie Raine
+    url: https://github.com/Nyatalieeee
+  key: picrew
+- name: Pinterest
+  categories:
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: pinterest
+  color: red
+  readme:
+    app-link: https://www.pinterest.com
+  current-maintainers: []
+  past-maintainers:
+  - name: Sena
+    url: https://github.com/jn-sena
+  key: pinterest
+- name: Planet Minecraft
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  color: green
+  readme:
+    app-link: https://planetminecraft.com
+  current-maintainers:
+  - name: Amelia Rose
+    url: https://github.com/Nyameliaaaa
+  key: planet-minecraft
+- name: Pronouns.page
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: pronounsdotpage
+  color: pink
+  readme:
+    app-link: https://pronouns.page/
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: pronouns.page
+- name: Proton
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  icon: protonmail
+  color: mauve
+  readme:
+    app-link: https://proton.me/
+    usage: '> [!NOTE]
 
-        > Set Proton Mail''s built-in theme to ''Snow'' if you''re using Latte or
-        ''Carbon'' if you''re using the others.
+      > Set Proton Mail''s built-in theme to ''Snow'' if you''re using Latte or ''Carbon''
+      if you''re using the others.
 
-        '
-    current-maintainers:
-    - name: soya_daizu
-      url: https://github.com/soya-daizu
-  pypi:
-    name: PyPI
-    categories: [development]
-    color: sapphire
-    readme:
-      app-link: https://pypi.org
-    current-maintainers:
-    - url: https://github.com/trinkey
-  quizlet:
-    name: Quizlet
-    categories: [education, productivity]
-    icon: quizlet
-    color: mauve
-    readme:
-      app-link: https://quizlet.com
-    current-maintainers:
-    - url: https://github.com/spaghettiosareyummy
-  reddit:
-    name: Reddit
-    categories: [discussion_forum, social_networking, entertainment]
-    color: red
-    icon: reddit
-    readme:
-      app-link: https://reddit.com
-    current-maintainers: []
-    past-maintainers:
-    - url: https://github.com/jayylmao
-    - url: https://github.com/rubyowo
-  searxng:
-    name: SearXNG
-    categories: [search_engine]
-    icon: searxng
-    color: blue
-    readme:
-      app-link: https://github.com/searxng/searxng
-    current-maintainers:
-    - name: Sekki
-      url: https://github.com/Sekki21956
-    - name: Ryan Cao
-      url: https://github.com/ryanccn
-  snapchat-web:
-    name: Snapchat Web
-    categories: [social_networking, photo_and_video, entertainment]
-    icon: snapchat
-    color: yellow
-    readme:
-      app-link: https://web.snapchat.com
-    current-maintainers:
-    - name: Meow
-      url: https://github.com/itzTheMeow
-  spotify-web:
-    name: Spotify Web
-    categories: [music]
-    icon: spotify
-    color: green
-    readme:
-      app-link: https://open.spotify.com
-    current-maintainers:
-    - name: Tnixc
-      url: https://github.com/Tnixc
-  stack-overflow:
-    name: Stack Overflow
-    categories: [development]
-    icon: stackoverflow
-    color: peach
-    readme:
-      app-link: https://stackoverflow.com
-    current-maintainers:
-    - name: uncenter
-      url: https://github.com/uncenter
-  startpage:
-    name: Startpage
-    categories: [search_engine]
-    color: lavender
-    readme:
-      app-link: https://startpage.com
-    current-maintainers: []
-    past-maintainers:
-    - name: Bart Libert
-      url: https://github.com/bartlibert
-  skiff:
-    name: Skiff
-    categories: [email_client, productivity]
-    color: maroon
-    readme:
-      usage: Switch to a default Skiff light/dark theme via **Settings** > **Appearance**
-        for the best experience!
-      app-link: https://app.skiff.com/mail
-    current-maintainers:
-    - name: coopw
-      url: https://github.com/coopw1
-  stylus:
-    name: Stylus
-    categories: [productivity]
-    color: teal
-    readme:
-      app-link: https://github.com/openstyles/stylus
-    current-maintainers:
-    - url: https://github.com/GitMuslim
-  substack:
-    name: Substack
-    categories: [entertainment, social_networking]
-    icon: substack
-    color: peach
-    readme:
-      app-link: https://substack.com
-    current-maintainers: []
-    past-maintainers:
-    - name: winston
-      url: https://github.com/nekowinston
-  syncthing:
-    name: Syncthing
-    categories: [productivity]
-    icon: syncthing
-    color: sapphire
-    readme:
-      app-link: https://syncthing.net
-      usage: '> [!NOTE]
+      '
+  current-maintainers:
+  - name: soya_daizu
+    url: https://github.com/soya-daizu
+  key: proton
+- name: PyPI
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  color: sapphire
+  readme:
+    app-link: https://pypi.org
+  current-maintainers:
+  - url: https://github.com/trinkey
+  key: pypi
+- name: Quizlet
+  categories:
+  - key: education
+    name: Education
+    description: Applications that faciliate learning, knowledge acquisition and skill
+      development.
+    emoji: 🎓
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: quizlet
+  color: mauve
+  readme:
+    app-link: https://quizlet.com
+  current-maintainers:
+  - url: https://github.com/spaghettiosareyummy
+  key: quizlet
+- name: Reddit
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  color: red
+  icon: reddit
+  readme:
+    app-link: https://reddit.com
+  current-maintainers: []
+  past-maintainers:
+  - url: https://github.com/jayylmao
+  - url: https://github.com/rubyowo
+  key: reddit
+- name: SearXNG
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  icon: searxng
+  color: blue
+  readme:
+    app-link: https://github.com/searxng/searxng
+  current-maintainers:
+  - name: Sekki
+    url: https://github.com/Sekki21956
+  - name: Ryan Cao
+    url: https://github.com/ryanccn
+  key: searxng
+- name: Snapchat Web
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  icon: snapchat
+  color: yellow
+  readme:
+    app-link: https://web.snapchat.com
+  current-maintainers:
+  - name: Meow
+    url: https://github.com/itzTheMeow
+  key: snapchat-web
+- name: Spotify Web
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  icon: spotify
+  color: green
+  readme:
+    app-link: https://open.spotify.com
+  current-maintainers:
+  - name: Tnixc
+    url: https://github.com/Tnixc
+  key: spotify-web
+- name: Stack Overflow
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  icon: stackoverflow
+  color: peach
+  readme:
+    app-link: https://stackoverflow.com
+  current-maintainers:
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: stack-overflow
+- name: Startpage
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  color: lavender
+  readme:
+    app-link: https://startpage.com
+  current-maintainers: []
+  past-maintainers:
+  - name: Bart Libert
+    url: https://github.com/bartlibert
+  key: startpage
+- name: Skiff
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  color: maroon
+  readme:
+    usage: Switch to a default Skiff light/dark theme via **Settings** > **Appearance**
+      for the best experience!
+    app-link: https://app.skiff.com/mail
+  current-maintainers:
+  - name: coopw
+    url: https://github.com/coopw1
+  key: skiff
+- name: Stylus
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  color: teal
+  readme:
+    app-link: https://github.com/openstyles/stylus
+  current-maintainers:
+  - url: https://github.com/GitMuslim
+  key: stylus
+- name: Substack
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: substack
+  color: peach
+  readme:
+    app-link: https://substack.com
+  current-maintainers: []
+  past-maintainers:
+  - name: winston
+    url: https://github.com/nekowinston
+  key: substack
+- name: Syncthing
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: syncthing
+  color: sapphire
+  readme:
+    app-link: https://syncthing.net
+    usage: '> [!NOTE]
 
-        > This theme is designed to be used with the default WebGUI and default theme
-        provided by Syncthing. This does not theme syncthing.net.
+      > This theme is designed to be used with the default WebGUI and default theme
+      provided by Syncthing. This does not theme syncthing.net.
 
-        '
-    current-maintainers:
-    - name: BlankParticle
-      url: https://github.com/BlankParticle
-  tabnews:
-    name: TabNews
-    categories: [discussion_forum, entertainment, social_networking]
-    color: text
-    readme:
-      app-link: https://tabnews.com.br
-    current-maintainers:
-    - name: Guaxinim5573
-      url: https://github.com/Guaxinim5573
-  tldraw:
-    name: tldraw
-    categories: [productivity]
-    icon: tldraw
-    color: text
-    readme:
-      app-link: https://www.tldraw.com
-      usage: '> [!NOTE]
+      '
+  current-maintainers:
+  - name: BlankParticle
+    url: https://github.com/BlankParticle
+  key: syncthing
+- name: TabNews
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  color: text
+  readme:
+    app-link: https://tabnews.com.br
+  current-maintainers:
+  - name: Guaxinim5573
+    url: https://github.com/Guaxinim5573
+  key: tabnews
+- name: tldraw
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: tldraw
+  color: text
+  readme:
+    app-link: https://www.tldraw.com
+    usage: '> [!NOTE]
 
-        > This theme only changes how the colors appear on the tldraw canvas. Exported
-        graphics **will not be Catppuccin-themed**.
+      > This theme only changes how the colors appear on the tldraw canvas. Exported
+      graphics **will not be Catppuccin-themed**.
 
-        '
-    current-maintainers:
-    - name: GenShibe
-      url: https://github.com/GenShibe
-    - name: uncenter
-      url: https://github.com/uncenter
-  trinket:
-    name: Trinket
-    categories: [development]
-    color: blue
-    readme:
-      app-link: https://trinket.io
-    current-maintainers:
-    - url: https://github.com/trinkey
-  tuta:
-    name: Tuta
-    categories: [email_client, productivity]
-    icon: tutanota
-    color: maroon
-    readme:
-      app-link: https://tuta.com/
-      usage: '> [!NOTE]
+      '
+  current-maintainers:
+  - name: GenShibe
+    url: https://github.com/GenShibe
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: tldraw
+- name: Trinket
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  color: blue
+  readme:
+    app-link: https://trinket.io
+  current-maintainers:
+  - url: https://github.com/trinkey
+  key: trinket
+- name: Tuta
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: tutanota
+  color: maroon
+  readme:
+    app-link: https://tuta.com/
+    usage: '> [!NOTE]
 
-        > Set Tuta''s built-in theme to either **light** if you''re using Latte or
-        **dark** if you''re using the others.
+      > Set Tuta''s built-in theme to either **light** if you''re using Latte or **dark**
+      if you''re using the others.
 
-        '
-    current-maintainers:
-    - name: Ryan Cao
-      url: https://github.com/ryanccn
-  twitch:
-    name: Twitch
-    categories: [entertainment, social_networking, photo_and_video]
-    icon: twitch
-    color: mauve
-    readme:
-      app-link: https://twitch.tv
-    current-maintainers:
-    - url: https://github.com/GitMuslim
-    - name: uncenter
-      url: https://github.com/uncenter
-  twitter:
-    name: Twitter
-    categories: [social_networking, discussion_forum, entertainment]
-    color: blue
-    icon: twitter
-    readme:
-      app-link: https://twitter.com
-      usage: '> [!NOTE]
+      '
+  current-maintainers:
+  - name: Ryan Cao
+    url: https://github.com/ryanccn
+  key: tuta
+- name: Twitch
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  icon: twitch
+  color: mauve
+  readme:
+    app-link: https://twitch.tv
+  current-maintainers:
+  - url: https://github.com/GitMuslim
+  - name: uncenter
+    url: https://github.com/uncenter
+  key: twitch
+- name: Twitter
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  color: blue
+  icon: twitter
+  readme:
+    app-link: https://twitter.com
+    usage: '> [!NOTE]
 
-        > Set Twitter''s built-in theme to **Lights out** with the blue accent. Also
-        requires the [:has()](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
-        selector.
+      > Set Twitter''s built-in theme to **Lights out** with the blue accent. Also
+      requires the [:has()](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
+      selector.
 
-        '
-    current-maintainers:
-    - name: Ren
-      url: https://github.com/watatomo
-  vercel:
-    name: Vercel
-    categories: [development]
-    icon: vercel
-    color: text
-    readme:
-      app-link: https://vercel.com
-    current-maintainers:
-    - name: Ryan Cao
-      url: https://github.com/ryanccn
-  whatsapp-web:
-    name: WhatsApp Web
-    categories: [social_networking]
-    icon: whatsapp
-    color: green
-    readme:
-      app-link: https://web.whatsapp.com
-    current-maintainers:
-    - name: FrancoRav
-      url: https://github.com/FrancoRav
-  wikipedia:
-    name: Wikipedia
-    categories: [wiki, search_engine, productivity]
-    icon: wikipedia
-    color: text
-    readme:
-      app-link: https://www.wikipedia.org
-    current-maintainers:
-    - url: https://github.com/GitMuslim
-  wikiwand:
-    name: Wikiwand
-    categories: [wiki, productivity]
-    icon: wikipedia
-    color: text
-    readme:
-      app-link: https://www.wikiwand.com
-    current-maintainers:
-    - name: Tnixc
-      url: https://github.com/Tnixc
-  youtube:
-    name: YouTube
-    categories: [entertainment, social_networking, photo_and_video]
-    icon: youtube
-    color: red
-    readme:
-      app-link: https://youtube.com
-      faq:
-      - question: '**What does the ''Enable for black bars'' option mean?**'
-        answer: It's available in case you have an OLED display. If you have one,
-          you might want to enable this.
-    current-maintainers:
-    - name: Isabel
-      url: https://github.com/isabelroses
-    - name: uncenter
-      url: https://github.com/uncenter
-    past-maintainers:
-    - name: Elkrien
-      url: https://github.com/elkrien
-  nextjs:
-    name: Next.js
-    categories: [development]
-    icon: nextdotjs
-    color: text
-    readme:
-      app-link: https://nextjs.org
-    current-maintainers:
-    - name: Dandraghas
-      url: https://github.com/Dandraghas
+      '
+  current-maintainers:
+  - name: Ren
+    url: https://github.com/watatomo
+  key: twitter
+- name: Vercel
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  icon: vercel
+  color: text
+  readme:
+    app-link: https://vercel.com
+  current-maintainers:
+  - name: Ryan Cao
+    url: https://github.com/ryanccn
+  key: vercel
+- name: WhatsApp Web
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  icon: whatsapp
+  color: green
+  readme:
+    app-link: https://web.whatsapp.com
+  current-maintainers:
+  - name: FrancoRav
+    url: https://github.com/FrancoRav
+  key: whatsapp-web
+- name: Wikipedia
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: wikipedia
+  color: text
+  readme:
+    app-link: https://www.wikipedia.org
+  current-maintainers:
+  - url: https://github.com/GitMuslim
+  key: wikipedia
+- name: Wikiwand
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: wikipedia
+  color: text
+  readme:
+    app-link: https://www.wikiwand.com
+  current-maintainers:
+  - name: Tnixc
+    url: https://github.com/Tnixc
+  key: wikiwand
+- name: YouTube
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  icon: youtube
+  color: red
+  readme:
+    app-link: https://youtube.com
+    faq:
+    - question: '**What does the ''Enable for black bars'' option mean?**'
+      answer: It's available in case you have an OLED display. If you have one, you
+        might want to enable this.
+  current-maintainers:
+  - name: Isabel
+    url: https://github.com/isabelroses
+  - name: uncenter
+    url: https://github.com/uncenter
+  past-maintainers:
+  - name: Elkrien
+    url: https://github.com/elkrien
+  key: youtube
+- name: Next.js
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  icon: nextdotjs
+  color: text
+  readme:
+    app-link: https://nextjs.org
+  current-maintainers:
+  - name: Dandraghas
+    url: https://github.com/Dandraghas
+  key: nextjs
