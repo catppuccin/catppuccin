@@ -1,0 +1,5423 @@
+ports:
+- name: aerc
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: text
+  key: aerc
+  repository:
+    name: aerc
+    url: https://github.com/catppuccin/aerc
+    current-maintainers:
+    - username: Stonks3141
+      url: https://github.com/Stonks3141
+    past-maintainers: []
+- name: Alacritty
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  color: peach
+  icon: alacritty
+  platform: [linux, macos, windows]
+  key: alacritty
+  repository:
+    name: alacritty
+    url: https://github.com/catppuccin/alacritty
+    current-maintainers: []
+    past-maintainers:
+    - username: VictorTennekes
+      url: https://github.com/VictorTennekes
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Alfred
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  color: mauve
+  icon: alfred
+  platform: [macos]
+  key: alfred
+  repository:
+    name: alfred
+    url: https://github.com/catppuccin/alfred
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Amfora
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  platform: [linux, macos, windows]
+  color: text
+  key: amfora
+  repository:
+    name: amfora
+    url: https://github.com/catppuccin/amfora
+    current-maintainers: []
+    past-maintainers:
+    - username: hyperreal64
+      url: https://github.com/hyperreal64
+- name: Anki
+  categories:
+  - key: education
+    name: Education
+    description: Applications that faciliate learning, knowledge acquisition and skill
+      development.
+    emoji: 🎓
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: agnostic
+  icon: anki.svg
+  color: blue
+  key: anki
+  repository:
+    name: anki
+    url: https://github.com/catppuccin/anki
+    current-maintainers:
+    - username: AnubisNekhet
+      name: Anubis
+      url: https://github.com/AnubisNekhet
+    past-maintainers:
+    - username: BlueFalconHD
+      url: https://github.com/BlueFalconHD
+- name: Aseprite
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: aseprite
+  color: text
+  platform: [linux, macos, windows]
+  key: aseprite
+  repository:
+    name: aseprite
+    url: https://github.com/catppuccin/aseprite
+    current-maintainers:
+    - username: sofycodes
+      url: https://github.com/sofycodes
+    past-maintainers: []
+- name: Azure Data Studio
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  icon: microsoftazure
+  color: blue
+  alias: vscode
+  key: azuredatastudio
+  repository:
+    name: vscode
+    url: https://github.com/catppuccin/vscode
+    current-maintainers: []
+    past-maintainers:
+    - username: ghostx31
+      url: https://github.com/ghostx31
+    - username: VictorTennekes
+      url: https://github.com/VictorTennekes
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Base16
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: agnostic
+  color: text
+  key: base16
+  repository:
+    name: base16
+    url: https://github.com/catppuccin/base16
+    current-maintainers: []
+    past-maintainers:
+    - username: schoblaska
+      url: https://github.com/schoblaska
+- name: bat
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  icon: bat
+  color: blue
+  key: bat
+  repository:
+    name: bat
+    url: https://github.com/catppuccin/bat
+    current-maintainers:
+    - username: ghostx31
+      url: https://github.com/ghostx31
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: bemenu
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: bemenu
+  repository:
+    name: bemenu
+    url: https://github.com/catppuccin/bemenu
+    current-maintainers:
+    - username: iruzo
+      url: https://github.com/iruzo
+    past-maintainers: []
+- name: Bento
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: bento
+  color: lavender
+  platform: agnostic
+  key: bento
+  repository:
+    name: bento
+    url: https://github.com/catppuccin/bento
+    current-maintainers:
+    - username: BlueFalconHD
+      url: https://github.com/BlueFalconHD
+    past-maintainers: []
+- name: Binary Ninja
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: red
+  key: binary-ninja
+  repository:
+    name: binary-ninja
+    url: https://github.com/catppuccin/binary-ninja
+    current-maintainers:
+    - username: kkrypt0nn
+      url: https://github.com/kkrypt0nn
+    past-maintainers: []
+- name: Bitburner
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  platform: [linux, macos, windows]
+  color: green
+  key: bitburner
+  repository:
+    name: bitburner
+    url: https://github.com/catppuccin/bitburner
+    current-maintainers:
+    - username: reniivali
+      url: https://github.com/reniivali
+    past-maintainers: []
+- name: Black Box
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: text
+  key: blackbox
+  repository:
+    name: blackbox
+    url: https://github.com/catppuccin/blackbox
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Blink
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [ios]
+  color: teal
+  key: blink
+  repository:
+    name: blink
+    url: https://github.com/catppuccin/blink
+    current-maintainers:
+    - username: rithikasilva
+      url: https://github.com/rithikasilva
+    past-maintainers: []
+- name: Blockbench
+  categories:
+  - key: 3d_modelling
+    name: 3D Modelling
+    description: Applications that are designed to create and manipulate objects in
+      three-dimensional space.
+    emoji: 🖼️
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  icon: blockbench
+  color: sky
+  platform: [linux, macos, windows]
+  key: blockbench
+  repository:
+    name: blockbench
+    url: https://github.com/catppuccin/blockbench
+    current-maintainers:
+    - username: Tnixc
+      url: https://github.com/Tnixc
+    past-maintainers: []
+- name: bottom
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: [linux, macos, windows]
+  color: text
+  key: bottom
+  repository:
+    name: bottom
+    url: https://github.com/catppuccin/bottom
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: btop++
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: [linux, macos]
+  color: red
+  key: btop
+  repository:
+    name: btop
+    url: https://github.com/catppuccin/btop
+    current-maintainers:
+    - username: lokesh-krishna
+      url: https://github.com/lokesh-krishna
+    past-maintainers: []
+- name: calibre
+  categories:
+  - key: document_viewer
+    name: Document Viewers
+    description: Applications that allow users to open, view and interact with documents.
+    emoji: 📃
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: peach
+  key: calibre
+  repository:
+    name: calibre
+    url: https://github.com/catppuccin/calibre
+    current-maintainers:
+    - username: 42Willow
+      url: https://github.com/42Willow
+    past-maintainers: []
+- name: Cava
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: sky
+  key: cava
+  repository:
+    name: cava
+    url: https://github.com/catppuccin/cava
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers:
+    - username: pocco81
+      url: https://github.com/pocco81
+- name: Chatterino 2
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [linux, macos, windows]
+  color: text
+  key: chatterino2
+  repository:
+    name: chatterino2
+    url: https://github.com/catppuccin/chatterino2
+    current-maintainers:
+    - username: fruzitent
+      url: https://github.com/fruzitent
+    past-maintainers: []
+- name: Chroma
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  color: text
+  upstreamed: true
+  key: chroma
+  repository:
+    name: chroma
+    url: https://github.com/catppuccin/chroma
+    current-maintainers:
+    - username: icy-comet
+      url: https://github.com/icy-comet
+    - username: jolheiser
+      url: https://github.com/jolheiser
+    past-maintainers: []
+- name: Google Chrome
+  categories:
+  - key: browser
+    name: Browsers
+    description: Applications for accessing and navigating the World Wide Web.
+    emoji: 🏄
+  platform: [linux, macos, windows]
+  icon: googlechrome
+  color: yellow
+  key: chrome
+  repository:
+    name: chrome
+    url: https://github.com/catppuccin/chrome
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Google Chrome DevTools
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  platform: [linux, macos, windows]
+  icon: googlechrome
+  color: yellow
+  key: chrome-devtools
+  repository:
+    name: chrome-devtools
+    url: https://github.com/catppuccin/chrome-devtools
+    current-maintainers:
+    - username: r58Playz
+      url: https://github.com/r58Playz
+    past-maintainers: []
+- name: Cider
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  platform: [linux, macos, windows]
+  color: red
+  key: cider
+  repository:
+    name: cider
+    url: https://github.com/catppuccin/cider
+    current-maintainers:
+    - username: Flapperoo
+      url: https://github.com/Flapperoo
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: CodeMirror
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  color: red
+  icon: codemirror
+  platform: agnostic
+  key: codemirror
+  repository:
+    name: codemirror
+    url: https://github.com/catppuccin/codemirror
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
+    past-maintainers:
+    - username: griimick
+      url: https://github.com/griimick
+- name: Conky
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: [linux]
+  color: mauve
+  key: conky
+  repository:
+    name: conky
+    url: https://github.com/catppuccin/conky
+    current-maintainers: []
+    past-maintainers:
+    - username: ohxxm
+      url: https://github.com/ohxxm
+- name: Contour
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux, macos, windows]
+  color: pink
+  key: contour
+  repository:
+    name: contour
+    url: https://github.com/catppuccin/contour
+    current-maintainers: []
+    past-maintainers:
+    - username: TarunDaCoder
+      url: https://github.com/TarunDaCoder
+- name: COSMIC Desktop
+  categories:
+  - key: desktop_environment
+    name: Desktop Environments
+    description: Graphical User Interfaces providing a complete experience for interacting
+      with the operating system.
+    emoji: 🖥
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: lavender
+  key: cosmic-desktop
+  repository:
+    name: cosmic-desktop
+    url: https://github.com/catppuccin/cosmic-desktop
+    current-maintainers:
+    - username: EdenQwQ
+      url: https://github.com/EdenQwQ
+    past-maintainers: []
+- name: cool-retro-term
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux, macos]
+  color: green
+  key: crt
+  repository:
+    name: crt
+    url: https://github.com/catppuccin/crt
+    current-maintainers:
+    - username: iruzo
+      url: https://github.com/iruzo
+    past-maintainers: []
+- name: Cursors
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  icon: cursors.svg
+  color: text
+  key: cursors
+  repository:
+    name: cursors
+    url: https://github.com/catppuccin/cursors
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Cutter
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [linux, macos, windows]
+  color: text
+  key: cutter
+  repository:
+    name: cutter
+    url: https://github.com/catppuccin/cutter
+    current-maintainers:
+    - username: kkrypt0nn
+      url: https://github.com/kkrypt0nn
+    past-maintainers: []
+- name: daisyUI
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: agnostic
+  color: mauve
+  icon: daisyui
+  links:
+  - name: npm
+    icon: npm
+    color: red
+    url: https://www.npmjs.com/package/@catppuccin/daisyui
+  key: daisyui
+  repository:
+    name: daisyui
+    url: https://github.com/catppuccin/daisyui
+    current-maintainers:
+    - username: Liumingxun
+      name: Lime
+      url: https://github.com/Liumingxun
+    past-maintainers: []
+- name: Dark Reader
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  platform: agnostic
+  icon: darkreader
+  color: teal
+  key: dark-reader
+  repository:
+    name: dark-reader
+    url: https://github.com/catppuccin/dark-reader
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers:
+    - username: WitherCubes
+      url: https://github.com/WitherCubes
+- name: delta
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  color: text
+  key: delta
+  repository:
+    name: delta
+    url: https://github.com/catppuccin/delta
+    current-maintainers:
+    - username: Anomalocaridid
+      url: https://github.com/Anomalocaridid
+    past-maintainers: []
+- name: Discord
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [linux, macos, windows]
+  color: blue
+  icon: discord
+  key: discord
+  repository:
+    name: discord
+    url: https://github.com/catppuccin/discord
+    current-maintainers:
+    - username: rubyowo
+      url: https://github.com/rubyowo
+    - username: ToxicAven
+      url: https://github.com/ToxicAven
+    past-maintainers: []
+- name: DioHub
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [android]
+  color: text
+  key: diohub
+  repository:
+    name: diohub
+    url: https://github.com/catppuccin/diohub
+    current-maintainers:
+    - username: cattokomo
+      url: https://github.com/cattokomo
+    past-maintainers: []
+- name: dmenu
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: sapphire
+  key: dmenu
+  repository:
+    name: dmenu
+    url: https://github.com/catppuccin/dmenu
+    current-maintainers: []
+    past-maintainers:
+    - username: ohxxm
+      url: https://github.com/ohxxm
+- name: Dopamine
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  platform: [linux, macos, windows]
+  color: blue
+  key: dopamine
+  repository:
+    name: dopamine
+    url: https://github.com/catppuccin/dopamine
+    current-maintainers:
+    - username: jayylmao
+      url: https://github.com/jayylmao
+    past-maintainers: []
+- name: DrRacket
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: red
+  icon: racket
+  key: drracket
+  repository:
+    name: drracket
+    url: https://github.com/catppuccin/drracket
+    current-maintainers:
+    - username: PanAeon
+      url: https://github.com/PanAeon
+    past-maintainers: []
+- name: Dunst
+  categories:
+  - key: notification_daemon
+    name: Notification Daemons
+    description: Applications that notify the user of desktop events in an asynchronous
+      manner.
+    emoji: 😈
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: dunst
+  repository:
+    name: dunst
+    url: https://github.com/catppuccin/dunst
+    current-maintainers: []
+    past-maintainers:
+    - username: WitherCubes
+      url: https://github.com/WitherCubes
+- name: Dwarf Fortress
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  platform: [linux, macos, windows]
+  color: text
+  key: dwarf-fortress
+  repository:
+    name: dwarf-fortress
+    url: https://github.com/catppuccin/dwarf-fortress
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
+    past-maintainers: []
+- name: egui
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [linux, macos, windows]
+  color: text
+  key: egui
+  repository:
+    name: egui
+    url: https://github.com/catppuccin/egui
+    current-maintainers:
+    - username: Stonks3141
+      url: https://github.com/Stonks3141
+    past-maintainers: []
+- name: Element
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [linux, macos, windows]
+  color: green
+  icon: element
+  key: element
+  repository:
+    name: element
+    url: https://github.com/catppuccin/element
+    current-maintainers:
+    - username: ghostx31
+      url: https://github.com/ghostx31
+    past-maintainers: []
+- name: Elixir
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: lavender
+  icon: elixir
+  key: elixir
+  repository:
+    name: elixir
+    url: https://github.com/catppuccin/elixir
+    current-maintainers:
+    - username: MikaelFangel
+      url: https://github.com/MikaelFangel
+    past-maintainers: []
+- name: Emacs
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux, macos, windows]
+  icon: gnuemacs
+  color: mauve
+  key: emacs
+  repository:
+    name: emacs
+    url: https://github.com/catppuccin/emacs
+    current-maintainers:
+    - username: NamesCode
+      url: https://github.com/NamesCode
+    - username: nyxkrage
+      url: https://github.com/nyxkrage
+    past-maintainers:
+    - username: pspiagicw
+      url: https://github.com/pspiagicw
+- name: Enmity
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [ios]
+  color: blue
+  icon: discord
+  key: enmity
+  repository:
+    name: enmity
+    url: https://github.com/catppuccin/enmity
+    current-maintainers:
+    - username: 112cxyz
+      url: https://github.com/112cxyz
+    past-maintainers: []
+- name: fcitx5
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: fcitx5
+  repository:
+    name: fcitx5
+    url: https://github.com/catppuccin/fcitx5
+    current-maintainers: []
+    past-maintainers:
+    - username: ayamir
+      url: https://github.com/ayamir
+- name: Firefox
+  categories:
+  - key: browser
+    name: Browsers
+    description: Applications for accessing and navigating the World Wide Web.
+    emoji: 🏄
+  platform: [linux, macos, windows]
+  color: peach
+  icon: firefoxbrowser
+  key: firefox
+  repository:
+    name: firefox
+    url: https://github.com/catppuccin/firefox
+    current-maintainers:
+    - username: isabelincorp
+      url: https://github.com/isabelincorp
+    - username: ShyyLexi
+      name: Lexi
+      url: https://github.com/ShyyLexi
+    past-maintainers: []
+- name: fish shell
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: green
+  icon: fishshell
+  key: fish
+  repository:
+    name: fish
+    url: https://github.com/catppuccin/fish
+    current-maintainers:
+    - username: ghostx31
+      url: https://github.com/ghostx31
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
+    past-maintainers: []
+- name: Fitbit
+  categories:
+  - key: health_and_fitness
+    name: Health & Fitness
+    description: Applications related to healthy living, fitness, and managing stress.
+    emoji: 🏃
+  platform: agnostic
+  color: teal
+  icon: fitbit
+  key: fitbit
+  repository:
+    name: fitbit
+    url: https://github.com/catppuccin/fitbit
+    current-maintainers:
+    - username: lighttigerXIV
+      url: https://github.com/lighttigerXIV
+    past-maintainers: []
+- name: JetBrains Fleet
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  icon: jetbrains
+  color: text
+  key: fleet
+  repository:
+    name: fleet
+    url: https://github.com/catppuccin/fleet
+    current-maintainers:
+    - username: kkrypt0nn
+      url: https://github.com/kkrypt0nn
+    - username: davfsa
+      url: https://github.com/davfsa
+    past-maintainers: []
+- name: FlorisBoard
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [android]
+  color: green
+  key: floris-board
+  repository:
+    name: floris-board
+    url: https://github.com/catppuccin/floris-board
+    current-maintainers:
+    - username: skinatro
+      url: https://github.com/skinatro
+    past-maintainers: []
+- name: Flow Launcher
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [windows]
+  color: sapphire
+  key: flow-launcher
+  repository:
+    name: flow-launcher
+    url: https://github.com/catppuccin/flow-launcher
+    current-maintainers: []
+    past-maintainers:
+    - username: Syndrizzle
+      url: https://github.com/Syndrizzle
+- name: Fluent Terminal
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [windows]
+  color: text
+  key: fluentterminal
+  repository:
+    name: fluentterminal
+    url: https://github.com/catppuccin/fluentterminal
+    current-maintainers:
+    - username: mrdoge515
+      url: https://github.com/mrdoge515
+    past-maintainers: []
+- name: Flutter
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: blue
+  icon: flutter
+  key: flutter
+  repository:
+    name: flutter
+    url: https://github.com/catppuccin/flutter
+    current-maintainers:
+    - username: useEffects
+      url: https://github.com/useEffects
+    past-maintainers: []
+- name: Foliate
+  categories:
+  - key: document_viewer
+    name: Document Viewers
+    description: Applications that allow users to open, view and interact with documents.
+    emoji: 📃
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux]
+  color: teal
+  key: foliate
+  repository:
+    name: foliate
+    url: https://github.com/catppuccin/foliate
+    current-maintainers:
+    - username: ghostx31
+      url: https://github.com/ghostx31
+    past-maintainers: []
+- name: foot
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: text
+  key: foot
+  repository:
+    name: foot
+    url: https://github.com/catppuccin/foot
+    current-maintainers: []
+    past-maintainers:
+    - username: Cristhyano
+      url: https://github.com/Cristhyano
+- name: Forklift 4
+  categories:
+  - key: file_manager
+    name: File Managers
+    description: Applications that help users navigate, organize and edit files/directories
+      on a computer.
+    emoji: 🗂️
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [macos]
+  color: peach
+  key: forklift-4
+  repository:
+    name: forklift-4
+    url: https://github.com/catppuccin/forklift-4
+    current-maintainers:
+    - username: denis-g
+      url: https://github.com/denis-g
+    past-maintainers: []
+- name: fr33zmenu
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: fr33zmenu
+  repository:
+    name: fr33zmenu
+    url: https://github.com/catppuccin/fr33zmenu
+    current-maintainers:
+    - username: iruzo
+      url: https://github.com/iruzo
+    past-maintainers: []
+- name: FreshRSS
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: sapphire
+  key: freshrss
+  repository:
+    name: freshrss
+    url: https://github.com/catppuccin/freshrss
+    current-maintainers:
+    - username: isabelroses
+      url: https://github.com/isabelroses
+    past-maintainers: []
+- name: Fuzzel
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: fuzzel
+  repository:
+    name: fuzzel
+    url: https://github.com/catppuccin/fuzzel
+    current-maintainers:
+    - username: tetov
+      url: https://github.com/tetov
+    past-maintainers: []
+- name: fzf
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: text
+  key: fzf
+  repository:
+    name: fzf
+    url: https://github.com/catppuccin/fzf
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers:
+    - username: WitherCubes
+      url: https://github.com/WitherCubes
+- name: Geany
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux]
+  color: yellow
+  key: geany
+  repository:
+    name: geany
+    url: https://github.com/catppuccin/geany
+    current-maintainers: []
+    past-maintainers:
+    - username: Waxxx333
+      url: https://github.com/Waxxx333
+- name: Gedit
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux]
+  color: text
+  key: gedit
+  repository:
+    name: gedit
+    url: https://github.com/catppuccin/gedit
+    current-maintainers:
+    - username: sacerd-OS
+      url: https://github.com/sacerd-OS
+    past-maintainers: []
+- name: gh-dash
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: text
+  key: gh-dash
+  repository:
+    name: gh-dash
+    url: https://github.com/catppuccin/gh-dash
+    current-maintainers:
+    - username: isabelroses
+      url: https://github.com/isabelroses
+    past-maintainers: []
+- name: ghostwriter
+  categories:
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: red
+  key: ghostwriter
+  repository:
+    name: ghostwriter
+    url: https://github.com/catppuccin/ghostwriter
+    current-maintainers:
+    - username: bagelwaffle
+      url: https://github.com/bagelwaffle
+    past-maintainers: []
+- name: Giscus
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  platform: agnostic
+  color: sky
+  key: giscus
+  repository:
+    name: giscus
+    url: https://github.com/catppuccin/giscus
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+- name: Gitea
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: agnostic
+  color: green
+  icon: gitea
+  key: gitea
+  repository:
+    name: gitea
+    url: https://github.com/catppuccin/gitea
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: GitHub File Explorer Icons
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  platform: agnostic
+  color: text
+  icon: github
+  key: github-file-explorer-icons
+  repository:
+    name: github-file-explorer-icons
+    url: https://github.com/catppuccin/github-file-explorer-icons
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+- name: GitHub Readme Stats
+  categories:
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: agnostic
+  color: text
+  icon: github
+  key: github-readme-stats
+  repository:
+    name: github-readme-stats
+    url: https://github.com/catppuccin/github-readme-stats
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers:
+    - username: WitherCubes
+      url: https://github.com/WitherCubes
+- name: GitHub Readme Streak Stats
+  categories:
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: agnostic
+  color: text
+  icon: github
+  key: github-readme-streak-stats
+  repository:
+    name: github-readme-streak-stats
+    url: https://github.com/catppuccin/github-readme-streak-stats
+    current-maintainers:
+    - username: abhishekmj303
+      url: https://github.com/abhishekmj303
+    past-maintainers: []
+- name: GitHub Readme Tech Stack
+  categories:
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: agnostic
+  color: text
+  icon: github
+  key: github-readme-tech-stack
+  repository:
+    name: github-readme-tech-stack
+    url: https://github.com/catppuccin/github-readme-tech-stack
+    current-maintainers:
+    - username: sakkke
+      url: https://github.com/sakkke
+    past-maintainers: []
+- name: GitUI
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  icon: gitui.svg
+  color: text
+  key: gitui
+  repository:
+    name: gitui
+    url: https://github.com/catppuccin/gitui
+    current-maintainers:
+    - username: BlueFalconHD
+      url: https://github.com/BlueFalconHD
+    past-maintainers: []
+- name: Glamour
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: pink
+  key: glamour
+  repository:
+    name: glamour
+    url: https://github.com/catppuccin/glamour
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers:
+    - username: Dukatron
+      url: https://github.com/Dukatron
+- name: GlazeWM
+  categories:
+  - key: window_manager
+    name: Window Managers
+    description: Applications that control the placement and appearance of windows
+      in a GUI.
+    emoji: 🪟
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [windows]
+  color: text
+  key: glazewm
+  repository:
+    name: glazewm
+    url: https://github.com/catppuccin/glazewm
+    current-maintainers:
+    - username: fathulfahmy
+      url: https://github.com/fathulfahmy
+    past-maintainers: []
+- name: Gleam
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: pink
+  key: gleam
+  repository:
+    name: gleam
+    url: https://github.com/catppuccin/gleam
+    current-maintainers:
+    - username: MAHcodes
+      url: https://github.com/MAHcodes
+    past-maintainers: []
+- name: GNOME Terminal
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: text
+  icon: gnometerminal
+  key: gnome-terminal
+  repository:
+    name: gnome-terminal
+    url: https://github.com/catppuccin/gnome-terminal
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Go
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: sapphire
+  icon: go
+  key: go
+  repository:
+    name: go
+    url: https://github.com/catppuccin/go
+    current-maintainers:
+    - username: caarlos0
+      url: https://github.com/caarlos0
+    past-maintainers: []
+- name: Godot
+  categories:
+  - key: game_development
+    name: Game Development
+    description: Applications that are designed for creating, designing and building
+      video games.
+    emoji: 🕹
+  platform: [linux, macos, windows]
+  color: blue
+  icon: godotengine
+  key: godot
+  repository:
+    name: godot
+    url: https://github.com/catppuccin/godot
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
+    past-maintainers: []
+- name: GRUB
+  categories:
+  - key: boot_loader
+    name: Boot Loaders
+    description: Tools that are responsible for booting the computer.
+    emoji: 👢
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  icon: gnu
+  color: text
+  key: grub
+  repository:
+    name: grub
+    url: https://github.com/catppuccin/grub
+    current-maintainers:
+    - username: isabelincorp
+      url: https://github.com/isabelincorp
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Halloy
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [linux, macos, windows]
+  color: peach
+  key: halloy
+  repository:
+    name: halloy
+    url: https://github.com/catppuccin/halloy
+    current-maintainers:
+    - username: Daeraxa
+      url: https://github.com/Daeraxa
+    past-maintainers: []
+- name: Helix
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  color: mauve
+  key: helix
+  repository:
+    name: helix
+    url: https://github.com/catppuccin/helix
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
+    past-maintainers:
+    - username: ohxxm
+      url: https://github.com/ohxxm
+- name: Heroic
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  platform: [linux, macos, windows]
+  color: sky
+  key: heroic
+  repository:
+    name: heroic
+    url: https://github.com/catppuccin/heroic
+    current-maintainers:
+    - username: ndsboy
+      url: https://github.com/ndsboy
+    past-maintainers: []
+- name: HexChat
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [linux, windows]
+  icon: hexchat.svg
+  color: peach
+  key: hexchat
+  repository:
+    name: hexchat
+    url: https://github.com/catppuccin/hexchat
+    current-maintainers:
+    - username: aszecsei
+      url: https://github.com/aszecsei
+    past-maintainers: []
+- name: highlight.js
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: agnostic
+  color: maroon
+  links:
+  - name: npm
+    icon: npm
+    color: red
+    url: https://www.npmjs.com/package/@catppuccin/highlightjs
+  key: highlightjs
+  repository:
+    name: highlightjs
+    url: https://github.com/catppuccin/highlightjs
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Home Assistant
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: agnostic
+  icon: homeassistant
+  color: blue
+  key: home-assistant
+  repository:
+    name: home-assistant
+    url: https://github.com/catppuccin/home-assistant
+    current-maintainers:
+    - username: fapfaff
+      url: https://github.com/fapfaff
+    past-maintainers: []
+- name: Hyper
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux, macos, windows]
+  color: text
+  icon: hyper
+  links:
+  - name: npm
+    icon: npm
+    color: red
+    url: https://www.npmjs.com/package/hypurr
+  key: hyper
+  repository:
+    name: hyper
+    url: https://github.com/catppuccin/hyper
+    current-maintainers:
+    - username: asrvd
+      url: https://github.com/asrvd
+    past-maintainers: []
+- name: Hyprland
+  categories:
+  - key: window_manager
+    name: Window Managers
+    description: Applications that control the placement and appearance of windows
+      in a GUI.
+    emoji: 🪟
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: sapphire
+  key: hyprland
+  repository:
+    name: hyprland
+    url: https://github.com/catppuccin/hyprland
+    current-maintainers:
+    - username: rubyowo
+      url: https://github.com/rubyowo
+    past-maintainers: []
+- name: Hyprlock
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: sapphire
+  key: hyprlock
+  repository:
+    name: hyprlock
+    url: https://github.com/catppuccin/hyprlock
+    current-maintainers:
+    - username: NikSneMC
+      url: https://github.com/NikSneMC
+    past-maintainers: []
+- name: i3/sway
+  categories:
+  - key: window_manager
+    name: Window Managers
+    description: Applications that control the placement and appearance of windows
+      in a GUI.
+    emoji: 🪟
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: sky
+  icon: i3
+  key: i3
+  repository:
+    name: i3
+    url: https://github.com/catppuccin/i3
+    current-maintainers:
+    - username: rubyowo
+      url: https://github.com/rubyowo
+    past-maintainers: []
+- name: IDA (Interactive Disassembler)
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [linux, macos, windows]
+  color: sapphire
+  key: ida-debugger
+  repository:
+    name: ida-debugger
+    url: https://github.com/catppuccin/ida-debugger
+    current-maintainers:
+    - username: ValentinTT
+      url: https://github.com/ValentinTT
+    past-maintainers: []
+- name: ImHex
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [linux, macos, windows]
+  color: text
+  key: imhex
+  repository:
+    name: imhex
+    url: https://github.com/catppuccin/imhex
+    current-maintainers:
+    - username: DorielRivalet
+      url: https://github.com/DorielRivalet
+    past-maintainers: []
+- name: imv
+  categories:
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux]
+  color: mauve
+  key: imv
+  repository:
+    name: imv
+    url: https://github.com/catppuccin/imv
+    current-maintainers:
+    - username: Anomalocaridid
+      url: https://github.com/Anomalocaridid
+    past-maintainers: []
+- name: Infinity For Reddit
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [android]
+  icon: reddit
+  color: peach
+  key: infinity
+  repository:
+    name: infinity
+    url: https://github.com/catppuccin/infinity
+    current-maintainers:
+    - username: Xurdejl
+      url: https://github.com/Xurdejl
+    past-maintainers: []
+- name: Insomnia
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [linux, macos, windows]
+  color: mauve
+  icon: insomnia
+  links:
+  - name: npm
+    icon: npm
+    color: red
+    url: https://www.npmjs.com/package/@catppuccin/insomnia-plugin-catppuccin
+  key: insomnia
+  repository:
+    name: insomnia
+    url: https://github.com/catppuccin/insomnia
+    current-maintainers:
+    - username: opakholis
+      url: https://github.com/opakholis
+    past-maintainers: []
+- name: iSH
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [ios]
+  color: text
+  key: ish
+  repository:
+    name: ish
+    url: https://github.com/catppuccin/ish
+    current-maintainers:
+    - username: g3rhard
+      url: https://github.com/g3rhard
+    past-maintainers: []
+- name: iTerm2
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [macos]
+  icon: iterm2
+  color: green
+  key: iterm
+  repository:
+    name: iterm
+    url: https://github.com/catppuccin/iterm
+    current-maintainers: []
+    past-maintainers:
+    - username: VictorTennekes
+      url: https://github.com/VictorTennekes
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Java
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: maroon
+  key: java
+  repository:
+    name: java
+    url: https://github.com/catppuccin/java
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    - username: nullishamy
+      url: https://github.com/nullishamy
+    past-maintainers: []
+- name: JetBrains
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: text
+  icon: jetbrains
+  links:
+  - name: JetBrains Marketplace
+    icon: jetbrains
+    color: text
+    url: https://plugins.jetbrains.com/plugin/18682-catppuccin-theme
+  key: jetbrains
+  repository:
+    name: jetbrains
+    url: https://github.com/catppuccin/jetbrains
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    - username: quentinguidee
+      name: Quentin
+      url: https://github.com/quentinguidee
+    past-maintainers:
+    - username: tiepp
+      url: https://github.com/tiepp
+- name: JetBrains Icons
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: text
+  icon: jetbrains
+  links:
+  - name: JetBrains Marketplace
+    icon: jetbrains
+    color: text
+    url: https://plugins.jetbrains.com/plugin/23029-catppuccin-icons
+  key: jetbrains-icons
+  repository:
+    name: jetbrains-icons
+    url: https://github.com/catppuccin/jetbrains-icons
+    current-maintainers:
+    - username: quentinguidee
+      name: Quentin
+      url: https://github.com/quentinguidee
+    - username: thelooter
+      url: https://github.com/thelooter
+    past-maintainers: []
+- name: Joplin
+  categories:
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
+  platform: [linux, macos, windows]
+  color: blue
+  icon: joplin
+  key: joplin
+  repository:
+    name: joplin
+    url: https://github.com/catppuccin/joplin
+    current-maintainers:
+    - username: ghostx31
+      url: https://github.com/ghostx31
+    past-maintainers: []
+- name: JupyterLab
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: agnostic
+  color: peach
+  icon: jupyter
+  key: jupyterlab
+  repository:
+    name: jupyterlab
+    url: https://github.com/catppuccin/jupyterlab
+    current-maintainers:
+    - username: gabrielmagno
+      url: https://github.com/gabrielmagno
+    past-maintainers: []
+- name: k9s
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  icon: kubernetes
+  color: blue
+  key: k9s
+  repository:
+    name: k9s
+    url: https://github.com/catppuccin/k9s
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Kvantum
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: Kvantum
+  repository:
+    name: Kvantum
+    url: https://github.com/catppuccin/Kvantum
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Kakoune
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: green
+  key: kakoune
+  repository:
+    name: kakoune
+    url: https://github.com/catppuccin/kakoune
+    current-maintainers:
+    - username: bagelwaffle
+      url: https://github.com/bagelwaffle
+    past-maintainers: []
+- name: KDE
+  categories:
+  - key: desktop_environment
+    name: Desktop Environments
+    description: Graphical User Interfaces providing a complete experience for interacting
+      with the operating system.
+    emoji: 🖥
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: blue
+  icon: kde
+  key: kde
+  repository:
+    name: kde
+    url: https://github.com/catppuccin/kde
+    current-maintainers:
+    - username: Sourcastic
+      url: https://github.com/Sourcastic
+    past-maintainers:
+    - username: Prayag2
+      url: https://github.com/Prayag2
+- name: kitty
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux, macos]
+  color: green
+  key: kitty
+  repository:
+    name: kitty
+    url: https://github.com/catppuccin/kitty
+    current-maintainers:
+    - username: unseen-ninja
+      url: https://github.com/unseen-ninja
+    past-maintainers: []
+- name: Konsole
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  icon: kde
+  color: blue
+  key: konsole
+  repository:
+    name: konsole
+    url: https://github.com/catppuccin/konsole
+    current-maintainers:
+    - username: TheExistingOne
+      url: https://github.com/TheExistingOne
+    past-maintainers: []
+- name: KSyntaxHighlighting (Kate, Kwrite, etc)
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  icon: kde
+  color: blue
+  key: ksyntaxhighlighting
+  repository:
+    name: ksyntaxhighlighting
+    url: https://github.com/catppuccin/ksyntaxhighlighting
+    current-maintainers:
+    - username: Sourcastic
+      url: https://github.com/Sourcastic
+    past-maintainers: []
+- name: LaTeX
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  icon: latex
+  color: teal
+  key: latex
+  repository:
+    name: latex
+    url: https://github.com/catppuccin/latex
+    current-maintainers:
+    - username: walshyb
+      url: https://github.com/walshyb
+    past-maintainers: []
+- name: Lapce
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: blue
+  icon: lapce
+  key: lapce
+  repository:
+    name: lapce
+    url: https://github.com/catppuccin/lapce
+    current-maintainers:
+    - username: ghishadow
+      url: https://github.com/ghishadow
+    past-maintainers: []
+- name: lazygit
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: green
+  key: lazygit
+  repository:
+    name: lazygit
+    url: https://github.com/catppuccin/lazygit
+    current-maintainers:
+    - username: nullishamy
+      url: https://github.com/nullishamy
+    past-maintainers: []
+- name: Limine
+  categories:
+  - key: boot_loader
+    name: Boot Loaders
+    description: Tools that are responsible for booting the computer.
+    emoji: 👢
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: mauve
+  key: limine
+  repository:
+    name: limine
+    url: https://github.com/catppuccin/limine
+    current-maintainers:
+    - username: mekb-turtle
+      url: https://github.com/mekb-turtle
+    past-maintainers: []
+- name: Linear
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: agnostic
+  color: lavender
+  icon: linear
+  key: linear
+  repository:
+    name: linear
+    url: https://github.com/catppuccin/linear
+    current-maintainers:
+    - username: kkrypt0nn
+      url: https://github.com/kkrypt0nn
+    past-maintainers: []
+- name: Logseq
+  categories:
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
+  platform: [linux, macos, windows]
+  color: teal
+  icon: logseq
+  key: logseq
+  repository:
+    name: logseq
+    url: https://github.com/catppuccin/logseq
+    current-maintainers:
+    - username: griimick
+      url: https://github.com/griimick
+    past-maintainers: []
+- name: Lua
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: blue
+  icon: lua
+  key: lua
+  repository:
+    name: lua
+    url: https://github.com/catppuccin/lua
+    current-maintainers:
+    - username: cattokomo
+      url: https://github.com/cattokomo
+    past-maintainers: []
+- name: LXQt
+  categories:
+  - key: desktop_environment
+    name: Desktop Environments
+    description: Graphical User Interfaces providing a complete experience for interacting
+      with the operating system.
+    emoji: 🖥
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  icon: lxqt.svg
+  color: sky
+  key: lxqt
+  repository:
+    name: lxqt
+    url: https://github.com/catppuccin/lxqt
+    current-maintainers:
+    - username: DonutDev
+      url: https://github.com/DonutDev
+    past-maintainers: []
+- name: LXTerminal
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  icon: lxqt.svg
+  color: sky
+  key: lxterminal
+  repository:
+    name: lxterminal
+    url: https://github.com/catppuccin/lxterminal
+    current-maintainers: []
+    past-maintainers:
+    - username: prateektade
+      url: https://github.com/prateektade
+- name: Mailspring
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: lavender
+  key: mailspring
+  repository:
+    name: mailspring
+    url: https://github.com/catppuccin/mailspring
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: mako
+  categories:
+  - key: notification_daemon
+    name: Notification Daemons
+    description: Applications that notify the user of desktop events in an asynchronous
+      manner.
+    emoji: 😈
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  icon: wayland
+  color: yellow
+  key: mako
+  repository:
+    name: mako
+    url: https://github.com/catppuccin/mako
+    current-maintainers:
+    - username: lokesh-krishna
+      url: https://github.com/lokesh-krishna
+    past-maintainers: []
+- name: Matplotlib
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: agnostic
+  color: blue
+  key: matplotlib
+  repository:
+    name: matplotlib
+    url: https://github.com/catppuccin/matplotlib
+    current-maintainers:
+    - username: brambozz
+      url: https://github.com/brambozz
+    past-maintainers: []
+- name: Mattermost
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: agnostic
+  color: blue
+  icon: mattermost
+  key: mattermost
+  repository:
+    name: mattermost
+    url: https://github.com/catppuccin/mattermost
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Midnight Commander
+  categories:
+  - key: file_manager
+    name: File Managers
+    description: Applications that help users navigate, organize and edit files/directories
+      on a computer.
+    emoji: 🗂️
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: sky
+  key: mc
+  repository:
+    name: mc
+    url: https://github.com/catppuccin/mc
+    current-maintainers:
+    - username: AdalZanabria
+      url: https://github.com/AdalZanabria
+    past-maintainers: []
+- name: mdBook
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: agnostic
+  color: text
+  icon: mdbook
+  key: mdBook
+  repository:
+    name: mdBook
+    url: https://github.com/catppuccin/mdBook
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers: []
+- name: micro
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  color: lavender
+  icon: microeditor
+  key: micro
+  repository:
+    name: micro
+    url: https://github.com/catppuccin/micro
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Minecraft
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  platform: [linux, macos, windows]
+  color: green
+  icon: minecraft.svg
+  key: minecraft
+  repository:
+    name: minecraft
+    url: https://github.com/catppuccin/minecraft
+    current-maintainers:
+    - username: JustLetterV
+      url: https://github.com/JustLetterV
+    past-maintainers:
+    - username: Aurn1ox
+      url: https://github.com/Aurn1ox
+- name: mIRC
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [windows]
+  color: text
+  key: mirc
+  repository:
+    name: mirc
+    url: https://github.com/catppuccin/mirc
+    current-maintainers:
+    - username: lemon-sh
+      url: https://github.com/lemon-sh
+    past-maintainers: []
+- name: Misskey
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: agnostic
+  color: green
+  icon: misskey
+  upstreamed: true
+  key: misskey
+  repository:
+    name: misskey
+    url: https://github.com/catppuccin/misskey
+    current-maintainers:
+    - username: catb00mer
+      url: https://github.com/catb00mer
+    past-maintainers: []
+- name: MiXplorer
+  categories:
+  - key: file_manager
+    name: File Managers
+    description: Applications that help users navigate, organize and edit files/directories
+      on a computer.
+    emoji: 🗂️
+  platform: [android]
+  color: blue
+  key: mixplorer
+  repository:
+    name: mixplorer
+    url: https://github.com/catppuccin/mixplorer
+    current-maintainers:
+    - username: auriafoxgirl
+      name: Auria
+      url: https://github.com/auriafoxgirl
+    past-maintainers: []
+- name: MobaXterm
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [windows]
+  color: blue
+  key: mobaxterm
+  repository:
+    name: mobaxterm
+    url: https://github.com/catppuccin/mobaxterm
+    current-maintainers:
+    - username: likendev
+      url: https://github.com/likendev
+    past-maintainers: []
+- name: Monkeytype
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  platform: agnostic
+  color: yellow
+  icon: monkeytype
+  key: monkeytype
+  repository:
+    name: monkeytype
+    url: https://github.com/catppuccin/monkeytype
+    current-maintainers: []
+    past-maintainers:
+    - username: VictorTennekes
+      url: https://github.com/VictorTennekes
+- name: Moon Animator 2
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  platform: [macos, windows]
+  color: peach
+  key: moon-animator-2
+  repository:
+    name: moon-animator-2
+    url: https://github.com/catppuccin/moon-animator-2
+    current-maintainers:
+    - username: xhayper
+      url: https://github.com/xhayper
+    past-maintainers: []
+- name: mpv
+  categories:
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux]
+  color: mauve
+  key: mpv
+  repository:
+    name: mpv
+    url: https://github.com/catppuccin/mpv
+    current-maintainers:
+    - username: Anomalocaridid
+      url: https://github.com/Anomalocaridid
+    past-maintainers: []
+- name: MusicBee
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  platform: [windows]
+  color: yellow
+  key: musicbee
+  repository:
+    name: musicbee
+    url: https://github.com/catppuccin/musicbee
+    current-maintainers:
+    - username: James-McK
+      url: https://github.com/James-McK
+    past-maintainers: []
+- name: NeoMutt
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: green
+  key: neomutt
+  repository:
+    name: neomutt
+    url: https://github.com/catppuccin/neomutt
+    current-maintainers:
+    - username: Sekki21956
+      url: https://github.com/Sekki21956
+    past-maintainers: []
+- name: Newsboat
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: peach
+  key: newsboat
+  repository:
+    name: newsboat
+    url: https://github.com/catppuccin/newsboat
+    current-maintainers: []
+    past-maintainers:
+    - username: ignamartinoli
+      url: https://github.com/ignamartinoli
+- name: nightTab
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  platform: agnostic
+  color: text
+  key: nighttab
+  repository:
+    name: nighttab
+    url: https://github.com/catppuccin/nighttab
+    current-maintainers: []
+    past-maintainers:
+    - username: justTOBBI
+      url: https://github.com/justTOBBI
+- name: Nim
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: yellow
+  icon: nim
+  key: nim
+  repository:
+    name: nim
+    url: https://github.com/catppuccin/nim
+    current-maintainers:
+    - username: daylinmorgan
+      url: https://github.com/daylinmorgan
+    past-maintainers: []
+- name: Nilesoft Shell
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [windows]
+  color: sapphire
+  key: nilesoft-shell
+  repository:
+    name: nilesoft-shell
+    url: https://github.com/catppuccin/nilesoft-shell
+    current-maintainers:
+    - username: jayylmao
+      url: https://github.com/jayylmao
+    past-maintainers: []
+- name: Nix
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux, macos]
+  color: blue
+  icon: nixos
+  key: nix
+  repository:
+    name: nix
+    url: https://github.com/catppuccin/nix
+    current-maintainers:
+    - username: Stonks3141
+      url: https://github.com/Stonks3141
+    - username: getchoo
+      url: https://github.com/getchoo
+    past-maintainers: []
+- name: Noir
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  platform: [ios]
+  color: mauve
+  key: noir
+  repository:
+    name: noir
+    url: https://github.com/catppuccin/noir
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Notepad++
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [windows]
+  icon: notepadplusplus
+  color: green
+  key: notepad-plus-plus
+  repository:
+    name: notepad-plus-plus
+    url: https://github.com/catppuccin/notepad-plus-plus
+    current-maintainers:
+    - username: InvitedToHell
+      url: https://github.com/InvitedToHell
+    past-maintainers: []
+- name: Nova
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [macos]
+  color: red
+  links:
+  - name: Nova Extensions
+    url: https://extensions.panic.com/extensions/holler/holler.CatppuccinTheme/
+  key: nova
+  repository:
+    name: nova
+    url: https://github.com/catppuccin/nova
+    current-maintainers:
+    - username: daveyholler
+      url: https://github.com/daveyholler
+    past-maintainers: []
+- name: Neovim
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  icon: neovim
+  color: green
+  key: nvim
+  repository:
+    name: nvim
+    url: https://github.com/catppuccin/nvim
+    current-maintainers:
+    - username: nullchilly
+      url: https://github.com/nullchilly
+    - username: mrtnvgr
+      url: https://github.com/mrtnvgr
+    past-maintainers: []
+- name: OBS Studio
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  platform: [linux, macos, windows]
+  color: text
+  icon: obsstudio
+  key: obs
+  repository:
+    name: obs
+    url: https://github.com/catppuccin/obs
+    current-maintainers:
+    - username: Xurdejl
+      url: https://github.com/Xurdejl
+    past-maintainers: []
+- name: Obsidian
+  categories:
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
+  platform: [linux, macos, windows]
+  color: mauve
+  icon: obsidian
+  key: obsidian
+  repository:
+    name: obsidian
+    url: https://github.com/catppuccin/obsidian
+    current-maintainers:
+    - username: mbeckrich
+      url: https://github.com/mbeckrich
+    past-maintainers: []
+- name: Openbox
+  categories:
+  - key: window_manager
+    name: Window Managers
+    description: Applications that control the placement and appearance of windows
+      in a GUI.
+    emoji: 🪟
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: sky
+  key: openbox
+  repository:
+    name: openbox
+    url: https://github.com/catppuccin/openbox
+    current-maintainers: []
+    past-maintainers:
+    - username: prateektade
+      url: https://github.com/prateektade
+- name: Opera GX
+  categories:
+  - key: browser
+    name: Browsers
+    description: Applications for accessing and navigating the World Wide Web.
+    emoji: 🏄
+  platform: [windows]
+  color: maroon
+  icon: operagx
+  key: opera-gx
+  repository:
+    name: opera-gx
+    url: https://github.com/catppuccin/opera-gx
+    current-maintainers:
+    - username: isabelroses
+      url: https://github.com/isabelroses
+    past-maintainers: []
+- name: Pantone
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: text
+  key: pantone
+  repository:
+    name: pantone
+    url: https://github.com/catppuccin/pantone
+    current-maintainers:
+    - username: BlueFalconHD
+      url: https://github.com/BlueFalconHD
+    past-maintainers: []
+- name: Papirus Folders
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  icon: folders.svg
+  color: text
+  key: papirus-folders
+  repository:
+    name: papirus-folders
+    url: https://github.com/catppuccin/papirus-folders
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Plank
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: sky
+  key: plank
+  repository:
+    name: plank
+    url: https://github.com/catppuccin/plank
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Plymouth
+  categories:
+  - key: boot_loader
+    name: Boot Loaders
+    description: Tools that are responsible for booting the computer.
+    emoji: 👢
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: blue
+  key: plymouth
+  repository:
+    name: plymouth
+    url: https://github.com/catppuccin/plymouth
+    current-maintainers:
+    - username: ndsboy
+      url: https://github.com/ndsboy
+    past-maintainers: []
+- name: Polybar
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: maroon
+  key: polybar
+  repository:
+    name: polybar
+    url: https://github.com/catppuccin/polybar
+    current-maintainers: []
+    past-maintainers:
+    - username: justTOBBI
+      url: https://github.com/justTOBBI
+- name: Pomotroid
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: red
+  key: pomotroid
+  repository:
+    name: pomotroid
+    url: https://github.com/catppuccin/pomotroid
+    current-maintainers:
+    - username: coldenate
+      url: https://github.com/coldenate
+    past-maintainers: []
+- name: Microsoft PowerPoint Slides
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  icon: microsoftpowerpoint
+  color: red
+  platform: [macos, windows]
+  key: powerpoint-slides
+  repository:
+    name: powerpoint-slides
+    url: https://github.com/catppuccin/powerpoint-slides
+    current-maintainers:
+    - username: kkrypt0nn
+      url: https://github.com/kkrypt0nn
+    past-maintainers: []
+- name: PowerShell
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: agnostic
+  color: blue
+  icon: powershell
+  key: powershell
+  repository:
+    name: powershell
+    url: https://github.com/catppuccin/powershell
+    current-maintainers:
+    - username: JK-Flip-Flop96
+      url: https://github.com/JK-Flip-Flop96
+    past-maintainers: []
+- name: Prism Launcher
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  platform: [linux, macos, windows]
+  color: text
+  key: prismlauncher
+  repository:
+    name: prismlauncher
+    url: https://github.com/catppuccin/prismlauncher
+    current-maintainers: []
+    past-maintainers:
+    - username: Mqisty
+      url: https://github.com/Mqisty
+- name: Process Compose
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [linux, macos, windows]
+  color: text
+  key: process-compose
+  repository:
+    name: process-compose
+    url: https://github.com/catppuccin/process-compose
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: PyRadio
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  platform: [linux, macos, windows]
+  color: text
+  key: pyradio
+  repository:
+    name: pyradio
+    url: https://github.com/catppuccin/pyradio
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Python
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: blue
+  icon: python
+  key: python
+  repository:
+    name: python
+    url: https://github.com/catppuccin/python
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
+    past-maintainers: []
+- name: qBittorrent
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: blue
+  icon: qbittorrent
+  key: qbittorrent
+  repository:
+    name: qbittorrent
+    url: https://github.com/catppuccin/qbittorrent
+    current-maintainers:
+    - username: Xurdejl
+      url: https://github.com/Xurdejl
+    past-maintainers: []
+- name: qt5ct
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: qt5ct
+  repository:
+    name: qt5ct
+    url: https://github.com/catppuccin/qt5ct
+    current-maintainers:
+    - username: Syndrizzle
+      url: https://github.com/Syndrizzle
+    past-maintainers: []
+- name: qutebrowser
+  categories:
+  - key: browser
+    name: Browsers
+    description: Applications for accessing and navigating the World Wide Web.
+    emoji: 🏄
+  platform: [linux, macos, windows]
+  icon: qutebrowser.svg
+  color: blue
+  key: qutebrowser
+  repository:
+    name: qutebrowser
+    url: https://github.com/catppuccin/qutebrowser
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Qt Creator
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: green
+  icon: qt
+  key: qtcreator
+  repository:
+    name: qtcreator
+    url: https://github.com/catppuccin/qtcreator
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
+    past-maintainers: []
+- name: QTerminal
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  icon: lxqt.svg
+  color: sky
+  key: qterminal
+  repository:
+    name: qterminal
+    url: https://github.com/catppuccin/qterminal
+    current-maintainers: []
+    past-maintainers:
+    - username: prateektade
+      url: https://github.com/prateektade
+- name: Raycast
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [macos]
+  color: maroon
+  icon: raycast
+  key: raycast
+  repository:
+    name: raycast
+    url: https://github.com/catppuccin/raycast
+    current-maintainers:
+    - username: rayhanadev
+      url: https://github.com/rayhanadev
+    past-maintainers: []
+- name: Rboard
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [android]
+  color: blue
+  icon: gboard.svg
+  key: rboard
+  repository:
+    name: rboard
+    url: https://github.com/catppuccin/rboard
+    current-maintainers:
+    - username: Moodzz1
+      url: https://github.com/Moodzz1
+    past-maintainers: []
+- name: rEFInd
+  categories:
+  - key: boot_loader
+    name: Boot Loaders
+    description: Tools that are responsible for booting the computer.
+    emoji: 👢
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: refind
+  repository:
+    name: refind
+    url: https://github.com/catppuccin/refind
+    current-maintainers:
+    - username: fapfaff
+      url: https://github.com/fapfaff
+    past-maintainers: []
+- name: Regolith
+  categories:
+  - key: desktop_environment
+    name: Desktop Environments
+    description: Graphical User Interfaces providing a complete experience for interacting
+      with the operating system.
+    emoji: 🖥
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: red
+  key: regolith
+  repository:
+    name: regolith
+    url: https://github.com/catppuccin/regolith
+    current-maintainers:
+    - username: taka0o
+      url: https://github.com/taka0o
+    past-maintainers: []
+- name: RemNote
+  categories:
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
+  platform: agnostic
+  color: blue
+  key: remnote
+  repository:
+    name: remnote
+    url: https://github.com/catppuccin/remnote
+    current-maintainers:
+    - username: coldenate
+      url: https://github.com/coldenate
+    past-maintainers:
+    - username: justTOBBI
+      url: https://github.com/justTOBBI
+- name: Replit
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: agnostic
+  color: peach
+  icon: replit
+  key: replit
+  repository:
+    name: replit
+    url: https://github.com/catppuccin/replit
+    current-maintainers: []
+    past-maintainers:
+    - username: Gingeh
+      url: https://github.com/Gingeh
+- name: Revolt
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [linux, macos, windows]
+  color: maroon
+  icon: revoltdotchat
+  key: revolt
+  repository:
+    name: revolt
+    url: https://github.com/catppuccin/revolt
+    current-maintainers:
+    - username: unseen-ninja
+      url: https://github.com/unseen-ninja
+    past-maintainers:
+    - username: pocco81
+      url: https://github.com/pocco81
+- name: Rio
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  color: peach
+  platform: [linux, macos, windows]
+  key: rio
+  repository:
+    name: rio
+    url: https://github.com/catppuccin/rio
+    current-maintainers:
+    - username: Brianalmeida
+      url: https://github.com/Brianalmeida
+    past-maintainers: []
+- name: Rofi
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: rofi
+  repository:
+    name: rofi
+    url: https://github.com/catppuccin/rofi
+    current-maintainers: []
+    past-maintainers:
+    - username: AlphaTechnolog
+      url: https://github.com/AlphaTechnolog
+- name: RStudio
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: [linux, macos, windows]
+  color: sky
+  icon: rstudio
+  key: rstudio
+  repository:
+    name: rstudio
+    url: https://github.com/catppuccin/rstudio
+    current-maintainers:
+    - username: AngelBerihuete
+      url: https://github.com/AngelBerihuete
+    past-maintainers: []
+- name: Rust
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: text
+  icon: rust
+  key: rust
+  repository:
+    name: rust
+    url: https://github.com/catppuccin/rust
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
+    past-maintainers: []
+- name: sc-im
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: [linux, macos]
+  color: green
+  key: sc-im
+  repository:
+    name: sc-im
+    url: https://github.com/catppuccin/sc-im
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Scrivener
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [macos]
+  color: maroon
+  key: scrivener
+  repository:
+    name: scrivener
+    url: https://github.com/catppuccin/scrivener
+    current-maintainers:
+    - username: NickSquiggles
+      name: Nick
+      url: https://github.com/NickSquiggles
+    past-maintainers: []
+- name: SDDM
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: sky
+  key: sddm
+  repository:
+    name: sddm
+    url: https://github.com/catppuccin/sddm
+    current-maintainers:
+    - username: isabelroses
+      url: https://github.com/isabelroses
+    past-maintainers: []
+- name: SerenityOS
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: agnostic
+  color: red
+  key: serenity-os
+  repository:
+    name: serenity-os
+    url: https://github.com/catppuccin/serenity-os
+    current-maintainers:
+    - username: nullishamy
+      url: https://github.com/nullishamy
+    past-maintainers: []
+- name: ShareX
+  categories:
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [windows]
+  color: blue
+  icon: sharex
+  key: sharex
+  repository:
+    name: sharex
+    url: https://github.com/catppuccin/sharex
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers: []
+- name: Shiki
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: agnostic
+  color: sapphire
+  key: shiki
+  repository:
+    name: shiki
+    url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: SimpleX
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [android]
+  color: sapphire
+  key: simplex
+  repository:
+    name: simplex
+    url: https://github.com/catppuccin/simplex
+    current-maintainers:
+    - username: iruzo
+      url: https://github.com/iruzo
+    past-maintainers: []
+- name: skim
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: text
+  key: skim
+  repository:
+    name: skim
+    url: https://github.com/catppuccin/skim
+    current-maintainers:
+    - username: gabrielmagno
+      url: https://github.com/gabrielmagno
+    past-maintainers: []
+- name: Slack
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: agnostic
+  color: mauve
+  icon: slack
+  key: slack
+  repository:
+    name: slack
+    url: https://github.com/catppuccin/slack
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers: []
+- name: Sioyek
+  categories:
+  - key: document_viewer
+    name: Document Viewers
+    description: Applications that allow users to open, view and interact with documents.
+    emoji: 📃
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: text
+  key: sioyek
+  repository:
+    name: sioyek
+    url: https://github.com/catppuccin/sioyek
+    current-maintainers:
+    - username: 21st-centuryman
+      url: https://github.com/21st-centuryman
+    past-maintainers: []
+- name: SolveSpace
+  categories:
+  - key: 3d_modelling
+    name: 3D Modelling
+    description: Applications that are designed to create and manipulate objects in
+      three-dimensional space.
+    emoji: 🖼️
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux]
+  color: mauve
+  key: solvespace
+  repository:
+    name: solvespace
+    url: https://github.com/catppuccin/solvespace
+    current-maintainers:
+    - username: ndsboy
+      url: https://github.com/ndsboy
+    past-maintainers: []
+- name: SpeedCrunch
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: maroon
+  key: speedcrunch
+  repository:
+    name: speedcrunch
+    url: https://github.com/catppuccin/speedcrunch
+    current-maintainers:
+    - username: Zazucki
+      url: https://github.com/Zazucki
+    past-maintainers: []
+- name: Spicetify
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  platform: [linux, macos, windows]
+  color: green
+  icon: spotify
+  key: spicetify
+  repository:
+    name: spicetify
+    url: https://github.com/catppuccin/spicetify
+    current-maintainers:
+    - username: ohitstom
+      url: https://github.com/ohitstom
+    past-maintainers:
+    - username: davidbgonz
+      url: https://github.com/davidbgonz
+- name: spotify-player
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  platform: [linux, macos, windows]
+  color: green
+  icon: spotify
+  key: spotify-player
+  repository:
+    name: spotify-player
+    url: https://github.com/catppuccin/spotify-player
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Spotify TUI
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  color: green
+  icon: spotify
+  key: spotify-tui
+  repository:
+    name: spotify-tui
+    url: https://github.com/catppuccin/spotify-tui
+    current-maintainers:
+    - username: Sekki21956
+      url: https://github.com/Sekki21956
+    past-maintainers: []
+- name: Spyder
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  icon: spyderide
+  color: red
+  key: spyder
+  repository:
+    name: spyder
+    url: https://github.com/catppuccin/spyder
+    current-maintainers:
+    - username: meme8383
+      url: https://github.com/meme8383
+    past-maintainers: []
+- name: Squirrel (Rime for macOS)
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [macos]
+  color: text
+  key: squirrel
+  repository:
+    name: squirrel
+    url: https://github.com/catppuccin/squirrel
+    current-maintainers:
+    - username: moseeking
+      url: https://github.com/moseeking
+    past-maintainers: []
+- name: st
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: blue
+  icon: suckless
+  key: st
+  repository:
+    name: st
+    url: https://github.com/catppuccin/st
+    current-maintainers: []
+    past-maintainers:
+    - username: tsjazil
+      url: https://github.com/tsjazil
+- name: Stable Diffusion WebUI
+  categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  platform: agnostic
+  color: text
+  key: stable-diffusion-web-ui
+  repository:
+    name: stable-diffusion-web-ui
+    url: https://github.com/catppuccin/stable-diffusion-web-ui
+    current-maintainers: []
+    past-maintainers:
+    - username: Kettukaa
+      url: https://github.com/Kettukaa
+- name: Starship
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  color: pink
+  icon: starship
+  key: starship
+  repository:
+    name: starship
+    url: https://github.com/catppuccin/starship
+    current-maintainers:
+    - username: JoshPaulie
+      url: https://github.com/JoshPaulie
+    past-maintainers: []
+- name: Steam Deck
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  platform: [linux]
+  color: blue
+  icon: steamdeck
+  key: steam-deck
+  repository:
+    name: steam-deck
+    url: https://github.com/catppuccin/steam-deck
+    current-maintainers:
+    - username: soradotwav
+      url: https://github.com/soradotwav
+    - username: ozwaldorf
+      url: https://github.com/ozwaldorf
+    past-maintainers: []
+- name: Sublime Text
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: yellow
+  icon: sublimetext
+  key: sublime-text
+  repository:
+    name: sublime-text
+    url: https://github.com/catppuccin/sublime-text
+    current-maintainers:
+    - username: MatthiasPortzel
+      url: https://github.com/MatthiasPortzel
+    past-maintainers:
+    - username: ghostx31
+      url: https://github.com/ghostx31
+- name: SumatraPDF
+  categories:
+  - key: document_viewer
+    name: Document Viewers
+    description: Applications that allow users to open, view and interact with documents.
+    emoji: 📃
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [windows]
+  color: yellow
+  key: sumatra-pdf
+  repository:
+    name: sumatra-pdf
+    url: https://github.com/catppuccin/sumatra-pdf
+    current-maintainers:
+    - username: asrvd
+      url: https://github.com/asrvd
+    past-maintainers: []
+- name: swaylock
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: yellow
+  icon: wayland
+  key: swaylock
+  repository:
+    name: swaylock
+    url: https://github.com/catppuccin/swaylock
+    current-maintainers:
+    - username: remiposo
+      url: https://github.com/remiposo
+    past-maintainers: []
+- name: swaync
+  categories:
+  - key: notification_daemon
+    name: Notification Daemons
+    description: Applications that notify the user of desktop events in an asynchronous
+      manner.
+    emoji: 😈
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: yellow
+  icon: wayland
+  key: swaync
+  repository:
+    name: swaync
+    url: https://github.com/catppuccin/swaync
+    current-maintainers:
+    - username: isabelroses
+      url: https://github.com/isabelroses
+    past-maintainers: []
+- name: Tabby
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux, macos, windows]
+  color: lavender
+  key: tabby
+  repository:
+    name: tabby
+    url: https://github.com/catppuccin/tabby
+    current-maintainers:
+    - username: sakkke
+      url: https://github.com/sakkke
+    past-maintainers: []
+- name: Tailwind CSS
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: agnostic
+  color: sky
+  icon: tailwindcss
+  links:
+  - name: npm
+    icon: npm
+    color: red
+    url: https://www.npmjs.com/package/@catppuccin/tailwindcss
+  key: tailwindcss
+  repository:
+    name: tailwindcss
+    url: https://github.com/catppuccin/tailwindcss
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Telegram
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: agnostic
+  color: blue
+  icon: telegram
+  key: telegram
+  repository:
+    name: telegram
+    url: https://github.com/catppuccin/telegram
+    current-maintainers:
+    - username: isabelincorp
+      url: https://github.com/isabelincorp
+    past-maintainers: []
+- name: Terminator
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: red
+  key: terminator
+  repository:
+    name: terminator
+    url: https://github.com/catppuccin/terminator
+    current-maintainers: []
+    past-maintainers:
+    - username: pocco81
+      url: https://github.com/pocco81
+    - username: AdalZanabria
+      url: https://github.com/AdalZanabria
+- name: Terminal.app
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [macos]
+  color: text
+  key: Terminal.app
+  repository:
+    name: Terminal.app
+    url: https://github.com/catppuccin/Terminal.app
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Termux
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  upstreamed: true
+  platform: [android]
+  color: text
+  key: termux
+  repository:
+    name: termux
+    url: https://github.com/catppuccin/termux
+    current-maintainers: []
+    past-maintainers:
+    - username: AdalZanabria
+      url: https://github.com/AdalZanabria
+- name: The Lounge
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: agnostic
+  color: peach
+  key: thelounge
+  repository:
+    name: thelounge
+    url: https://github.com/catppuccin/thelounge
+    current-maintainers: []
+    past-maintainers:
+    - username: hyperreal64
+      url: https://github.com/hyperreal64
+- name: theme.park
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  upstreamed: true
+  platform: agnostic
+  color: teal
+  key: theme.park
+  repository:
+    name: theme.park
+    url: https://github.com/catppuccin/theme.park
+    current-maintainers:
+    - username: lewisakura
+      url: https://github.com/lewisakura
+    past-maintainers: []
+- name: Thunderbird
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: blue
+  icon: thunderbird
+  key: thunderbird
+  repository:
+    name: thunderbird
+    url: https://github.com/catppuccin/thunderbird
+    current-maintainers:
+    - username: nullishamy
+      url: https://github.com/nullishamy
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Tilix
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: text
+  key: tilix
+  repository:
+    name: tilix
+    url: https://github.com/catppuccin/tilix
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: tmux
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: green
+  icon: tmux
+  key: tmux
+  repository:
+    name: tmux
+    url: https://github.com/catppuccin/tmux
+    current-maintainers:
+    - username: rogeruiz
+      url: https://github.com/rogeruiz
+    - username: 89iuv
+      url: https://github.com/89iuv
+    - username: vdbe
+      url: https://github.com/vdbe
+    past-maintainers: []
+- name: Tofi
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: tofi
+  repository:
+    name: tofi
+    url: https://github.com/catppuccin/tofi
+    current-maintainers:
+    - username: iruzo
+      url: https://github.com/iruzo
+    past-maintainers: []
+- name: Trilium Notes
+  categories:
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
+  platform: [linux, macos, windows]
+  color: maroon
+  icon: trilium
+  key: trilium-notes
+  repository:
+    name: trilium-notes
+    url: https://github.com/catppuccin/trilium-notes
+    current-maintainers:
+    - username: SadAlexa
+      url: https://github.com/SadAlexa
+    past-maintainers: []
+- name: tty
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: tty
+  repository:
+    name: tty
+    url: https://github.com/catppuccin/tty
+    current-maintainers:
+    - username: CallMeEchoCodes
+      url: https://github.com/CallMeEchoCodes
+    past-maintainers: []
+- name: tym
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: text
+  key: tym
+  repository:
+    name: tym
+    url: https://github.com/catppuccin/tym
+    current-maintainers:
+    - username: justleoo
+      url: https://github.com/justleoo
+    past-maintainers: []
+- name: Ueli
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [windows, macos]
+  color: text
+  key: ueli
+  repository:
+    name: ueli
+    url: https://github.com/catppuccin/ueli
+    current-maintainers:
+    - username: lighttigerXIV
+      url: https://github.com/lighttigerXIV
+    past-maintainers: []
+- name: UI
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  icon: react
+  color: sky
+  links:
+  - name: npm
+    icon: npm
+    color: red
+    url: https://www.npmjs.com/package/@catppuccin/ui
+  key: ui
+  repository:
+    name: ui
+    url: https://github.com/catppuccin/ui
+    current-maintainers: []
+    past-maintainers:
+    - username: didair
+      url: https://github.com/didair
+- name: Ulauncher
+  categories:
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: teal
+  key: ulauncher
+  repository:
+    name: ulauncher
+    url: https://github.com/catppuccin/ulauncher
+    current-maintainers:
+    - username: lighttigerXIV
+      url: https://github.com/lighttigerXIV
+    past-maintainers: []
+- name: ULTRAKILL
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  platform: [linux, macos, windows]
+  color: text
+  key: ultrakill
+  repository:
+    name: ultrakill
+    url: https://github.com/catppuccin/ultrakill
+    current-maintainers: []
+    past-maintainers:
+    - username: Gingeh
+      url: https://github.com/Gingeh
+- name: Unreal Engine
+  categories:
+  - key: game_development
+    name: Game Development
+    description: Applications that are designed for creating, designing and building
+      video games.
+    emoji: 🕹
+  platform: [linux, macos, windows]
+  icon: unrealengine
+  color: blue
+  key: unreal-engine
+  repository:
+    name: unreal-engine
+    url: https://github.com/catppuccin/unreal-engine
+    current-maintainers:
+    - username: quentinguidee
+      name: Quentin
+      url: https://github.com/quentinguidee
+    past-maintainers: []
+- name: Urxvt
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: text
+  key: urxvt
+  repository:
+    name: urxvt
+    url: https://github.com/catppuccin/urxvt
+    current-maintainers: []
+    past-maintainers:
+    - username: pocco81
+      url: https://github.com/pocco81
+- name: V
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: lavender
+  icon: v
+  key: v
+  repository:
+    name: v
+    url: https://github.com/catppuccin/v
+    current-maintainers:
+    - username: Delta456
+      url: https://github.com/Delta456
+    past-maintainers: []
+- name: Vendetta
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [android, ios]
+  color: blue
+  icon: discord
+  key: vendetta
+  repository:
+    name: vendetta
+    url: https://github.com/catppuccin/vendetta
+    current-maintainers:
+    - username: riivx
+      url: https://github.com/riivx
+    - username: Moodzz1
+      url: https://github.com/Moodzz1
+    past-maintainers: []
+- name: Vim
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  color: green
+  icon: vim
+  key: vim
+  repository:
+    name: vim
+    url: https://github.com/catppuccin/vim
+    current-maintainers:
+    - username: M3nny
+      url: https://github.com/M3nny
+    past-maintainers: []
+- name: Vimium
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  platform: agnostic
+  color: green
+  icon: vim
+  key: vimium
+  repository:
+    name: vimium
+    url: https://github.com/catppuccin/vimium
+    current-maintainers: []
+    past-maintainers:
+    - username: elkrien
+      url: https://github.com/elkrien
+- name: Visual Studio
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [windows]
+  color: mauve
+  icon: visualstudio
+  links:
+  - name: Visual Studio Marketplace
+    icon: visualstudio
+    color: blue
+    url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.CatppuccinVS
+  key: visual-studio
+  repository:
+    name: visual-studio
+    url: https://github.com/catppuccin/visual-studio
+    current-maintainers:
+    - username: djflan
+      url: https://github.com/djflan
+    past-maintainers: []
+- name: Vivaldi
+  categories:
+  - key: browser
+    name: Browsers
+    description: Applications for accessing and navigating the World Wide Web.
+    emoji: 🏄
+  platform: [linux, macos, windows]
+  color: red
+  icon: vivaldi
+  key: vivaldi
+  repository:
+    name: vivaldi
+    url: https://github.com/catppuccin/vivaldi
+    current-maintainers:
+    - username: sakkke
+      url: https://github.com/sakkke
+    past-maintainers: []
+- name: Visual Studio Code
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: blue
+  icon: visualstudiocode
+  links:
+  - name: Visual Studio Marketplace
+    icon: visualstudio
+    color: blue
+    url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
+  - name: Open VSX Registry
+    icon: vscodium
+    color: blue
+    url: https://open-vsx.org/extension/Catppuccin/catppuccin-vsc
+  key: vscode
+  repository:
+    name: vscode
+    url: https://github.com/catppuccin/vscode
+    current-maintainers: []
+    past-maintainers:
+    - username: ghostx31
+      url: https://github.com/ghostx31
+    - username: VictorTennekes
+      url: https://github.com/VictorTennekes
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Visual Studio Code Icons
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: blue
+  icon: visualstudiocode
+  links:
+  - name: Visual Studio Marketplace
+    icon: visualstudio
+    color: blue
+    url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
+  key: vscode-icons
+  repository:
+    name: vscode-icons
+    url: https://github.com/catppuccin/vscode-icons
+    current-maintainers:
+    - username: prazdevs
+      url: https://github.com/prazdevs
+    past-maintainers: []
+- name: Warp
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [macos]
+  color: blue
+  icon: warp
+  key: warp
+  repository:
+    name: warp
+    url: https://github.com/catppuccin/warp
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: waybar
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: yellow
+  icon: wayland
+  key: waybar
+  repository:
+    name: waybar
+    url: https://github.com/catppuccin/waybar
+    current-maintainers:
+    - username: rubyowo
+      url: https://github.com/rubyowo
+    past-maintainers: []
+- name: WezTerm
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux, macos, windows]
+  color: mauve
+  icon: wezterm
+  upstreamed: true
+  key: wezterm
+  repository:
+    name: wezterm
+    url: https://github.com/catppuccin/wezterm
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: Whoogle
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  platform: agnostic
+  color: lavender
+  key: whoogle
+  repository:
+    name: whoogle
+    url: https://github.com/catppuccin/whoogle
+    current-maintainers: []
+    past-maintainers:
+    - username: WitherCubes
+      url: https://github.com/WitherCubes
+- name: Windows Files
+  categories:
+  - key: file_manager
+    name: File Managers
+    description: Applications that help users navigate, organize and edit files/directories
+      on a computer.
+    emoji: 🗂️
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [windows]
+  icon: windows-files.svg
+  color: yellow
+  key: windows-files
+  repository:
+    name: windows-files
+    url: https://github.com/catppuccin/windows-files
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers: []
+- name: Windows Terminal
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [windows]
+  icon: windowsterminal
+  color: text
+  key: windows-terminal
+  repository:
+    name: windows-terminal
+    url: https://github.com/catppuccin/windows-terminal
+    current-maintainers:
+    - username: LudoPinelli
+      url: https://github.com/LudoPinelli
+    past-maintainers: []
+- name: Xcode
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [macos]
+  color: blue
+  icon: xcode
+  key: xcode
+  repository:
+    name: xcode
+    url: https://github.com/catppuccin/xcode
+    current-maintainers:
+    - username: quentinguidee
+      name: Quentin
+      url: https://github.com/quentinguidee
+    past-maintainers: []
+- name: Xfce4 Terminal
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: blue
+  icon: xfce
+  key: xfce4-terminal
+  repository:
+    name: xfce4-terminal
+    url: https://github.com/catppuccin/xfce4-terminal
+    current-maintainers: []
+    past-maintainers:
+    - username: WitherCubes
+      url: https://github.com/WitherCubes
+- name: Xed
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux]
+  color: text
+  key: xed
+  repository:
+    name: xed
+    url: https://github.com/catppuccin/xed
+    current-maintainers: []
+    past-maintainers:
+    - username: justTOBBI
+      url: https://github.com/justTOBBI
+- name: Xresources
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  icon: xdotorg
+  color: peach
+  key: xresources
+  repository:
+    name: xresources
+    url: https://github.com/catppuccin/xresources
+    current-maintainers:
+    - username: pocco81
+      url: https://github.com/pocco81
+    past-maintainers: []
+- name: Yakuake
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: text
+  key: yakuake
+  repository:
+    name: yakuake
+    url: https://github.com/catppuccin/yakuake
+    current-maintainers:
+    - username: southqaw
+      url: https://github.com/southqaw
+    past-maintainers: []
+- name: Yazi
+  categories:
+  - key: file_manager
+    name: File Managers
+    description: Applications that help users navigate, organize and edit files/directories
+      on a computer.
+    emoji: 🗂️
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [android, linux, macos, windows]
+  color: peach
+  key: yazi
+  repository:
+    name: yazi
+    url: https://github.com/catppuccin/yazi
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+- name: YouTube Music
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  platform: agnostic
+  color: red
+  icon: youtubemusic
+  key: youtubemusic
+  repository:
+    name: youtubemusic
+    url: https://github.com/catppuccin/youtubemusic
+    current-maintainers:
+    - username: kerichdev
+      url: https://github.com/kerichdev
+    past-maintainers:
+    - username: rubyowo
+      url: https://github.com/rubyowo
+- name: Zathura
+  categories:
+  - key: document_viewer
+    name: Document Viewers
+    description: Applications that allow users to open, view and interact with documents.
+    emoji: 📃
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux]
+  icon: zathura.svg
+  color: teal
+  key: zathura
+  repository:
+    name: zathura
+    url: https://github.com/catppuccin/zathura
+    current-maintainers:
+    - username: lokesh-krishna
+      url: https://github.com/lokesh-krishna
+    past-maintainers: []
+- name: Zed
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [macos]
+  upstreamed: true
+  color: blue
+  icon: zedindustries
+  key: zed
+  repository:
+    name: zed
+    url: https://github.com/catppuccin/zed
+    current-maintainers:
+    - username: tecandrew
+      url: https://github.com/tecandrew
+    past-maintainers: []
+- name: Zellij
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  upstreamed: true
+  icon: zellij.svg
+  color: green
+  key: zellij
+  repository:
+    name: zellij
+    url: https://github.com/catppuccin/zellij
+    current-maintainers:
+    - username: mainrs
+      url: https://github.com/mainrs
+    past-maintainers: []
+- name: ZSH Fast Syntax Highlighting
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: peach
+  icon: zsh
+  key: zsh-fsh
+  repository:
+    name: zsh-fsh
+    url: https://github.com/catppuccin/zsh-fsh
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+- name: zsh-syntax-highlighting
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: peach
+  icon: zsh
+  key: zsh-syntax-highlighting
+  repository:
+    name: zsh-syntax-highlighting
+    url: https://github.com/catppuccin/zsh-syntax-highlighting
+    current-maintainers: []
+    past-maintainers:
+    - username: hyperreal64
+      url: https://github.com/hyperreal64
+- name: Zutty
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux]
+  color: text
+  key: zutty
+  repository:
+    name: zutty
+    url: https://github.com/catppuccin/zutty
+    current-maintainers:
+    - username: sakkke
+      url: https://github.com/sakkke
+    past-maintainers: []
+collaborators:
+- username: 112cxyz
+  url: https://github.com/112cxyz
+- username: 21st-centuryman
+  url: https://github.com/21st-centuryman
+- username: 42Willow
+  url: https://github.com/42Willow
+- username: 89iuv
+  url: https://github.com/89iuv
+- username: abhishekmj303
+  url: https://github.com/abhishekmj303
+- username: AdalZanabria
+  url: https://github.com/AdalZanabria
+- username: AlphaTechnolog
+  url: https://github.com/AlphaTechnolog
+- username: unseen-ninja
+  url: https://github.com/unseen-ninja
+- username: AngelBerihuete
+  url: https://github.com/AngelBerihuete
+- username: Anomalocaridid
+  url: https://github.com/Anomalocaridid
+- username: AnubisNekhet
+  name: Anubis
+  url: https://github.com/AnubisNekhet
+- username: asrvd
+  url: https://github.com/asrvd
+- username: aszecsei
+  url: https://github.com/aszecsei
+- username: auriafoxgirl
+  name: Auria
+  url: https://github.com/auriafoxgirl
+- username: Aurn1ox
+  url: https://github.com/Aurn1ox
+- username: ayamir
+  url: https://github.com/ayamir
+- username: backwardspy
+  name: pigeon
+  url: https://github.com/backwardspy
+- username: bagelwaffle
+  url: https://github.com/bagelwaffle
+- username: BlueFalconHD
+  url: https://github.com/BlueFalconHD
+- username: brambozz
+  url: https://github.com/brambozz
+- username: Brianalmeida
+  url: https://github.com/Brianalmeida
+- username: caarlos0
+  url: https://github.com/caarlos0
+- username: CallMeEchoCodes
+  url: https://github.com/CallMeEchoCodes
+- username: catb00mer
+  url: https://github.com/catb00mer
+- username: cattokomo
+  url: https://github.com/cattokomo
+- username: Cristhyano
+  url: https://github.com/Cristhyano
+- username: coldenate
+  url: https://github.com/coldenate
+- username: Daeraxa
+  url: https://github.com/Daeraxa
+- username: daveyholler
+  url: https://github.com/daveyholler
+- username: davfsa
+  url: https://github.com/davfsa
+- username: davidbgonz
+  url: https://github.com/davidbgonz
+- username: daylinmorgan
+  url: https://github.com/daylinmorgan
+- username: Delta456
+  url: https://github.com/Delta456
+- username: denis-g
+  url: https://github.com/denis-g
+- username: didair
+  url: https://github.com/didair
+- username: djflan
+  url: https://github.com/djflan
+- username: DonutDev
+  url: https://github.com/DonutDev
+- username: DorielRivalet
+  url: https://github.com/DorielRivalet
+- username: Dukatron
+  url: https://github.com/Dukatron
+- username: EdenQwQ
+  url: https://github.com/EdenQwQ
+- username: elkrien
+  url: https://github.com/elkrien
+- username: fapfaff
+  url: https://github.com/fapfaff
+- username: fathulfahmy
+  url: https://github.com/fathulfahmy
+- username: Flapperoo
+  url: https://github.com/Flapperoo
+- username: fruzitent
+  url: https://github.com/fruzitent
+- username: g3rhard
+  url: https://github.com/g3rhard
+- username: gabrielmagno
+  url: https://github.com/gabrielmagno
+- username: getchoo
+  url: https://github.com/getchoo
+- username: ghishadow
+  url: https://github.com/ghishadow
+- username: ghostx31
+  url: https://github.com/ghostx31
+- username: Gingeh
+  url: https://github.com/Gingeh
+- username: griimick
+  url: https://github.com/griimick
+- username: hyperreal64
+  url: https://github.com/hyperreal64
+- username: icy-comet
+  url: https://github.com/icy-comet
+- username: ignamartinoli
+  url: https://github.com/ignamartinoli
+- username: InvitedToHell
+  url: https://github.com/InvitedToHell
+- username: iruzo
+  url: https://github.com/iruzo
+- username: isabelincorp
+  url: https://github.com/isabelincorp
+- username: isabelroses
+  url: https://github.com/isabelroses
+- username: James-McK
+  url: https://github.com/James-McK
+- username: jayylmao
+  url: https://github.com/jayylmao
+- username: JK-Flip-Flop96
+  url: https://github.com/JK-Flip-Flop96
+- username: jolheiser
+  url: https://github.com/jolheiser
+- username: JoshPaulie
+  url: https://github.com/JoshPaulie
+- username: justleoo
+  url: https://github.com/justleoo
+- username: JustLetterV
+  url: https://github.com/JustLetterV
+- username: justTOBBI
+  url: https://github.com/justTOBBI
+- username: kerichdev
+  url: https://github.com/kerichdev
+- username: Kettukaa
+  url: https://github.com/Kettukaa
+- username: kkrypt0nn
+  url: https://github.com/kkrypt0nn
+- username: lemon-sh
+  url: https://github.com/lemon-sh
+- username: lewisakura
+  url: https://github.com/lewisakura
+- username: likendev
+  url: https://github.com/likendev
+- username: lighttigerXIV
+  url: https://github.com/lighttigerXIV
+- username: lokesh-krishna
+  url: https://github.com/lokesh-krishna
+- username: LudoPinelli
+  url: https://github.com/LudoPinelli
+- username: Liumingxun
+  name: Lime
+  url: https://github.com/Liumingxun
+- username: M3nny
+  url: https://github.com/M3nny
+- username: MAHcodes
+  url: https://github.com/MAHcodes
+- username: mainrs
+  url: https://github.com/mainrs
+- username: MatthiasPortzel
+  url: https://github.com/MatthiasPortzel
+- username: mbeckrich
+  url: https://github.com/mbeckrich
+- username: mekb-turtle
+  url: https://github.com/mekb-turtle
+- username: meme8383
+  url: https://github.com/meme8383
+- username: MikaelFangel
+  url: https://github.com/MikaelFangel
+- username: Moodzz1
+  url: https://github.com/Moodzz1
+- username: moseeking
+  url: https://github.com/moseeking
+- username: Mqisty
+  url: https://github.com/Mqisty
+- username: mrdoge515
+  url: https://github.com/mrdoge515
+- username: mrtnvgr
+  url: https://github.com/mrtnvgr
+- username: NamesCode
+  url: https://github.com/NamesCode
+- username: ndsboy
+  url: https://github.com/ndsboy
+- username: nekowinston
+  name: winston
+  url: https://github.com/nekowinston
+- username: NickSquiggles
+  name: Nick
+  url: https://github.com/NickSquiggles
+- username: NikSneMC
+  url: https://github.com/NikSneMC
+- username: nullchilly
+  url: https://github.com/nullchilly
+- username: nullishamy
+  url: https://github.com/nullishamy
+- username: nyxkrage
+  url: https://github.com/nyxkrage
+- username: ohitstom
+  url: https://github.com/ohitstom
+- username: ohxxm
+  url: https://github.com/ohxxm
+- username: opakholis
+  url: https://github.com/opakholis
+- username: ozwaldorf
+  url: https://github.com/ozwaldorf
+- username: PanAeon
+  url: https://github.com/PanAeon
+- username: pocco81
+  url: https://github.com/pocco81
+- username: prateektade
+  url: https://github.com/prateektade
+- username: Prayag2
+  url: https://github.com/Prayag2
+- username: prazdevs
+  url: https://github.com/prazdevs
+- username: pspiagicw
+  url: https://github.com/pspiagicw
+- username: quentinguidee
+  name: Quentin
+  url: https://github.com/quentinguidee
+- username: r58Playz
+  url: https://github.com/r58Playz
+- username: rayhanadev
+  url: https://github.com/rayhanadev
+- username: remiposo
+  url: https://github.com/remiposo
+- username: reniivali
+  url: https://github.com/reniivali
+- username: rogeruiz
+  url: https://github.com/rogeruiz
+- username: riivx
+  url: https://github.com/riivx
+- username: rithikasilva
+  url: https://github.com/rithikasilva
+- username: rubyowo
+  url: https://github.com/rubyowo
+- username: sacerd-OS
+  url: https://github.com/sacerd-OS
+- username: SadAlexa
+  url: https://github.com/SadAlexa
+- username: sakkke
+  url: https://github.com/sakkke
+- username: Sekki21956
+  url: https://github.com/Sekki21956
+- username: schoblaska
+  url: https://github.com/schoblaska
+- username: ShyyLexi
+  name: Lexi
+  url: https://github.com/ShyyLexi
+- username: sgoudham
+  name: Hammy
+  url: https://github.com/sgoudham
+- username: skinatro
+  url: https://github.com/skinatro
+- username: sofycodes
+  url: https://github.com/sofycodes
+- username: soradotwav
+  url: https://github.com/soradotwav
+- username: southqaw
+  url: https://github.com/southqaw
+- username: Sourcastic
+  url: https://github.com/Sourcastic
+- username: Stonks3141
+  url: https://github.com/Stonks3141
+- username: Syndrizzle
+  url: https://github.com/Syndrizzle
+- username: taka0o
+  url: https://github.com/taka0o
+- username: TarunDaCoder
+  url: https://github.com/TarunDaCoder
+- username: tecandrew
+  url: https://github.com/tecandrew
+- username: tetov
+  url: https://github.com/tetov
+- username: TheExistingOne
+  url: https://github.com/TheExistingOne
+- username: thelooter
+  url: https://github.com/thelooter
+- username: tiepp
+  url: https://github.com/tiepp
+- username: Tnixc
+  url: https://github.com/Tnixc
+- username: ToxicAven
+  url: https://github.com/ToxicAven
+- username: tsjazil
+  url: https://github.com/tsjazil
+- username: uncenter
+  url: https://github.com/uncenter
+- username: useEffects
+  url: https://github.com/useEffects
+- username: ValentinTT
+  url: https://github.com/ValentinTT
+- username: vdbe
+  url: https://github.com/vdbe
+- username: VictorTennekes
+  url: https://github.com/VictorTennekes
+- username: walshyb
+  url: https://github.com/walshyb
+- username: Waxxx333
+  url: https://github.com/Waxxx333
+- username: WitherCubes
+  url: https://github.com/WitherCubes
+- username: xhayper
+  url: https://github.com/xhayper
+- username: Xurdejl
+  url: https://github.com/Xurdejl
+- username: Zazucki
+  url: https://github.com/Zazucki
+categories:
+- key: code_editor
+  name: Code Editors & IDEs
+  description: Tools for writing and editing code, offering syntax highlighting, debugging,
+    etc.
+  emoji: 👾
+- key: development
+  name: Development Tools
+  description: Tools aiding software development, management and distribution.
+  emoji: 💭
+- key: library
+  name: Libraries
+  description: Software libraries that implement and expose the Catppuccin palette
+    in a programming language.
+  emoji: 📚
+- key: cli
+  name: CLI Tools
+  description: Command-line interface utilities that perform specific tasks, ranging
+    from file management to system monitoring.
+  emoji: 🐚
+- key: terminal
+  name: Terminals
+  description: Programs providing text-based interfaces to interact with the operating
+    system.
+  emoji: 🌱
+- key: system
+  name: System
+  description: Applications that are close to the operating system.
+  emoji: 🔧
+- key: boot_loader
+  name: Boot Loaders
+  description: Tools that are responsible for booting the computer.
+  emoji: 👢
+- key: notification_daemon
+  name: Notification Daemons
+  description: Applications that notify the user of desktop events in an asynchronous
+    manner.
+  emoji: 😈
+- key: desktop_environment
+  name: Desktop Environments
+  description: Graphical User Interfaces providing a complete experience for interacting
+    with the operating system.
+  emoji: 🖥
+- key: window_manager
+  name: Window Managers
+  description: Applications that control the placement and appearance of windows in
+    a GUI.
+  emoji: 🪟
+- key: file_manager
+  name: File Managers
+  description: Applications that help users navigate, organize and edit files/directories
+    on a computer.
+  emoji: 🗂️
+- key: application_launcher
+  name: Application Launchers
+  description: Tools that provide a quick and easy way for users to launch applications.
+  emoji: 🗃
+- key: browser
+  name: Browsers
+  description: Applications for accessing and navigating the World Wide Web.
+  emoji: 🏄
+- key: browser_extension
+  name: Browser Extensions
+  description: Add-ons which extend the functionality of web browsers, enhancing the
+    browsing experience.
+  emoji: 🧩
+- key: search_engine
+  name: Search Engines
+  description: Websites that enable users to search and retrieve information from
+    the World Wide Web.
+  emoji: 🔎
+- key: translation_tool
+  name: Translation Tools
+  description: Applications that help bridge language gaps by translating one language
+    to another.
+  emoji: 🗺️
+- key: wiki
+  name: Wikis
+  description: Websites that hold information edited by multiple users.
+  emoji: 🧠
+- key: photo_and_video
+  name: Photo & Video
+  description: Applications that help in capturing, editing, managing, storing, or
+    sharing photos and videos.
+  emoji: 📸
+- key: music
+  name: Music
+  description: Applications related to discovering, listening to and playing music.
+  emoji: 🎵
+- key: productivity
+  name: Productivity
+  description: Applications that make certain tasks or activities more organised and
+    efficient.
+  emoji: 📖
+- key: email_client
+  name: Email Clients
+  description: Applications related to sending and receiving email.
+  emoji: 💌
+- key: game_development
+  name: Game Development
+  description: Applications that are designed for creating, designing and building
+    video games.
+  emoji: 🕹
+- key: 3d_modelling
+  name: 3D Modelling
+  description: Applications that are designed to create and manipulate objects in
+    three-dimensional space.
+  emoji: 🖼️
+- key: note_taking
+  name: Note Taking
+  description: Tools for creating, organizing, and managing digital notes.
+  emoji: 📝
+- key: education
+  name: Education
+  description: Applications that faciliate learning, knowledge acquisition and skill
+    development.
+  emoji: 🎓
+- key: document_viewer
+  name: Document Viewers
+  description: Applications that allow users to open, view and interact with documents.
+  emoji: 📃
+- key: social_networking
+  name: Social Networking
+  description: Applications that bring people together through text, voice, photo
+    and/or video.
+  emoji: ✨
+- key: discussion_forum
+  name: Discussion Forums
+  description: Platforms that allow people to engage in conversation, share information,
+    and discuss various topics.
+  emoji: 🗣️
+- key: entertainment
+  name: Entertainment
+  description: Applications designed to entertain the user.
+  emoji: 🌈
+- key: game
+  name: Games
+  description: Applications related to gaming and the idea of game-ification.
+  emoji: 🎮
+- key: analytics
+  name: Analytics
+  description: Applications related to visualizations and analytics of data.
+  emoji: 📊
+- key: artificial_intelligence
+  name: Artificial Intelligence
+  description: Applications related to machine learning, large language models, and
+    neural networks.
+  emoji: 🤖
+- key: health_and_fitness
+  name: Health & Fitness
+  description: Applications related to healthy living, fitness, and managing stress.
+  emoji: 🏃
+showcases:
+- title: flotes.app
+  description: A free note-taking app enhanced with flashcard features
+  link: https://flotes.app/
+- title: AnuPpuccin
+  description: Highly customizable theme for [Obsidian](https://obsidian.md)
+  link: https://github.com/AnubisNekhet/AnuPpuccin
+- title: faerber
+  description: Website for applying custom color schemes to any wallpaper
+  link: https://farbenfroh.io/faerber
+- title: Simple MP
+  description: A simple music player based on Material You design
+  link: https://github.com/lighttigerXIV/SimpleMP-Compose
+- title: Comfy
+  description: A theme for [Spicetify](https://github.com/spicetify/spicetify-cli)
+    with a basic catppuccin color scheme!
+  link: https://github.com/Comfy-Themes/Spicetify
+- title: Catppuccin Noctis
+  description: An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
+    syntax highlighting
+  link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis
+- title: Mind Elixir
+  description: A framework agnostic JavaScript mind map core.
+  link: https://github.com/ssshooter/mind-elixir-core
+- title: Career Vault
+  description: A remote job board that shows hundreds of new opportunities every day.
+  link: https://careervault.io
+- title: Loungy
+  description: An open-source application launcher in the vein of Raycast and Alfred.
+  link: https://loungy.app
+- title: Reciper
+  description: A simple, open-source recipe management app.
+  link: https://github.com/judemont/reciper
+archived-ports:
+- name: Aliucord
+  reason: Maintainer thought the upstream project was unmaintained, this port could
+    be revived again.
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [android]
+  color: blue
+  icon: discord
+  key: aliucord
+  repository:
+    name: aliucord
+    url: https://github.com/catppuccin/aliucord
+    current-maintainers: []
+    past-maintainers: []
+- name: GTK
+  reason: Incredibly difficult to theme and maintain, this port could be revived if
+    better theming methods arise. (highly unlikely)
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: green
+  icon: gtk
+  key: gtk
+  repository:
+    name: gtk
+    url: https://github.com/catppuccin/gtk
+    current-maintainers: []
+    past-maintainers: []
+- name: OldTwitter
+  reason: Extension is unusable due to X/Twitter's extensive measures to limit third
+    party modifications, this port could be revived.
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: agnostic
+  icon: twitter
+  color: blue
+  key: oldtwitter
+  repository:
+    name: oldtwitter
+    url: https://github.com/catppuccin/oldtwitter
+    current-maintainers: []
+    past-maintainers: []
+- name: Sidebery
+  reason: Sidebery automatically takes in colours from the Firefox theme, this port
+    is now redundant.
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  platform: agnostic
+  color: text
+  key: sidebery
+  repository:
+    name: sidebery
+    url: https://github.com/catppuccin/sidebery
+    current-maintainers: []
+    past-maintainers: []
+- name: Steam
+  reason: Incredibly difficult to theme and maintain, this port could be revived if
+    better theming methods arise. (highly unlikely)
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  platform: [linux, macos, windows]
+  color: text
+  icon: steam
+  key: steam
+  repository:
+    name: steam
+    url: https://github.com/catppuccin/steam
+    current-maintainers: []
+    past-maintainers: []
