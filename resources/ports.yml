@@ -515,7 +515,7 @@ ports:
     categories: [desktop_environment, system]
     platform: [linux]
     color: lavender
-    current_maintainers: [*EdenQwQ]
+    current-maintainers: [*EdenQwQ]
   crt:
     name: cool-retro-term
     categories: [terminal]
