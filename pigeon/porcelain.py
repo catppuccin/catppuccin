@@ -1,6 +1,7 @@
 from copy import deepcopy
 from pathlib import Path
 
+import requests
 import yaml
 
 from pigeon.caveman import DumpyMcDumpface
@@ -62,6 +63,15 @@ def make_archived_ports(data: dict, indices: Indices) -> list:
     ]
 
 
+def userstyles() -> dict:
+    url = "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml"
+    data = yaml.safe_load(requests.get(url).text)
+    return {
+        "userstyles-collaborators": data["collaborators"],
+        "userstyles": data["userstyles"],
+    }
+
+
 def main():
     with Path("pigeon/ports.yml").open("r", encoding="utf-8") as f:
         data = yaml.safe_load(f)
@@ -71,9 +81,19 @@ def main():
     porcelain = {
         "ports": make_ports(data, indices),
         "collaborators": data["collaborators"],
-        "categories": data["categories"],
+        "categories": [
+            *data["categories"],
+            {
+                "key": "userstyle",
+                "name": "Userstyles",
+                "description": "Modified CSS files that can be applied to a website.",
+                "emoji": "🖌️",
+            },
+        ],
         "showcases": data["showcases"],
         "archived-ports": make_archived_ports(data, indices),
+        # "we should just concatenate the entire file" - hammy, 2024
+        **userstyles(),
     }
 
     with Path("pigeon/ports.porcelain.yml").open("w", encoding="utf-8") as f:
