@@ -2,9 +2,17 @@
 
 these will not remain.
 
-**requires pyyaml**
+**requires pyyaml & requests**
 
-## re-port
+## setup
+
+```console
+$ python -m venv .venv && .venv/bin/pip install pyyaml requests
+```
+
+## scripts
+
+### re-port
 
 converts [`../resources/ports.yml`](../resources/ports.yml) to [`ports.yml`](ports.yml)
 
@@ -12,7 +20,7 @@ converts [`../resources/ports.yml`](../resources/ports.yml) to [`ports.yml`](por
 $ python -m pigeon.report
 ```
 
-## porcelain
+### porcelain
 
 generates [`ports.porcelain.yml`](ports.porcelain.yml) from [`ports.yml`](ports.yml)
 
