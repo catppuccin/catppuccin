@@ -63,12 +63,21 @@ def make_archived_ports(data: dict, indices: Indices) -> list:
     ]
 
 
-def userstyles() -> dict:
+def userstyles(indices: Indices) -> dict:
     url = "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml"
     data = yaml.safe_load(requests.get(url).text)
     return {
         "userstyles-collaborators": data["collaborators"],
-        "userstyles": data["userstyles"],
+        "userstyles": [
+            {
+                **userstyle,
+                "key": key,
+                "categories": [
+                    indices.categories[category] for category in userstyle["categories"]
+                ],
+            }
+            for key, userstyle in data["userstyles"].items()
+        ],
     }
 
 
@@ -93,7 +102,7 @@ def main():
         "showcases": data["showcases"],
         "archived-ports": make_archived_ports(data, indices),
         # "we should just concatenate the entire file" - hammy, 2024
-        **userstyles(),
+        **userstyles(indices),
     }
 
     with Path("pigeon/ports.porcelain.yml").open("w", encoding="utf-8") as f:
