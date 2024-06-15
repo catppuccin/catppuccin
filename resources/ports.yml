@@ -80,6 +80,8 @@ collaborators:
     url: https://github.com/DorielRivalet
   - &Dukatron
     url: https://github.com/Dukatron
+  - &EdenQwQ
+    url: https://github.com/EdenQwQ
   - &elkrien
     url: https://github.com/elkrien
   - &fapfaff
@@ -508,6 +510,12 @@ ports:
     color: pink
     current-maintainers: []
     past-maintainers: [*TarunDaCoder]
+  cosmic-desktop:
+    name: COSMIC Desktop
+    categories: [desktop_environment, system]
+    platform: [linux]
+    color: lavender
+    current_maintainers: [*EdenQwQ]
   crt:
     name: cool-retro-term
     categories: [terminal]
