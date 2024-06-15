@@ -1104,6 +1104,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🖥 Desktop Environments</summary>
 
+- [COSMIC Desktop](https://github.com/catppuccin/cosmic-desktop)
 - [KDE](https://github.com/catppuccin/kde)
 - [LXQt](https://github.com/catppuccin/lxqt)
 - [Regolith](https://github.com/catppuccin/regolith)
