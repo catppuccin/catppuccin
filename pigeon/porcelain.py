@@ -76,6 +76,14 @@ def userstyles(indices: Indices) -> dict:
                 "key": key,
                 "categories": [
                     indices.categories[category] for category in userstyle["categories"]
+                ]
+                + [
+                    {
+                        "key": "userstyle",
+                        "name": "Userstyles",
+                        "description": "Modified CSS files that can be applied to a website.",
+                        "emoji": "🖌️",
+                    }
                 ],
             }
             for key, userstyle in data["userstyles"].items()
