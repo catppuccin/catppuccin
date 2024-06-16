@@ -5772,6 +5772,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: adventofcode
   color: yellow
   readme:
@@ -5791,6 +5795,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: anilist
   color: sky
   readme:
@@ -5816,6 +5824,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: archlinux
   color: blue
   readme:
@@ -5832,6 +5844,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: text
   readme:
     app-link: https://boringproxy.io
@@ -5847,6 +5863,10 @@ userstyles:
     description: Websites that enable users to search and retrieve information from
       the World Wide Web.
     emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: brave
   color: peach
   readme:
@@ -5868,6 +5888,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: bluesky
   color: blue
   readme:
@@ -5887,6 +5911,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: green
   readme:
     app-link: https://bstats.org
@@ -5909,6 +5937,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: canvas
   color: red
   readme:
@@ -5931,6 +5963,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: openai
   color: green
   readme:
@@ -5953,6 +5989,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: peach
   readme:
     app-link: https://chatreplay.stream
@@ -5971,6 +6011,10 @@ userstyles:
     description: Applications that faciliate learning, knowledge acquisition and skill
       development.
     emoji: 🎓
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: chessdotcom
   color: green
   readme:
@@ -5992,6 +6036,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: text
   readme:
     app-link: https://cinny.in
@@ -6011,6 +6059,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: codeberg
   color: blue
   readme:
@@ -6034,6 +6086,10 @@ userstyles:
     description: Applications that help in capturing, editing, managing, storing,
       or sharing photos and videos.
     emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: text
   readme:
     app-link: https://cobalt.tools
@@ -6048,6 +6104,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: rust
   color: yellow
   readme:
@@ -6069,6 +6129,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: crowdin
   color: text
   readme:
@@ -6090,6 +6154,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: deepl
   color: blue
   readme:
@@ -6105,6 +6173,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: docsdotrs
   color: yellow
   readme:
@@ -6121,6 +6193,10 @@ userstyles:
     description: Websites that enable users to search and retrieve information from
       the World Wide Web.
     emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: duckduckgo
   color: peach
   readme:
@@ -6137,6 +6213,10 @@ userstyles:
     description: Websites that enable users to search and retrieve information from
       the World Wide Web.
     emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: green
   readme:
     app-link: https://www.ecosia.org
@@ -6152,6 +6232,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: peach
   readme:
     app-link: https://elk.zone
@@ -6166,6 +6250,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: freedesktopdotorg
   color: blue
   readme:
@@ -6187,6 +6275,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: blue
   readme:
     app-link: https://app.formative.com/home
@@ -6211,6 +6303,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: github
   color: text
   readme:
@@ -6239,6 +6335,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: gmail
   color: peach
   readme:
@@ -6261,6 +6361,10 @@ userstyles:
     name: Wikis
     description: Websites that hold information edited by multiple users.
     emoji: 🧠
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: go
   color: sapphire
   readme:
@@ -6277,6 +6381,10 @@ userstyles:
     description: Websites that enable users to search and retrieve information from
       the World Wide Web.
     emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: google
   color: sapphire
   readme:
@@ -6292,6 +6400,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: googledrive
   color: blue
   readme:
@@ -6308,6 +6420,10 @@ userstyles:
     description: Applications that help in capturing, editing, managing, storing,
       or sharing photos and videos.
     emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: googlephotos
   color: sapphire
   readme:
@@ -6328,6 +6444,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: graphite
   color: text
   readme:
@@ -6348,6 +6468,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: haskell
   color: mauve
   readme:
@@ -6373,6 +6497,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: ycombinator
   color: peach
   readme:
@@ -6398,6 +6526,10 @@ userstyles:
     description: Applications that help in capturing, editing, managing, storing,
       or sharing photos and videos.
     emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: pink
   readme:
     app-link: https://holodex.net
@@ -6417,6 +6549,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: blue
   readme:
     app-link: https://home-manager-options.extranix.com
@@ -6432,6 +6568,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: sky
   readme:
     app-link: https://github.com/benphelps/homepage
@@ -6451,6 +6591,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: hoppscotch
   color: green
   readme:
@@ -6465,6 +6609,10 @@ userstyles:
     name: Music
     description: Applications related to discovering, listening to and playing music.
     emoji: 🎵
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: teal
   readme:
     app-link: https://hyperpipe.surge.sh/
@@ -6485,6 +6633,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: pink
   readme:
     app-link: https://ichi.moe
@@ -6500,6 +6652,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: inoreader
   color: blue
   readme:
@@ -6525,6 +6681,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: instagram
   color: pink
   readme:
@@ -6550,6 +6710,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: youtube
   color: red
   readme:
@@ -6574,6 +6738,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: yellow
   readme:
     app-link: https://invoke-ai.github.io/InvokeAI
@@ -6588,6 +6756,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: mauve
   readme:
     app-link: https://keyoxide.org
@@ -6606,6 +6778,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: lastdotfm
   color: red
   readme:
@@ -6632,6 +6808,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: lemmy
   color: green
   readme:
@@ -6657,6 +6837,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: reddit
   color: peach
   readme:
@@ -6673,6 +6857,10 @@ userstyles:
     name: Games
     description: Applications related to gaming and the idea of game-ification.
     emoji: 🎮
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: lichess
   color: text
   readme:
@@ -6696,6 +6884,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: green
   readme:
     app-link: https://github.com/thedaviddelta/lingva-translate
@@ -6710,6 +6902,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: linkedin
   color: blue
   readme:
@@ -6730,6 +6926,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: mastodon
   color: lavender
   readme:
@@ -6756,6 +6956,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: mdbook
   color: text
   readme:
@@ -6775,6 +6979,10 @@ userstyles:
     name: Wikis
     description: Websites that hold information edited by multiple users.
     emoji: 🧠
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: mdnwebdocs
   color: text
   readme:
@@ -6790,6 +6998,10 @@ userstyles:
     name: Games
     description: Applications related to gaming and the idea of game-ification.
     emoji: 🎮
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: modrinth
   color: green
   readme:
@@ -6805,6 +7017,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: microsoftword
   color: blue
   readme:
@@ -6824,6 +7040,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: migadu
   color: blue
   readme:
@@ -6844,6 +7064,10 @@ userstyles:
     name: Games
     description: Applications related to gaming and the idea of game-ification.
     emoji: 🎮
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: text
   readme:
     app-link: https://minesweeper.online
@@ -6867,6 +7091,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: twitter
   color: blue
   readme:
@@ -6882,6 +7110,10 @@ userstyles:
     description: Websites that enable users to search and retrieve information from
       the World Wide Web.
     emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: nixos
   color: blue
   readme:
@@ -6902,6 +7134,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: nixos
   color: blue
   readme:
@@ -6918,6 +7154,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: npm
   color: red
   readme:
@@ -6934,6 +7174,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: openmediavault
   color: sky
   readme:
@@ -6949,6 +7193,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: pastebin
   color: peach
   readme:
@@ -6973,6 +7221,10 @@ userstyles:
     description: Websites that enable users to search and retrieve information from
       the World Wide Web.
     emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: perplexity
   color: teal
   readme:
@@ -6995,6 +7247,10 @@ userstyles:
     description: Applications that help in capturing, editing, managing, storing,
       or sharing photos and videos.
     emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: yellow
   readme:
     app-link: https://picrew.me
@@ -7019,6 +7275,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: pinterest
   color: red
   readme:
@@ -7035,6 +7295,10 @@ userstyles:
     name: Games
     description: Applications related to gaming and the idea of game-ification.
     emoji: 🎮
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: green
   readme:
     app-link: https://planetminecraft.com
@@ -7050,6 +7314,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: pronounsdotpage
   color: pink
   readme:
@@ -7070,6 +7338,10 @@ userstyles:
     name: Email Clients
     description: Applications related to sending and receiving email.
     emoji: 💌
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: protonmail
   color: mauve
   readme:
@@ -7091,6 +7363,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: sapphire
   readme:
     app-link: https://pypi.org
@@ -7110,6 +7386,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: quizlet
   color: mauve
   readme:
@@ -7134,6 +7414,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: red
   icon: reddit
   readme:
@@ -7151,6 +7435,10 @@ userstyles:
     description: Websites that enable users to search and retrieve information from
       the World Wide Web.
     emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: searxng
   color: blue
   readme:
@@ -7178,6 +7466,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: snapchat
   color: yellow
   readme:
@@ -7193,6 +7485,10 @@ userstyles:
     name: Music
     description: Applications related to discovering, listening to and playing music.
     emoji: 🎵
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: spotify
   color: green
   readme:
@@ -7208,6 +7504,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: stackoverflow
   color: peach
   readme:
@@ -7224,6 +7524,10 @@ userstyles:
     description: Websites that enable users to search and retrieve information from
       the World Wide Web.
     emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: lavender
   readme:
     app-link: https://startpage.com
@@ -7244,6 +7548,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: maroon
   readme:
     usage: Switch to a default Skiff light/dark theme via **Settings** > **Appearance**
@@ -7261,6 +7569,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: teal
   readme:
     app-link: https://github.com/openstyles/stylus
@@ -7279,6 +7591,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: substack
   color: peach
   readme:
@@ -7296,6 +7612,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: syncthing
   color: sapphire
   readme:
@@ -7327,6 +7647,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: text
   readme:
     app-link: https://tabnews.com.br
@@ -7342,6 +7666,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: tldraw
   color: text
   readme:
@@ -7365,6 +7693,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: blue
   readme:
     app-link: https://trinket.io
@@ -7383,6 +7715,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: tutanota
   color: maroon
   readme:
@@ -7414,6 +7750,10 @@ userstyles:
     description: Applications that help in capturing, editing, managing, storing,
       or sharing photos and videos.
     emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: twitch
   color: mauve
   readme:
@@ -7440,6 +7780,10 @@ userstyles:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   color: blue
   icon: twitter
   readme:
@@ -7462,6 +7806,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: vercel
   color: text
   readme:
@@ -7478,6 +7826,10 @@ userstyles:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: whatsapp
   color: green
   readme:
@@ -7503,6 +7855,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: wikipedia
   color: text
   readme:
@@ -7522,6 +7878,10 @@ userstyles:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: wikipedia
   color: text
   readme:
@@ -7547,6 +7907,10 @@ userstyles:
     description: Applications that help in capturing, editing, managing, storing,
       or sharing photos and videos.
     emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: youtube
   color: red
   readme:
@@ -7571,6 +7935,10 @@ userstyles:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
   icon: nextdotjs
   color: text
   readme:
