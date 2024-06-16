@@ -41,6 +41,7 @@ def inflate_repo(name: str, indices: Indices) -> dict:
 def make_port(port: dict, indices: Indices) -> dict:
     return {
         **port,
+        "is-userstyle": False,
         "categories": [indices.categories[category] for category in port["categories"]],
         "repository": inflate_repo(port["repository"], indices),
     }
@@ -71,6 +72,7 @@ def userstyles(indices: Indices) -> dict:
         "userstyles": [
             {
                 **userstyle,
+                "is-userstyle": True,
                 "key": key,
                 "categories": [
                     indices.categories[category] for category in userstyle["categories"]
