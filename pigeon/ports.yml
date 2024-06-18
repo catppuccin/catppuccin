@@ -2486,7 +2486,7 @@ ports:
   categories: [code_editor, analytics]
   platform: [linux, macos, windows]
   color: sky
-  icon: rstudio
+  icon: rstudioide
   key: rstudio
   repository: rstudio
 - name: Rust
