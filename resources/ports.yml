@@ -1547,7 +1547,7 @@ ports:
     categories: [code_editor, analytics]
     platform: [linux, macos, windows]
     color: sky
-    icon: rstudio
+    icon: rstudioide
     current-maintainers: [*AngelBerihuete]
   rust:
     name: Rust
