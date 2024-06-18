@@ -3554,7 +3554,7 @@ ports:
     emoji: 📊
   platform: [linux, macos, windows]
   color: sky
-  icon: rstudio
+  icon: rstudioide
   key: rstudio
   repository:
     name: rstudio
