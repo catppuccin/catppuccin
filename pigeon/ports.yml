@@ -1342,7 +1342,7 @@ ports:
 - name: Anki
   categories: [education, productivity]
   platform: agnostic
-  icon: anki.svg
+  icon: anki
   color: blue
   key: anki
   repository: anki
@@ -2602,6 +2602,7 @@ ports:
   categories: [productivity]
   platform: [macos]
   color: text
+  icon: rime
   key: squirrel
   repository: squirrel
 - name: st
