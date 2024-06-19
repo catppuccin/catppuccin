@@ -102,7 +102,7 @@ ports:
       and efficient.
     emoji: 📖
   platform: agnostic
-  icon: anki.svg
+  icon: anki
   color: blue
   key: anki
   repository:
@@ -3911,6 +3911,7 @@ ports:
     emoji: 📖
   platform: [macos]
   color: text
+  icon: rime
   key: squirrel
   repository:
     name: squirrel
@@ -7251,6 +7252,7 @@ userstyles:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  icon: picrew
   color: yellow
   readme:
     app-link: https://picrew.me
