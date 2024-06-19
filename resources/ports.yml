@@ -347,7 +347,7 @@ ports:
     name: Anki
     categories: [education, productivity]
     platform: agnostic
-    icon: anki.svg
+    icon: anki
     color: blue
     current-maintainers: [*AnubisNekhet]
     past-maintainers: [*BlueFalconHD]
@@ -1668,6 +1668,7 @@ ports:
     categories: [productivity]
     platform: [macos]
     color: text
+    icon: rime
     current-maintainers: [*moseeking]
   st:
     name: st
