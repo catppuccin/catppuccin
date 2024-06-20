@@ -258,8 +258,8 @@ collaborators:
   url: https://github.com/sgoudham
 - username: skinatro
   url: https://github.com/skinatro
-- username: sofycodes
-  url: https://github.com/sofycodes
+- username: sofycat
+  url: https://github.com/sofycat
 - username: soradotwav
   url: https://github.com/soradotwav
 - username: southqaw
@@ -486,7 +486,7 @@ repositories:
   past-maintainers: [BlueFalconHD]
 - name: aseprite
   url: https://github.com/catppuccin/aseprite
-  current-maintainers: [sofycodes]
+  current-maintainers: [sofycat]
 - name: base16
   url: https://github.com/catppuccin/base16
   current-maintainers: []
