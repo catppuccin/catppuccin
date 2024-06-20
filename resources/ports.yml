@@ -258,8 +258,8 @@ collaborators:
     url: https://github.com/sgoudham
   - &skinatro
     url: https://github.com/skinatro
-  - &sofycodes
-    url: https://github.com/sofycodes
+  - &sofycat
+    url: https://github.com/sofycat
   - &soradotwav
     url: https://github.com/soradotwav
   - &southqaw
@@ -357,7 +357,7 @@ ports:
     icon: aseprite
     color: text
     platform: [linux, macos, windows]
-    current-maintainers: [*sofycodes]
+    current-maintainers: [*sofycat]
   azuredatastudio:
     name: Azure Data Studio
     categories: [code_editor]
