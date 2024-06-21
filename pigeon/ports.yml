@@ -941,7 +941,8 @@ repositories:
   current-maintainers: [daveyholler]
 - name: nvim
   url: https://github.com/catppuccin/nvim
-  current-maintainers: [nullchilly, mrtnvgr]
+  current-maintainers: [mrtnvgr]
+  past-maintainers: [nullchilly]
 - name: obs
   url: https://github.com/catppuccin/obs
   current-maintainers: [Xurdejl]
