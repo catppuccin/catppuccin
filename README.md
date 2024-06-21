@@ -1332,6 +1332,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [mIRC](https://github.com/catppuccin/mirc)
 - [Misskey](https://github.com/catppuccin/misskey)
 - [Nitter](https://github.com/catppuccin/userstyles/tree/main/styles/nitter)
+- [Phanpy](https://github.com/catppuccin/userstyles/tree/main/styles/phanpy)
 - [Pronouns.page](https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.page)
 - [Revolt](https://github.com/catppuccin/revolt)
 - [SimpleX](https://github.com/catppuccin/simplex)
@@ -1404,6 +1405,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🤖 Artificial Intelligence</summary>
 
 - [ChatGPT](https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt)
+- [Google Gemini](https://github.com/catppuccin/userstyles/tree/main/styles/google-gemini)
 - [InvokeAI](https://github.com/catppuccin/userstyles/tree/main/styles/invokeai)
 - [Perplexity](https://github.com/catppuccin/userstyles/tree/main/styles/perplexity)
 - [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
