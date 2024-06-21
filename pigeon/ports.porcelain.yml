@@ -2945,11 +2945,11 @@ ports:
     name: nvim
     url: https://github.com/catppuccin/nvim
     current-maintainers:
-    - username: nullchilly
-      url: https://github.com/nullchilly
     - username: mrtnvgr
       url: https://github.com/mrtnvgr
-    past-maintainers: []
+    past-maintainers:
+    - username: nullchilly
+      url: https://github.com/nullchilly
   is-userstyle: false
 - name: OBS Studio
   categories:
@@ -6458,6 +6458,31 @@ userstyles:
     url: https://github.com/isabelroses
   is-userstyle: true
   key: graphite
+- name: Google Gemini
+  categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: googlegemini
+  color: mauve
+  readme:
+    app-link: https://gemini.google.com
+  current-maintainers:
+  - name: Dandraghas
+    url: https://github.com/Dandraghas
+  is-userstyle: true
+  key: google-gemini
 - name: Hackage
   categories:
   - key: development
@@ -7237,6 +7262,29 @@ userstyles:
     url: https://github.com/Tnixc
   is-userstyle: true
   key: perplexity
+- name: Phanpy
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
+  readme:
+    app-link: https://phanpy.social
+  current-maintainers:
+  - name: Guaxinim5573
+    url: https://github.com/Guaxinim5573
+  is-userstyle: true
+  key: phanpy
 - name: Picrew
   categories:
   - key: entertainment
