@@ -1465,8 +1465,8 @@ repositories:
     current-maintainers: [AnubisNekhet]
   - name: chess.com
     url: https://github.com/catppuccin/userstyles/tree/main/styles/chess.com
-    current-maintainers: [coldenate, isabelroses]
-    past-maintainers: [skelebro1]
+    current-maintainers: [coldenate]
+    past-maintainers: [skelebro1, isabelroses]
   - name: cinny
     url: https://github.com/catppuccin/userstyles/tree/main/styles/cinny
     current-maintainers: [jn-sena]
@@ -1593,8 +1593,8 @@ repositories:
     current-maintainers: [isabelroses]
   - name: mastodon
     url: https://github.com/catppuccin/userstyles/tree/main/styles/mastodon
-    current-maintainers: [isabelroses]
-    past-maintainers: [unseen-ninja]
+    current-maintainers: []
+    past-maintainers: [unseen-ninja, isabelroses]
   - name: mdbook
     url: https://github.com/catppuccin/userstyles/tree/main/styles/mdbook
     current-maintainers: [uncenter]
@@ -1635,7 +1635,8 @@ repositories:
     past-maintainers: [Stonks3141]
   - name: perplexity
     url: https://github.com/catppuccin/userstyles/tree/main/styles/perplexity
-    current-maintainers: [isabelroses, Tnixc]
+    current-maintainers: [Tnixc]
+    past-maintainers: [isabelroses]
   - name: phanpy
     url: https://github.com/catppuccin/userstyles/tree/main/styles/phanpy
     current-maintainers: [Guaxinim5573]
@@ -3442,7 +3443,7 @@ ports:
     icon: anilist
     color: sky
   - name: AniChart
-    key: anilist
+    key: anichart
     repository: anilist
     categories: [entertainment, social_networking, userstyle]
     icon: anilist
@@ -3703,7 +3704,7 @@ ports:
     icon: reddit
     color: peach
   - name: Redlib
-    key: libreddit
+    key: redlib
     repository: libreddit
     categories: [discussion_forum, entertainment, social_networking, userstyle]
     icon: reddit
