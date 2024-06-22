@@ -4907,7 +4907,7 @@ ports:
   icon: anilist
   color: sky
 - name: AniChart
-  key: anilist
+  key: anichart
   repository:
     name: anilist
     url: https://github.com/catppuccin/userstyles/tree/main/styles/anilist
@@ -5137,13 +5137,13 @@ ports:
     - username: coldenate
       name: coldenate
       url: https://github.com/coldenate
-    - username: isabelroses
-      name: Isabel
-      url: https://github.com/isabelroses
     past-maintainers:
     - username: skelebro1
       name: skele
       url: https://github.com/skelebro1
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
   categories:
   - key: game
     name: Games
@@ -6072,7 +6072,7 @@ ports:
   icon: reddit
   color: peach
 - name: Redlib
-  key: libreddit
+  key: redlib
   repository:
     name: libreddit
     url: https://github.com/catppuccin/userstyles/tree/main/styles/libreddit
@@ -6175,14 +6175,14 @@ ports:
   repository:
     name: mastodon
     url: https://github.com/catppuccin/userstyles/tree/main/styles/mastodon
-    current-maintainers:
-    - username: isabelroses
-      name: Isabel
-      url: https://github.com/isabelroses
+    current-maintainers: []
     past-maintainers:
     - username: unseen-ninja
       name: Lemon
       url: https://github.com/unseen-ninja
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
   categories:
   - key: social_networking
     name: Social Networking
@@ -6486,13 +6486,13 @@ ports:
     name: perplexity
     url: https://github.com/catppuccin/userstyles/tree/main/styles/perplexity
     current-maintainers:
-    - username: isabelroses
-      name: Isabel
-      url: https://github.com/isabelroses
     - username: Tnixc
       name: Tnixc
       url: https://github.com/Tnixc
-    past-maintainers: []
+    past-maintainers:
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
   categories:
   - key: artificial_intelligence
     name: Artificial Intelligence
