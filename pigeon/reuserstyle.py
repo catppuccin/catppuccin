@@ -4,7 +4,6 @@ from typing import List
 
 import yaml
 import requests
-import json
 
 from pigeon.caveman import DumpyMcDumpface
 
