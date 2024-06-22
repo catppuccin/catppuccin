@@ -734,7 +734,8 @@ ports:
     categories: [productivity]
     platform: [linux, macos, windows]
     color: sapphire
-    current-maintainers: [*isabelroses]
+    current-maintainers: []
+    past-maintainers: [*isabelroses]
   fuzzel:
     name: Fuzzel
     categories: [application_launcher, system]
@@ -1362,7 +1363,8 @@ ports:
     platform: [windows]
     color: maroon
     icon: operagx
-    current-maintainers: [*isabelroses]
+    current-maintainers: []
+    past-maintainers: [*isabelroses]
   pantone:
     name: Pantone
     categories: [library]
@@ -1575,7 +1577,8 @@ ports:
     categories: [system]
     platform: [linux]
     color: sky
-    current-maintainers: [*isabelroses]
+    current-maintainers: []
+    past-maintainers: [*isabelroses]
   serenity-os:
     name: SerenityOS
     categories: [system]
@@ -1727,7 +1730,8 @@ ports:
     platform: [linux]
     color: yellow
     icon: wayland
-    current-maintainers: [*isabelroses]
+    current-maintainers: []
+    past-maintainers: [*isabelroses]
   tabby:
     name: Tabby
     categories: [terminal]
