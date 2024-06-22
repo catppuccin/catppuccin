@@ -78,8 +78,8 @@ collaborators:
     url: https://github.com/DonutDev
   - &DorielRivalet
     url: https://github.com/DorielRivalet
-  - &Dukatron
-    url: https://github.com/Dukatron
+  - &Dukeatron
+    url: https://github.com/Dukeatron
   - &EdenQwQ
     url: https://github.com/EdenQwQ
   - &elkrien
@@ -829,7 +829,7 @@ ports:
     platform: [linux, macos]
     color: pink
     current-maintainers: [*sgoudham]
-    past-maintainers: [*Dukatron]
+    past-maintainers: [*Dukeatron]
   glazewm:
     name: GlazeWM
     categories: [window_manager, system]
