@@ -94,9 +94,6 @@ collaborators:
 - username: BlankParticle
   name: BlankParticle
   url: https://github.com/BlankParticle
-- username: haiksgithub
-  name: haiksgithub
-  url: https://github.com/haiksgithub
 - username: GenShibe
   name: GenShibe
   url: https://github.com/GenShibe
@@ -267,7 +264,7 @@ repositories:
 - name: instagram
   url: https://github.com/catppuccin/userstyles/tree/main/styles/instagram
   current-maintainers: [GenShibe]
-  past-maintainers: [haiksgithub, isabelroses]
+  past-maintainers: [isabelroses]
 - name: invidious
   url: https://github.com/catppuccin/userstyles/tree/main/styles/invidious
   current-maintainers: []

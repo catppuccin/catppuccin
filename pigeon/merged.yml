@@ -78,8 +78,8 @@ collaborators:
     url: https://github.com/DonutDev
   - username: DorielRivalet
     url: https://github.com/DorielRivalet
-  - username: Dukatron
-    url: https://github.com/Dukatron
+  - username: Dukeatron
+    url: https://github.com/Dukeatron
   - username: EdenQwQ
     url: https://github.com/EdenQwQ
   - username: elkrien
@@ -407,9 +407,6 @@ collaborators:
   - username: BlankParticle
     name: BlankParticle
     url: https://github.com/BlankParticle
-  - username: haiksgithub
-    name: haiksgithub
-    url: https://github.com/haiksgithub
   - username: GenShibe
     name: GenShibe
     url: https://github.com/GenShibe
@@ -784,7 +781,8 @@ repositories:
     current-maintainers: [iruzo]
   - name: freshrss
     url: https://github.com/catppuccin/freshrss
-    current-maintainers: [isabelroses]
+    current-maintainers: []
+    past-maintainers: [isabelroses]
   - name: fuzzel
     url: https://github.com/catppuccin/fuzzel
     current-maintainers: [tetov]
@@ -831,7 +829,7 @@ repositories:
   - name: glamour
     url: https://github.com/catppuccin/glamour
     current-maintainers: [sgoudham]
-    past-maintainers: [Dukatron]
+    past-maintainers: [Dukeatron]
   - name: glazewm
     url: https://github.com/catppuccin/glazewm
     current-maintainers: [fathulfahmy]
@@ -1073,7 +1071,8 @@ repositories:
     past-maintainers: [prateektade]
   - name: opera-gx
     url: https://github.com/catppuccin/opera-gx
-    current-maintainers: [isabelroses]
+    current-maintainers: []
+    past-maintainers: [isabelroses]
   - name: pantone
     url: https://github.com/catppuccin/pantone
     current-maintainers: [BlueFalconHD]
@@ -1179,7 +1178,8 @@ repositories:
     current-maintainers: [NickSquiggles]
   - name: sddm
     url: https://github.com/catppuccin/sddm
-    current-maintainers: [isabelroses]
+    current-maintainers: []
+    past-maintainers: [isabelroses]
   - name: serenity-os
     url: https://github.com/catppuccin/serenity-os
     current-maintainers: [nullishamy]
@@ -1251,7 +1251,8 @@ repositories:
     current-maintainers: [remiposo]
   - name: swaync
     url: https://github.com/catppuccin/swaync
-    current-maintainers: [isabelroses]
+    current-maintainers: []
+    past-maintainers: [isabelroses]
   - name: tabby
     url: https://github.com/catppuccin/tabby
     current-maintainers: [sakkke]
@@ -1560,7 +1561,7 @@ repositories:
   - name: instagram
     url: https://github.com/catppuccin/userstyles/tree/main/styles/instagram
     current-maintainers: [GenShibe]
-    past-maintainers: [haiksgithub, isabelroses]
+    past-maintainers: [isabelroses]
   - name: invidious
     url: https://github.com/catppuccin/userstyles/tree/main/styles/invidious
     current-maintainers: []
