@@ -23,9 +23,9 @@ ports:
     url: https://github.com/catppuccin/aerc
     current-maintainers:
     - username: Stonks3141
+      name: Stonks3141
       url: https://github.com/Stonks3141
     past-maintainers: []
-  is-userstyle: false
 - name: Alacritty
   categories:
   - key: terminal
@@ -47,7 +47,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Alfred
   categories:
   - key: application_launcher
@@ -71,7 +70,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Amfora
   categories:
   - key: entertainment
@@ -88,7 +86,6 @@ ports:
     past-maintainers:
     - username: hyperreal64
       url: https://github.com/hyperreal64
-  is-userstyle: false
 - name: Anki
   categories:
   - key: education
@@ -110,12 +107,10 @@ ports:
     url: https://github.com/catppuccin/anki
     current-maintainers:
     - username: AnubisNekhet
-      name: Anubis
       url: https://github.com/AnubisNekhet
     past-maintainers:
     - username: BlueFalconHD
       url: https://github.com/BlueFalconHD
-  is-userstyle: false
 - name: Aseprite
   categories:
   - key: productivity
@@ -134,7 +129,6 @@ ports:
     - username: sofycat
       url: https://github.com/sofycat
     past-maintainers: []
-  is-userstyle: false
 - name: Azure Data Studio
   categories:
   - key: code_editor
@@ -159,7 +153,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Base16
   categories:
   - key: system
@@ -176,7 +169,6 @@ ports:
     past-maintainers:
     - username: schoblaska
       url: https://github.com/schoblaska
-  is-userstyle: false
 - name: bat
   categories:
   - key: cli
@@ -198,7 +190,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: bemenu
   categories:
   - key: application_launcher
@@ -219,7 +210,6 @@ ports:
     - username: iruzo
       url: https://github.com/iruzo
     past-maintainers: []
-  is-userstyle: false
 - name: Bento
   categories:
   - key: productivity
@@ -238,7 +228,6 @@ ports:
     - username: BlueFalconHD
       url: https://github.com/BlueFalconHD
     past-maintainers: []
-  is-userstyle: false
 - name: Binary Ninja
   categories:
   - key: code_editor
@@ -256,7 +245,6 @@ ports:
     - username: kkrypt0nn
       url: https://github.com/kkrypt0nn
     past-maintainers: []
-  is-userstyle: false
 - name: Bitburner
   categories:
   - key: game
@@ -273,7 +261,6 @@ ports:
     - username: reniivali
       url: https://github.com/reniivali
     past-maintainers: []
-  is-userstyle: false
 - name: Black Box
   categories:
   - key: terminal
@@ -290,8 +277,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Blink
   categories:
   - key: terminal
@@ -309,7 +296,6 @@ ports:
     - username: rithikasilva
       url: https://github.com/rithikasilva
     past-maintainers: []
-  is-userstyle: false
 - name: Blockbench
   categories:
   - key: 3d_modelling
@@ -330,9 +316,9 @@ ports:
     url: https://github.com/catppuccin/blockbench
     current-maintainers:
     - username: Tnixc
+      name: Tnixc
       url: https://github.com/Tnixc
     past-maintainers: []
-  is-userstyle: false
 - name: bottom
   categories:
   - key: cli
@@ -355,7 +341,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: btop++
   categories:
   - key: cli
@@ -377,7 +362,6 @@ ports:
     - username: lokesh-krishna
       url: https://github.com/lokesh-krishna
     past-maintainers: []
-  is-userstyle: false
 - name: calibre
   categories:
   - key: document_viewer
@@ -399,7 +383,6 @@ ports:
     - username: 42Willow
       url: https://github.com/42Willow
     past-maintainers: []
-  is-userstyle: false
 - name: Cava
   categories:
   - key: music
@@ -424,7 +407,6 @@ ports:
     past-maintainers:
     - username: pocco81
       url: https://github.com/pocco81
-  is-userstyle: false
 - name: Chatterino 2
   categories:
   - key: social_networking
@@ -442,7 +424,6 @@ ports:
     - username: fruzitent
       url: https://github.com/fruzitent
     past-maintainers: []
-  is-userstyle: false
 - name: Chroma
   categories:
   - key: development
@@ -467,7 +448,6 @@ ports:
     - username: jolheiser
       url: https://github.com/jolheiser
     past-maintainers: []
-  is-userstyle: false
 - name: Google Chrome
   categories:
   - key: browser
@@ -484,8 +464,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Google Chrome DevTools
   categories:
   - key: browser_extension
@@ -502,9 +482,9 @@ ports:
     url: https://github.com/catppuccin/chrome-devtools
     current-maintainers:
     - username: r58Playz
+      name: r58Playz
       url: https://github.com/r58Playz
     past-maintainers: []
-  is-userstyle: false
 - name: Cider
   categories:
   - key: music
@@ -519,12 +499,12 @@ ports:
     url: https://github.com/catppuccin/cider
     current-maintainers:
     - username: Flapperoo
+      name: Eli
       url: https://github.com/Flapperoo
     past-maintainers:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: CodeMirror
   categories:
   - key: code_editor
@@ -541,11 +521,11 @@ ports:
     url: https://github.com/catppuccin/codemirror
     current-maintainers:
     - username: uncenter
+      name: uncenter
       url: https://github.com/uncenter
     past-maintainers:
     - username: griimick
       url: https://github.com/griimick
-  is-userstyle: false
 - name: Conky
   categories:
   - key: system
@@ -566,7 +546,6 @@ ports:
     past-maintainers:
     - username: ohxxm
       url: https://github.com/ohxxm
-  is-userstyle: false
 - name: Contour
   categories:
   - key: terminal
@@ -584,7 +563,6 @@ ports:
     past-maintainers:
     - username: TarunDaCoder
       url: https://github.com/TarunDaCoder
-  is-userstyle: false
 - name: COSMIC Desktop
   categories:
   - key: desktop_environment
@@ -606,7 +584,6 @@ ports:
     - username: EdenQwQ
       url: https://github.com/EdenQwQ
     past-maintainers: []
-  is-userstyle: false
 - name: cool-retro-term
   categories:
   - key: terminal
@@ -624,7 +601,6 @@ ports:
     - username: iruzo
       url: https://github.com/iruzo
     past-maintainers: []
-  is-userstyle: false
 - name: Cursors
   categories:
   - key: system
@@ -641,8 +617,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Cutter
   categories:
   - key: code_editor
@@ -664,7 +640,6 @@ ports:
     - username: kkrypt0nn
       url: https://github.com/kkrypt0nn
     past-maintainers: []
-  is-userstyle: false
 - name: daisyUI
   categories:
   - key: development
@@ -688,7 +663,6 @@ ports:
       name: Lime
       url: https://github.com/Liumingxun
     past-maintainers: []
-  is-userstyle: false
 - name: Dark Reader
   categories:
   - key: browser_extension
@@ -710,7 +684,6 @@ ports:
     past-maintainers:
     - username: WitherCubes
       url: https://github.com/WitherCubes
-  is-userstyle: false
 - name: delta
   categories:
   - key: cli
@@ -728,7 +701,6 @@ ports:
     - username: Anomalocaridid
       url: https://github.com/Anomalocaridid
     past-maintainers: []
-  is-userstyle: false
 - name: Discord
   categories:
   - key: social_networking
@@ -749,7 +721,6 @@ ports:
     - username: ToxicAven
       url: https://github.com/ToxicAven
     past-maintainers: []
-  is-userstyle: false
 - name: DioHub
   categories:
   - key: productivity
@@ -767,7 +738,6 @@ ports:
     - username: cattokomo
       url: https://github.com/cattokomo
     past-maintainers: []
-  is-userstyle: false
 - name: dmenu
   categories:
   - key: application_launcher
@@ -788,7 +758,6 @@ ports:
     past-maintainers:
     - username: ohxxm
       url: https://github.com/ohxxm
-  is-userstyle: false
 - name: Dopamine
   categories:
   - key: music
@@ -805,7 +774,6 @@ ports:
     - username: jayylmao
       url: https://github.com/jayylmao
     past-maintainers: []
-  is-userstyle: false
 - name: DrRacket
   categories:
   - key: code_editor
@@ -824,7 +792,6 @@ ports:
     - username: PanAeon
       url: https://github.com/PanAeon
     past-maintainers: []
-  is-userstyle: false
 - name: Dunst
   categories:
   - key: notification_daemon
@@ -846,7 +813,6 @@ ports:
     past-maintainers:
     - username: WitherCubes
       url: https://github.com/WitherCubes
-  is-userstyle: false
 - name: Dwarf Fortress
   categories:
   - key: game
@@ -864,7 +830,6 @@ ports:
       name: pigeon
       url: https://github.com/backwardspy
     past-maintainers: []
-  is-userstyle: false
 - name: egui
   categories:
   - key: development
@@ -879,9 +844,9 @@ ports:
     url: https://github.com/catppuccin/egui
     current-maintainers:
     - username: Stonks3141
+      name: Stonks3141
       url: https://github.com/Stonks3141
     past-maintainers: []
-  is-userstyle: false
 - name: Element
   categories:
   - key: social_networking
@@ -900,7 +865,6 @@ ports:
     - username: ghostx31
       url: https://github.com/ghostx31
     past-maintainers: []
-  is-userstyle: false
 - name: Elixir
   categories:
   - key: library
@@ -919,7 +883,6 @@ ports:
     - username: MikaelFangel
       url: https://github.com/MikaelFangel
     past-maintainers: []
-  is-userstyle: false
 - name: Emacs
   categories:
   - key: code_editor
@@ -946,7 +909,6 @@ ports:
     past-maintainers:
     - username: pspiagicw
       url: https://github.com/pspiagicw
-  is-userstyle: false
 - name: Enmity
   categories:
   - key: social_networking
@@ -965,7 +927,6 @@ ports:
     - username: 112cxyz
       url: https://github.com/112cxyz
     past-maintainers: []
-  is-userstyle: false
 - name: fcitx5
   categories:
   - key: system
@@ -982,7 +943,6 @@ ports:
     past-maintainers:
     - username: ayamir
       url: https://github.com/ayamir
-  is-userstyle: false
 - name: Firefox
   categories:
   - key: browser
@@ -1003,7 +963,6 @@ ports:
       name: Lexi
       url: https://github.com/ShyyLexi
     past-maintainers: []
-  is-userstyle: false
 - name: fish shell
   categories:
   - key: cli
@@ -1025,7 +984,6 @@ ports:
       name: pigeon
       url: https://github.com/backwardspy
     past-maintainers: []
-  is-userstyle: false
 - name: Fitbit
   categories:
   - key: health_and_fitness
@@ -1043,7 +1001,6 @@ ports:
     - username: lighttigerXIV
       url: https://github.com/lighttigerXIV
     past-maintainers: []
-  is-userstyle: false
 - name: JetBrains Fleet
   categories:
   - key: code_editor
@@ -1064,7 +1021,6 @@ ports:
     - username: davfsa
       url: https://github.com/davfsa
     past-maintainers: []
-  is-userstyle: false
 - name: FlorisBoard
   categories:
   - key: system
@@ -1081,7 +1037,6 @@ ports:
     - username: skinatro
       url: https://github.com/skinatro
     past-maintainers: []
-  is-userstyle: false
 - name: Flow Launcher
   categories:
   - key: application_launcher
@@ -1102,7 +1057,6 @@ ports:
     past-maintainers:
     - username: Syndrizzle
       url: https://github.com/Syndrizzle
-  is-userstyle: false
 - name: Fluent Terminal
   categories:
   - key: terminal
@@ -1120,7 +1074,6 @@ ports:
     - username: mrdoge515
       url: https://github.com/mrdoge515
     past-maintainers: []
-  is-userstyle: false
 - name: Flutter
   categories:
   - key: library
@@ -1139,7 +1092,6 @@ ports:
     - username: useEffects
       url: https://github.com/useEffects
     past-maintainers: []
-  is-userstyle: false
 - name: Foliate
   categories:
   - key: document_viewer
@@ -1161,7 +1113,6 @@ ports:
     - username: ghostx31
       url: https://github.com/ghostx31
     past-maintainers: []
-  is-userstyle: false
 - name: foot
   categories:
   - key: terminal
@@ -1179,7 +1130,6 @@ ports:
     past-maintainers:
     - username: Cristhyano
       url: https://github.com/Cristhyano
-  is-userstyle: false
 - name: Forklift 4
   categories:
   - key: file_manager
@@ -1201,7 +1151,6 @@ ports:
     - username: denis-g
       url: https://github.com/denis-g
     past-maintainers: []
-  is-userstyle: false
 - name: fr33zmenu
   categories:
   - key: application_launcher
@@ -1222,7 +1171,6 @@ ports:
     - username: iruzo
       url: https://github.com/iruzo
     past-maintainers: []
-  is-userstyle: false
 - name: FreshRSS
   categories:
   - key: productivity
@@ -1238,9 +1186,9 @@ ports:
     url: https://github.com/catppuccin/freshrss
     current-maintainers:
     - username: isabelroses
+      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
-  is-userstyle: false
 - name: Fuzzel
   categories:
   - key: application_launcher
@@ -1261,7 +1209,6 @@ ports:
     - username: tetov
       url: https://github.com/tetov
     past-maintainers: []
-  is-userstyle: false
 - name: fzf
   categories:
   - key: cli
@@ -1282,7 +1229,6 @@ ports:
     past-maintainers:
     - username: WitherCubes
       url: https://github.com/WitherCubes
-  is-userstyle: false
 - name: Geany
   categories:
   - key: code_editor
@@ -1300,7 +1246,6 @@ ports:
     past-maintainers:
     - username: Waxxx333
       url: https://github.com/Waxxx333
-  is-userstyle: false
 - name: Gedit
   categories:
   - key: code_editor
@@ -1318,7 +1263,6 @@ ports:
     - username: sacerd-OS
       url: https://github.com/sacerd-OS
     past-maintainers: []
-  is-userstyle: false
 - name: gh-dash
   categories:
   - key: productivity
@@ -1334,9 +1278,9 @@ ports:
     url: https://github.com/catppuccin/gh-dash
     current-maintainers:
     - username: isabelroses
+      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
-  is-userstyle: false
 - name: ghostwriter
   categories:
   - key: note_taking
@@ -1358,7 +1302,6 @@ ports:
     - username: bagelwaffle
       url: https://github.com/bagelwaffle
     past-maintainers: []
-  is-userstyle: false
 - name: Giscus
   categories:
   - key: discussion_forum
@@ -1374,9 +1317,9 @@ ports:
     url: https://github.com/catppuccin/giscus
     current-maintainers:
     - username: uncenter
+      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
-  is-userstyle: false
 - name: Gitea
   categories:
   - key: productivity
@@ -1396,7 +1339,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: GitHub File Explorer Icons
   categories:
   - key: browser_extension
@@ -1413,9 +1355,9 @@ ports:
     url: https://github.com/catppuccin/github-file-explorer-icons
     current-maintainers:
     - username: uncenter
+      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
-  is-userstyle: false
 - name: GitHub Readme Stats
   categories:
   - key: analytics
@@ -1436,7 +1378,6 @@ ports:
     past-maintainers:
     - username: WitherCubes
       url: https://github.com/WitherCubes
-  is-userstyle: false
 - name: GitHub Readme Streak Stats
   categories:
   - key: analytics
@@ -1454,7 +1395,6 @@ ports:
     - username: abhishekmj303
       url: https://github.com/abhishekmj303
     past-maintainers: []
-  is-userstyle: false
 - name: GitHub Readme Tech Stack
   categories:
   - key: analytics
@@ -1472,7 +1412,6 @@ ports:
     - username: sakkke
       url: https://github.com/sakkke
     past-maintainers: []
-  is-userstyle: false
 - name: GitUI
   categories:
   - key: cli
@@ -1491,7 +1430,6 @@ ports:
     - username: BlueFalconHD
       url: https://github.com/BlueFalconHD
     past-maintainers: []
-  is-userstyle: false
 - name: Glamour
   categories:
   - key: cli
@@ -1512,7 +1450,6 @@ ports:
     past-maintainers:
     - username: Dukatron
       url: https://github.com/Dukatron
-  is-userstyle: false
 - name: GlazeWM
   categories:
   - key: window_manager
@@ -1534,7 +1471,6 @@ ports:
     - username: fathulfahmy
       url: https://github.com/fathulfahmy
     past-maintainers: []
-  is-userstyle: false
 - name: Gleam
   categories:
   - key: library
@@ -1552,7 +1488,6 @@ ports:
     - username: MAHcodes
       url: https://github.com/MAHcodes
     past-maintainers: []
-  is-userstyle: false
 - name: GNOME Terminal
   categories:
   - key: terminal
@@ -1572,7 +1507,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Go
   categories:
   - key: library
@@ -1591,7 +1525,6 @@ ports:
     - username: caarlos0
       url: https://github.com/caarlos0
     past-maintainers: []
-  is-userstyle: false
 - name: Godot
   categories:
   - key: game_development
@@ -1611,7 +1544,6 @@ ports:
       name: pigeon
       url: https://github.com/backwardspy
     past-maintainers: []
-  is-userstyle: false
 - name: GRUB
   categories:
   - key: boot_loader
@@ -1634,8 +1566,8 @@ ports:
       url: https://github.com/isabelincorp
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Halloy
   categories:
   - key: social_networking
@@ -1653,7 +1585,6 @@ ports:
     - username: Daeraxa
       url: https://github.com/Daeraxa
     past-maintainers: []
-  is-userstyle: false
 - name: Helix
   categories:
   - key: code_editor
@@ -1679,7 +1610,6 @@ ports:
     past-maintainers:
     - username: ohxxm
       url: https://github.com/ohxxm
-  is-userstyle: false
 - name: Heroic
   categories:
   - key: game
@@ -1700,7 +1630,6 @@ ports:
     - username: ndsboy
       url: https://github.com/ndsboy
     past-maintainers: []
-  is-userstyle: false
 - name: HexChat
   categories:
   - key: social_networking
@@ -1719,7 +1648,6 @@ ports:
     - username: aszecsei
       url: https://github.com/aszecsei
     past-maintainers: []
-  is-userstyle: false
 - name: highlight.js
   categories:
   - key: development
@@ -1742,7 +1670,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Home Assistant
   categories:
   - key: productivity
@@ -1761,7 +1688,6 @@ ports:
     - username: fapfaff
       url: https://github.com/fapfaff
     past-maintainers: []
-  is-userstyle: false
 - name: Hyper
   categories:
   - key: terminal
@@ -1785,7 +1711,6 @@ ports:
     - username: asrvd
       url: https://github.com/asrvd
     past-maintainers: []
-  is-userstyle: false
 - name: Hyprland
   categories:
   - key: window_manager
@@ -1807,7 +1732,6 @@ ports:
     - username: rubyowo
       url: https://github.com/rubyowo
     past-maintainers: []
-  is-userstyle: false
 - name: Hyprlock
   categories:
   - key: system
@@ -1824,7 +1748,6 @@ ports:
     - username: NikSneMC
       url: https://github.com/NikSneMC
     past-maintainers: []
-  is-userstyle: false
 - name: i3/sway
   categories:
   - key: window_manager
@@ -1847,7 +1770,6 @@ ports:
     - username: rubyowo
       url: https://github.com/rubyowo
     past-maintainers: []
-  is-userstyle: false
 - name: IDA (Interactive Disassembler)
   categories:
   - key: code_editor
@@ -1869,7 +1791,6 @@ ports:
     - username: ValentinTT
       url: https://github.com/ValentinTT
     past-maintainers: []
-  is-userstyle: false
 - name: ImHex
   categories:
   - key: development
@@ -1886,7 +1807,6 @@ ports:
     - username: DorielRivalet
       url: https://github.com/DorielRivalet
     past-maintainers: []
-  is-userstyle: false
 - name: imv
   categories:
   - key: photo_and_video
@@ -1909,7 +1829,6 @@ ports:
     - username: Anomalocaridid
       url: https://github.com/Anomalocaridid
     past-maintainers: []
-  is-userstyle: false
 - name: Infinity For Reddit
   categories:
   - key: discussion_forum
@@ -1933,7 +1852,6 @@ ports:
     - username: Xurdejl
       url: https://github.com/Xurdejl
     past-maintainers: []
-  is-userstyle: false
 - name: Insomnia
   categories:
   - key: development
@@ -1956,7 +1874,6 @@ ports:
     - username: opakholis
       url: https://github.com/opakholis
     past-maintainers: []
-  is-userstyle: false
 - name: iSH
   categories:
   - key: development
@@ -1973,7 +1890,6 @@ ports:
     - username: g3rhard
       url: https://github.com/g3rhard
     past-maintainers: []
-  is-userstyle: false
 - name: iTerm2
   categories:
   - key: terminal
@@ -1995,7 +1911,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Java
   categories:
   - key: library
@@ -2016,7 +1931,6 @@ ports:
     - username: nullishamy
       url: https://github.com/nullishamy
     past-maintainers: []
-  is-userstyle: false
 - name: JetBrains
   categories:
   - key: code_editor
@@ -2046,7 +1960,6 @@ ports:
     past-maintainers:
     - username: tiepp
       url: https://github.com/tiepp
-  is-userstyle: false
 - name: JetBrains Icons
   categories:
   - key: code_editor
@@ -2073,7 +1986,6 @@ ports:
     - username: thelooter
       url: https://github.com/thelooter
     past-maintainers: []
-  is-userstyle: false
 - name: Joplin
   categories:
   - key: note_taking
@@ -2091,7 +2003,6 @@ ports:
     - username: ghostx31
       url: https://github.com/ghostx31
     past-maintainers: []
-  is-userstyle: false
 - name: JupyterLab
   categories:
   - key: development
@@ -2113,7 +2024,6 @@ ports:
     - username: gabrielmagno
       url: https://github.com/gabrielmagno
     past-maintainers: []
-  is-userstyle: false
 - name: k9s
   categories:
   - key: cli
@@ -2133,7 +2043,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Kvantum
   categories:
   - key: system
@@ -2149,8 +2058,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Kakoune
   categories:
   - key: code_editor
@@ -2173,7 +2082,6 @@ ports:
     - username: bagelwaffle
       url: https://github.com/bagelwaffle
     past-maintainers: []
-  is-userstyle: false
 - name: KDE
   categories:
   - key: desktop_environment
@@ -2198,7 +2106,6 @@ ports:
     past-maintainers:
     - username: Prayag2
       url: https://github.com/Prayag2
-  is-userstyle: false
 - name: kitty
   categories:
   - key: terminal
@@ -2214,9 +2121,9 @@ ports:
     url: https://github.com/catppuccin/kitty
     current-maintainers:
     - username: unseen-ninja
+      name: Lemon
       url: https://github.com/unseen-ninja
     past-maintainers: []
-  is-userstyle: false
 - name: Konsole
   categories:
   - key: terminal
@@ -2235,7 +2142,6 @@ ports:
     - username: TheExistingOne
       url: https://github.com/TheExistingOne
     past-maintainers: []
-  is-userstyle: false
 - name: KSyntaxHighlighting (Kate, Kwrite, etc)
   categories:
   - key: code_editor
@@ -2254,7 +2160,6 @@ ports:
     - username: Sourcastic
       url: https://github.com/Sourcastic
     past-maintainers: []
-  is-userstyle: false
 - name: LaTeX
   categories:
   - key: library
@@ -2273,7 +2178,6 @@ ports:
     - username: walshyb
       url: https://github.com/walshyb
     past-maintainers: []
-  is-userstyle: false
 - name: Lapce
   categories:
   - key: code_editor
@@ -2292,7 +2196,6 @@ ports:
     - username: ghishadow
       url: https://github.com/ghishadow
     past-maintainers: []
-  is-userstyle: false
 - name: lazygit
   categories:
   - key: cli
@@ -2310,7 +2213,6 @@ ports:
     - username: nullishamy
       url: https://github.com/nullishamy
     past-maintainers: []
-  is-userstyle: false
 - name: Limine
   categories:
   - key: boot_loader
@@ -2331,7 +2233,6 @@ ports:
     - username: mekb-turtle
       url: https://github.com/mekb-turtle
     past-maintainers: []
-  is-userstyle: false
 - name: Linear
   categories:
   - key: productivity
@@ -2350,7 +2251,6 @@ ports:
     - username: kkrypt0nn
       url: https://github.com/kkrypt0nn
     past-maintainers: []
-  is-userstyle: false
 - name: Logseq
   categories:
   - key: note_taking
@@ -2368,7 +2268,6 @@ ports:
     - username: griimick
       url: https://github.com/griimick
     past-maintainers: []
-  is-userstyle: false
 - name: Lua
   categories:
   - key: library
@@ -2387,7 +2286,6 @@ ports:
     - username: cattokomo
       url: https://github.com/cattokomo
     past-maintainers: []
-  is-userstyle: false
 - name: LXQt
   categories:
   - key: desktop_environment
@@ -2410,7 +2308,6 @@ ports:
     - username: DonutDev
       url: https://github.com/DonutDev
     past-maintainers: []
-  is-userstyle: false
 - name: LXTerminal
   categories:
   - key: terminal
@@ -2429,7 +2326,6 @@ ports:
     past-maintainers:
     - username: prateektade
       url: https://github.com/prateektade
-  is-userstyle: false
 - name: Mailspring
   categories:
   - key: email_client
@@ -2450,8 +2346,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: mako
   categories:
   - key: notification_daemon
@@ -2474,7 +2370,6 @@ ports:
     - username: lokesh-krishna
       url: https://github.com/lokesh-krishna
     past-maintainers: []
-  is-userstyle: false
 - name: Matplotlib
   categories:
   - key: development
@@ -2495,7 +2390,6 @@ ports:
     - username: brambozz
       url: https://github.com/brambozz
     past-maintainers: []
-  is-userstyle: false
 - name: Mattermost
   categories:
   - key: social_networking
@@ -2515,7 +2409,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Midnight Commander
   categories:
   - key: file_manager
@@ -2538,7 +2431,6 @@ ports:
     - username: AdalZanabria
       url: https://github.com/AdalZanabria
     past-maintainers: []
-  is-userstyle: false
 - name: mdBook
   categories:
   - key: development
@@ -2557,7 +2449,6 @@ ports:
       name: Hammy
       url: https://github.com/sgoudham
     past-maintainers: []
-  is-userstyle: false
 - name: micro
   categories:
   - key: code_editor
@@ -2580,8 +2471,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Minecraft
   categories:
   - key: game
@@ -2601,7 +2492,6 @@ ports:
     past-maintainers:
     - username: Aurn1ox
       url: https://github.com/Aurn1ox
-  is-userstyle: false
 - name: mIRC
   categories:
   - key: social_networking
@@ -2619,7 +2509,6 @@ ports:
     - username: lemon-sh
       url: https://github.com/lemon-sh
     past-maintainers: []
-  is-userstyle: false
 - name: Misskey
   categories:
   - key: social_networking
@@ -2639,7 +2528,6 @@ ports:
     - username: catb00mer
       url: https://github.com/catb00mer
     past-maintainers: []
-  is-userstyle: false
 - name: MiXplorer
   categories:
   - key: file_manager
@@ -2658,7 +2546,6 @@ ports:
       name: Auria
       url: https://github.com/auriafoxgirl
     past-maintainers: []
-  is-userstyle: false
 - name: MobaXterm
   categories:
   - key: terminal
@@ -2676,7 +2563,6 @@ ports:
     - username: likendev
       url: https://github.com/likendev
     past-maintainers: []
-  is-userstyle: false
 - name: Monkeytype
   categories:
   - key: entertainment
@@ -2694,7 +2580,6 @@ ports:
     past-maintainers:
     - username: VictorTennekes
       url: https://github.com/VictorTennekes
-  is-userstyle: false
 - name: Moon Animator 2
   categories:
   - key: game
@@ -2711,7 +2596,6 @@ ports:
     - username: xhayper
       url: https://github.com/xhayper
     past-maintainers: []
-  is-userstyle: false
 - name: mpv
   categories:
   - key: photo_and_video
@@ -2734,7 +2618,6 @@ ports:
     - username: Anomalocaridid
       url: https://github.com/Anomalocaridid
     past-maintainers: []
-  is-userstyle: false
 - name: MusicBee
   categories:
   - key: music
@@ -2751,7 +2634,6 @@ ports:
     - username: James-McK
       url: https://github.com/James-McK
     past-maintainers: []
-  is-userstyle: false
 - name: NeoMutt
   categories:
   - key: email_client
@@ -2771,9 +2653,9 @@ ports:
     url: https://github.com/catppuccin/neomutt
     current-maintainers:
     - username: Sekki21956
+      name: Sekki
       url: https://github.com/Sekki21956
     past-maintainers: []
-  is-userstyle: false
 - name: Newsboat
   categories:
   - key: cli
@@ -2791,7 +2673,6 @@ ports:
     past-maintainers:
     - username: ignamartinoli
       url: https://github.com/ignamartinoli
-  is-userstyle: false
 - name: nightTab
   categories:
   - key: browser_extension
@@ -2809,7 +2690,6 @@ ports:
     past-maintainers:
     - username: justTOBBI
       url: https://github.com/justTOBBI
-  is-userstyle: false
 - name: Nim
   categories:
   - key: library
@@ -2828,7 +2708,6 @@ ports:
     - username: daylinmorgan
       url: https://github.com/daylinmorgan
     past-maintainers: []
-  is-userstyle: false
 - name: Nilesoft Shell
   categories:
   - key: system
@@ -2845,7 +2724,6 @@ ports:
     - username: jayylmao
       url: https://github.com/jayylmao
     past-maintainers: []
-  is-userstyle: false
 - name: Nix
   categories:
   - key: system
@@ -2861,11 +2739,11 @@ ports:
     url: https://github.com/catppuccin/nix
     current-maintainers:
     - username: Stonks3141
+      name: Stonks3141
       url: https://github.com/Stonks3141
     - username: getchoo
       url: https://github.com/getchoo
     past-maintainers: []
-  is-userstyle: false
 - name: Noir
   categories:
   - key: browser_extension
@@ -2884,7 +2762,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Notepad++
   categories:
   - key: code_editor
@@ -2903,7 +2780,6 @@ ports:
     - username: InvitedToHell
       url: https://github.com/InvitedToHell
     past-maintainers: []
-  is-userstyle: false
 - name: Nova
   categories:
   - key: code_editor
@@ -2924,7 +2800,6 @@ ports:
     - username: daveyholler
       url: https://github.com/daveyholler
     past-maintainers: []
-  is-userstyle: false
 - name: Neovim
   categories:
   - key: code_editor
@@ -2950,7 +2825,6 @@ ports:
     past-maintainers:
     - username: nullchilly
       url: https://github.com/nullchilly
-  is-userstyle: false
 - name: OBS Studio
   categories:
   - key: productivity
@@ -2974,7 +2848,6 @@ ports:
     - username: Xurdejl
       url: https://github.com/Xurdejl
     past-maintainers: []
-  is-userstyle: false
 - name: Obsidian
   categories:
   - key: note_taking
@@ -2992,7 +2865,6 @@ ports:
     - username: mbeckrich
       url: https://github.com/mbeckrich
     past-maintainers: []
-  is-userstyle: false
 - name: Openbox
   categories:
   - key: window_manager
@@ -3014,7 +2886,6 @@ ports:
     past-maintainers:
     - username: prateektade
       url: https://github.com/prateektade
-  is-userstyle: false
 - name: Opera GX
   categories:
   - key: browser
@@ -3030,9 +2901,9 @@ ports:
     url: https://github.com/catppuccin/opera-gx
     current-maintainers:
     - username: isabelroses
+      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
-  is-userstyle: false
 - name: Pantone
   categories:
   - key: library
@@ -3050,7 +2921,6 @@ ports:
     - username: BlueFalconHD
       url: https://github.com/BlueFalconHD
     past-maintainers: []
-  is-userstyle: false
 - name: Papirus Folders
   categories:
   - key: system
@@ -3067,8 +2937,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Plank
   categories:
   - key: application_launcher
@@ -3088,8 +2958,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Plymouth
   categories:
   - key: boot_loader
@@ -3110,7 +2980,6 @@ ports:
     - username: ndsboy
       url: https://github.com/ndsboy
     past-maintainers: []
-  is-userstyle: false
 - name: Polybar
   categories:
   - key: system
@@ -3127,7 +2996,6 @@ ports:
     past-maintainers:
     - username: justTOBBI
       url: https://github.com/justTOBBI
-  is-userstyle: false
 - name: Pomotroid
   categories:
   - key: productivity
@@ -3143,9 +3011,9 @@ ports:
     url: https://github.com/catppuccin/pomotroid
     current-maintainers:
     - username: coldenate
+      name: coldenate
       url: https://github.com/coldenate
     past-maintainers: []
-  is-userstyle: false
 - name: Microsoft PowerPoint Slides
   categories:
   - key: productivity
@@ -3164,7 +3032,6 @@ ports:
     - username: kkrypt0nn
       url: https://github.com/kkrypt0nn
     past-maintainers: []
-  is-userstyle: false
 - name: PowerShell
   categories:
   - key: cli
@@ -3183,7 +3050,6 @@ ports:
     - username: JK-Flip-Flop96
       url: https://github.com/JK-Flip-Flop96
     past-maintainers: []
-  is-userstyle: false
 - name: Prism Launcher
   categories:
   - key: game
@@ -3204,7 +3070,6 @@ ports:
     past-maintainers:
     - username: Mqisty
       url: https://github.com/Mqisty
-  is-userstyle: false
 - name: Process Compose
   categories:
   - key: cli
@@ -3227,7 +3092,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: PyRadio
   categories:
   - key: music
@@ -3243,8 +3107,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Python
   categories:
   - key: library
@@ -3264,7 +3128,6 @@ ports:
       name: pigeon
       url: https://github.com/backwardspy
     past-maintainers: []
-  is-userstyle: false
 - name: qBittorrent
   categories:
   - key: productivity
@@ -3283,7 +3146,6 @@ ports:
     - username: Xurdejl
       url: https://github.com/Xurdejl
     past-maintainers: []
-  is-userstyle: false
 - name: qt5ct
   categories:
   - key: system
@@ -3300,7 +3162,6 @@ ports:
     - username: Syndrizzle
       url: https://github.com/Syndrizzle
     past-maintainers: []
-  is-userstyle: false
 - name: qutebrowser
   categories:
   - key: browser
@@ -3319,7 +3180,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Qt Creator
   categories:
   - key: code_editor
@@ -3339,7 +3199,6 @@ ports:
       name: pigeon
       url: https://github.com/backwardspy
     past-maintainers: []
-  is-userstyle: false
 - name: QTerminal
   categories:
   - key: terminal
@@ -3358,7 +3217,6 @@ ports:
     past-maintainers:
     - username: prateektade
       url: https://github.com/prateektade
-  is-userstyle: false
 - name: Raycast
   categories:
   - key: application_launcher
@@ -3381,7 +3239,6 @@ ports:
     - username: rayhanadev
       url: https://github.com/rayhanadev
     past-maintainers: []
-  is-userstyle: false
 - name: Rboard
   categories:
   - key: system
@@ -3399,7 +3256,6 @@ ports:
     - username: Moodzz1
       url: https://github.com/Moodzz1
     past-maintainers: []
-  is-userstyle: false
 - name: rEFInd
   categories:
   - key: boot_loader
@@ -3420,7 +3276,6 @@ ports:
     - username: fapfaff
       url: https://github.com/fapfaff
     past-maintainers: []
-  is-userstyle: false
 - name: Regolith
   categories:
   - key: desktop_environment
@@ -3442,7 +3297,6 @@ ports:
     - username: taka0o
       url: https://github.com/taka0o
     past-maintainers: []
-  is-userstyle: false
 - name: RemNote
   categories:
   - key: note_taking
@@ -3457,11 +3311,11 @@ ports:
     url: https://github.com/catppuccin/remnote
     current-maintainers:
     - username: coldenate
+      name: coldenate
       url: https://github.com/coldenate
     past-maintainers:
     - username: justTOBBI
       url: https://github.com/justTOBBI
-  is-userstyle: false
 - name: Replit
   categories:
   - key: code_editor
@@ -3480,7 +3334,6 @@ ports:
     past-maintainers:
     - username: Gingeh
       url: https://github.com/Gingeh
-  is-userstyle: false
 - name: Revolt
   categories:
   - key: social_networking
@@ -3497,11 +3350,11 @@ ports:
     url: https://github.com/catppuccin/revolt
     current-maintainers:
     - username: unseen-ninja
+      name: Lemon
       url: https://github.com/unseen-ninja
     past-maintainers:
     - username: pocco81
       url: https://github.com/pocco81
-  is-userstyle: false
 - name: Rio
   categories:
   - key: terminal
@@ -3519,7 +3372,6 @@ ports:
     - username: Brianalmeida
       url: https://github.com/Brianalmeida
     past-maintainers: []
-  is-userstyle: false
 - name: Rofi
   categories:
   - key: application_launcher
@@ -3540,7 +3392,6 @@ ports:
     past-maintainers:
     - username: AlphaTechnolog
       url: https://github.com/AlphaTechnolog
-  is-userstyle: false
 - name: RStudio
   categories:
   - key: code_editor
@@ -3563,7 +3414,6 @@ ports:
     - username: AngelBerihuete
       url: https://github.com/AngelBerihuete
     past-maintainers: []
-  is-userstyle: false
 - name: Rust
   categories:
   - key: library
@@ -3583,7 +3433,6 @@ ports:
       name: pigeon
       url: https://github.com/backwardspy
     past-maintainers: []
-  is-userstyle: false
 - name: sc-im
   categories:
   - key: cli
@@ -3606,7 +3455,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Scrivener
   categories:
   - key: productivity
@@ -3625,7 +3473,6 @@ ports:
       name: Nick
       url: https://github.com/NickSquiggles
     past-maintainers: []
-  is-userstyle: false
 - name: SDDM
   categories:
   - key: system
@@ -3640,9 +3487,9 @@ ports:
     url: https://github.com/catppuccin/sddm
     current-maintainers:
     - username: isabelroses
+      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
-  is-userstyle: false
 - name: SerenityOS
   categories:
   - key: system
@@ -3659,7 +3506,6 @@ ports:
     - username: nullishamy
       url: https://github.com/nullishamy
     past-maintainers: []
-  is-userstyle: false
 - name: ShareX
   categories:
   - key: photo_and_video
@@ -3684,7 +3530,6 @@ ports:
       name: Hammy
       url: https://github.com/sgoudham
     past-maintainers: []
-  is-userstyle: false
 - name: Shiki
   categories:
   - key: development
@@ -3702,7 +3547,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: SimpleX
   categories:
   - key: social_networking
@@ -3720,7 +3564,6 @@ ports:
     - username: iruzo
       url: https://github.com/iruzo
     past-maintainers: []
-  is-userstyle: false
 - name: skim
   categories:
   - key: cli
@@ -3738,7 +3581,6 @@ ports:
     - username: gabrielmagno
       url: https://github.com/gabrielmagno
     past-maintainers: []
-  is-userstyle: false
 - name: Slack
   categories:
   - key: social_networking
@@ -3758,7 +3600,6 @@ ports:
       name: Hammy
       url: https://github.com/sgoudham
     past-maintainers: []
-  is-userstyle: false
 - name: Sioyek
   categories:
   - key: document_viewer
@@ -3780,7 +3621,6 @@ ports:
     - username: 21st-centuryman
       url: https://github.com/21st-centuryman
     past-maintainers: []
-  is-userstyle: false
 - name: SolveSpace
   categories:
   - key: 3d_modelling
@@ -3803,7 +3643,6 @@ ports:
     - username: ndsboy
       url: https://github.com/ndsboy
     past-maintainers: []
-  is-userstyle: false
 - name: SpeedCrunch
   categories:
   - key: productivity
@@ -3821,7 +3660,6 @@ ports:
     - username: Zazucki
       url: https://github.com/Zazucki
     past-maintainers: []
-  is-userstyle: false
 - name: Spicetify
   categories:
   - key: music
@@ -3841,7 +3679,6 @@ ports:
     past-maintainers:
     - username: davidbgonz
       url: https://github.com/davidbgonz
-  is-userstyle: false
 - name: spotify-player
   categories:
   - key: music
@@ -3858,8 +3695,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Spotify TUI
   categories:
   - key: music
@@ -3880,9 +3717,9 @@ ports:
     url: https://github.com/catppuccin/spotify-tui
     current-maintainers:
     - username: Sekki21956
+      name: Sekki
       url: https://github.com/Sekki21956
     past-maintainers: []
-  is-userstyle: false
 - name: Spyder
   categories:
   - key: code_editor
@@ -3901,7 +3738,6 @@ ports:
     - username: meme8383
       url: https://github.com/meme8383
     past-maintainers: []
-  is-userstyle: false
 - name: Squirrel (Rime for macOS)
   categories:
   - key: productivity
@@ -3920,7 +3756,6 @@ ports:
     - username: moseeking
       url: https://github.com/moseeking
     past-maintainers: []
-  is-userstyle: false
 - name: st
   categories:
   - key: terminal
@@ -3939,7 +3774,6 @@ ports:
     past-maintainers:
     - username: tsjazil
       url: https://github.com/tsjazil
-  is-userstyle: false
 - name: Stable Diffusion WebUI
   categories:
   - key: artificial_intelligence
@@ -3961,7 +3795,6 @@ ports:
     past-maintainers:
     - username: Kettukaa
       url: https://github.com/Kettukaa
-  is-userstyle: false
 - name: Starship
   categories:
   - key: cli
@@ -3980,7 +3813,6 @@ ports:
     - username: JoshPaulie
       url: https://github.com/JoshPaulie
     past-maintainers: []
-  is-userstyle: false
 - name: Steam Deck
   categories:
   - key: game
@@ -4004,7 +3836,6 @@ ports:
     - username: ozwaldorf
       url: https://github.com/ozwaldorf
     past-maintainers: []
-  is-userstyle: false
 - name: Sublime Text
   categories:
   - key: code_editor
@@ -4025,7 +3856,6 @@ ports:
     past-maintainers:
     - username: ghostx31
       url: https://github.com/ghostx31
-  is-userstyle: false
 - name: SumatraPDF
   categories:
   - key: document_viewer
@@ -4047,7 +3877,6 @@ ports:
     - username: asrvd
       url: https://github.com/asrvd
     past-maintainers: []
-  is-userstyle: false
 - name: swaylock
   categories:
   - key: system
@@ -4065,7 +3894,6 @@ ports:
     - username: remiposo
       url: https://github.com/remiposo
     past-maintainers: []
-  is-userstyle: false
 - name: swaync
   categories:
   - key: notification_daemon
@@ -4086,9 +3914,9 @@ ports:
     url: https://github.com/catppuccin/swaync
     current-maintainers:
     - username: isabelroses
+      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
-  is-userstyle: false
 - name: Tabby
   categories:
   - key: terminal
@@ -4106,7 +3934,6 @@ ports:
     - username: sakkke
       url: https://github.com/sakkke
     past-maintainers: []
-  is-userstyle: false
 - name: Tailwind CSS
   categories:
   - key: development
@@ -4130,7 +3957,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Telegram
   categories:
   - key: social_networking
@@ -4149,7 +3975,6 @@ ports:
     - username: isabelincorp
       url: https://github.com/isabelincorp
     past-maintainers: []
-  is-userstyle: false
 - name: Terminator
   categories:
   - key: terminal
@@ -4169,7 +3994,6 @@ ports:
       url: https://github.com/pocco81
     - username: AdalZanabria
       url: https://github.com/AdalZanabria
-  is-userstyle: false
 - name: Terminal.app
   categories:
   - key: terminal
@@ -4188,7 +4012,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Termux
   categories:
   - key: terminal
@@ -4207,7 +4030,6 @@ ports:
     past-maintainers:
     - username: AdalZanabria
       url: https://github.com/AdalZanabria
-  is-userstyle: false
 - name: The Lounge
   categories:
   - key: social_networking
@@ -4225,7 +4047,6 @@ ports:
     past-maintainers:
     - username: hyperreal64
       url: https://github.com/hyperreal64
-  is-userstyle: false
 - name: theme.park
   categories:
   - key: entertainment
@@ -4243,7 +4064,6 @@ ports:
     - username: lewisakura
       url: https://github.com/lewisakura
     past-maintainers: []
-  is-userstyle: false
 - name: Thunderbird
   categories:
   - key: email_client
@@ -4267,8 +4087,8 @@ ports:
       url: https://github.com/nullishamy
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Tilix
   categories:
   - key: terminal
@@ -4285,8 +4105,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: tmux
   categories:
   - key: cli
@@ -4309,7 +4129,6 @@ ports:
     - username: vdbe
       url: https://github.com/vdbe
     past-maintainers: []
-  is-userstyle: false
 - name: Tofi
   categories:
   - key: application_launcher
@@ -4330,7 +4149,6 @@ ports:
     - username: iruzo
       url: https://github.com/iruzo
     past-maintainers: []
-  is-userstyle: false
 - name: Trilium Notes
   categories:
   - key: note_taking
@@ -4348,7 +4166,6 @@ ports:
     - username: SadAlexa
       url: https://github.com/SadAlexa
     past-maintainers: []
-  is-userstyle: false
 - name: tty
   categories:
   - key: terminal
@@ -4370,7 +4187,6 @@ ports:
     - username: CallMeEchoCodes
       url: https://github.com/CallMeEchoCodes
     past-maintainers: []
-  is-userstyle: false
 - name: tym
   categories:
   - key: terminal
@@ -4388,7 +4204,6 @@ ports:
     - username: justleoo
       url: https://github.com/justleoo
     past-maintainers: []
-  is-userstyle: false
 - name: Ueli
   categories:
   - key: application_launcher
@@ -4409,7 +4224,6 @@ ports:
     - username: lighttigerXIV
       url: https://github.com/lighttigerXIV
     past-maintainers: []
-  is-userstyle: false
 - name: UI
   categories:
   - key: library
@@ -4433,7 +4247,6 @@ ports:
     past-maintainers:
     - username: didair
       url: https://github.com/didair
-  is-userstyle: false
 - name: Ulauncher
   categories:
   - key: application_launcher
@@ -4454,7 +4267,6 @@ ports:
     - username: lighttigerXIV
       url: https://github.com/lighttigerXIV
     past-maintainers: []
-  is-userstyle: false
 - name: ULTRAKILL
   categories:
   - key: game
@@ -4475,7 +4287,6 @@ ports:
     past-maintainers:
     - username: Gingeh
       url: https://github.com/Gingeh
-  is-userstyle: false
 - name: Unreal Engine
   categories:
   - key: game_development
@@ -4495,7 +4306,6 @@ ports:
       name: Quentin
       url: https://github.com/quentinguidee
     past-maintainers: []
-  is-userstyle: false
 - name: Urxvt
   categories:
   - key: terminal
@@ -4513,7 +4323,6 @@ ports:
     past-maintainers:
     - username: pocco81
       url: https://github.com/pocco81
-  is-userstyle: false
 - name: V
   categories:
   - key: library
@@ -4532,7 +4341,6 @@ ports:
     - username: Delta456
       url: https://github.com/Delta456
     past-maintainers: []
-  is-userstyle: false
 - name: Vendetta
   categories:
   - key: social_networking
@@ -4553,7 +4361,6 @@ ports:
     - username: Moodzz1
       url: https://github.com/Moodzz1
     past-maintainers: []
-  is-userstyle: false
 - name: Vim
   categories:
   - key: code_editor
@@ -4577,7 +4384,6 @@ ports:
     - username: M3nny
       url: https://github.com/M3nny
     past-maintainers: []
-  is-userstyle: false
 - name: Vimium
   categories:
   - key: browser_extension
@@ -4595,8 +4401,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
+      name: Elkrien
       url: https://github.com/elkrien
-  is-userstyle: false
 - name: Visual Studio
   categories:
   - key: code_editor
@@ -4620,7 +4426,6 @@ ports:
     - username: djflan
       url: https://github.com/djflan
     past-maintainers: []
-  is-userstyle: false
 - name: Vivaldi
   categories:
   - key: browser
@@ -4638,7 +4443,6 @@ ports:
     - username: sakkke
       url: https://github.com/sakkke
     past-maintainers: []
-  is-userstyle: false
 - name: Visual Studio Code
   categories:
   - key: code_editor
@@ -4671,7 +4475,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Visual Studio Code Icons
   categories:
   - key: code_editor
@@ -4695,7 +4498,6 @@ ports:
     - username: prazdevs
       url: https://github.com/prazdevs
     past-maintainers: []
-  is-userstyle: false
 - name: Warp
   categories:
   - key: terminal
@@ -4715,7 +4517,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: waybar
   categories:
   - key: system
@@ -4733,7 +4534,6 @@ ports:
     - username: rubyowo
       url: https://github.com/rubyowo
     past-maintainers: []
-  is-userstyle: false
 - name: WezTerm
   categories:
   - key: terminal
@@ -4754,7 +4554,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: Whoogle
   categories:
   - key: search_engine
@@ -4772,7 +4571,6 @@ ports:
     past-maintainers:
     - username: WitherCubes
       url: https://github.com/WitherCubes
-  is-userstyle: false
 - name: Windows Files
   categories:
   - key: file_manager
@@ -4796,7 +4594,6 @@ ports:
       name: Hammy
       url: https://github.com/sgoudham
     past-maintainers: []
-  is-userstyle: false
 - name: Windows Terminal
   categories:
   - key: terminal
@@ -4815,7 +4612,6 @@ ports:
     - username: LudoPinelli
       url: https://github.com/LudoPinelli
     past-maintainers: []
-  is-userstyle: false
 - name: Xcode
   categories:
   - key: code_editor
@@ -4835,7 +4631,6 @@ ports:
       name: Quentin
       url: https://github.com/quentinguidee
     past-maintainers: []
-  is-userstyle: false
 - name: Xfce4 Terminal
   categories:
   - key: terminal
@@ -4854,7 +4649,6 @@ ports:
     past-maintainers:
     - username: WitherCubes
       url: https://github.com/WitherCubes
-  is-userstyle: false
 - name: Xed
   categories:
   - key: code_editor
@@ -4872,7 +4666,6 @@ ports:
     past-maintainers:
     - username: justTOBBI
       url: https://github.com/justTOBBI
-  is-userstyle: false
 - name: Xresources
   categories:
   - key: system
@@ -4890,7 +4683,6 @@ ports:
     - username: pocco81
       url: https://github.com/pocco81
     past-maintainers: []
-  is-userstyle: false
 - name: Yakuake
   categories:
   - key: terminal
@@ -4908,7 +4700,6 @@ ports:
     - username: southqaw
       url: https://github.com/southqaw
     past-maintainers: []
-  is-userstyle: false
 - name: Yazi
   categories:
   - key: file_manager
@@ -4929,9 +4720,9 @@ ports:
     url: https://github.com/catppuccin/yazi
     current-maintainers:
     - username: uncenter
+      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
-  is-userstyle: false
 - name: YouTube Music
   categories:
   - key: music
@@ -4947,11 +4738,11 @@ ports:
     url: https://github.com/catppuccin/youtubemusic
     current-maintainers:
     - username: kerichdev
+      name: keri
       url: https://github.com/kerichdev
     past-maintainers:
     - username: rubyowo
       url: https://github.com/rubyowo
-  is-userstyle: false
 - name: Zathura
   categories:
   - key: document_viewer
@@ -4974,7 +4765,6 @@ ports:
     - username: lokesh-krishna
       url: https://github.com/lokesh-krishna
     past-maintainers: []
-  is-userstyle: false
 - name: Zed
   categories:
   - key: code_editor
@@ -4994,7 +4784,6 @@ ports:
     - username: tecandrew
       url: https://github.com/tecandrew
     past-maintainers: []
-  is-userstyle: false
 - name: Zellij
   categories:
   - key: cli
@@ -5014,7 +4803,6 @@ ports:
     - username: mainrs
       url: https://github.com/mainrs
     past-maintainers: []
-  is-userstyle: false
 - name: ZSH Fast Syntax Highlighting
   categories:
   - key: cli
@@ -5034,7 +4822,6 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
-  is-userstyle: false
 - name: zsh-syntax-highlighting
   categories:
   - key: cli
@@ -5053,7 +4840,6 @@ ports:
     past-maintainers:
     - username: hyperreal64
       url: https://github.com/hyperreal64
-  is-userstyle: false
 - name: Zutty
   categories:
   - key: terminal
@@ -5071,7 +4857,2419 @@ ports:
     - username: sakkke
       url: https://github.com/sakkke
     past-maintainers: []
-  is-userstyle: false
+- name: Advent Of Code
+  key: advent-of-code
+  repository:
+    name: advent-of-code
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code
+    current-maintainers:
+    - username: rubyowo
+      url: https://github.com/rubyowo
+    past-maintainers: []
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: adventofcode
+  color: yellow
+- name: AniList
+  key: anilist
+  repository:
+    name: anilist
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/anilist
+    current-maintainers:
+    - username: AnubisNekhet
+      url: https://github.com/AnubisNekhet
+    past-maintainers: []
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: anilist
+  color: sky
+- name: AniChart
+  key: anilist
+  repository:
+    name: anilist
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/anilist
+    current-maintainers:
+    - username: AnubisNekhet
+      url: https://github.com/AnubisNekhet
+    past-maintainers: []
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: anilist
+  color: sky
+- name: Arch Wiki
+  key: arch-wiki
+  repository:
+    name: arch-wiki
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki
+    current-maintainers:
+    - username: GenShibe
+      name: GenShibe
+      url: https://github.com/GenShibe
+    past-maintainers: []
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: archlinux
+  color: blue
+- name: boringproxy
+  key: boringproxy
+  repository:
+    name: boringproxy
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy
+    current-maintainers:
+    - username: Gandalf-the-Blue
+      name: Gandalf the Blue
+      url: https://github.com/Gandalf-the-Blue
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: text
+- name: Brave Search
+  key: brave-search
+  repository:
+    name: brave-search
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/brave-search
+    current-maintainers:
+    - username: ndsboy
+      url: https://github.com/ndsboy
+    past-maintainers: []
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: brave
+  color: peach
+- name: Bluesky Social
+  key: bsky
+  repository:
+    name: bsky
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/bsky
+    current-maintainers:
+    - username: RoootTheFox
+      name: rooot
+      url: https://github.com/RoootTheFox
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: bluesky
+  color: blue
+- name: bStats
+  key: bstats
+  repository:
+    name: bstats
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/bstats
+    current-maintainers:
+    - username: rockquiet
+      name: rockquiet
+      url: https://github.com/rockquiet
+    past-maintainers: []
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: green
+- name: Canvas LMS
+  key: canvas-lms
+  repository:
+    name: canvas-lms
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms
+    current-maintainers: []
+    past-maintainers:
+    - username: TheMemeSniper
+      name: TheMemeSniper
+      url: https://github.com/TheMemeSniper
+  categories:
+  - key: education
+    name: Education
+    description: Applications that faciliate learning, knowledge acquisition and skill
+      development.
+    emoji: 🎓
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: canvas
+  color: red
+- name: ChatGPT
+  key: chatgpt
+  repository:
+    name: chatgpt
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers:
+    - username: rubyowo
+      url: https://github.com/rubyowo
+  categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: openai
+  color: green
+- name: ChatReplay
+  key: chatreplay
+  repository:
+    name: chatreplay
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/chatreplay
+    current-maintainers:
+    - username: AnubisNekhet
+      url: https://github.com/AnubisNekhet
+    past-maintainers: []
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: peach
+- name: Chess.com
+  key: chess.com
+  repository:
+    name: chess.com
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/chess.com
+    current-maintainers:
+    - username: coldenate
+      name: coldenate
+      url: https://github.com/coldenate
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+    past-maintainers:
+    - username: skelebro1
+      name: skele
+      url: https://github.com/skelebro1
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: education
+    name: Education
+    description: Applications that faciliate learning, knowledge acquisition and skill
+      development.
+    emoji: 🎓
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: chessdotcom
+  color: green
+- name: Cinny
+  key: cinny
+  repository:
+    name: cinny
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/cinny
+    current-maintainers:
+    - username: jn-sena
+      name: Sena
+      url: https://github.com/jn-sena
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: text
+- name: Codeberg
+  key: codeberg
+  repository:
+    name: codeberg
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/codeberg
+    current-maintainers:
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+    past-maintainers:
+    - username: justTOBBI
+      url: https://github.com/justTOBBI
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: codeberg
+  color: blue
+- name: cobalt
+  key: cobalt
+  repository:
+    name: cobalt
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/cobalt
+    current-maintainers:
+    - username: kerichdev
+      name: keri
+      url: https://github.com/kerichdev
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: text
+- name: crates.io
+  key: crates.io
+  repository:
+    name: crates.io
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/crates.io
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: rust
+  color: yellow
+- name: Crowdin
+  key: crowdin
+  repository:
+    name: crowdin
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/crowdin
+    current-maintainers:
+    - username: ryanccn
+      name: Ryan Cao
+      url: https://github.com/ryanccn
+    past-maintainers: []
+  categories:
+  - key: translation_tool
+    name: Translation Tools
+    description: Applications that help bridge language gaps by translating one language
+      to another.
+    emoji: 🗺️
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: crowdin
+  color: text
+- name: DeepL
+  key: deepl
+  repository:
+    name: deepl
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/deepl
+    current-maintainers:
+    - username: watatomo
+      name: Ren
+      url: https://github.com/watatomo
+    past-maintainers: []
+  categories:
+  - key: translation_tool
+    name: Translation Tools
+    description: Applications that help bridge language gaps by translating one language
+      to another.
+    emoji: 🗺️
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: deepl
+  color: blue
+- name: docs.rs
+  key: docs.rs
+  repository:
+    name: docs.rs
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/docs.rs
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: docsdotrs
+  color: yellow
+- name: DuckDuckGo
+  key: duckduckgo
+  repository:
+    name: duckduckgo
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/duckduckgo
+    current-maintainers:
+    - username: GenShibe
+      name: GenShibe
+      url: https://github.com/GenShibe
+    past-maintainers: []
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: duckduckgo
+  color: peach
+- name: Ecosia
+  key: ecosia
+  repository:
+    name: ecosia
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/ecosia
+    current-maintainers:
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+    past-maintainers: []
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: green
+- name: Elk
+  key: elk
+  repository:
+    name: elk
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/elk
+    current-maintainers:
+    - username: ryanccn
+      name: Ryan Cao
+      url: https://github.com/ryanccn
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: peach
+- name: freedesktop.org
+  key: freedesktop
+  repository:
+    name: freedesktop
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/freedesktop
+    current-maintainers:
+    - username: NK308
+      url: https://github.com/NK308
+      name: NK308
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: freedesktopdotorg
+  color: blue
+- name: Formative
+  key: formative
+  repository:
+    name: formative
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/formative
+    current-maintainers:
+    - username: r58Playz
+      name: r58Playz
+      url: https://github.com/r58Playz
+    past-maintainers: []
+  categories:
+  - key: education
+    name: Education
+    description: Applications that faciliate learning, knowledge acquisition and skill
+      development.
+    emoji: 🎓
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
+- name: GitHub
+  key: github
+  repository:
+    name: github
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/github
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers:
+    - username: unseen-ninja
+      name: Lemon
+      url: https://github.com/unseen-ninja
+    - username: Pocco81
+      url: https://github.com/Pocco81
+    - username: GlowingUmbreon
+      name: Umbreon
+      url: https://github.com/GlowingUmbreon
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: github
+  color: text
+- name: Gmail
+  key: gmail
+  repository:
+    name: gmail
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/gmail
+    current-maintainers: []
+    past-maintainers:
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: gmail
+  color: peach
+- name: go.dev
+  key: go.dev
+  repository:
+    name: go.dev
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/go.dev
+    current-maintainers:
+    - username: Flapperoo
+      name: Eli
+      url: https://github.com/Flapperoo
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: go
+  color: sapphire
+- name: Google
+  key: google
+  repository:
+    name: google
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/google
+    current-maintainers:
+    - username: GitMuslim
+      url: https://github.com/GitMuslim
+    past-maintainers: []
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: google
+  color: sapphire
+- name: Google Drive
+  key: google-drive
+  repository:
+    name: google-drive
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/google-drive
+    current-maintainers:
+    - username: r58Playz
+      name: r58Playz
+      url: https://github.com/r58Playz
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: googledrive
+  color: blue
+- name: Google Photos
+  key: google-photos
+  repository:
+    name: google-photos
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/google-photos
+    current-maintainers:
+    - username: GenShibe
+      name: GenShibe
+      url: https://github.com/GenShibe
+    past-maintainers: []
+  categories:
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: googlephotos
+  color: sapphire
+- name: Graphite
+  key: graphite
+  repository:
+    name: graphite
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/graphite
+    current-maintainers:
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: graphite
+  color: text
+- name: Google Gemini
+  key: google-gemini
+  repository:
+    name: google-gemini
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/google-gemini
+    current-maintainers:
+    - username: Dandraghas
+      name: Dandraghas
+      url: https://github.com/Dandraghas
+    past-maintainers: []
+  categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: googlegemini
+  color: mauve
+- name: Hackage
+  key: hackage
+  repository:
+    name: hackage
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/hackage
+    current-maintainers:
+    - username: jn-sena
+      name: Sena
+      url: https://github.com/jn-sena
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: haskell
+  color: mauve
+- name: Hacker News
+  key: hacker-news
+  repository:
+    name: hacker-news
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news
+    current-maintainers:
+    - username: lucasmelin
+      name: Lucas Melin
+      url: https://github.com/lucasmelin
+    past-maintainers: []
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: ycombinator
+  color: peach
+- name: Holodex
+  key: holodex
+  repository:
+    name: holodex
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/holodex
+    current-maintainers:
+    - username: Guaxinim5573
+      name: Guaxinim5573
+      url: https://github.com/Guaxinim5573
+    past-maintainers: []
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: pink
+- name: Home Manager Options Search
+  key: home-manager-options-search
+  repository:
+    name: home-manager-options-search
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/home-manager-options-search
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
+- name: homepage
+  key: homepage
+  repository:
+    name: homepage
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/homepage
+    current-maintainers:
+    - username: Gandalf-the-Blue
+      name: Gandalf the Blue
+      url: https://github.com/Gandalf-the-Blue
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: sky
+- name: Hoppscotch
+  key: hoppscotch
+  repository:
+    name: hoppscotch
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch
+    current-maintainers:
+    - username: justTOBBI
+      url: https://github.com/justTOBBI
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: hoppscotch
+  color: green
+- name: Hyperpipe
+  key: hyperpipe
+  repository:
+    name: hyperpipe
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/hyperpipe
+    current-maintainers:
+    - username: jn-sena
+      name: Sena
+      url: https://github.com/jn-sena
+    past-maintainers: []
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: teal
+- name: ichi.moe
+  key: ichi.moe
+  repository:
+    name: ichi.moe
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/ichi.moe
+    current-maintainers:
+    - username: watatomo
+      name: Ren
+      url: https://github.com/watatomo
+    past-maintainers: []
+  categories:
+  - key: translation_tool
+    name: Translation Tools
+    description: Applications that help bridge language gaps by translating one language
+      to another.
+    emoji: 🗺️
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: pink
+- name: inoreader
+  key: inoreader
+  repository:
+    name: inoreader
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/inoreader
+    current-maintainers:
+    - username: thomas-philippot
+      name: Thomas Philippot
+      url: https://github.com/thomas-philippot
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: inoreader
+  color: blue
+- name: Instagram
+  key: instagram
+  repository:
+    name: instagram
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/instagram
+    current-maintainers:
+    - username: GenShibe
+      name: GenShibe
+      url: https://github.com/GenShibe
+    past-maintainers:
+    - username: haiksgithub
+      name: haiksgithub
+      url: https://github.com/haiksgithub
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: instagram
+  color: pink
+- name: Invidious
+  key: invidious
+  repository:
+    name: invidious
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/invidious
+    current-maintainers: []
+    past-maintainers:
+    - username: unseen-ninja
+      name: Lemon
+      url: https://github.com/unseen-ninja
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: youtube
+  color: red
+- name: InvokeAI
+  key: invokeai
+  repository:
+    name: invokeai
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/invokeai
+    current-maintainers:
+    - username: ryanccn
+      name: Ryan Cao
+      url: https://github.com/ryanccn
+    past-maintainers: []
+  categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: yellow
+- name: Keyoxide
+  key: keyoxide
+  repository:
+    name: keyoxide
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/keyoxide
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: mauve
+- name: Last.fm
+  key: lastfm
+  repository:
+    name: lastfm
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/lastfm
+    current-maintainers:
+    - username: AnubisNekhet
+      url: https://github.com/AnubisNekhet
+    past-maintainers:
+    - username: Gingeh
+      url: https://github.com/Gingeh
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: lastdotfm
+  color: red
+- name: Lemmy
+  key: lemmy
+  repository:
+    name: lemmy
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/lemmy
+    current-maintainers:
+    - username: Gandalf-the-Blue
+      name: Gandalf the Blue
+      url: https://github.com/Gandalf-the-Blue
+    past-maintainers: []
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: lemmy
+  color: green
+- name: Libreddit
+  key: libreddit
+  repository:
+    name: libreddit
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/libreddit
+    current-maintainers: []
+    past-maintainers:
+    - username: unseen-ninja
+      name: Lemon
+      url: https://github.com/unseen-ninja
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: reddit
+  color: peach
+- name: Redlib
+  key: libreddit
+  repository:
+    name: libreddit
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/libreddit
+    current-maintainers: []
+    past-maintainers:
+    - username: unseen-ninja
+      name: Lemon
+      url: https://github.com/unseen-ninja
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: reddit
+  color: peach
+- name: Lichess
+  key: lichess
+  repository:
+    name: lichess
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/lichess
+    current-maintainers:
+    - username: coopw1
+      name: coopw
+      url: https://github.com/coopw1
+    past-maintainers: []
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: lichess
+  color: text
+- name: Lingva
+  key: lingva
+  repository:
+    name: lingva
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/lingva
+    current-maintainers:
+    - username: rubyowo
+      url: https://github.com/rubyowo
+    past-maintainers: []
+  categories:
+  - key: translation_tool
+    name: Translation Tools
+    description: Applications that help bridge language gaps by translating one language
+      to another.
+    emoji: 🗺️
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: green
+- name: LinkedIn
+  key: linkedin
+  repository:
+    name: linkedin
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/linkedin
+    current-maintainers:
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: linkedin
+  color: blue
+- name: Mastodon
+  key: mastodon
+  repository:
+    name: mastodon
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/mastodon
+    current-maintainers:
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+    past-maintainers:
+    - username: unseen-ninja
+      name: Lemon
+      url: https://github.com/unseen-ninja
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: mastodon
+  color: lavender
+- name: mdBook
+  key: mdbook
+  repository:
+    name: mdbook
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/mdbook
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: mdbook
+  color: text
+- name: MDN
+  key: mdn
+  repository:
+    name: mdn
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/mdn
+    current-maintainers:
+    - username: soya-daizu
+      name: soya_daizu
+      url: https://github.com/soya-daizu
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: mdnwebdocs
+  color: text
+- name: Modrinth
+  key: modrinth
+  repository:
+    name: modrinth
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/modrinth
+    current-maintainers:
+    - username: thismoon
+      url: https://github.com/thismoon
+    past-maintainers: []
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: modrinth
+  color: green
+- name: Microsoft Word
+  key: microsoft-word
+  repository:
+    name: microsoft-word
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word
+    current-maintainers:
+    - username: GitMuslim
+      url: https://github.com/GitMuslim
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: microsoftword
+  color: blue
+- name: Migadu Webmail
+  key: migadu-webmail
+  repository:
+    name: migadu-webmail
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/migadu-webmail
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: migadu
+  color: blue
+- name: Minesweeper Online
+  key: minesweeper
+  repository:
+    name: minesweeper
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/minesweeper
+    current-maintainers:
+    - username: GitMuslim
+      url: https://github.com/GitMuslim
+    past-maintainers: []
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: text
+- name: Nitter
+  key: nitter
+  repository:
+    name: nitter
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/nitter
+    current-maintainers:
+    - username: AnubisNekhet
+      url: https://github.com/AnubisNekhet
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: twitter
+  color: blue
+- name: NixOS Search
+  key: nixos-search
+  repository:
+    name: nixos-search
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search
+    current-maintainers:
+    - username: cecelot
+      name: Sydney Newmark
+      url: https://github.com/cecelot
+    past-maintainers: []
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: nixos
+  color: blue
+- name: NixOS Wiki
+  key: nixos.wiki
+  repository:
+    name: nixos.wiki
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: nixos
+  color: blue
+- name: npm
+  key: npm
+  repository:
+    name: npm
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/npm
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: npm
+  color: red
+- name: openmediavault
+  key: openmediavault
+  repository:
+    name: openmediavault
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault
+    current-maintainers:
+    - username: Gandalf-the-Blue
+      name: Gandalf the Blue
+      url: https://github.com/Gandalf-the-Blue
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: openmediavault
+  color: sky
+- name: paste.rs
+  key: paste.rs
+  repository:
+    name: paste.rs
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs
+    current-maintainers:
+    - username: Guaxinim5573
+      name: Guaxinim5573
+      url: https://github.com/Guaxinim5573
+    past-maintainers:
+    - username: Stonks3141
+      name: Stonks3141
+      url: https://github.com/Stonks3141
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: pastebin
+  color: peach
+- name: Perplexity
+  key: perplexity
+  repository:
+    name: perplexity
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/perplexity
+    current-maintainers:
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+    - username: Tnixc
+      name: Tnixc
+      url: https://github.com/Tnixc
+    past-maintainers: []
+  categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: perplexity
+  color: teal
+- name: Phanpy
+  key: phanpy
+  repository:
+    name: phanpy
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/phanpy
+    current-maintainers:
+    - username: Guaxinim5573
+      name: Guaxinim5573
+      url: https://github.com/Guaxinim5573
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
+- name: Picrew
+  key: picrew
+  repository:
+    name: picrew
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/picrew
+    current-maintainers:
+    - username: Nyatalieeee
+      name: Natalie Raine
+      url: https://github.com/Nyatalieeee
+    past-maintainers: []
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: picrew
+  color: yellow
+- name: Pinterest
+  key: pinterest
+  repository:
+    name: pinterest
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/pinterest
+    current-maintainers: []
+    past-maintainers:
+    - username: jn-sena
+      name: Sena
+      url: https://github.com/jn-sena
+  categories:
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: pinterest
+  color: red
+- name: Planet Minecraft
+  key: planet-minecraft
+  repository:
+    name: planet-minecraft
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/planet-minecraft
+    current-maintainers:
+    - username: Nyameliaaaa
+      name: Amelia Rose
+      url: https://github.com/Nyameliaaaa
+    past-maintainers: []
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: green
+- name: Pronouns.page
+  key: pronouns.page
+  repository:
+    name: pronouns.page
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.page
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: pronounsdotpage
+  color: pink
+- name: Proton
+  key: proton
+  repository:
+    name: proton
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/proton
+    current-maintainers:
+    - username: soya-daizu
+      name: soya_daizu
+      url: https://github.com/soya-daizu
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: protonmail
+  color: mauve
+- name: PyPI
+  key: pypi
+  repository:
+    name: pypi
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/pypi
+    current-maintainers:
+    - username: trinkey
+      url: https://github.com/trinkey
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: sapphire
+- name: Quizlet
+  key: quizlet
+  repository:
+    name: quizlet
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/quizlet
+    current-maintainers:
+    - username: spaghettiosareyummy
+      url: https://github.com/spaghettiosareyummy
+    past-maintainers: []
+  categories:
+  - key: education
+    name: Education
+    description: Applications that faciliate learning, knowledge acquisition and skill
+      development.
+    emoji: 🎓
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: quizlet
+  color: mauve
+- name: Reddit
+  key: reddit
+  repository:
+    name: reddit
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/reddit
+    current-maintainers: []
+    past-maintainers:
+    - username: jayylmao
+      url: https://github.com/jayylmao
+    - username: rubyowo
+      url: https://github.com/rubyowo
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: red
+  icon: reddit
+- name: SearXNG
+  key: searxng
+  repository:
+    name: searxng
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/searxng
+    current-maintainers:
+    - username: Sekki21956
+      name: Sekki
+      url: https://github.com/Sekki21956
+    - username: ryanccn
+      name: Ryan Cao
+      url: https://github.com/ryanccn
+    past-maintainers: []
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: searxng
+  color: blue
+- name: Snapchat Web
+  key: snapchat-web
+  repository:
+    name: snapchat-web
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/snapchat-web
+    current-maintainers:
+    - username: itzTheMeow
+      name: Meow
+      url: https://github.com/itzTheMeow
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: snapchat
+  color: yellow
+- name: Spotify Web
+  key: spotify-web
+  repository:
+    name: spotify-web
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/spotify-web
+    current-maintainers:
+    - username: Tnixc
+      name: Tnixc
+      url: https://github.com/Tnixc
+    past-maintainers: []
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: spotify
+  color: green
+- name: Stack Overflow
+  key: stack-overflow
+  repository:
+    name: stack-overflow
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/stack-overflow
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: stackoverflow
+  color: peach
+- name: Startpage
+  key: startpage
+  repository:
+    name: startpage
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/startpage
+    current-maintainers: []
+    past-maintainers:
+    - username: bartlibert
+      name: Bart Libert
+      url: https://github.com/bartlibert
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: lavender
+- name: Skiff
+  key: skiff
+  repository:
+    name: skiff
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/skiff
+    current-maintainers:
+    - username: coopw1
+      name: coopw
+      url: https://github.com/coopw1
+    past-maintainers: []
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: maroon
+- name: Stylus
+  key: stylus
+  repository:
+    name: stylus
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/stylus
+    current-maintainers:
+    - username: GitMuslim
+      url: https://github.com/GitMuslim
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: teal
+- name: Substack
+  key: substack
+  repository:
+    name: substack
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/substack
+    current-maintainers: []
+    past-maintainers:
+    - username: nekowinston
+      name: winston
+      url: https://github.com/nekowinston
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: substack
+  color: peach
+- name: Syncthing
+  key: syncthing
+  repository:
+    name: syncthing
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/syncthing
+    current-maintainers:
+    - username: BlankParticle
+      name: BlankParticle
+      url: https://github.com/BlankParticle
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: syncthing
+  color: sapphire
+- name: TabNews
+  key: tabnews
+  repository:
+    name: tabnews
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/tabnews
+    current-maintainers:
+    - username: Guaxinim5573
+      name: Guaxinim5573
+      url: https://github.com/Guaxinim5573
+    past-maintainers: []
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: text
+- name: tldraw
+  key: tldraw
+  repository:
+    name: tldraw
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/tldraw
+    current-maintainers:
+    - username: GenShibe
+      name: GenShibe
+      url: https://github.com/GenShibe
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: tldraw
+  color: text
+- name: Trinket
+  key: trinket
+  repository:
+    name: trinket
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/trinket
+    current-maintainers:
+    - username: trinkey
+      url: https://github.com/trinkey
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
+- name: Tuta
+  key: tuta
+  repository:
+    name: tuta
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/tuta
+    current-maintainers:
+    - username: ryanccn
+      name: Ryan Cao
+      url: https://github.com/ryanccn
+    past-maintainers: []
+  categories:
+  - key: email_client
+    name: Email Clients
+    description: Applications related to sending and receiving email.
+    emoji: 💌
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: tutanota
+  color: maroon
+- name: Twitch
+  key: twitch
+  repository:
+    name: twitch
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/twitch
+    current-maintainers:
+    - username: GitMuslim
+      url: https://github.com/GitMuslim
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: twitch
+  color: mauve
+- name: Twitter
+  key: twitter
+  repository:
+    name: twitter
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/twitter
+    current-maintainers:
+    - username: watatomo
+      name: Ren
+      url: https://github.com/watatomo
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
+  icon: twitter
+- name: Vercel
+  key: vercel
+  repository:
+    name: vercel
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/vercel
+    current-maintainers:
+    - username: ryanccn
+      name: Ryan Cao
+      url: https://github.com/ryanccn
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: vercel
+  color: text
+- name: WhatsApp Web
+  key: whatsapp-web
+  repository:
+    name: whatsapp-web
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/whatsapp-web
+    current-maintainers:
+    - username: FrancoRav
+      name: FrancoRav
+      url: https://github.com/FrancoRav
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: whatsapp
+  color: green
+- name: Wikipedia
+  key: wikipedia
+  repository:
+    name: wikipedia
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia
+    current-maintainers:
+    - username: GitMuslim
+      url: https://github.com/GitMuslim
+    past-maintainers: []
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: wikipedia
+  color: text
+- name: Wikiwand
+  key: wikiwand
+  repository:
+    name: wikiwand
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand
+    current-maintainers:
+    - username: Tnixc
+      name: Tnixc
+      url: https://github.com/Tnixc
+    past-maintainers: []
+  categories:
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: wikipedia
+  color: text
+- name: YouTube
+  key: youtube
+  repository:
+    name: youtube
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/youtube
+    current-maintainers:
+    - username: isabelroses
+      name: Isabel
+      url: https://github.com/isabelroses
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers:
+    - username: elkrien
+      name: Elkrien
+      url: https://github.com/elkrien
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: youtube
+  color: red
+- name: Next.js
+  key: nextjs
+  repository:
+    name: nextjs
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/nextjs
+    current-maintainers:
+    - username: Dandraghas
+      name: Dandraghas
+      url: https://github.com/Dandraghas
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: nextdotjs
+  color: text
 collaborators:
 - username: 112cxyz
   url: https://github.com/112cxyz
@@ -5386,6 +7584,139 @@ collaborators:
   url: https://github.com/Xurdejl
 - username: Zazucki
   url: https://github.com/Zazucki
+- username: AnubisNekhet
+  url: https://github.com/AnubisNekhet
+- username: ndsboy
+  url: https://github.com/ndsboy
+- username: jn-sena
+  name: Sena
+  url: https://github.com/jn-sena
+- username: watatomo
+  name: Ren
+  url: https://github.com/watatomo
+- username: ryanccn
+  name: Ryan Cao
+  url: https://github.com/ryanccn
+- username: Pocco81
+  url: https://github.com/Pocco81
+- username: GlowingUmbreon
+  name: Umbreon
+  url: https://github.com/GlowingUmbreon
+- username: justTOBBI
+  url: https://github.com/justTOBBI
+- username: unseen-ninja
+  name: Lemon
+  url: https://github.com/unseen-ninja
+- username: lucasmelin
+  name: Lucas Melin
+  url: https://github.com/lucasmelin
+- username: Gingeh
+  url: https://github.com/Gingeh
+- username: isabelroses
+  name: Isabel
+  url: https://github.com/isabelroses
+- username: thismoon
+  url: https://github.com/thismoon
+- username: cecelot
+  name: Sydney Newmark
+  url: https://github.com/cecelot
+- username: soya-daizu
+  name: soya_daizu
+  url: https://github.com/soya-daizu
+- username: jayylmao
+  url: https://github.com/jayylmao
+- username: Sekki21956
+  name: Sekki
+  url: https://github.com/Sekki21956
+- username: nekowinston
+  name: winston
+  url: https://github.com/nekowinston
+- username: GitMuslim
+  url: https://github.com/GitMuslim
+- username: Tnixc
+  name: Tnixc
+  url: https://github.com/Tnixc
+- username: elkrien
+  name: Elkrien
+  url: https://github.com/elkrien
+- username: TheMemeSniper
+  name: TheMemeSniper
+  url: https://github.com/TheMemeSniper
+- username: spaghettiosareyummy
+  url: https://github.com/spaghettiosareyummy
+- username: Stonks3141
+  name: Stonks3141
+  url: https://github.com/Stonks3141
+- username: rubyowo
+  url: https://github.com/rubyowo
+- username: Gandalf-the-Blue
+  name: Gandalf the Blue
+  url: https://github.com/Gandalf-the-Blue
+- username: FrancoRav
+  name: FrancoRav
+  url: https://github.com/FrancoRav
+- username: coldenate
+  name: coldenate
+  url: https://github.com/coldenate
+- username: skelebro1
+  name: skele
+  url: https://github.com/skelebro1
+- username: r58Playz
+  name: r58Playz
+  url: https://github.com/r58Playz
+- username: rockquiet
+  name: rockquiet
+  url: https://github.com/rockquiet
+- username: Nyameliaaaa
+  name: Amelia Rose
+  url: https://github.com/Nyameliaaaa
+- username: Nyatalieeee
+  name: Natalie Raine
+  url: https://github.com/Nyatalieeee
+- username: bartlibert
+  name: Bart Libert
+  url: https://github.com/bartlibert
+- username: BlankParticle
+  name: BlankParticle
+  url: https://github.com/BlankParticle
+- username: haiksgithub
+  name: haiksgithub
+  url: https://github.com/haiksgithub
+- username: GenShibe
+  name: GenShibe
+  url: https://github.com/GenShibe
+- username: coopw1
+  name: coopw
+  url: https://github.com/coopw1
+- username: RoootTheFox
+  name: rooot
+  url: https://github.com/RoootTheFox
+- username: itzTheMeow
+  name: Meow
+  url: https://github.com/itzTheMeow
+- username: Dandraghas
+  name: Dandraghas
+  url: https://github.com/Dandraghas
+- username: uncenter
+  name: uncenter
+  url: https://github.com/uncenter
+- username: thomas-philippot
+  name: Thomas Philippot
+  url: https://github.com/thomas-philippot
+- username: Guaxinim5573
+  name: Guaxinim5573
+  url: https://github.com/Guaxinim5573
+- username: trinkey
+  url: https://github.com/trinkey
+- username: NK308
+  url: https://github.com/NK308
+  name: NK308
+- username: kerichdev
+  name: keri
+  url: https://github.com/kerichdev
+- username: Flapperoo
+  name: Eli
+  url: https://github.com/Flapperoo
 categories:
 - key: code_editor
   name: Code Editors & IDEs
@@ -5676,2325 +8007,3 @@ archived-ports:
     url: https://github.com/catppuccin/steam
     current-maintainers: []
     past-maintainers: []
-userstyles-collaborators:
-- url: https://github.com/AnubisNekhet
-- url: https://github.com/ndsboy
-- name: Sena
-  url: https://github.com/jn-sena
-- name: Ren
-  url: https://github.com/watatomo
-- name: Ryan Cao
-  url: https://github.com/ryanccn
-- url: https://github.com/Pocco81
-- name: Umbreon
-  url: https://github.com/GlowingUmbreon
-- url: https://github.com/justTOBBI
-- name: Lemon
-  url: https://github.com/unseen-ninja
-- name: Lucas Melin
-  url: https://github.com/lucasmelin
-- url: https://github.com/Gingeh
-- name: Isabel
-  url: https://github.com/isabelroses
-- url: https://github.com/thismoon
-- name: Sydney Newmark
-  url: https://github.com/cecelot
-- name: soya_daizu
-  url: https://github.com/soya-daizu
-- url: https://github.com/jayylmao
-- name: Sekki
-  url: https://github.com/Sekki21956
-- name: winston
-  url: https://github.com/nekowinston
-- url: https://github.com/GitMuslim
-- name: Tnixc
-  url: https://github.com/Tnixc
-- name: Elkrien
-  url: https://github.com/elkrien
-- name: TheMemeSniper
-  url: https://github.com/TheMemeSniper
-- url: https://github.com/spaghettiosareyummy
-- name: Stonks3141
-  url: https://github.com/Stonks3141
-- url: https://github.com/rubyowo
-- name: Gandalf the Blue
-  url: https://github.com/Gandalf-the-Blue
-- name: FrancoRav
-  url: https://github.com/FrancoRav
-- name: coldenate
-  url: https://github.com/coldenate
-- name: skele
-  url: https://github.com/skelebro1
-- name: r58Playz
-  url: https://github.com/r58Playz
-- name: rockquiet
-  url: https://github.com/rockquiet
-- name: Amelia Rose
-  url: https://github.com/Nyameliaaaa
-- name: Natalie Raine
-  url: https://github.com/Nyatalieeee
-- name: Bart Libert
-  url: https://github.com/bartlibert
-- name: BlankParticle
-  url: https://github.com/BlankParticle
-- name: haiksgithub
-  url: https://github.com/haiksgithub
-- name: GenShibe
-  url: https://github.com/GenShibe
-- name: coopw
-  url: https://github.com/coopw1
-- name: rooot
-  url: https://github.com/RoootTheFox
-- name: Meow
-  url: https://github.com/itzTheMeow
-- name: Dandraghas
-  url: https://github.com/Dandraghas
-- name: uncenter
-  url: https://github.com/uncenter
-- name: Thomas Philippot
-  url: https://github.com/thomas-philippot
-- name: Guaxinim5573
-  url: https://github.com/Guaxinim5573
-- url: https://github.com/trinkey
-- url: https://github.com/NK308
-  name: NK308
-- name: keri
-  url: https://github.com/kerichdev
-- name: Eli
-  url: https://github.com/Flapperoo
-userstyles:
-- name: Advent Of Code
-  categories:
-  - key: game
-    name: Games
-    description: Applications related to gaming and the idea of game-ification.
-    emoji: 🎮
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: adventofcode
-  color: yellow
-  readme:
-    app-link: https://adventofcode.com
-  current-maintainers:
-  - url: https://github.com/rubyowo
-  is-userstyle: true
-  key: advent-of-code
-- name: [AniList, AniChart]
-  categories:
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: anilist
-  color: sky
-  readme:
-    app-link: ['https://anilist.co', 'https://anichart.net']
-    usage: '> [!NOTE]
-
-      > This theme applies to [AniChart](https://anichart.net/) as well, which is
-      an extension of AniList.
-
-      '
-  current-maintainers:
-  - url: https://github.com/AnubisNekhet
-  is-userstyle: true
-  key: anilist
-- name: Arch Wiki
-  categories:
-  - key: wiki
-    name: Wikis
-    description: Websites that hold information edited by multiple users.
-    emoji: 🧠
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: archlinux
-  color: blue
-  readme:
-    app-link: https://wiki.archlinux.org/
-    usage: Make sure to use the default **Light** theme
-  current-maintainers:
-  - name: GenShibe
-    url: https://github.com/GenShibe
-  is-userstyle: true
-  key: arch-wiki
-- name: boringproxy
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: text
-  readme:
-    app-link: https://boringproxy.io
-  current-maintainers:
-  - name: Gandalf the Blue
-    url: https://github.com/Gandalf-the-Blue
-  is-userstyle: true
-  key: boringproxy
-- name: Brave Search
-  categories:
-  - key: search_engine
-    name: Search Engines
-    description: Websites that enable users to search and retrieve information from
-      the World Wide Web.
-    emoji: 🔎
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: brave
-  color: peach
-  readme:
-    app-link: https://search.brave.com
-    usage: Make sure to set the theme to either dark or light in Brave Search settings,
-      as the automatic setting will not work.
-  current-maintainers:
-  - url: https://github.com/ndsboy
-  is-userstyle: true
-  key: brave-search
-- name: Bluesky Social
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: bluesky
-  color: blue
-  readme:
-    app-link: https://bsky.app
-  current-maintainers:
-  - name: rooot
-    url: https://github.com/RoootTheFox
-  is-userstyle: true
-  key: bsky
-- name: bStats
-  categories:
-  - key: game
-    name: Games
-    description: Applications related to gaming and the idea of game-ification.
-    emoji: 🎮
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: green
-  readme:
-    app-link: https://bstats.org
-    usage: Make sure to use the default **Teal** theme from the built-in color picker
-      (located at the bottom of the page) for the best experience!
-  current-maintainers:
-  - name: rockquiet
-    url: https://github.com/rockquiet
-  is-userstyle: true
-  key: bstats
-- name: Canvas LMS
-  categories:
-  - key: education
-    name: Education
-    description: Applications that faciliate learning, knowledge acquisition and skill
-      development.
-    emoji: 🎓
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: canvas
-  color: red
-  readme:
-    app-link: https://www.instructure.com/canvas
-  current-maintainers: []
-  past-maintainers:
-  - name: TheMemeSniper
-    url: https://github.com/TheMemeSniper
-  is-userstyle: true
-  key: canvas-lms
-- name: ChatGPT
-  categories:
-  - key: artificial_intelligence
-    name: Artificial Intelligence
-    description: Applications related to machine learning, large language models,
-      and neural networks.
-    emoji: 🤖
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: openai
-  color: green
-  readme:
-    app-link: https://chat.openai.com
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  past-maintainers:
-  - url: https://github.com/rubyowo
-  is-userstyle: true
-  key: chatgpt
-- name: ChatReplay
-  categories:
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: peach
-  readme:
-    app-link: https://chatreplay.stream
-  current-maintainers:
-  - url: https://github.com/AnubisNekhet
-  is-userstyle: true
-  key: chatreplay
-- name: Chess.com
-  categories:
-  - key: game
-    name: Games
-    description: Applications related to gaming and the idea of game-ification.
-    emoji: 🎮
-  - key: education
-    name: Education
-    description: Applications that faciliate learning, knowledge acquisition and skill
-      development.
-    emoji: 🎓
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: chessdotcom
-  color: green
-  readme:
-    app-link: https://chess.com
-  current-maintainers:
-  - name: coldenate
-    url: https://github.com/coldenate
-  - name: Isabel
-    url: https://github.com/isabelroses
-  past-maintainers:
-  - name: skele
-    url: https://github.com/skelebro1
-  is-userstyle: true
-  key: chess.com
-- name: Cinny
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: text
-  readme:
-    app-link: https://cinny.in
-  current-maintainers:
-  - name: Sena
-    url: https://github.com/jn-sena
-  is-userstyle: true
-  key: cinny
-- name: Codeberg
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: codeberg
-  color: blue
-  readme:
-    app-link: https://codeberg.org
-  current-maintainers:
-  - name: Isabel
-    url: https://github.com/isabelroses
-  past-maintainers:
-  - url: https://github.com/justTOBBI
-  is-userstyle: true
-  key: codeberg
-- name: cobalt
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: text
-  readme:
-    app-link: https://cobalt.tools
-  current-maintainers:
-  - name: keri
-    url: https://github.com/kerichdev
-  is-userstyle: true
-  key: cobalt
-- name: crates.io
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: rust
-  color: yellow
-  readme:
-    app-link: https://crates.io
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: crates.io
-- name: Crowdin
-  categories:
-  - key: translation_tool
-    name: Translation Tools
-    description: Applications that help bridge language gaps by translating one language
-      to another.
-    emoji: 🗺️
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: crowdin
-  color: text
-  readme:
-    app-link: https://crowdin.com
-  current-maintainers:
-  - name: Ryan Cao
-    url: https://github.com/ryanccn
-  is-userstyle: true
-  key: crowdin
-- name: DeepL
-  categories:
-  - key: translation_tool
-    name: Translation Tools
-    description: Applications that help bridge language gaps by translating one language
-      to another.
-    emoji: 🗺️
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: deepl
-  color: blue
-  readme:
-    app-link: https://deepl.com
-  current-maintainers:
-  - name: Ren
-    url: https://github.com/watatomo
-  is-userstyle: true
-  key: deepl
-- name: docs.rs
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: docsdotrs
-  color: yellow
-  readme:
-    app-link: https://docs.rs
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: docs.rs
-- name: DuckDuckGo
-  categories:
-  - key: search_engine
-    name: Search Engines
-    description: Websites that enable users to search and retrieve information from
-      the World Wide Web.
-    emoji: 🔎
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: duckduckgo
-  color: peach
-  readme:
-    app-link: https://duckduckgo.com
-  current-maintainers:
-  - name: GenShibe
-    url: https://github.com/GenShibe
-  is-userstyle: true
-  key: duckduckgo
-- name: Ecosia
-  categories:
-  - key: search_engine
-    name: Search Engines
-    description: Websites that enable users to search and retrieve information from
-      the World Wide Web.
-    emoji: 🔎
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: green
-  readme:
-    app-link: https://www.ecosia.org
-  current-maintainers:
-  - name: Isabel
-    url: https://github.com/isabelroses
-  is-userstyle: true
-  key: ecosia
-- name: Elk
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: peach
-  readme:
-    app-link: https://elk.zone
-  current-maintainers:
-  - name: Ryan Cao
-    url: https://github.com/ryanccn
-  is-userstyle: true
-  key: elk
-- name: freedesktop.org
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: freedesktopdotorg
-  color: blue
-  readme:
-    app-link: https://www.freedesktop.org
-  current-maintainers:
-  - url: https://github.com/NK308
-    name: NK308
-  is-userstyle: true
-  key: freedesktop
-- name: Formative
-  categories:
-  - key: education
-    name: Education
-    description: Applications that faciliate learning, knowledge acquisition and skill
-      development.
-    emoji: 🎓
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: blue
-  readme:
-    app-link: https://app.formative.com/home
-  current-maintainers:
-  - name: r58Playz
-    url: https://github.com/r58Playz
-  is-userstyle: true
-  key: formative
-- name: GitHub
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: github
-  color: text
-  readme:
-    usage: Switch to a default GitHub light/dark theme via **Settings** > **Appearance**
-      for the best experience!
-    app-link: https://github.com
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  past-maintainers:
-  - name: Lemon
-    url: https://github.com/unseen-ninja
-  - url: https://github.com/Pocco81
-  - name: Umbreon
-    url: https://github.com/GlowingUmbreon
-  is-userstyle: true
-  key: github
-- name: Gmail
-  categories:
-  - key: email_client
-    name: Email Clients
-    description: Applications related to sending and receiving email.
-    emoji: 💌
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: gmail
-  color: peach
-  readme:
-    usage: Switch to either the dark or default themes via the **gear icon** > **themes**
-      > **view all** for the best experience!
-    app-link: https://mail.google.com
-  current-maintainers: []
-  past-maintainers:
-  - name: Isabel
-    url: https://github.com/isabelroses
-  is-userstyle: true
-  key: gmail
-- name: go.dev
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: wiki
-    name: Wikis
-    description: Websites that hold information edited by multiple users.
-    emoji: 🧠
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: go
-  color: sapphire
-  readme:
-    app-link: https://go.dev
-  current-maintainers:
-  - name: Eli
-    url: https://github.com/Flapperoo
-  is-userstyle: true
-  key: go.dev
-- name: Google
-  categories:
-  - key: search_engine
-    name: Search Engines
-    description: Websites that enable users to search and retrieve information from
-      the World Wide Web.
-    emoji: 🔎
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: google
-  color: sapphire
-  readme:
-    app-link: https://google.com
-  current-maintainers:
-  - url: https://github.com/GitMuslim
-  is-userstyle: true
-  key: google
-- name: Google Drive
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: googledrive
-  color: blue
-  readme:
-    app-link: https://drive.google.com
-  current-maintainers:
-  - name: r58Playz
-    url: https://github.com/r58Playz
-  is-userstyle: true
-  key: google-drive
-- name: Google Photos
-  categories:
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: googlephotos
-  color: sapphire
-  readme:
-    app-link: https://photos.google.com
-  current-maintainers:
-  - name: GenShibe
-    url: https://github.com/GenShibe
-  is-userstyle: true
-  key: google-photos
-- name: Graphite
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: graphite
-  color: text
-  readme:
-    app-link: https://app.graphite.dev
-  current-maintainers:
-  - name: Isabel
-    url: https://github.com/isabelroses
-  is-userstyle: true
-  key: graphite
-- name: Google Gemini
-  categories:
-  - key: artificial_intelligence
-    name: Artificial Intelligence
-    description: Applications related to machine learning, large language models,
-      and neural networks.
-    emoji: 🤖
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: googlegemini
-  color: mauve
-  readme:
-    app-link: https://gemini.google.com
-  current-maintainers:
-  - name: Dandraghas
-    url: https://github.com/Dandraghas
-  is-userstyle: true
-  key: google-gemini
-- name: Hackage
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: haskell
-  color: mauve
-  readme:
-    app-link: https://hackage.haskell.org
-  current-maintainers:
-  - name: Sena
-    url: https://github.com/jn-sena
-  is-userstyle: true
-  key: hackage
-- name: Hacker News
-  categories:
-  - key: discussion_forum
-    name: Discussion Forums
-    description: Platforms that allow people to engage in conversation, share information,
-      and discuss various topics.
-    emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: ycombinator
-  color: peach
-  readme:
-    app-link: https://news.ycombinator.com
-  current-maintainers:
-  - name: Lucas Melin
-    url: https://github.com/lucasmelin
-  is-userstyle: true
-  key: hacker-news
-- name: Holodex
-  categories:
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: pink
-  readme:
-    app-link: https://holodex.net
-    usage: '> **Note** <br>
-
-      > Holodex''s selected theme is ignored.
-
-      '
-  current-maintainers:
-  - name: Guaxinim5573
-    url: https://github.com/Guaxinim5573
-  is-userstyle: true
-  key: holodex
-- name: Home Manager Options Search
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: blue
-  readme:
-    app-link: https://home-manager-options.extranix.com
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: home-manager-options-search
-- name: homepage
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: sky
-  readme:
-    app-link: https://github.com/benphelps/homepage
-  current-maintainers:
-  - name: Gandalf the Blue
-    url: https://github.com/Gandalf-the-Blue
-  is-userstyle: true
-  key: homepage
-- name: Hoppscotch
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: hoppscotch
-  color: green
-  readme:
-    app-link: https://hoppscotch.io/
-  current-maintainers:
-  - url: https://github.com/justTOBBI
-  is-userstyle: true
-  key: hoppscotch
-- name: Hyperpipe
-  categories:
-  - key: music
-    name: Music
-    description: Applications related to discovering, listening to and playing music.
-    emoji: 🎵
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: teal
-  readme:
-    app-link: https://hyperpipe.surge.sh/
-  current-maintainers:
-  - name: Sena
-    url: https://github.com/jn-sena
-  is-userstyle: true
-  key: hyperpipe
-- name: ichi.moe
-  categories:
-  - key: translation_tool
-    name: Translation Tools
-    description: Applications that help bridge language gaps by translating one language
-      to another.
-    emoji: 🗺️
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: pink
-  readme:
-    app-link: https://ichi.moe
-  current-maintainers:
-  - name: Ren
-    url: https://github.com/watatomo
-  is-userstyle: true
-  key: ichi.moe
-- name: inoreader
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: inoreader
-  color: blue
-  readme:
-    app-link: https://inoreader.com
-  current-maintainers:
-  - name: Thomas Philippot
-    url: https://github.com/thomas-philippot
-  is-userstyle: true
-  key: inoreader
-- name: Instagram
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: instagram
-  color: pink
-  readme:
-    app-link: https://instagram.com
-  current-maintainers:
-  - name: GenShibe
-    url: https://github.com/GenShibe
-  past-maintainers:
-  - name: haiksgithub
-    url: https://github.com/haiksgithub
-  - name: Isabel
-    url: https://github.com/isabelroses
-  is-userstyle: true
-  key: instagram
-- name: Invidious
-  categories:
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: youtube
-  color: red
-  readme:
-    app-link: https://invidious.io
-  current-maintainers: []
-  past-maintainers:
-  - name: Lemon
-    url: https://github.com/unseen-ninja
-  - name: winston
-    url: https://github.com/nekowinston
-  is-userstyle: true
-  key: invidious
-- name: InvokeAI
-  categories:
-  - key: artificial_intelligence
-    name: Artificial Intelligence
-    description: Applications related to machine learning, large language models,
-      and neural networks.
-    emoji: 🤖
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: yellow
-  readme:
-    app-link: https://invoke-ai.github.io/InvokeAI
-  current-maintainers:
-  - name: Ryan Cao
-    url: https://github.com/ryanccn
-  is-userstyle: true
-  key: invokeai
-- name: Keyoxide
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: mauve
-  readme:
-    app-link: https://keyoxide.org
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: keyoxide
-- name: Last.fm
-  categories:
-  - key: music
-    name: Music
-    description: Applications related to discovering, listening to and playing music.
-    emoji: 🎵
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: lastdotfm
-  color: red
-  readme:
-    app-link: https://last.fm
-  current-maintainers:
-  - url: https://github.com/AnubisNekhet
-  past-maintainers:
-  - url: https://github.com/Gingeh
-  is-userstyle: true
-  key: lastfm
-- name: Lemmy
-  categories:
-  - key: discussion_forum
-    name: Discussion Forums
-    description: Platforms that allow people to engage in conversation, share information,
-      and discuss various topics.
-    emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: lemmy
-  color: green
-  readme:
-    app-link: https://lemmy.world
-  current-maintainers:
-  - name: Gandalf the Blue
-    url: https://github.com/Gandalf-the-Blue
-  is-userstyle: true
-  key: lemmy
-- name: [Libreddit, Redlib]
-  categories:
-  - key: discussion_forum
-    name: Discussion Forums
-    description: Platforms that allow people to engage in conversation, share information,
-      and discuss various topics.
-    emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: reddit
-  color: peach
-  readme:
-    app-link: ['https://github.com/libreddit/libreddit', 'https://github.com/redlib-org/redlib']
-  current-maintainers: []
-  past-maintainers:
-  - name: Lemon
-    url: https://github.com/unseen-ninja
-  is-userstyle: true
-  key: libreddit
-- name: Lichess
-  categories:
-  - key: game
-    name: Games
-    description: Applications related to gaming and the idea of game-ification.
-    emoji: 🎮
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: lichess
-  color: text
-  readme:
-    usage: Switch to a default Lichess light/dark theme via **Username** > **Background**
-      for the best experience!
-    app-link: https://lichess.org/
-  current-maintainers:
-  - name: coopw
-    url: https://github.com/coopw1
-  is-userstyle: true
-  key: lichess
-- name: Lingva
-  categories:
-  - key: translation_tool
-    name: Translation Tools
-    description: Applications that help bridge language gaps by translating one language
-      to another.
-    emoji: 🗺️
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: green
-  readme:
-    app-link: https://github.com/thedaviddelta/lingva-translate
-  current-maintainers:
-  - url: https://github.com/rubyowo
-  is-userstyle: true
-  key: lingva
-- name: LinkedIn
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: linkedin
-  color: blue
-  readme:
-    app-link: https://www.linkedin.com
-  current-maintainers:
-  - name: Isabel
-    url: https://github.com/isabelroses
-  is-userstyle: true
-  key: linkedin
-- name: Mastodon
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: mastodon
-  color: lavender
-  readme:
-    app-link: https://github.com/mastodon/mastodon
-    faq:
-    - question: '**The theme does not look the same as the preview?**'
-      answer: Your Mastodon instance may be using its own custom CSS, which is changing
-        the look of the theme.
-  current-maintainers:
-  - name: Isabel
-    url: https://github.com/isabelroses
-  past-maintainers:
-  - name: Lemon
-    url: https://github.com/unseen-ninja
-  is-userstyle: true
-  key: mastodon
-- name: mdBook
-  categories:
-  - key: wiki
-    name: Wikis
-    description: Websites that hold information edited by multiple users.
-    emoji: 🧠
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: mdbook
-  color: text
-  readme:
-    app-link: https://rust-lang.github.io/mdBook/
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: mdbook
-- name: MDN
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: wiki
-    name: Wikis
-    description: Websites that hold information edited by multiple users.
-    emoji: 🧠
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: mdnwebdocs
-  color: text
-  readme:
-    app-link: https://developer.mozilla.org
-  current-maintainers:
-  - name: soya_daizu
-    url: https://github.com/soya-daizu
-  is-userstyle: true
-  key: mdn
-- name: Modrinth
-  categories:
-  - key: game
-    name: Games
-    description: Applications related to gaming and the idea of game-ification.
-    emoji: 🎮
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: modrinth
-  color: green
-  readme:
-    app-link: https://modrinth.com
-  current-maintainers:
-  - url: https://github.com/thismoon
-  is-userstyle: true
-  key: modrinth
-- name: Microsoft Word
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: microsoftword
-  color: blue
-  readme:
-    app-link: https://office.com
-  current-maintainers:
-  - url: https://github.com/GitMuslim
-  is-userstyle: true
-  key: microsoft-word
-- name: Migadu Webmail
-  categories:
-  - key: email_client
-    name: Email Clients
-    description: Applications related to sending and receiving email.
-    emoji: 💌
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: migadu
-  color: blue
-  readme:
-    app-link: https://webmail.migadu.com/
-    usage: '> [!NOTE]
-
-      > Set Migadu Webmail''s built-in theme to ''Migadu'' for the optimal experience.
-
-      '
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: migadu-webmail
-- name: Minesweeper Online
-  categories:
-  - key: game
-    name: Games
-    description: Applications related to gaming and the idea of game-ification.
-    emoji: 🎮
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: text
-  readme:
-    app-link: https://minesweeper.online
-  current-maintainers:
-  - url: https://github.com/GitMuslim
-  is-userstyle: true
-  key: minesweeper
-- name: Nitter
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: discussion_forum
-    name: Discussion Forums
-    description: Platforms that allow people to engage in conversation, share information,
-      and discuss various topics.
-    emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: twitter
-  color: blue
-  readme:
-    app-link: https://nitter.net
-  current-maintainers:
-  - url: https://github.com/AnubisNekhet
-  is-userstyle: true
-  key: nitter
-- name: NixOS Search
-  categories:
-  - key: search_engine
-    name: Search Engines
-    description: Websites that enable users to search and retrieve information from
-      the World Wide Web.
-    emoji: 🔎
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: nixos
-  color: blue
-  readme:
-    app-link: https://search.nixos.org
-  current-maintainers:
-  - name: Sydney Newmark
-    url: https://github.com/cecelot
-  is-userstyle: true
-  key: nixos-search
-- name: NixOS Wiki
-  categories:
-  - key: wiki
-    name: Wikis
-    description: Websites that hold information edited by multiple users.
-    emoji: 🧠
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: nixos
-  color: blue
-  readme:
-    app-link: https://nixos.wiki
-  current-maintainers: []
-  past-maintainers:
-  - name: winston
-    url: https://github.com/nekowinston
-  is-userstyle: true
-  key: nixos.wiki
-- name: npm
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: npm
-  color: red
-  readme:
-    app-link: https://www.npmjs.com/
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: npm
-- name: openmediavault
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: openmediavault
-  color: sky
-  readme:
-    app-link: https://www.openmediavault.org/
-  current-maintainers:
-  - name: Gandalf the Blue
-    url: https://github.com/Gandalf-the-Blue
-  is-userstyle: true
-  key: openmediavault
-- name: paste.rs
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: pastebin
-  color: peach
-  readme:
-    app-link: https://paste.rs
-  current-maintainers:
-  - name: Guaxinim5573
-    url: https://github.com/Guaxinim5573
-  past-maintainers:
-  - name: Stonks3141
-    url: https://github.com/Stonks3141
-  is-userstyle: true
-  key: paste.rs
-- name: Perplexity
-  categories:
-  - key: artificial_intelligence
-    name: Artificial Intelligence
-    description: Applications related to machine learning, large language models,
-      and neural networks.
-    emoji: 🤖
-  - key: search_engine
-    name: Search Engines
-    description: Websites that enable users to search and retrieve information from
-      the World Wide Web.
-    emoji: 🔎
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: perplexity
-  color: teal
-  readme:
-    app-link: https://www.perplexity.ai
-  current-maintainers:
-  - name: Isabel
-    url: https://github.com/isabelroses
-  - name: Tnixc
-    url: https://github.com/Tnixc
-  is-userstyle: true
-  key: perplexity
-- name: Phanpy
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: blue
-  readme:
-    app-link: https://phanpy.social
-  current-maintainers:
-  - name: Guaxinim5573
-    url: https://github.com/Guaxinim5573
-  is-userstyle: true
-  key: phanpy
-- name: Picrew
-  categories:
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: picrew
-  color: yellow
-  readme:
-    app-link: https://picrew.me
-  current-maintainers:
-  - name: Natalie Raine
-    url: https://github.com/Nyatalieeee
-  is-userstyle: true
-  key: picrew
-- name: Pinterest
-  categories:
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: pinterest
-  color: red
-  readme:
-    app-link: https://www.pinterest.com
-  current-maintainers: []
-  past-maintainers:
-  - name: Sena
-    url: https://github.com/jn-sena
-  is-userstyle: true
-  key: pinterest
-- name: Planet Minecraft
-  categories:
-  - key: game
-    name: Games
-    description: Applications related to gaming and the idea of game-ification.
-    emoji: 🎮
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: green
-  readme:
-    app-link: https://planetminecraft.com
-  current-maintainers:
-  - name: Amelia Rose
-    url: https://github.com/Nyameliaaaa
-  is-userstyle: true
-  key: planet-minecraft
-- name: Pronouns.page
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: pronounsdotpage
-  color: pink
-  readme:
-    app-link: https://pronouns.page/
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: pronouns.page
-- name: Proton
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: email_client
-    name: Email Clients
-    description: Applications related to sending and receiving email.
-    emoji: 💌
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: protonmail
-  color: mauve
-  readme:
-    app-link: https://proton.me/
-    usage: '> [!NOTE]
-
-      > Set Proton Mail''s built-in theme to ''Snow'' if you''re using Latte or ''Carbon''
-      if you''re using the others.
-
-      '
-  current-maintainers:
-  - name: soya_daizu
-    url: https://github.com/soya-daizu
-  is-userstyle: true
-  key: proton
-- name: PyPI
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: sapphire
-  readme:
-    app-link: https://pypi.org
-  current-maintainers:
-  - url: https://github.com/trinkey
-  is-userstyle: true
-  key: pypi
-- name: Quizlet
-  categories:
-  - key: education
-    name: Education
-    description: Applications that faciliate learning, knowledge acquisition and skill
-      development.
-    emoji: 🎓
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: quizlet
-  color: mauve
-  readme:
-    app-link: https://quizlet.com
-  current-maintainers:
-  - url: https://github.com/spaghettiosareyummy
-  is-userstyle: true
-  key: quizlet
-- name: Reddit
-  categories:
-  - key: discussion_forum
-    name: Discussion Forums
-    description: Platforms that allow people to engage in conversation, share information,
-      and discuss various topics.
-    emoji: 🗣️
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: red
-  icon: reddit
-  readme:
-    app-link: https://reddit.com
-  current-maintainers: []
-  past-maintainers:
-  - url: https://github.com/jayylmao
-  - url: https://github.com/rubyowo
-  is-userstyle: true
-  key: reddit
-- name: SearXNG
-  categories:
-  - key: search_engine
-    name: Search Engines
-    description: Websites that enable users to search and retrieve information from
-      the World Wide Web.
-    emoji: 🔎
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: searxng
-  color: blue
-  readme:
-    app-link: https://github.com/searxng/searxng
-  current-maintainers:
-  - name: Sekki
-    url: https://github.com/Sekki21956
-  - name: Ryan Cao
-    url: https://github.com/ryanccn
-  is-userstyle: true
-  key: searxng
-- name: Snapchat Web
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: snapchat
-  color: yellow
-  readme:
-    app-link: https://web.snapchat.com
-  current-maintainers:
-  - name: Meow
-    url: https://github.com/itzTheMeow
-  is-userstyle: true
-  key: snapchat-web
-- name: Spotify Web
-  categories:
-  - key: music
-    name: Music
-    description: Applications related to discovering, listening to and playing music.
-    emoji: 🎵
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: spotify
-  color: green
-  readme:
-    app-link: https://open.spotify.com
-  current-maintainers:
-  - name: Tnixc
-    url: https://github.com/Tnixc
-  is-userstyle: true
-  key: spotify-web
-- name: Stack Overflow
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: stackoverflow
-  color: peach
-  readme:
-    app-link: https://stackoverflow.com
-  current-maintainers:
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: stack-overflow
-- name: Startpage
-  categories:
-  - key: search_engine
-    name: Search Engines
-    description: Websites that enable users to search and retrieve information from
-      the World Wide Web.
-    emoji: 🔎
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: lavender
-  readme:
-    app-link: https://startpage.com
-  current-maintainers: []
-  past-maintainers:
-  - name: Bart Libert
-    url: https://github.com/bartlibert
-  is-userstyle: true
-  key: startpage
-- name: Skiff
-  categories:
-  - key: email_client
-    name: Email Clients
-    description: Applications related to sending and receiving email.
-    emoji: 💌
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: maroon
-  readme:
-    usage: Switch to a default Skiff light/dark theme via **Settings** > **Appearance**
-      for the best experience!
-    app-link: https://app.skiff.com/mail
-  current-maintainers:
-  - name: coopw
-    url: https://github.com/coopw1
-  is-userstyle: true
-  key: skiff
-- name: Stylus
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: teal
-  readme:
-    app-link: https://github.com/openstyles/stylus
-  current-maintainers:
-  - url: https://github.com/GitMuslim
-  is-userstyle: true
-  key: stylus
-- name: Substack
-  categories:
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: substack
-  color: peach
-  readme:
-    app-link: https://substack.com
-  current-maintainers: []
-  past-maintainers:
-  - name: winston
-    url: https://github.com/nekowinston
-  is-userstyle: true
-  key: substack
-- name: Syncthing
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: syncthing
-  color: sapphire
-  readme:
-    app-link: https://syncthing.net
-    usage: '> [!NOTE]
-
-      > This theme is designed to be used with the default WebGUI and default theme
-      provided by Syncthing. This does not theme syncthing.net.
-
-      '
-  current-maintainers:
-  - name: BlankParticle
-    url: https://github.com/BlankParticle
-  is-userstyle: true
-  key: syncthing
-- name: TabNews
-  categories:
-  - key: discussion_forum
-    name: Discussion Forums
-    description: Platforms that allow people to engage in conversation, share information,
-      and discuss various topics.
-    emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: text
-  readme:
-    app-link: https://tabnews.com.br
-  current-maintainers:
-  - name: Guaxinim5573
-    url: https://github.com/Guaxinim5573
-  is-userstyle: true
-  key: tabnews
-- name: tldraw
-  categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: tldraw
-  color: text
-  readme:
-    app-link: https://www.tldraw.com
-    usage: '> [!NOTE]
-
-      > This theme only changes how the colors appear on the tldraw canvas. Exported
-      graphics **will not be Catppuccin-themed**.
-
-      '
-  current-maintainers:
-  - name: GenShibe
-    url: https://github.com/GenShibe
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: tldraw
-- name: Trinket
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: blue
-  readme:
-    app-link: https://trinket.io
-  current-maintainers:
-  - url: https://github.com/trinkey
-  is-userstyle: true
-  key: trinket
-- name: Tuta
-  categories:
-  - key: email_client
-    name: Email Clients
-    description: Applications related to sending and receiving email.
-    emoji: 💌
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: tutanota
-  color: maroon
-  readme:
-    app-link: https://tuta.com/
-    usage: '> [!NOTE]
-
-      > Set Tuta''s built-in theme to either **light** if you''re using Latte or **dark**
-      if you''re using the others.
-
-      '
-  current-maintainers:
-  - name: Ryan Cao
-    url: https://github.com/ryanccn
-  is-userstyle: true
-  key: tuta
-- name: Twitch
-  categories:
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: twitch
-  color: mauve
-  readme:
-    app-link: https://twitch.tv
-  current-maintainers:
-  - url: https://github.com/GitMuslim
-  - name: uncenter
-    url: https://github.com/uncenter
-  is-userstyle: true
-  key: twitch
-- name: Twitter
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: discussion_forum
-    name: Discussion Forums
-    description: Platforms that allow people to engage in conversation, share information,
-      and discuss various topics.
-    emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: blue
-  icon: twitter
-  readme:
-    app-link: https://twitter.com
-    usage: '> [!NOTE]
-
-      > Set Twitter''s built-in theme to **Lights out** with the blue accent. Also
-      requires the [:has()](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
-      selector.
-
-      '
-  current-maintainers:
-  - name: Ren
-    url: https://github.com/watatomo
-  is-userstyle: true
-  key: twitter
-- name: Vercel
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: vercel
-  color: text
-  readme:
-    app-link: https://vercel.com
-  current-maintainers:
-  - name: Ryan Cao
-    url: https://github.com/ryanccn
-  is-userstyle: true
-  key: vercel
-- name: WhatsApp Web
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: whatsapp
-  color: green
-  readme:
-    app-link: https://web.whatsapp.com
-  current-maintainers:
-  - name: FrancoRav
-    url: https://github.com/FrancoRav
-  is-userstyle: true
-  key: whatsapp-web
-- name: Wikipedia
-  categories:
-  - key: wiki
-    name: Wikis
-    description: Websites that hold information edited by multiple users.
-    emoji: 🧠
-  - key: search_engine
-    name: Search Engines
-    description: Websites that enable users to search and retrieve information from
-      the World Wide Web.
-    emoji: 🔎
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: wikipedia
-  color: text
-  readme:
-    app-link: https://www.wikipedia.org
-  current-maintainers:
-  - url: https://github.com/GitMuslim
-  is-userstyle: true
-  key: wikipedia
-- name: Wikiwand
-  categories:
-  - key: wiki
-    name: Wikis
-    description: Websites that hold information edited by multiple users.
-    emoji: 🧠
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: wikipedia
-  color: text
-  readme:
-    app-link: https://www.wikiwand.com
-  current-maintainers:
-  - name: Tnixc
-    url: https://github.com/Tnixc
-  is-userstyle: true
-  key: wikiwand
-- name: YouTube
-  categories:
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: youtube
-  color: red
-  readme:
-    app-link: https://youtube.com
-    faq:
-    - question: '**What does the ''Enable for black bars'' option mean?**'
-      answer: It's available in case you have an OLED display. If you have one, you
-        might want to enable this.
-  current-maintainers:
-  - name: Isabel
-    url: https://github.com/isabelroses
-  - name: uncenter
-    url: https://github.com/uncenter
-  past-maintainers:
-  - name: Elkrien
-    url: https://github.com/elkrien
-  is-userstyle: true
-  key: youtube
-- name: Next.js
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: nextdotjs
-  color: text
-  readme:
-    app-link: https://nextjs.org
-  current-maintainers:
-  - name: Dandraghas
-    url: https://github.com/Dandraghas
-  is-userstyle: true
-  key: nextjs
