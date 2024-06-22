@@ -1184,11 +1184,11 @@ ports:
   repository:
     name: freshrss
     url: https://github.com/catppuccin/freshrss
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: isabelroses
       name: Isabel
       url: https://github.com/isabelroses
-    past-maintainers: []
 - name: Fuzzel
   categories:
   - key: application_launcher
@@ -1448,8 +1448,8 @@ ports:
       name: Hammy
       url: https://github.com/sgoudham
     past-maintainers:
-    - username: Dukatron
-      url: https://github.com/Dukatron
+    - username: Dukeatron
+      url: https://github.com/Dukeatron
 - name: GlazeWM
   categories:
   - key: window_manager
@@ -2899,11 +2899,11 @@ ports:
   repository:
     name: opera-gx
     url: https://github.com/catppuccin/opera-gx
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: isabelroses
       name: Isabel
       url: https://github.com/isabelroses
-    past-maintainers: []
 - name: Pantone
   categories:
   - key: library
@@ -3485,11 +3485,11 @@ ports:
   repository:
     name: sddm
     url: https://github.com/catppuccin/sddm
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: isabelroses
       name: Isabel
       url: https://github.com/isabelroses
-    past-maintainers: []
 - name: SerenityOS
   categories:
   - key: system
@@ -3912,11 +3912,11 @@ ports:
   repository:
     name: swaync
     url: https://github.com/catppuccin/swaync
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: isabelroses
       name: Isabel
       url: https://github.com/isabelroses
-    past-maintainers: []
 - name: Tabby
   categories:
   - key: terminal
@@ -5881,9 +5881,6 @@ ports:
       name: GenShibe
       url: https://github.com/GenShibe
     past-maintainers:
-    - username: haiksgithub
-      name: haiksgithub
-      url: https://github.com/haiksgithub
     - username: isabelroses
       name: Isabel
       url: https://github.com/isabelroses
@@ -7350,8 +7347,8 @@ collaborators:
   url: https://github.com/DonutDev
 - username: DorielRivalet
   url: https://github.com/DorielRivalet
-- username: Dukatron
-  url: https://github.com/Dukatron
+- username: Dukeatron
+  url: https://github.com/Dukeatron
 - username: EdenQwQ
   url: https://github.com/EdenQwQ
 - username: elkrien
@@ -7679,9 +7676,6 @@ collaborators:
 - username: BlankParticle
   name: BlankParticle
   url: https://github.com/BlankParticle
-- username: haiksgithub
-  name: haiksgithub
-  url: https://github.com/haiksgithub
 - username: GenShibe
   name: GenShibe
   url: https://github.com/GenShibe
