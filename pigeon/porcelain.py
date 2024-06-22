@@ -41,7 +41,6 @@ def inflate_repo(name: str, indices: Indices) -> dict:
 def make_port(port: dict, indices: Indices) -> dict:
     return {
         **port,
-        "is-userstyle": False,
         "categories": [indices.categories[category] for category in port["categories"]],
         "repository": inflate_repo(port["repository"], indices),
     }
@@ -64,55 +63,20 @@ def make_archived_ports(data: dict, indices: Indices) -> list:
     ]
 
 
-def userstyles(indices: Indices) -> dict:
-    url = "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml"
-    data = yaml.safe_load(requests.get(url).text)
-    return {
-        "userstyles-collaborators": data["collaborators"],
-        "userstyles": [
-            {
-                **userstyle,
-                "is-userstyle": True,
-                "key": key,
-                "categories": [
-                    indices.categories[category] for category in userstyle["categories"]
-                ]
-                + [
-                    {
-                        "key": "userstyle",
-                        "name": "Userstyles",
-                        "description": "Modified CSS files that can be applied to a website.",
-                        "emoji": "🖌️",
-                    }
-                ],
-            }
-            for key, userstyle in data["userstyles"].items()
-        ],
-    }
-
-
 def main():
-    with Path("pigeon/ports.yml").open("r", encoding="utf-8") as f:
-        data = yaml.safe_load(f)
+    # TODO: We need to deduplicate the collaborators between ports and userstyles
+    # We might want to tackle this problem at a different abstraction level
+    with Path("pigeon/merged.yml").open("r", encoding="utf-8") as f:
+        ports = yaml.safe_load(f)
 
-    indices = Indices(data)
+    indices = Indices(ports)
 
     porcelain = {
-        "ports": make_ports(data, indices),
-        "collaborators": data["collaborators"],
-        "categories": [
-            *data["categories"],
-            {
-                "key": "userstyle",
-                "name": "Userstyles",
-                "description": "Modified CSS files that can be applied to a website.",
-                "emoji": "🖌️",
-            },
-        ],
-        "showcases": data["showcases"],
-        "archived-ports": make_archived_ports(data, indices),
-        # "we should just concatenate the entire file" - hammy, 2024
-        **userstyles(indices),
+        "ports": make_ports(ports, indices),
+        "collaborators": ports["collaborators"],
+        "categories": ports["categories"],
+        "showcases": ports["showcases"],
+        "archived-ports": make_archived_ports(ports, indices),
     }
 
     with Path("pigeon/ports.porcelain.yml").open("w", encoding="utf-8") as f:
