@@ -55,7 +55,7 @@ def make_userstyle(key: str, userstyle: dict) -> List[dict]:
         userstyles.append(
             {
                 "name": name,
-                "key": key,
+                "key": name.lower() if isinstance(userstyle["name"], list) else key,
                 "repository": key,
                 "categories": userstyle["categories"] + ["userstyle"],
                 **{
