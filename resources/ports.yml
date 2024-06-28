@@ -310,6 +310,8 @@ collaborators:
     url: https://github.com/xhayper
   - &Xurdejl
     url: https://github.com/Xurdejl
+  - &xzi
+    url: https://github.com/xzi
   - &Zazucki
     url: https://github.com/Zazucki
 
@@ -1579,6 +1581,11 @@ ports:
     color: sky
     current-maintainers: []
     past-maintainers: [*isabelroses]
+  sent:
+    name: sent
+    categories: [productivity]
+    platform: [linux]
+    current-maintainers: [xzi]
   serenity-os:
     name: SerenityOS
     categories: [system]
