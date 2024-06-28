@@ -582,6 +582,7 @@ ports:
     categories: [application_launcher, system]
     platform: [linux]
     color: sapphire
+    icon: suckless
     current-maintainers: []
     past-maintainers: [*ohxxm]
   dopamine:
