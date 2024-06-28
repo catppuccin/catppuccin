@@ -1583,7 +1583,7 @@ ports:
     past-maintainers: [*isabelroses]
   sent:
     name: sent
-    categories: [productivity]
+    categories: [document_viewer, productivity]
     platform: [linux]
     current-maintainers: [xzi]
   serenity-os:
