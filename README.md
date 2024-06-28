@@ -1164,6 +1164,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Google Chrome DevTools](https://github.com/catppuccin/chrome-devtools)
 - [nightTab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
+- [Shinigami Eyes](https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes)
 - [Vimium](https://github.com/catppuccin/vimium)
 
 </details>
@@ -1308,6 +1309,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [calibre](https://github.com/catppuccin/calibre)
 - [Foliate](https://github.com/catppuccin/foliate)
+- [sent](https://github.com/catppuccin/sent)
 - [Sioyek](https://github.com/catppuccin/sioyek)
 - [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
 - [Zathura](https://github.com/catppuccin/zathura)
