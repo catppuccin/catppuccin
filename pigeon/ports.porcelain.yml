@@ -5470,11 +5470,6 @@ ports:
     description: Applications that make certain tasks or activities more organised
       and efficient.
     emoji: 📖
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6759,6 +6754,32 @@ ports:
     emoji: 🖌️
   icon: searxng
   color: blue
+- name: Shinigami Eyes
+  key: shinigami-eyes
+  repository:
+    name: shinigami-eyes
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes
+    current-maintainers:
+    - username: jh-devv
+      name: jh-devv
+      url: https://github.com/jh-devv
+    past-maintainers: []
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: mauve
 - name: Snapchat Web
   key: snapchat-web
   repository:
@@ -7711,6 +7732,9 @@ collaborators:
 - username: Flapperoo
   name: Eli
   url: https://github.com/Flapperoo
+- username: jh-devv
+  name: jh-devv
+  url: https://github.com/jh-devv
 categories:
 - key: code_editor
   name: Code Editors & IDEs
