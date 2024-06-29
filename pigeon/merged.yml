@@ -442,6 +442,9 @@ collaborators:
   - username: Flapperoo
     name: Eli
     url: https://github.com/Flapperoo
+  - username: jh-devv
+    name: jh-devv
+    url: https://github.com/jh-devv
 categories:
   - key: code_editor
     name: Code Editors & IDEs
@@ -1670,6 +1673,9 @@ repositories:
   - name: searxng
     url: https://github.com/catppuccin/userstyles/tree/main/styles/searxng
     current-maintainers: [Sekki21956, ryanccn]
+  - name: shinigami-eyes
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes
+    current-maintainers: [jh-devv]
   - name: snapchat-web
     url: https://github.com/catppuccin/userstyles/tree/main/styles/snapchat-web
     current-maintainers: [itzTheMeow]
@@ -3570,7 +3576,7 @@ ports:
   - name: GitHub
     key: github
     repository: github
-    categories: [development, productivity, social_networking, userstyle]
+    categories: [development, productivity, userstyle]
     icon: github
     color: text
   - name: Gmail
@@ -3867,6 +3873,11 @@ ports:
     categories: [search_engine, userstyle]
     icon: searxng
     color: blue
+  - name: Shinigami Eyes
+    key: shinigami-eyes
+    repository: shinigami-eyes
+    categories: [browser_extension, social_networking, userstyle]
+    color: mauve
   - name: Snapchat Web
     key: snapchat-web
     repository: snapchat-web
