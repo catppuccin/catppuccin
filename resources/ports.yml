@@ -22,6 +22,9 @@ collaborators:
   - &AnubisNekhet
     name: Anubis
     url: https://github.com/AnubisNekhet
+  - &AwA-VR
+    name: AwA
+    url: https://github.com/AwA-VR
   - &asrvd
     url: https://github.com/asrvd
   - &aszecsei
@@ -250,9 +253,6 @@ collaborators:
     url: https://github.com/Sekki21956
   - &schoblaska
     url: https://github.com/schoblaska
-  - &ShyyLexi
-    name: Lexi
-    url: https://github.com/ShyyLexi
   - &sgoudham
     name: Hammy
     url: https://github.com/sgoudham
@@ -659,7 +659,7 @@ ports:
     platform: [linux, macos, windows]
     color: peach
     icon: firefoxbrowser
-    current-maintainers: [*isabelincorp, *ShyyLexi]
+    current-maintainers: [*isabelincorp, *AwA-VR]
   fish:
     name: fish shell
     categories: [cli]
