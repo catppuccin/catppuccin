@@ -750,6 +750,7 @@ ports:
     emoji: 🔧
   platform: [linux]
   color: sapphire
+  icon: suckless
   key: dmenu
   repository:
     name: dmenu
@@ -959,9 +960,9 @@ ports:
     current-maintainers:
     - username: isabelincorp
       url: https://github.com/isabelincorp
-    - username: ShyyLexi
-      name: Lexi
-      url: https://github.com/ShyyLexi
+    - username: AwA-VR
+      name: AwA
+      url: https://github.com/AwA-VR
     past-maintainers: []
 - name: fish shell
   categories:
@@ -3490,6 +3491,28 @@ ports:
     - username: isabelroses
       name: Isabel
       url: https://github.com/isabelroses
+- name: sent
+  categories:
+  - key: document_viewer
+    name: Document Viewers
+    description: Applications that allow users to open, view and interact with documents.
+    emoji: 📃
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux]
+  color: blue
+  icon: suckless
+  key: sent
+  repository:
+    name: sent
+    url: https://github.com/catppuccin/sent
+    current-maintainers:
+    - username: xzi
+      url: https://github.com/xzi
+    past-maintainers: []
 - name: SerenityOS
   categories:
   - key: system
@@ -7312,6 +7335,9 @@ collaborators:
 - username: AnubisNekhet
   name: Anubis
   url: https://github.com/AnubisNekhet
+- username: AwA-VR
+  name: AwA
+  url: https://github.com/AwA-VR
 - username: asrvd
   url: https://github.com/asrvd
 - username: aszecsei
@@ -7540,9 +7566,6 @@ collaborators:
   url: https://github.com/Sekki21956
 - username: schoblaska
   url: https://github.com/schoblaska
-- username: ShyyLexi
-  name: Lexi
-  url: https://github.com/ShyyLexi
 - username: sgoudham
   name: Hammy
   url: https://github.com/sgoudham
@@ -7600,6 +7623,8 @@ collaborators:
   url: https://github.com/xhayper
 - username: Xurdejl
   url: https://github.com/Xurdejl
+- username: xzi
+  url: https://github.com/xzi
 - username: Zazucki
   url: https://github.com/Zazucki
 - username: AnubisNekhet
@@ -7893,16 +7918,16 @@ categories:
   emoji: 🖌️
 showcases:
 - title: flotes.app
-  description: A free note-taking app enhanced with flashcard features
+  description: A free note-taking app enhanced with flashcard features.
   link: https://flotes.app/
 - title: AnuPpuccin
-  description: Highly customizable theme for [Obsidian](https://obsidian.md)
+  description: Highly customizable theme for [Obsidian](https://obsidian.md).
   link: https://github.com/AnubisNekhet/AnuPpuccin
 - title: faerber
-  description: Website for applying custom color schemes to any wallpaper
+  description: Website for applying custom color schemes to any wallpaper.
   link: https://farbenfroh.io/faerber
 - title: Simple MP
-  description: A simple music player based on Material You design
+  description: A simple music player based on Material You design.
   link: https://github.com/lighttigerXIV/SimpleMP-Compose
 - title: Comfy
   description: A theme for [Spicetify](https://github.com/spicetify/spicetify-cli)
@@ -7910,8 +7935,12 @@ showcases:
   link: https://github.com/Comfy-Themes/Spicetify
 - title: Catppuccin Noctis
   description: An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
-    syntax highlighting
+    syntax highlighting.
   link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis
+- title: Catppuccin Noctis Icons
+  description: A companion icons theme for Catppuccin Noctis color theme. Forked from
+    [Symbols Icon Theme](https://github.com/miguelsolorio/vscode-symbols).
+  link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis-icons
 - title: Mind Elixir
   description: A framework agnostic JavaScript mind map core.
   link: https://github.com/ssshooter/mind-elixir-core
