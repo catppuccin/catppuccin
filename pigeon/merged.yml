@@ -22,6 +22,9 @@ collaborators:
   - username: AnubisNekhet
     name: Anubis
     url: https://github.com/AnubisNekhet
+  - username: AwA-VR
+    name: AwA
+    url: https://github.com/AwA-VR
   - username: asrvd
     url: https://github.com/asrvd
   - username: aszecsei
@@ -250,9 +253,6 @@ collaborators:
     url: https://github.com/Sekki21956
   - username: schoblaska
     url: https://github.com/schoblaska
-  - username: ShyyLexi
-    name: Lexi
-    url: https://github.com/ShyyLexi
   - username: sgoudham
     name: Hammy
     url: https://github.com/sgoudham
@@ -310,6 +310,8 @@ collaborators:
     url: https://github.com/xhayper
   - username: Xurdejl
     url: https://github.com/Xurdejl
+  - username: xzi
+    url: https://github.com/xzi
   - username: Zazucki
     url: https://github.com/Zazucki
   - username: AnubisNekhet
@@ -746,7 +748,7 @@ repositories:
     past-maintainers: [ayamir]
   - name: firefox
     url: https://github.com/catppuccin/firefox
-    current-maintainers: [isabelincorp, ShyyLexi]
+    current-maintainers: [isabelincorp, AwA-VR]
   - name: fish
     url: https://github.com/catppuccin/fish
     current-maintainers: [ghostx31, backwardspy]
@@ -1183,6 +1185,9 @@ repositories:
     url: https://github.com/catppuccin/sddm
     current-maintainers: []
     past-maintainers: [isabelroses]
+  - name: sent
+    url: https://github.com/catppuccin/sent
+    current-maintainers: [xzi]
   - name: serenity-os
     url: https://github.com/catppuccin/serenity-os
     current-maintainers: [nullishamy]
@@ -1988,6 +1993,7 @@ ports:
     categories: [application_launcher, system]
     platform: [linux]
     color: sapphire
+    icon: suckless
     key: dmenu
     repository: dmenu
   - name: Dopamine
@@ -2941,6 +2947,13 @@ ports:
     color: sky
     key: sddm
     repository: sddm
+  - name: sent
+    categories: [document_viewer, productivity]
+    platform: [linux]
+    color: blue
+    icon: suckless
+    key: sent
+    repository: sent
   - name: SerenityOS
     categories: [system]
     platform: agnostic
@@ -3995,23 +4008,26 @@ ports:
     color: text
 showcases:
   - title: flotes.app
-    description: A free note-taking app enhanced with flashcard features
+    description: A free note-taking app enhanced with flashcard features.
     link: https://flotes.app/
   - title: AnuPpuccin
-    description: Highly customizable theme for [Obsidian](https://obsidian.md)
+    description: Highly customizable theme for [Obsidian](https://obsidian.md).
     link: https://github.com/AnubisNekhet/AnuPpuccin
   - title: faerber
-    description: Website for applying custom color schemes to any wallpaper
+    description: Website for applying custom color schemes to any wallpaper.
     link: https://farbenfroh.io/faerber
   - title: Simple MP
-    description: A simple music player based on Material You design
+    description: A simple music player based on Material You design.
     link: https://github.com/lighttigerXIV/SimpleMP-Compose
   - title: Comfy
     description: A theme for [Spicetify](https://github.com/spicetify/spicetify-cli) with a basic catppuccin color scheme!
     link: https://github.com/Comfy-Themes/Spicetify
   - title: Catppuccin Noctis
-    description: An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
+    description: An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting.
     link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis
+  - title: Catppuccin Noctis Icons
+    description: A companion icons theme for Catppuccin Noctis color theme. Forked from [Symbols Icon Theme](https://github.com/miguelsolorio/vscode-symbols).
+    link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis-icons
   - title: Mind Elixir
     description: A framework agnostic JavaScript mind map core.
     link: https://github.com/ssshooter/mind-elixir-core
