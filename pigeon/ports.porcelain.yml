@@ -4959,11 +4959,11 @@ ports:
   repository:
     name: arch-wiki
     url: https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: GenShibe
       name: GenShibe
       url: https://github.com/GenShibe
-    past-maintainers: []
   categories:
   - key: wiki
     name: Wikis
@@ -7163,6 +7163,33 @@ ports:
     - username: ryanccn
       name: Ryan Cao
       url: https://github.com/ryanccn
+    - username: Dandraghas
+      name: Dandraghas
+      url: https://github.com/Dandraghas
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: vercel
+  color: text
+- name: Next.js
+  key: next.js
+  repository:
+    name: vercel
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/vercel
+    current-maintainers:
+    - username: ryanccn
+      name: Ryan Cao
+      url: https://github.com/ryanccn
+    - username: Dandraghas
+      name: Dandraghas
+      url: https://github.com/Dandraghas
     past-maintainers: []
   categories:
   - key: development
@@ -7290,27 +7317,6 @@ ports:
     emoji: 🖌️
   icon: youtube
   color: red
-- name: Next.js
-  key: nextjs
-  repository:
-    name: nextjs
-    url: https://github.com/catppuccin/userstyles/tree/main/styles/nextjs
-    current-maintainers:
-    - username: Dandraghas
-      name: Dandraghas
-      url: https://github.com/Dandraghas
-    past-maintainers: []
-  categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  icon: nextdotjs
-  color: text
 collaborators:
 - username: 112cxyz
   url: https://github.com/112cxyz
