@@ -146,7 +146,8 @@ repositories:
   current-maintainers: [AnubisNekhet]
 - name: arch-wiki
   url: https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki
-  current-maintainers: [GenShibe]
+  current-maintainers: []
+  past-maintainers: [GenShibe]
 - name: boringproxy
   url: https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy
   current-maintainers: [Gandalf-the-Blue]
@@ -425,7 +426,7 @@ repositories:
   current-maintainers: [watatomo]
 - name: vercel
   url: https://github.com/catppuccin/userstyles/tree/main/styles/vercel
-  current-maintainers: [ryanccn]
+  current-maintainers: [ryanccn, Dandraghas]
 - name: whatsapp-web
   url: https://github.com/catppuccin/userstyles/tree/main/styles/whatsapp-web
   current-maintainers: [FrancoRav]
@@ -439,9 +440,6 @@ repositories:
   url: https://github.com/catppuccin/userstyles/tree/main/styles/youtube
   current-maintainers: [isabelroses, uncenter]
   past-maintainers: [elkrien]
-- name: nextjs
-  url: https://github.com/catppuccin/userstyles/tree/main/styles/nextjs
-  current-maintainers: [Dandraghas]
 ports:
 - name: Advent Of Code
   key: advent-of-code
@@ -969,6 +967,12 @@ ports:
   categories: [development, userstyle]
   icon: vercel
   color: text
+- name: Next.js
+  key: next.js
+  repository: vercel
+  categories: [development, userstyle]
+  icon: vercel
+  color: text
 - name: WhatsApp Web
   key: whatsapp-web
   repository: whatsapp-web
@@ -993,9 +997,3 @@ ports:
   categories: [entertainment, social_networking, photo_and_video, userstyle]
   icon: youtube
   color: red
-- name: Next.js
-  key: nextjs
-  repository: nextjs
-  categories: [development, userstyle]
-  icon: nextdotjs
-  color: text
