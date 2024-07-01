@@ -186,6 +186,8 @@ collaborators:
     url: https://github.com/mrdoge515
   - &mrtnvgr
     url: https://github.com/mrtnvgr
+  - &myumichi
+    url: https://github.com/myumichi
   - &NamesCode
     url: https://github.com/NamesCode
   - &ndsboy
@@ -338,6 +340,14 @@ ports:
     platform: [macos]
     current-maintainers: []
     past-maintainers: [*nekowinston]
+  aliucord:
+    name: Aliucord
+    categories: [social_networking]
+    platform: [android]
+    color: blue
+    icon: discord
+    current-maintainers: [*isabelincorp, *myumichi]
+    past-maintainers: [*skinatro]
   amfora:
     name: Amfora
     categories: [entertainment]
@@ -2115,13 +2125,6 @@ ports:
     current-maintainers: [*sakkke]
 
 archived:
-  aliucord:
-    name: Aliucord
-    reason: "Maintainer thought the upstream project was unmaintained, this port could be revived again."
-    categories: [social_networking]
-    platform: [android]
-    color: blue
-    icon: discord
   gtk:
     name: GTK
     reason: "Incredibly difficult to theme and maintain, this port could be revived if better theming methods arise. (highly unlikely)"
