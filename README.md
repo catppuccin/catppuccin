@@ -971,7 +971,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Matplotlib](https://github.com/catppuccin/matplotlib)
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
-- [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/nextjs)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
@@ -979,7 +978,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Stack Overflow](https://github.com/catppuccin/userstyles/tree/main/styles/stack-overflow)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
-- [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
+- [Vercel, Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
 
 </details>
 <details open>
@@ -1318,6 +1317,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>✨ Social Networking</summary>
 
+- [Aliucord](https://github.com/catppuccin/aliucord)
 - [Bluesky Social](https://github.com/catppuccin/userstyles/tree/main/styles/bsky)
 - [Chatterino 2](https://github.com/catppuccin/chatterino2)
 - [Cinny](https://github.com/catppuccin/userstyles/tree/main/styles/cinny)
