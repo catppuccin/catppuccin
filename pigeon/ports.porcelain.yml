@@ -70,6 +70,28 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
+- name: Aliucord
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [android]
+  color: blue
+  icon: discord
+  key: aliucord
+  repository:
+    name: aliucord
+    url: https://github.com/catppuccin/aliucord
+    current-maintainers:
+    - username: isabelincorp
+      url: https://github.com/isabelincorp
+    - username: myumichi
+      url: https://github.com/myumichi
+    past-maintainers:
+    - username: skinatro
+      url: https://github.com/skinatro
 - name: Amfora
   categories:
   - key: entertainment
@@ -7505,6 +7527,8 @@ collaborators:
   url: https://github.com/mrdoge515
 - username: mrtnvgr
   url: https://github.com/mrtnvgr
+- username: myumichi
+  url: https://github.com/myumichi
 - username: NamesCode
   url: https://github.com/NamesCode
 - username: ndsboy
@@ -7960,24 +7984,6 @@ showcases:
   description: A simple, open-source recipe management app.
   link: https://github.com/judemont/reciper
 archived-ports:
-- name: Aliucord
-  reason: Maintainer thought the upstream project was unmaintained, this port could
-    be revived again.
-  categories:
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
-  platform: [android]
-  color: blue
-  icon: discord
-  key: aliucord
-  repository:
-    name: aliucord
-    url: https://github.com/catppuccin/aliucord
-    current-maintainers: []
-    past-maintainers: []
 - name: GTK
   reason: Incredibly difficult to theme and maintain, this port could be revived if
     better theming methods arise. (highly unlikely)
