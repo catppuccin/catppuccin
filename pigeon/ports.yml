@@ -186,6 +186,8 @@ collaborators:
   url: https://github.com/mrdoge515
 - username: mrtnvgr
   url: https://github.com/mrtnvgr
+- username: myumichi
+  url: https://github.com/myumichi
 - username: NamesCode
   url: https://github.com/NamesCode
 - username: ndsboy
@@ -478,6 +480,10 @@ repositories:
   url: https://github.com/catppuccin/alfred
   current-maintainers: []
   past-maintainers: [nekowinston]
+- name: aliucord
+  url: https://github.com/catppuccin/aliucord
+  current-maintainers: [isabelincorp, myumichi]
+  past-maintainers: [skinatro]
 - name: amfora
   url: https://github.com/catppuccin/amfora
   current-maintainers: []
@@ -1307,9 +1313,6 @@ repositories:
 - name: zutty
   url: https://github.com/catppuccin/zutty
   current-maintainers: [sakkke]
-- name: aliucord
-  url: https://github.com/catppuccin/aliucord
-  current-maintainers: []
 - name: gtk
   url: https://github.com/catppuccin/gtk
   current-maintainers: []
@@ -1343,6 +1346,13 @@ ports:
   platform: [macos]
   key: alfred
   repository: alfred
+- name: Aliucord
+  categories: [social_networking]
+  platform: [android]
+  color: blue
+  icon: discord
+  key: aliucord
+  repository: aliucord
 - name: Amfora
   categories: [entertainment]
   platform: [linux, macos, windows]
@@ -3066,15 +3076,6 @@ showcases:
   description: A simple, open-source recipe management app.
   link: https://github.com/judemont/reciper
 archived-ports:
-- name: Aliucord
-  reason: Maintainer thought the upstream project was unmaintained, this port could
-    be revived again.
-  categories: [social_networking]
-  platform: [android]
-  color: blue
-  icon: discord
-  key: aliucord
-  repository: aliucord
 - name: GTK
   reason: Incredibly difficult to theme and maintain, this port could be revived if
     better theming methods arise. (highly unlikely)
