@@ -647,8 +647,8 @@ ports:
     platform: [linux, macos, windows]
     icon: gnuemacs
     color: mauve
-    current-maintainers: [*NamesCode, *nyxkrage]
-    past-maintainers: [*pspiagicw]
+    current-maintainers: [*nyxkrage]
+    past-maintainers: [*pspiagicw, *NamesCode]
   enmity:
     name: Enmity
     categories: [social_networking]
