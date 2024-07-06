@@ -979,6 +979,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
 - [Vercel, Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
+- [web.dev](https://github.com/catppuccin/userstyles/tree/main/styles/web.dev)
 
 </details>
 <details open>
