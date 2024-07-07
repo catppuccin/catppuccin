@@ -218,7 +218,7 @@ repositories:
   past-maintainers: [unseen-ninja, Pocco81, GlowingUmbreon]
 - name: gmail
   url: https://github.com/catppuccin/userstyles/tree/main/styles/gmail
-  current-maintainers: []
+  current-maintainers: [uncenter]
   past-maintainers: [isabelroses]
 - name: go.dev
   url: https://github.com/catppuccin/userstyles/tree/main/styles/go.dev
@@ -358,6 +358,9 @@ repositories:
 - name: planet-minecraft
   url: https://github.com/catppuccin/userstyles/tree/main/styles/planet-minecraft
   current-maintainers: [Nyameliaaaa]
+- name: porkbun
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/porkbun
+  current-maintainers: [uncenter]
 - name: pronouns.page
   url: https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.page
   current-maintainers: [uncenter]
@@ -427,6 +430,9 @@ repositories:
 - name: vercel
   url: https://github.com/catppuccin/userstyles/tree/main/styles/vercel
   current-maintainers: [ryanccn, Dandraghas]
+- name: web.dev
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/web.dev
+  current-maintainers: [uncenter]
 - name: whatsapp-web
   url: https://github.com/catppuccin/userstyles/tree/main/styles/whatsapp-web
   current-maintainers: [FrancoRav]
@@ -842,6 +848,12 @@ ports:
   repository: planet-minecraft
   categories: [game, userstyle]
   color: green
+- name: Porkbun
+  key: porkbun
+  repository: porkbun
+  categories: [productivity, userstyle]
+  icon: porkbun
+  color: pink
 - name: Pronouns.page
   key: pronouns.page
   repository: pronouns.page
@@ -973,6 +985,11 @@ ports:
   categories: [development, userstyle]
   icon: vercel
   color: text
+- name: web.dev
+  key: web.dev
+  repository: web.dev
+  categories: [development, userstyle]
+  color: blue
 - name: WhatsApp Web
   key: whatsapp-web
   repository: whatsapp-web
