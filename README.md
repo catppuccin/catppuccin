@@ -1247,6 +1247,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [OBS Studio](https://github.com/catppuccin/obs)
 - [openmediavault](https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault)
 - [Pomotroid](https://github.com/catppuccin/pomotroid)
+- [Porkbun](https://github.com/catppuccin/userstyles/tree/main/styles/porkbun)
 - [Proton](https://github.com/catppuccin/userstyles/tree/main/styles/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
 - [Scrivener](https://github.com/catppuccin/scrivener)
