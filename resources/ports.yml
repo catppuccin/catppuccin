@@ -302,6 +302,9 @@ collaborators:
     url: https://github.com/vdbe
   - &VictorTennekes
     url: https://github.com/VictorTennekes
+  - &vollowx
+    name: Vollow
+    url: https://github.com/vollowx
   - &walshyb
     url: https://github.com/walshyb
   - &Waxxx333
@@ -1347,8 +1350,8 @@ ports:
     platform: [linux, macos, windows]
     icon: neovim
     color: green
-    current-maintainers: [*mrtnvgr]
-    past-maintainers: [*nullchilly]
+    current-maintainers: [*mrtnvgr, *vollowx]
+    past-maintainers: [*pocco81, *nullchilly]
   obs:
     name: OBS Studio
     categories: [productivity, photo_and_video]
