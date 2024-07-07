@@ -166,7 +166,10 @@ ports:
   repository:
     name: vscode
     url: https://github.com/catppuccin/vscode
-    current-maintainers: []
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
     past-maintainers:
     - username: ghostx31
       url: https://github.com/ghostx31
@@ -925,13 +928,13 @@ ports:
     name: emacs
     url: https://github.com/catppuccin/emacs
     current-maintainers:
-    - username: NamesCode
-      url: https://github.com/NamesCode
     - username: nyxkrage
       url: https://github.com/nyxkrage
     past-maintainers:
     - username: pspiagicw
       url: https://github.com/pspiagicw
+    - username: NamesCode
+      url: https://github.com/NamesCode
 - name: Enmity
   categories:
   - key: social_networking
@@ -3587,7 +3590,10 @@ ports:
   repository:
     name: shiki
     url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
-    current-maintainers: []
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
     past-maintainers:
     - username: nekowinston
       name: winston
@@ -4511,7 +4517,10 @@ ports:
   repository:
     name: vscode
     url: https://github.com/catppuccin/vscode
-    current-maintainers: []
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
     past-maintainers:
     - username: ghostx31
       url: https://github.com/ghostx31
@@ -5526,7 +5535,10 @@ ports:
   repository:
     name: gmail
     url: https://github.com/catppuccin/userstyles/tree/main/styles/gmail
-    current-maintainers: []
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
     past-maintainers:
     - username: isabelroses
       name: Isabel
@@ -6649,6 +6661,28 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: green
+- name: Porkbun
+  key: porkbun
+  repository:
+    name: porkbun
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/porkbun
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: porkbun
+  color: pink
 - name: Pronouns.page
   key: pronouns.page
   repository:
@@ -7224,6 +7258,26 @@ ports:
     emoji: 🖌️
   icon: vercel
   color: text
+- name: web.dev
+  key: web.dev
+  repository:
+    name: web.dev
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/web.dev
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
 - name: WhatsApp Web
   key: whatsapp-web
   repository:
