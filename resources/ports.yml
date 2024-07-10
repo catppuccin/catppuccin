@@ -2041,6 +2041,12 @@ ports:
     icon: windowsterminal
     color: text
     current-maintainers: [*LudoPinelli]
+  windows9x:
+    name: Windows 9x
+    categories: [system]
+    platform: [windows]
+    color: teal
+    current-maintainers: [*backwardspy]
   xcode:
     name: Xcode
     categories: [code_editor]
