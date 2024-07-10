@@ -290,6 +290,8 @@ collaborators:
     url: https://github.com/Tnixc
   - &ToxicAven
     url: https://github.com/ToxicAven
+  - &tranzystorekk
+    url: https://github.com/tranzystorekk
   - &tsjazil
     url: https://github.com/tsjazil
   - &uncenter
@@ -720,6 +722,13 @@ ports:
     color: blue
     icon: flutter
     current-maintainers: [*useEffects]
+  fnott:
+    name: Fnott
+    categories: [notification_daemon, system]
+    platform: [linux]
+    color: yellow
+    icon: wayland
+    current-maintainers: [*tranzystorekk]
   foliate:
     name: Foliate
     categories: [document_viewer, productivity]
