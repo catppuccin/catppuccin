@@ -1081,6 +1081,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SerenityOS](https://github.com/catppuccin/serenity-os)
 - [swaylock](https://github.com/catppuccin/swaylock)
 - [waybar](https://github.com/catppuccin/waybar)
+- [Windows 9x](https://github.com/catppuccin/windows9x)
 - [Xresources](https://github.com/catppuccin/xresources)
 
 </details>
