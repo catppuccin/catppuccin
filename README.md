@@ -1097,6 +1097,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>😈 Notification Daemons</summary>
 
 - [Dunst](https://github.com/catppuccin/dunst)
+- [Fnott](https://github.com/catppuccin/fnott)
 - [mako](https://github.com/catppuccin/mako)
 - [swaync](https://github.com/catppuccin/swaync)
 
@@ -1218,6 +1219,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Dopamine](https://github.com/catppuccin/dopamine)
 - [Hyperpipe](https://github.com/catppuccin/userstyles/tree/main/styles/hyperpipe)
 - [Last.fm](https://github.com/catppuccin/userstyles/tree/main/styles/lastfm)
+- [ListenBrainz](https://github.com/catppuccin/userstyles/tree/main/styles/listenbrainz)
 - [MusicBee](https://github.com/catppuccin/musicbee)
 - [PyRadio](https://github.com/catppuccin/pyradio)
 - [Spicetify](https://github.com/catppuccin/spicetify)
