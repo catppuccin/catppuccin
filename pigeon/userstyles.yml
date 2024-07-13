@@ -123,6 +123,8 @@ collaborators:
 - username: NK308
   url: https://github.com/NK308
   name: NK308
+- username: 00dani
+  url: https://github.com/00dani
 - username: kerichdev
   name: keri
   url: https://github.com/kerichdev
@@ -173,8 +175,8 @@ repositories:
   current-maintainers: [AnubisNekhet]
 - name: chess.com
   url: https://github.com/catppuccin/userstyles/tree/main/styles/chess.com
-  current-maintainers: [coldenate]
-  past-maintainers: [skelebro1, isabelroses]
+  current-maintainers: []
+  past-maintainers: [skelebro1, isabelroses, coldenate]
 - name: cinny
   url: https://github.com/catppuccin/userstyles/tree/main/styles/cinny
   current-maintainers: [jn-sena]
@@ -299,6 +301,9 @@ repositories:
 - name: linkedin
   url: https://github.com/catppuccin/userstyles/tree/main/styles/linkedin
   current-maintainers: [isabelroses]
+- name: listenbrainz
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/listenbrainz
+  current-maintainers: [00dani]
 - name: mastodon
   url: https://github.com/catppuccin/userstyles/tree/main/styles/mastodon
   current-maintainers: []
@@ -743,6 +748,12 @@ ports:
   categories: [social_networking, userstyle]
   icon: linkedin
   color: blue
+- name: ListenBrainz
+  key: listenbrainz
+  repository: listenbrainz
+  categories: [music, entertainment, userstyle]
+  icon: musicbrainz
+  color: peach
 - name: Mastodon
   key: mastodon
   repository: mastodon
