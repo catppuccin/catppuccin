@@ -41,6 +41,8 @@ collaborators:
     url: https://github.com/backwardspy
   - &bagelwaffle
     url: https://github.com/bagelwaffle
+  - &beacon6
+    url: https://github.com/beacon6
   - &BlueFalconHD
     url: https://github.com/BlueFalconHD
   - &brambozz
@@ -874,7 +876,7 @@ ports:
     platform: [linux]
     color: text
     icon: gnometerminal
-    current-maintainers: []
+    current-maintainers: [*beacon6]
     past-maintainers: [*nekowinston]
   go:
     name: Go
