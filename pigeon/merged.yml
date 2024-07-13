@@ -41,6 +41,8 @@ collaborators:
     url: https://github.com/backwardspy
   - username: bagelwaffle
     url: https://github.com/bagelwaffle
+  - username: beacon6
+    url: https://github.com/beacon6
   - username: BlueFalconHD
     url: https://github.com/BlueFalconHD
   - username: brambozz
@@ -290,6 +292,8 @@ collaborators:
     url: https://github.com/Tnixc
   - username: ToxicAven
     url: https://github.com/ToxicAven
+  - username: tranzystorekk
+    url: https://github.com/tranzystorekk
   - username: tsjazil
     url: https://github.com/tsjazil
   - username: uncenter
@@ -302,6 +306,9 @@ collaborators:
     url: https://github.com/vdbe
   - username: VictorTennekes
     url: https://github.com/VictorTennekes
+  - username: vollowx
+    name: Vollow
+    url: https://github.com/vollowx
   - username: walshyb
     url: https://github.com/walshyb
   - username: Waxxx333
@@ -440,6 +447,8 @@ collaborators:
   - username: NK308
     url: https://github.com/NK308
     name: NK308
+  - username: 00dani
+    url: https://github.com/00dani
   - username: kerichdev
     name: keri
     url: https://github.com/kerichdev
@@ -777,6 +786,9 @@ repositories:
   - name: flutter
     url: https://github.com/catppuccin/flutter
     current-maintainers: [useEffects]
+  - name: fnott
+    url: https://github.com/catppuccin/fnott
+    current-maintainers: [tranzystorekk]
   - name: foliate
     url: https://github.com/catppuccin/foliate
     current-maintainers: [ghostx31]
@@ -849,7 +861,7 @@ repositories:
     current-maintainers: [MAHcodes]
   - name: gnome-terminal
     url: https://github.com/catppuccin/gnome-terminal
-    current-maintainers: []
+    current-maintainers: [beacon6]
     past-maintainers: [nekowinston]
   - name: go
     url: https://github.com/catppuccin/go
@@ -1068,8 +1080,8 @@ repositories:
     current-maintainers: [daveyholler]
   - name: nvim
     url: https://github.com/catppuccin/nvim
-    current-maintainers: [mrtnvgr]
-    past-maintainers: [nullchilly]
+    current-maintainers: [mrtnvgr, vollowx]
+    past-maintainers: [pocco81, nullchilly]
   - name: obs
     url: https://github.com/catppuccin/obs
     current-maintainers: [Xurdejl]
@@ -1387,6 +1399,9 @@ repositories:
   - name: windows-terminal
     url: https://github.com/catppuccin/windows-terminal
     current-maintainers: [LudoPinelli]
+  - name: windows9x
+    url: https://github.com/catppuccin/windows9x
+    current-maintainers: [backwardspy]
   - name: xcode
     url: https://github.com/catppuccin/xcode
     current-maintainers: [quentinguidee]
@@ -1478,8 +1493,8 @@ repositories:
     current-maintainers: [AnubisNekhet]
   - name: chess.com
     url: https://github.com/catppuccin/userstyles/tree/main/styles/chess.com
-    current-maintainers: [coldenate]
-    past-maintainers: [skelebro1, isabelroses]
+    current-maintainers: []
+    past-maintainers: [skelebro1, isabelroses, coldenate]
   - name: cinny
     url: https://github.com/catppuccin/userstyles/tree/main/styles/cinny
     current-maintainers: [jn-sena]
@@ -1604,6 +1619,9 @@ repositories:
   - name: linkedin
     url: https://github.com/catppuccin/userstyles/tree/main/styles/linkedin
     current-maintainers: [isabelroses]
+  - name: listenbrainz
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/listenbrainz
+    current-maintainers: [00dani]
   - name: mastodon
     url: https://github.com/catppuccin/userstyles/tree/main/styles/mastodon
     current-maintainers: []
@@ -2128,6 +2146,13 @@ ports:
     icon: flutter
     key: flutter
     repository: flutter
+  - name: Fnott
+    categories: [notification_daemon, system]
+    platform: [linux]
+    color: yellow
+    icon: wayland
+    key: fnott
+    repository: fnott
   - name: Foliate
     categories: [document_viewer, productivity]
     platform: [linux]
@@ -3375,6 +3400,12 @@ ports:
     color: text
     key: windows-terminal
     repository: windows-terminal
+  - name: Windows 9x
+    categories: [system]
+    platform: [windows]
+    color: teal
+    key: windows9x
+    repository: windows9x
   - name: Xcode
     categories: [code_editor]
     platform: [macos]
@@ -3760,6 +3791,12 @@ ports:
     categories: [social_networking, userstyle]
     icon: linkedin
     color: blue
+  - name: ListenBrainz
+    key: listenbrainz
+    repository: listenbrainz
+    categories: [music, entertainment, userstyle]
+    icon: musicbrainz
+    color: peach
   - name: Mastodon
     key: mastodon
     repository: mastodon
