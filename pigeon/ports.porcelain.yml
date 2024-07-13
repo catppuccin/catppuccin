@@ -1118,6 +1118,28 @@ ports:
     - username: useEffects
       url: https://github.com/useEffects
     past-maintainers: []
+- name: Fnott
+  categories:
+  - key: notification_daemon
+    name: Notification Daemons
+    description: Applications that notify the user of desktop events in an asynchronous
+      manner.
+    emoji: 😈
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: yellow
+  icon: wayland
+  key: fnott
+  repository:
+    name: fnott
+    url: https://github.com/catppuccin/fnott
+    current-maintainers:
+    - username: tranzystorekk
+      url: https://github.com/tranzystorekk
+    past-maintainers: []
 - name: Foliate
   categories:
   - key: document_viewer
@@ -1528,7 +1550,9 @@ ports:
   repository:
     name: gnome-terminal
     url: https://github.com/catppuccin/gnome-terminal
-    current-maintainers: []
+    current-maintainers:
+    - username: beacon6
+      url: https://github.com/beacon6
     past-maintainers:
     - username: nekowinston
       name: winston
@@ -2848,7 +2872,12 @@ ports:
     current-maintainers:
     - username: mrtnvgr
       url: https://github.com/mrtnvgr
+    - username: vollowx
+      name: Vollow
+      url: https://github.com/vollowx
     past-maintainers:
+    - username: pocco81
+      url: https://github.com/pocco81
     - username: nullchilly
       url: https://github.com/nullchilly
 - name: OBS Studio
@@ -4666,6 +4695,23 @@ ports:
     - username: LudoPinelli
       url: https://github.com/LudoPinelli
     past-maintainers: []
+- name: Windows 9x
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [windows]
+  color: teal
+  key: windows9x
+  repository:
+    name: windows9x
+    url: https://github.com/catppuccin/windows9x
+    current-maintainers:
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
+    past-maintainers: []
 - name: Xcode
   categories:
   - key: code_editor
@@ -5187,10 +5233,7 @@ ports:
   repository:
     name: chess.com
     url: https://github.com/catppuccin/userstyles/tree/main/styles/chess.com
-    current-maintainers:
-    - username: coldenate
-      name: coldenate
-      url: https://github.com/coldenate
+    current-maintainers: []
     past-maintainers:
     - username: skelebro1
       name: skele
@@ -5198,6 +5241,9 @@ ports:
     - username: isabelroses
       name: Isabel
       url: https://github.com/isabelroses
+    - username: coldenate
+      name: coldenate
+      url: https://github.com/coldenate
   categories:
   - key: game
     name: Games
@@ -6219,6 +6265,30 @@ ports:
     emoji: 🖌️
   icon: linkedin
   color: blue
+- name: ListenBrainz
+  key: listenbrainz
+  repository:
+    name: listenbrainz
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/listenbrainz
+    current-maintainers:
+    - username: 00dani
+      url: https://github.com/00dani
+    past-maintainers: []
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: musicbrainz
+  color: peach
 - name: Mastodon
   key: mastodon
   repository:
@@ -7436,6 +7506,8 @@ collaborators:
   url: https://github.com/backwardspy
 - username: bagelwaffle
   url: https://github.com/bagelwaffle
+- username: beacon6
+  url: https://github.com/beacon6
 - username: BlueFalconHD
   url: https://github.com/BlueFalconHD
 - username: brambozz
@@ -7685,6 +7757,8 @@ collaborators:
   url: https://github.com/Tnixc
 - username: ToxicAven
   url: https://github.com/ToxicAven
+- username: tranzystorekk
+  url: https://github.com/tranzystorekk
 - username: tsjazil
   url: https://github.com/tsjazil
 - username: uncenter
@@ -7697,6 +7771,9 @@ collaborators:
   url: https://github.com/vdbe
 - username: VictorTennekes
   url: https://github.com/VictorTennekes
+- username: vollowx
+  name: Vollow
+  url: https://github.com/vollowx
 - username: walshyb
   url: https://github.com/walshyb
 - username: Waxxx333
@@ -7835,6 +7912,8 @@ collaborators:
 - username: NK308
   url: https://github.com/NK308
   name: NK308
+- username: 00dani
+  url: https://github.com/00dani
 - username: kerichdev
   name: keri
   url: https://github.com/kerichdev
