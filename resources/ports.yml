@@ -1203,7 +1203,8 @@ ports:
     categories: [development, analytics]
     platform: agnostic
     color: blue
-    current-maintainers: [*brambozz]
+    alias: python
+    current-maintainers: [*backwardspy, *brambozz]
   mattermost:
     name: Mattermost
     categories: [social_networking]
@@ -2153,6 +2154,12 @@ archived:
     platform: [linux]
     color: green
     icon: gtk
+  matplotlib:
+    name: Matplotlib
+    reason: "The package is now included within catppuccin/python, therefore the catppuccin/matplotlib repository has been archived."
+    categories: [development, analytics]
+    platform: agnostic
+    color: blue
   oldtwitter:
     name: OldTwitter
     reason: "Extension is unusable due to X/Twitter's extensive measures to limit third party modifications, this port could be revived."
