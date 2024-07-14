@@ -1475,7 +1475,7 @@ ports:
     platform: agnostic
     color: blue
     icon: python
-    current-maintainers: [*backwardspy]
+    current-maintainers: [*backwardspy, *brambozz]
   qbittorrent:
     name: qBittorrent
     categories: [productivity]
