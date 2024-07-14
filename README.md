@@ -968,7 +968,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [iSH](https://github.com/catppuccin/ish)
 - [JupyterLab](https://github.com/catppuccin/jupyterlab)
 - [Keyoxide](https://github.com/catppuccin/userstyles/tree/main/styles/keyoxide)
-- [Matplotlib](https://github.com/catppuccin/matplotlib)
+- [Matplotlib](https://github.com/catppuccin/python)
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
