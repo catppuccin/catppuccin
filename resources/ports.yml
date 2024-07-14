@@ -1192,8 +1192,7 @@ ports:
     platform: agnostic
     color: blue
     alias: python
-    current-maintainers: [*backwardspy]
-    past-maintainers: [*brambozz] # TBC
+    current-maintainers: [*backwardspy, *brambozz]
   mattermost:
     name: Mattermost
     categories: [social_networking]
