@@ -1796,6 +1796,7 @@ ports:
     url: https://github.com/catppuccin/hyprlock
     current-maintainers:
     - username: NikSneMC
+      name: NikSne
       url: https://github.com/NikSneMC
     past-maintainers: []
 - name: i3/sway
@@ -2432,13 +2433,15 @@ ports:
     emoji: 📊
   platform: agnostic
   color: blue
+  alias: python
   key: matplotlib
   repository:
-    name: matplotlib
-    url: https://github.com/catppuccin/matplotlib
+    name: python
+    url: https://github.com/catppuccin/python
     current-maintainers:
-    - username: brambozz
-      url: https://github.com/brambozz
+    - username: backwardspy
+      name: pigeon
+      url: https://github.com/backwardspy
     past-maintainers: []
 - name: Mattermost
   categories:
@@ -7666,6 +7669,7 @@ collaborators:
   name: Nick
   url: https://github.com/NickSquiggles
 - username: NikSneMC
+  name: NikSne
   url: https://github.com/NikSneMC
 - username: nullchilly
   url: https://github.com/nullchilly
@@ -8132,6 +8136,26 @@ archived-ports:
   repository:
     name: gtk
     url: https://github.com/catppuccin/gtk
+    current-maintainers: []
+    past-maintainers: []
+- name: Matplotlib
+  reason: The package is now included within catppuccin/python, therefore the catppuccin/matplotlib
+    repository has been archived.
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: agnostic
+  color: blue
+  key: matplotlib
+  repository:
+    name: matplotlib
+    url: https://github.com/catppuccin/matplotlib
     current-maintainers: []
     past-maintainers: []
 - name: OldTwitter
