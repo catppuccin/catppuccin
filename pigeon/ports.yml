@@ -1015,7 +1015,7 @@ repositories:
   past-maintainers: [elkrien]
 - name: python
   url: https://github.com/catppuccin/python
-  current-maintainers: [backwardspy]
+  current-maintainers: [backwardspy, brambozz]
 - name: qbittorrent
   url: https://github.com/catppuccin/qbittorrent
   current-maintainers: [Xurdejl]
