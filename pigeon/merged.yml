@@ -201,6 +201,7 @@ collaborators:
     name: Nick
     url: https://github.com/NickSquiggles
   - username: NikSneMC
+    name: NikSne
     url: https://github.com/NikSneMC
   - username: nullchilly
     url: https://github.com/nullchilly
@@ -1002,9 +1003,6 @@ repositories:
   - name: mako
     url: https://github.com/catppuccin/mako
     current-maintainers: [lokesh-krishna]
-  - name: matplotlib
-    url: https://github.com/catppuccin/matplotlib
-    current-maintainers: [brambozz]
   - name: mattermost
     url: https://github.com/catppuccin/mattermost
     current-maintainers: []
@@ -1448,6 +1446,9 @@ repositories:
     current-maintainers: [sakkke]
   - name: gtk
     url: https://github.com/catppuccin/gtk
+    current-maintainers: []
+  - name: matplotlib
+    url: https://github.com/catppuccin/matplotlib
     current-maintainers: []
   - name: oldtwitter
     url: https://github.com/catppuccin/oldtwitter
@@ -2605,8 +2606,9 @@ ports:
     categories: [development, analytics]
     platform: agnostic
     color: blue
+    alias: python
     key: matplotlib
-    repository: matplotlib
+    repository: python
   - name: Mattermost
     categories: [social_networking]
     platform: agnostic
@@ -4111,6 +4113,13 @@ archived-ports:
     icon: gtk
     key: gtk
     repository: gtk
+  - name: Matplotlib
+    reason: The package is now included within catppuccin/python, therefore the catppuccin/matplotlib repository has been archived.
+    categories: [development, analytics]
+    platform: agnostic
+    color: blue
+    key: matplotlib
+    repository: matplotlib
   - name: OldTwitter
     reason: Extension is unusable due to X/Twitter's extensive measures to limit third party modifications, this port could be revived.
     categories: [browser_extension, social_networking]
