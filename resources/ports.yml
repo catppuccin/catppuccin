@@ -125,8 +125,8 @@ collaborators:
     url: https://github.com/isabelincorp
   - &isabelroses
     url: https://github.com/isabelroses
-  - &James-McK
-    url: https://github.com/James-McK
+  - &autumn-mck
+    url: https://github.com/autumn-mck
   - &jayylmao
     url: https://github.com/jayylmao
   - &JK-Flip-Flop96
@@ -1293,7 +1293,7 @@ ports:
     categories: [music]
     platform: [windows]
     color: yellow
-    current-maintainers: [*James-McK]
+    current-maintainers: [*autumn-mck]
   neomutt:
     name: NeoMutt
     categories: [email_client, cli]
