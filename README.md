@@ -1167,6 +1167,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [nightTab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
 - [Shinigami Eyes](https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes)
+- [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Vimium](https://github.com/catppuccin/vimium)
 
 </details>
@@ -1233,6 +1234,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>📖 Productivity</summary>
 
+- [Amplenote](https://github.com/catppuccin/userstyles/tree/main/styles/amplenote)
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
 - [cobalt](https://github.com/catppuccin/userstyles/tree/main/styles/cobalt)
@@ -1253,10 +1255,10 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Porkbun](https://github.com/catppuccin/userstyles/tree/main/styles/porkbun)
 - [Proton](https://github.com/catppuccin/userstyles/tree/main/styles/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
+- [Raindrop](https://github.com/catppuccin/userstyles/tree/main/styles/raindrop)
 - [Scrivener](https://github.com/catppuccin/scrivener)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Squirrel (Rime for macOS)](https://github.com/catppuccin/squirrel)
-- [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [tldraw](https://github.com/catppuccin/userstyles/tree/main/styles/tldraw)
 
