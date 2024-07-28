@@ -2686,8 +2686,8 @@ ports:
     name: musicbee
     url: https://github.com/catppuccin/musicbee
     current-maintainers:
-    - username: James-McK
-      url: https://github.com/James-McK
+    - username: autumn-mck
+      url: https://github.com/autumn-mck
     past-maintainers: []
 - name: NeoMutt
   categories:
@@ -4988,6 +4988,26 @@ ports:
     emoji: 🖌️
   icon: adventofcode
   color: yellow
+- name: Amplenote
+  key: amplenote
+  repository:
+    name: amplenote
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/amplenote
+    current-maintainers:
+    - username: stellophiliac
+      url: https://github.com/stellophiliac
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
 - name: AniList
   key: anilist
   repository:
@@ -6853,6 +6873,26 @@ ports:
     emoji: 🖌️
   icon: quizlet
   color: mauve
+- name: Raindrop
+  key: raindrop
+  repository:
+    name: raindrop
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/raindrop
+    current-maintainers:
+    - username: thismoon
+      url: https://github.com/thismoon
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
 - name: Reddit
   key: reddit
   repository:
@@ -7065,11 +7105,11 @@ ports:
       url: https://github.com/GitMuslim
     past-maintainers: []
   categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7597,8 +7637,8 @@ collaborators:
   url: https://github.com/isabelincorp
 - username: isabelroses
   url: https://github.com/isabelroses
-- username: James-McK
-  url: https://github.com/James-McK
+- username: autumn-mck
+  url: https://github.com/autumn-mck
 - username: jayylmao
   url: https://github.com/jayylmao
 - username: JK-Flip-Flop96
@@ -7931,6 +7971,8 @@ collaborators:
 - username: jh-devv
   name: jh-devv
   url: https://github.com/jh-devv
+- username: stellophiliac
+  url: https://github.com/stellophiliac
 categories:
 - key: code_editor
   name: Code Editors & IDEs
