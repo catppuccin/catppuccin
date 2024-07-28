@@ -125,8 +125,8 @@ collaborators:
   url: https://github.com/isabelincorp
 - username: isabelroses
   url: https://github.com/isabelroses
-- username: James-McK
-  url: https://github.com/James-McK
+- username: autumn-mck
+  url: https://github.com/autumn-mck
 - username: jayylmao
   url: https://github.com/jayylmao
 - username: JK-Flip-Flop96
@@ -925,7 +925,7 @@ repositories:
   current-maintainers: [Anomalocaridid]
 - name: musicbee
   url: https://github.com/catppuccin/musicbee
-  current-maintainers: [James-McK]
+  current-maintainers: [autumn-mck]
 - name: neomutt
   url: https://github.com/catppuccin/neomutt
   current-maintainers: [Sekki21956]
