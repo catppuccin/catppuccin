@@ -125,8 +125,8 @@ collaborators:
     url: https://github.com/isabelincorp
   - username: isabelroses
     url: https://github.com/isabelroses
-  - username: James-McK
-    url: https://github.com/James-McK
+  - username: autumn-mck
+    url: https://github.com/autumn-mck
   - username: jayylmao
     url: https://github.com/jayylmao
   - username: JK-Flip-Flop96
@@ -459,6 +459,8 @@ collaborators:
   - username: jh-devv
     name: jh-devv
     url: https://github.com/jh-devv
+  - username: stellophiliac
+    url: https://github.com/stellophiliac
 categories:
   - key: code_editor
     name: Code Editors & IDEs
@@ -1045,7 +1047,7 @@ repositories:
     current-maintainers: [Anomalocaridid]
   - name: musicbee
     url: https://github.com/catppuccin/musicbee
-    current-maintainers: [James-McK]
+    current-maintainers: [autumn-mck]
   - name: neomutt
     url: https://github.com/catppuccin/neomutt
     current-maintainers: [Sekki21956]
@@ -1462,6 +1464,9 @@ repositories:
   - name: advent-of-code
     url: https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code
     current-maintainers: [rubyowo]
+  - name: amplenote
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/amplenote
+    current-maintainers: [stellophiliac]
   - name: anilist
     url: https://github.com/catppuccin/userstyles/tree/main/styles/anilist
     current-maintainers: [AnubisNekhet]
@@ -1697,6 +1702,9 @@ repositories:
   - name: quizlet
     url: https://github.com/catppuccin/userstyles/tree/main/styles/quizlet
     current-maintainers: [spaghettiosareyummy]
+  - name: raindrop
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/raindrop
+    current-maintainers: [thismoon]
   - name: reddit
     url: https://github.com/catppuccin/userstyles/tree/main/styles/reddit
     current-maintainers: []
@@ -3503,6 +3511,11 @@ ports:
     categories: [game, entertainment, userstyle]
     icon: adventofcode
     color: yellow
+  - name: Amplenote
+    key: amplenote
+    repository: amplenote
+    categories: [productivity, userstyle]
+    color: blue
   - name: AniList
     key: anilist
     repository: anilist
@@ -3933,6 +3946,11 @@ ports:
     categories: [education, productivity, userstyle]
     icon: quizlet
     color: mauve
+  - name: Raindrop
+    key: raindrop
+    repository: raindrop
+    categories: [productivity, userstyle]
+    color: blue
   - name: Reddit
     key: reddit
     repository: reddit
@@ -3981,7 +3999,7 @@ ports:
   - name: Stylus
     key: stylus
     repository: stylus
-    categories: [productivity, userstyle]
+    categories: [browser_extension, userstyle]
     color: teal
   - name: Substack
     key: substack
