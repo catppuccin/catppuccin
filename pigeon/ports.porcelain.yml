@@ -930,6 +930,8 @@ ports:
     current-maintainers:
     - username: nyxkrage
       url: https://github.com/nyxkrage
+    - username: jtbx
+      url: https://github.com/jtbx
     past-maintainers:
     - username: pspiagicw
       url: https://github.com/pspiagicw
@@ -7375,6 +7377,31 @@ ports:
     emoji: 🖌️
   icon: vercel
   color: text
+- name: Vikunja
+  key: vikunja
+  repository:
+    name: vikunja
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/vikunja
+    current-maintainers:
+    - username: Guaxinim5573
+      name: Guaxinim5573
+      url: https://github.com/Guaxinim5573
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
 - name: web.dev
   key: web.dev
   repository:
@@ -7649,6 +7676,8 @@ collaborators:
   url: https://github.com/JoshPaulie
 - username: justleoo
   url: https://github.com/justleoo
+- username: jtbx
+  url: https://github.com/jtbx
 - username: JustLetterV
   url: https://github.com/JustLetterV
 - username: justTOBBI
