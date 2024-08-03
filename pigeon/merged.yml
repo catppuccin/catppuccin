@@ -22,9 +22,8 @@ collaborators:
   - username: AnubisNekhet
     name: Anubis
     url: https://github.com/AnubisNekhet
-  - username: AwA-VR
-    name: AwA
-    url: https://github.com/AwA-VR
+  - username: ShyyLexi
+    url: https://github.com/ShyyLexi
   - username: asrvd
     url: https://github.com/asrvd
   - username: aszecsei
@@ -768,7 +767,7 @@ repositories:
     past-maintainers: [ayamir]
   - name: firefox
     url: https://github.com/catppuccin/firefox
-    current-maintainers: [isabelincorp, AwA-VR]
+    current-maintainers: [isabelincorp, ShyyLexi]
   - name: fish
     url: https://github.com/catppuccin/fish
     current-maintainers: [ghostx31, backwardspy]
