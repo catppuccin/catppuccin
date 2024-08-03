@@ -137,6 +137,8 @@ collaborators:
     url: https://github.com/JoshPaulie
   - username: justleoo
     url: https://github.com/justleoo
+  - username: jtbx
+    url: https://github.com/jtbx
   - username: JustLetterV
     url: https://github.com/JustLetterV
   - username: justTOBBI
@@ -755,7 +757,7 @@ repositories:
     current-maintainers: [MikaelFangel]
   - name: emacs
     url: https://github.com/catppuccin/emacs
-    current-maintainers: [nyxkrage]
+    current-maintainers: [nyxkrage, jtbx]
     past-maintainers: [pspiagicw, NamesCode]
   - name: enmity
     url: https://github.com/catppuccin/enmity
@@ -1762,6 +1764,9 @@ repositories:
   - name: vercel
     url: https://github.com/catppuccin/userstyles/tree/main/styles/vercel
     current-maintainers: [ryanccn, Dandraghas]
+  - name: vikunja
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/vikunja
+    current-maintainers: [Guaxinim5573]
   - name: web.dev
     url: https://github.com/catppuccin/userstyles/tree/main/styles/web.dev
     current-maintainers: [uncenter]
@@ -4059,6 +4064,11 @@ ports:
     categories: [development, userstyle]
     icon: vercel
     color: text
+  - name: Vikunja
+    key: vikunja
+    repository: vikunja
+    categories: [productivity, note_taking, userstyle]
+    color: blue
   - name: web.dev
     key: web.dev
     repository: web.dev
