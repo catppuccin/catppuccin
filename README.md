@@ -1261,6 +1261,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Squirrel (Rime for macOS)](https://github.com/catppuccin/squirrel)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [tldraw](https://github.com/catppuccin/userstyles/tree/main/styles/tldraw)
+- [Vikunja](https://github.com/catppuccin/userstyles/tree/main/styles/vikunja)
 
 </details>
 <details open>
