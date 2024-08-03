@@ -137,6 +137,8 @@ collaborators:
     url: https://github.com/JoshPaulie
   - &justleoo
     url: https://github.com/justleoo
+  - &jtbx
+    url: https://github.com/jtbx
   - &JustLetterV
     url: https://github.com/JustLetterV
   - &justTOBBI
@@ -655,7 +657,7 @@ ports:
     platform: [linux, macos, windows]
     icon: gnuemacs
     color: mauve
-    current-maintainers: [*nyxkrage]
+    current-maintainers: [*nyxkrage, *jtbx]
     past-maintainers: [*pspiagicw, *NamesCode]
   enmity:
     name: Enmity
