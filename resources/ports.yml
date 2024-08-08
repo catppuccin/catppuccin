@@ -255,6 +255,8 @@ collaborators:
     url: https://github.com/SadAlexa
   - &sakkke
     url: https://github.com/sakkke
+    -&Sebagabones
+    url: https://github.com/Sebagabones
   - &Sekki21956
     url: https://github.com/Sekki21956
   - &schoblaska
@@ -1951,7 +1953,7 @@ ports:
     platform: agnostic
     color: green
     icon: vim
-    current-maintainers: []
+    current-maintainers: [*Sebagabones]
     past-maintainers: [*elkrien]
   visual-studio:
     name: Visual Studio
