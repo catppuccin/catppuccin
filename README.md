@@ -1068,7 +1068,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Conky](https://github.com/catppuccin/conky)
 - [Cursors](https://github.com/catppuccin/cursors)
 - [fcitx5](https://github.com/catppuccin/fcitx5)
-- [FlorisBoard](https://github.com/catppuccin/floris-board)
+- [FlorisBoard](https://github.com/catppuccin/florisboard)
 - [Hyprlock](https://github.com/catppuccin/hyprlock)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
 - [Nilesoft Shell](https://github.com/catppuccin/nilesoft-shell)

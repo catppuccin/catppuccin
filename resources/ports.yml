@@ -700,7 +700,7 @@ ports:
     icon: jetbrains
     color: text
     current-maintainers: [*kkrypt0nn, *davfsa]
-  floris-board:
+  florisboard:
     name: FlorisBoard
     categories: [system]
     platform: [android]
