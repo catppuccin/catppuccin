@@ -1056,10 +1056,10 @@ ports:
     emoji: 🔧
   platform: [android]
   color: green
-  key: floris-board
+  key: florisboard
   repository:
-    name: floris-board
-    url: https://github.com/catppuccin/floris-board
+    name: florisboard
+    url: https://github.com/catppuccin/florisboard
     current-maintainers:
     - username: skinatro
       url: https://github.com/skinatro
