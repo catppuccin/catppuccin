@@ -655,8 +655,8 @@ repositories:
 - name: fleet
   url: https://github.com/catppuccin/fleet
   current-maintainers: [kkrypt0nn, davfsa]
-- name: floris-board
-  url: https://github.com/catppuccin/floris-board
+- name: florisboard
+  url: https://github.com/catppuccin/florisboard
   current-maintainers: [skinatro]
 - name: flow-launcher
   url: https://github.com/catppuccin/flow-launcher
@@ -1696,8 +1696,8 @@ ports:
   categories: [system]
   platform: [android]
   color: green
-  key: floris-board
-  repository: floris-board
+  key: florisboard
+  repository: florisboard
 - name: Flow Launcher
   categories: [application_launcher, system]
   platform: [windows]
