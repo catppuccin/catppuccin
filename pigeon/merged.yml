@@ -255,6 +255,8 @@ collaborators:
     url: https://github.com/SadAlexa
   - username: sakkke
     url: https://github.com/sakkke
+  - username: Sebagabones
+    url: https://github.com/Sebagabones
   - username: Sekki21956
     url: https://github.com/Sekki21956
   - username: schoblaska
@@ -1364,7 +1366,7 @@ repositories:
     current-maintainers: [M3nny]
   - name: vimium
     url: https://github.com/catppuccin/vimium
-    current-maintainers: []
+    current-maintainers: [Sebagabones]
     past-maintainers: [elkrien]
   - name: visual-studio
     url: https://github.com/catppuccin/visual-studio
