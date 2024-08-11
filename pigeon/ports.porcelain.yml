@@ -4486,7 +4486,9 @@ ports:
   repository:
     name: vimium
     url: https://github.com/catppuccin/vimium
-    current-maintainers: []
+    current-maintainers:
+    - username: Sebagabones
+      url: https://github.com/Sebagabones
     past-maintainers:
     - username: elkrien
       name: Elkrien
@@ -7793,6 +7795,8 @@ collaborators:
   url: https://github.com/SadAlexa
 - username: sakkke
   url: https://github.com/sakkke
+- username: Sebagabones
+  url: https://github.com/Sebagabones
 - username: Sekki21956
   url: https://github.com/Sekki21956
 - username: schoblaska
