@@ -292,6 +292,8 @@ collaborators:
     url: https://github.com/thelooter
   - &tiepp
     url: https://github.com/tiepp
+  - &TimeTravelPenguin
+    url: https://github.com/TimeTravelPenguin
   - &Tnixc
     url: https://github.com/Tnixc
   - &ToxicAven
@@ -1880,6 +1882,13 @@ ports:
     platform: [linux]
     color: text
     current-maintainers: [*justleoo]
+  typst:
+    name: Typst
+    categories: [library, note_taking]
+    platform: agnostic
+    icon: typst
+    color: teal
+    current-maintainers: [*TimeTravelPenguin]
   ueli:
     name: Ueli
     categories: [application_launcher, system]
