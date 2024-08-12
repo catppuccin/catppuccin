@@ -292,6 +292,8 @@ collaborators:
     url: https://github.com/thelooter
   - username: tiepp
     url: https://github.com/tiepp
+  - username: TimeTravelPenguin
+    url: https://github.com/TimeTravelPenguin
   - username: Tnixc
     url: https://github.com/Tnixc
   - username: ToxicAven
@@ -1334,6 +1336,9 @@ repositories:
   - name: tym
     url: https://github.com/catppuccin/tym
     current-maintainers: [justleoo]
+  - name: typst
+    url: https://github.com/catppuccin/typst
+    current-maintainers: [TimeTravelPenguin]
   - name: ueli
     url: https://github.com/catppuccin/ueli
     current-maintainers: [lighttigerXIV]
@@ -3256,6 +3261,13 @@ ports:
     color: text
     key: tym
     repository: tym
+  - name: Typst
+    categories: [library, note_taking]
+    platform: agnostic
+    icon: typst
+    color: teal
+    key: typst
+    repository: typst
   - name: Ueli
     categories: [application_launcher, system]
     platform: [windows, macos]
