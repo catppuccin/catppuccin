@@ -996,6 +996,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Pantone](https://github.com/catppuccin/pantone)
 - [Python](https://github.com/catppuccin/python)
 - [Rust](https://github.com/catppuccin/rust)
+- [Typst](https://github.com/catppuccin/typst)
 - [UI](https://github.com/catppuccin/ui)
 - [V](https://github.com/catppuccin/v)
 
