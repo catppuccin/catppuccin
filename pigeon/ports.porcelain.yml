@@ -4292,6 +4292,28 @@ ports:
     - username: justleoo
       url: https://github.com/justleoo
     past-maintainers: []
+- name: Typst
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
+  platform: agnostic
+  icon: typst
+  color: teal
+  key: typst
+  repository:
+    name: typst
+    url: https://github.com/catppuccin/typst
+    current-maintainers:
+    - username: TimeTravelPenguin
+      url: https://github.com/TimeTravelPenguin
+    past-maintainers: []
 - name: Ueli
   categories:
   - key: application_launcher
@@ -7832,6 +7854,8 @@ collaborators:
   url: https://github.com/thelooter
 - username: tiepp
   url: https://github.com/tiepp
+- username: TimeTravelPenguin
+  url: https://github.com/TimeTravelPenguin
 - username: Tnixc
   url: https://github.com/Tnixc
 - username: ToxicAven
