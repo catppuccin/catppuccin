@@ -243,8 +243,8 @@ collaborators:
     url: https://github.com/reniivali
   - &rogeruiz
     url: https://github.com/rogeruiz
-  - &riivx
-    url: https://github.com/riivx
+  - &riichi67
+    url: https://github.com/riichi67
   - &rithikasilva
     url: https://github.com/rithikasilva
   - &rubyowo
@@ -1939,7 +1939,7 @@ ports:
     platform: [android, ios]
     color: blue
     icon: discord
-    current-maintainers: [*riivx, *Moodzz1]
+    current-maintainers: [*riichi67, *Moodzz1]
   vim:
     name: Vim
     categories: [code_editor, cli]
