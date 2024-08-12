@@ -243,8 +243,8 @@ collaborators:
   url: https://github.com/reniivali
 - username: rogeruiz
   url: https://github.com/rogeruiz
-- username: riivx
-  url: https://github.com/riivx
+- username: riichi67
+  url: https://github.com/riichi67
 - username: rithikasilva
   url: https://github.com/rithikasilva
 - username: rubyowo
@@ -1238,7 +1238,7 @@ repositories:
   current-maintainers: [Delta456]
 - name: vendetta
   url: https://github.com/catppuccin/vendetta
-  current-maintainers: [riivx, Moodzz1]
+  current-maintainers: [riichi67, Moodzz1]
 - name: vim
   url: https://github.com/catppuccin/vim
   current-maintainers: [M3nny]
