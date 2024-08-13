@@ -30,6 +30,8 @@ collaborators:
     url: https://github.com/asrvd
   - &aszecsei
     url: https://github.com/aszecsei
+  - &atticus-sullivan
+    url: https://github.com/atticus-sullivan
   - &auriafoxgirl
     name: Auria
     url: https://github.com/auriafoxgirl
@@ -1144,7 +1146,7 @@ ports:
     platform: agnostic
     icon: latex
     color: teal
-    current-maintainers: [*walshyb]
+    current-maintainers: [*walshyb, *atticus-sullivan]
   lapce:
     name: Lapce
     categories: [code_editor]
