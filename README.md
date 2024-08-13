@@ -1243,6 +1243,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [FreshRSS](https://github.com/catppuccin/freshrss)
 - [gh-dash](https://github.com/catppuccin/gh-dash)
 - [Gitea](https://github.com/catppuccin/gitea)
+- [GitKraken](https://github.com/catppuccin/gitkraken)
 - [Google Drive](https://github.com/catppuccin/userstyles/tree/main/styles/google-drive)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [homepage](https://github.com/catppuccin/userstyles/tree/main/styles/homepage)
