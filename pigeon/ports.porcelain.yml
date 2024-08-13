@@ -1461,6 +1461,30 @@ ports:
     - username: sakkke
       url: https://github.com/sakkke
     past-maintainers: []
+- name: GitKraken
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [linux, macos, windows]
+  color: teal
+  icon: gitkraken
+  key: gitkraken
+  repository:
+    name: gitkraken
+    url: https://github.com/catppuccin/gitkraken
+    current-maintainers:
+    - username: Askerad
+      url: https://github.com/Askerad
+    - username: Paracetamol56
+      url: https://github.com/Paracetamol56
+    past-maintainers: []
 - name: GitUI
   categories:
   - key: cli
@@ -7575,6 +7599,8 @@ collaborators:
   url: https://github.com/AdalZanabria
 - username: AlphaTechnolog
   url: https://github.com/AlphaTechnolog
+- username: Askerad
+  url: https://github.com/Askerad
 - username: unseen-ninja
   url: https://github.com/unseen-ninja
 - username: AngelBerihuete
@@ -7782,6 +7808,8 @@ collaborators:
   url: https://github.com/ozwaldorf
 - username: PanAeon
   url: https://github.com/PanAeon
+- username: Paracetamol56
+  url: https://github.com/Paracetamol56
 - username: pocco81
   url: https://github.com/pocco81
 - username: prateektade
