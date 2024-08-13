@@ -13,6 +13,8 @@ collaborators:
   url: https://github.com/AdalZanabria
 - username: AlphaTechnolog
   url: https://github.com/AlphaTechnolog
+- username: Askerad
+  url: https://github.com/Askerad
 - username: unseen-ninja
   url: https://github.com/unseen-ninja
 - username: AngelBerihuete
@@ -220,6 +222,8 @@ collaborators:
   url: https://github.com/ozwaldorf
 - username: PanAeon
   url: https://github.com/PanAeon
+- username: Paracetamol56
+  url: https://github.com/Paracetamol56
 - username: pocco81
   url: https://github.com/pocco81
 - username: prateektade
@@ -732,6 +736,9 @@ repositories:
 - name: github-readme-tech-stack
   url: https://github.com/catppuccin/github-readme-tech-stack
   current-maintainers: [sakkke]
+- name: gitkraken
+  url: https://github.com/catppuccin/gitkraken
+  current-maintainers: [Askerad, Paracetamol56]
 - name: gitui
   url: https://github.com/catppuccin/gitui
   current-maintainers: [BlueFalconHD]
@@ -1838,6 +1845,13 @@ ports:
   icon: github
   key: github-readme-tech-stack
   repository: github-readme-tech-stack
+- name: GitKraken
+  categories: [productivity, development]
+  platform: [linux, macos, windows]
+  color: teal
+  icon: gitkraken
+  key: gitkraken
+  repository: gitkraken
 - name: GitUI
   categories: [cli]
   platform: [linux, macos]
