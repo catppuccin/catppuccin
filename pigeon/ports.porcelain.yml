@@ -2253,6 +2253,8 @@ ports:
     current-maintainers:
     - username: walshyb
       url: https://github.com/walshyb
+    - username: atticus-sullivan
+      url: https://github.com/atticus-sullivan
     past-maintainers: []
 - name: Lapce
   categories:
@@ -7616,6 +7618,8 @@ collaborators:
   url: https://github.com/asrvd
 - username: aszecsei
   url: https://github.com/aszecsei
+- username: atticus-sullivan
+  url: https://github.com/atticus-sullivan
 - username: auriafoxgirl
   name: Auria
   url: https://github.com/auriafoxgirl

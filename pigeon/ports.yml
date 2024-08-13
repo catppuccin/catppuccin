@@ -30,6 +30,8 @@ collaborators:
   url: https://github.com/asrvd
 - username: aszecsei
   url: https://github.com/aszecsei
+- username: atticus-sullivan
+  url: https://github.com/atticus-sullivan
 - username: auriafoxgirl
   name: Auria
   url: https://github.com/auriafoxgirl
@@ -862,7 +864,7 @@ repositories:
   current-maintainers: [Sourcastic]
 - name: latex
   url: https://github.com/catppuccin/latex
-  current-maintainers: [walshyb]
+  current-maintainers: [walshyb, atticus-sullivan]
 - name: lapce
   url: https://github.com/catppuccin/lapce
   current-maintainers: [ghishadow]
