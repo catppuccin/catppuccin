@@ -13,6 +13,8 @@ collaborators:
     url: https://github.com/AdalZanabria
   - &AlphaTechnolog
     url: https://github.com/AlphaTechnolog
+  - &Askerad
+    url: https://github.com/Askerad
   - &unseen-ninja
     url: https://github.com/unseen-ninja
   - &AngelBerihuete
@@ -220,6 +222,8 @@ collaborators:
     url: https://github.com/ozwaldorf
   - &PanAeon
     url: https://github.com/PanAeon
+  - &Paracetamol56
+    url: https://github.com/Paracetamol56
   - &pocco81
     url: https://github.com/pocco81
   - &prateektade
@@ -850,6 +854,13 @@ ports:
     color: text
     icon: github
     current-maintainers: [*sakkke]
+  gitkraken:
+    name: GitKraken
+    categories: [productivity, development]
+    platform: [linux, macos, windows]
+    color: teal
+    icon: gitkraken
+    current-maintainers: [*Askerad, *Paracetamol56]
   gitui:
     name: GitUI
     categories: [cli]
