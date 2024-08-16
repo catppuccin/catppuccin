@@ -409,9 +409,6 @@ repositories:
   url: https://github.com/catppuccin/userstyles/tree/main/styles/startpage
   current-maintainers: []
   past-maintainers: [bartlibert]
-- name: skiff
-  url: https://github.com/catppuccin/userstyles/tree/main/styles/skiff
-  current-maintainers: [coopw1]
 - name: stylus
   url: https://github.com/catppuccin/userstyles/tree/main/styles/stylus
   current-maintainers: [GitMuslim]
@@ -949,11 +946,6 @@ ports:
   repository: startpage
   categories: [search_engine, userstyle]
   color: lavender
-- name: Skiff
-  key: skiff
-  repository: skiff
-  categories: [email_client, productivity, userstyle]
-  color: maroon
 - name: Stylus
   key: stylus
   repository: stylus
