@@ -1251,6 +1251,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Linear](https://github.com/catppuccin/linear)
 - [Microsoft PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
 - [Microsoft Word](https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word)
+- [Miniflux](https://github.com/catppuccin/miniflux)
 - [OBS Studio](https://github.com/catppuccin/obs)
 - [openmediavault](https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault)
 - [Pomotroid](https://github.com/catppuccin/pomotroid)
@@ -1274,7 +1275,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Mailspring](https://github.com/catppuccin/mailspring)
 - [Migadu Webmail](https://github.com/catppuccin/userstyles/tree/main/styles/migadu-webmail)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
-- [Skiff](https://github.com/catppuccin/userstyles/tree/main/styles/skiff)
 - [Thunderbird](https://github.com/catppuccin/thunderbird)
 - [Tuta](https://github.com/catppuccin/userstyles/tree/main/styles/tuta)
 
