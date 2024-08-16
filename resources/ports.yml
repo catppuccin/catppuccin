@@ -173,6 +173,8 @@ collaborators:
     url: https://github.com/MAHcodes
   - &mainrs
     url: https://github.com/mainrs
+  - &mark-pitblado
+    url: https://github.com/mark-pitblado
   - &MatthiasPortzel
     url: https://github.com/MatthiasPortzel
   - &mbeckrich
@@ -1260,6 +1262,12 @@ ports:
     icon: minecraft.svg
     current-maintainers: [*JustLetterV]
     past-maintainers: [*Aurn1ox]
+  miniflux:
+    name: Miniflux
+    categories: [productivity]
+    platform: [linux, macos, windows]
+    color: text
+    current-maintainers: [*mark-pitblado]
   mirc:
     name: mIRC
     categories: [social_networking]
