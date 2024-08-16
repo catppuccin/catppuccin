@@ -2574,6 +2574,23 @@ ports:
     past-maintainers:
     - username: Aurn1ox
       url: https://github.com/Aurn1ox
+- name: Miniflux
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: text
+  key: miniflux
+  repository:
+    name: miniflux
+    url: https://github.com/catppuccin/miniflux
+    current-maintainers:
+    - username: mark-pitblado
+      url: https://github.com/mark-pitblado
+    past-maintainers: []
 - name: mIRC
   categories:
   - key: social_networking
@@ -7121,31 +7138,6 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: lavender
-- name: Skiff
-  key: skiff
-  repository:
-    name: skiff
-    url: https://github.com/catppuccin/userstyles/tree/main/styles/skiff
-    current-maintainers:
-    - username: coopw1
-      name: coopw
-      url: https://github.com/coopw1
-    past-maintainers: []
-  categories:
-  - key: email_client
-    name: Email Clients
-    description: Applications related to sending and receiving email.
-    emoji: 💌
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
-  - key: userstyle
-    name: Userstyles
-    description: Modified CSS files that can be applied to a website.
-    emoji: 🖌️
-  color: maroon
 - name: Stylus
   key: stylus
   repository:
@@ -7761,6 +7753,8 @@ collaborators:
   url: https://github.com/MAHcodes
 - username: mainrs
   url: https://github.com/mainrs
+- username: mark-pitblado
+  url: https://github.com/mark-pitblado
 - username: MatthiasPortzel
   url: https://github.com/MatthiasPortzel
 - username: mbeckrich
