@@ -173,6 +173,8 @@ collaborators:
     url: https://github.com/MAHcodes
   - username: mainrs
     url: https://github.com/mainrs
+  - username: mark-pitblado
+    url: https://github.com/mark-pitblado
   - username: MatthiasPortzel
     url: https://github.com/MatthiasPortzel
   - username: mbeckrich
@@ -1037,6 +1039,9 @@ repositories:
     url: https://github.com/catppuccin/minecraft
     current-maintainers: [JustLetterV]
     past-maintainers: [Aurn1ox]
+  - name: miniflux
+    url: https://github.com/catppuccin/miniflux
+    current-maintainers: [mark-pitblado]
   - name: mirc
     url: https://github.com/catppuccin/mirc
     current-maintainers: [lemon-sh]
@@ -1745,9 +1750,6 @@ repositories:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/startpage
     current-maintainers: []
     past-maintainers: [bartlibert]
-  - name: skiff
-    url: https://github.com/catppuccin/userstyles/tree/main/styles/skiff
-    current-maintainers: [coopw1]
   - name: stylus
     url: https://github.com/catppuccin/userstyles/tree/main/styles/stylus
     current-maintainers: [GitMuslim]
@@ -2678,6 +2680,12 @@ ports:
     icon: minecraft.svg
     key: minecraft
     repository: minecraft
+  - name: Miniflux
+    categories: [productivity]
+    platform: [linux, macos, windows]
+    color: text
+    key: miniflux
+    repository: miniflux
   - name: mIRC
     categories: [social_networking]
     platform: [windows]
@@ -4025,11 +4033,6 @@ ports:
     repository: startpage
     categories: [search_engine, userstyle]
     color: lavender
-  - name: Skiff
-    key: skiff
-    repository: skiff
-    categories: [email_client, productivity, userstyle]
-    color: maroon
   - name: Stylus
     key: stylus
     repository: stylus
