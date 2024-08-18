@@ -723,7 +723,7 @@ ports:
     categories: [application_launcher, system]
     platform: [windows]
     color: sapphire
-    current-maintainers: []
+    current-maintainers: [*uncenter]
     past-maintainers: [*Syndrizzle]
   fluentterminal:
     name: Fluent Terminal
