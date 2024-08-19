@@ -198,7 +198,7 @@
   <tr>
     <td>Selection Background</td>
     <td>
-      Overlay 2<br>
+      Overlay 2 or accent color<br>
       <strong>20% - 30% Opacity</strong>
     </td>
     <td>
