@@ -672,7 +672,7 @@ repositories:
   current-maintainers: [skinatro]
 - name: flow-launcher
   url: https://github.com/catppuccin/flow-launcher
-  current-maintainers: []
+  current-maintainers: [uncenter]
   past-maintainers: [Syndrizzle]
 - name: fluentterminal
   url: https://github.com/catppuccin/fluentterminal
