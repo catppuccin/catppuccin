@@ -136,6 +136,8 @@ collaborators:
   url: https://github.com/jh-devv
 - username: stellophiliac
   url: https://github.com/stellophiliac
+- username: NeonGamerBot-QK
+  url: https://github.com/NeonGamerBot-QK
 categories:
 - key: userstyle
   name: Userstyles
@@ -344,6 +346,9 @@ repositories:
 - name: npm
   url: https://github.com/catppuccin/userstyles/tree/main/styles/npm
   current-maintainers: [uncenter]
+- name: ollama
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/ollama
+  current-maintainers: [NeonGamerBot-QK]
 - name: openmediavault
   url: https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault
   current-maintainers: [Gandalf-the-Blue]
@@ -832,6 +837,11 @@ ports:
   categories: [development, userstyle]
   icon: npm
   color: red
+- name: Ollama
+  key: ollama
+  repository: ollama
+  categories: [development, userstyle]
+  color: text
 - name: openmediavault
   key: openmediavault
   repository: openmediavault
