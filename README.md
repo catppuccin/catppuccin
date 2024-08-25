@@ -972,6 +972,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
+- [Ollama](https://github.com/catppuccin/userstyles/tree/main/styles/ollama)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
