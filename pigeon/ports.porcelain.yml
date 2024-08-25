@@ -1080,7 +1080,10 @@ ports:
   repository:
     name: flow-launcher
     url: https://github.com/catppuccin/flow-launcher
-    current-maintainers: []
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
     past-maintainers:
     - username: Syndrizzle
       url: https://github.com/Syndrizzle
@@ -6648,6 +6651,25 @@ ports:
     emoji: 🖌️
   icon: npm
   color: red
+- name: Ollama
+  key: ollama
+  repository:
+    name: ollama
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/ollama
+    current-maintainers:
+    - username: NeonGamerBot-QK
+      url: https://github.com/NeonGamerBot-QK
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: text
 - name: openmediavault
   key: openmediavault
   repository:
@@ -8054,6 +8076,8 @@ collaborators:
   url: https://github.com/jh-devv
 - username: stellophiliac
   url: https://github.com/stellophiliac
+- username: NeonGamerBot-QK
+  url: https://github.com/NeonGamerBot-QK
 categories:
 - key: code_editor
   name: Code Editors & IDEs
