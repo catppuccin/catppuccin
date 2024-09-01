@@ -6,7 +6,7 @@
 </h3>
 
 <h6 align="center">
-  <a href="http://ipa-reader.xyz/?text=%CB%8Ck%C3%A6tp%CA%8A%CB%88t%CA%83i%CB%90n">/ˌkætpʊˈtʃiːn/</a>
+  <a href="https://catppuccin.com/pronunciation.mp3">/ˌkætpʊˈtʃiːn/</a>
 </h6>
 
 <h6 align="center">
