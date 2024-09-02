@@ -1284,6 +1284,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🕹 Game Development</summary>
 
 - [Godot](https://github.com/catppuccin/godot)
+- [NameMC](https://github.com/catppuccin/userstyles/tree/main/styles/namemc)
 - [Unreal Engine](https://github.com/catppuccin/unreal-engine)
 
 </details>
@@ -1302,6 +1303,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Logseq](https://github.com/catppuccin/logseq)
 - [Obsidian](https://github.com/catppuccin/obsidian)
 - [RemNote](https://github.com/catppuccin/remnote)
+- [The Archive](https://github.com/catppuccin/the-archive)
 - [Trilium Notes](https://github.com/catppuccin/trilium-notes)
 
 </details>
