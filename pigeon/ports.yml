@@ -1198,6 +1198,9 @@ repositories:
   url: https://github.com/catppuccin/termux
   current-maintainers: []
   past-maintainers: [AdalZanabria]
+- name: the-archive
+  url: https://github.com/catppuccin/the-archive
+  current-maintainers: [rogeruiz]
 - name: thelounge
   url: https://github.com/catppuccin/thelounge
   current-maintainers: []
@@ -2788,6 +2791,12 @@ ports:
   color: text
   key: termux
   repository: termux
+- name: The Archive
+  categories: [note_taking]
+  platform: [macos]
+  color: yellow
+  key: the-archive
+  repository: the-archive
 - name: The Lounge
   categories: [social_networking]
   platform: agnostic
