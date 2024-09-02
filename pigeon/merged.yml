@@ -1322,6 +1322,9 @@ repositories:
     url: https://github.com/catppuccin/termux
     current-maintainers: []
     past-maintainers: [AdalZanabria]
+  - name: the-archive
+    url: https://github.com/catppuccin/the-archive
+    current-maintainers: [rogeruiz]
   - name: thelounge
     url: https://github.com/catppuccin/thelounge
     current-maintainers: []
@@ -1674,6 +1677,9 @@ repositories:
   - name: minesweeper
     url: https://github.com/catppuccin/userstyles/tree/main/styles/minesweeper
     current-maintainers: [GitMuslim]
+  - name: namemc
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/namemc
+    current-maintainers: [Nyatalieeee]
   - name: nitter
     url: https://github.com/catppuccin/userstyles/tree/main/styles/nitter
     current-maintainers: [AnubisNekhet]
@@ -3232,6 +3238,12 @@ ports:
     color: text
     key: termux
     repository: termux
+  - name: The Archive
+    categories: [note_taking]
+    platform: [macos]
+    color: yellow
+    key: the-archive
+    repository: the-archive
   - name: The Lounge
     categories: [social_networking]
     platform: agnostic
@@ -3900,6 +3912,12 @@ ports:
     repository: minesweeper
     categories: [game, userstyle]
     color: text
+  - name: NameMC
+    key: namemc
+    repository: namemc
+    categories: [game_development, analytics, discussion_forum, userstyle]
+    icon: namemc
+    color: blue
   - name: Nitter
     key: nitter
     repository: nitter
