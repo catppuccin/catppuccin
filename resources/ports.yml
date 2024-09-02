@@ -164,6 +164,8 @@ collaborators:
     url: https://github.com/lokesh-krishna
   - &LudoPinelli
     url: https://github.com/LudoPinelli
+  - &Lichthagel
+    url: https://github.com/Lichthagel
   - &Liumingxun
     name: Lime
     url: https://github.com/Liumingxun
@@ -2039,6 +2041,12 @@ ports:
         color: blue
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
     current-maintainers: [*prazdevs]
+  vscord:
+    name: VSCord
+    categories: [development, analytics]
+    platform: agnostic
+    color: lavender
+    current-maintainers: [*Lichthagel]
   warp:
     name: Warp
     categories: [terminal]
