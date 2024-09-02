@@ -4164,6 +4164,22 @@ ports:
     past-maintainers:
     - username: AdalZanabria
       url: https://github.com/AdalZanabria
+- name: The Archive
+  categories:
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
+  platform: [macos]
+  color: yellow
+  key: the-archive
+  repository:
+    name: the-archive
+    url: https://github.com/catppuccin/the-archive
+    current-maintainers:
+    - username: rogeruiz
+      url: https://github.com/rogeruiz
+    past-maintainers: []
 - name: The Lounge
   categories:
   - key: social_networking
@@ -6552,6 +6568,37 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: text
+- name: NameMC
+  key: namemc
+  repository:
+    name: namemc
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/namemc
+    current-maintainers:
+    - username: Nyatalieeee
+      name: Natalie Raine
+      url: https://github.com/Nyatalieeee
+    past-maintainers: []
+  categories:
+  - key: game_development
+    name: Game Development
+    description: Applications that are designed for creating, designing and building
+      video games.
+    emoji: 🕹
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: namemc
+  color: blue
 - name: Nitter
   key: nitter
   repository:
