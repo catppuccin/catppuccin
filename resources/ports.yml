@@ -2265,7 +2265,7 @@ categories:
   - key: desktop_environment
     name: Desktop Environments
     description: Graphical User Interfaces providing a complete experience for interacting with the operating system.
-    emoji: 🖥
+    emoji: 🖥️
   - key: window_manager
     name: Window Managers
     description: Applications that control the placement and appearance of windows in a GUI.
@@ -2277,7 +2277,7 @@ categories:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: browser
     name: Browsers
     description: Applications for accessing and navigating the World Wide Web.
@@ -2317,7 +2317,7 @@ categories:
   - key: game_development
     name: Game Development
     description: Applications that are designed for creating, designing and building video games.
-    emoji: 🕹
+    emoji: 🕹️
   - key: 3d_modelling
     name: 3D Modelling
     description: Applications that are designed to create and manipulate objects in three-dimensional space.
