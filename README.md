@@ -1107,7 +1107,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>🖥 Desktop Environments</summary>
+<summary>🖥️ Desktop Environments</summary>
 
 - [COSMIC Desktop](https://github.com/catppuccin/cosmic-desktop)
 - [KDE](https://github.com/catppuccin/kde)
@@ -1135,7 +1135,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>🗃 Application Launchers</summary>
+<summary>🗃️ Application Launchers</summary>
 
 - [Alfred](https://github.com/catppuccin/alfred)
 - [bemenu](https://github.com/catppuccin/bemenu)
@@ -1282,7 +1282,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>🕹 Game Development</summary>
+<summary>🕹️ Game Development</summary>
 
 - [Godot](https://github.com/catppuccin/godot)
 - [NameMC](https://github.com/catppuccin/userstyles/tree/main/styles/namemc)
