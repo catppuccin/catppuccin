@@ -24,8 +24,9 @@ collaborators:
   - username: AnubisNekhet
     name: Anubis
     url: https://github.com/AnubisNekhet
-  - username: ShyyLexi
-    url: https://github.com/ShyyLexi
+  - username: AwA-VR
+    name: AwA
+    url: https://github.com/AwA-VR
   - username: asrvd
     url: https://github.com/asrvd
   - username: aszecsei
@@ -164,6 +165,8 @@ collaborators:
     url: https://github.com/lokesh-krishna
   - username: LudoPinelli
     url: https://github.com/LudoPinelli
+  - username: Lichthagel
+    url: https://github.com/Lichthagel
   - username: Liumingxun
     name: Lime
     url: https://github.com/Liumingxun
@@ -512,7 +515,7 @@ categories:
   - key: desktop_environment
     name: Desktop Environments
     description: Graphical User Interfaces providing a complete experience for interacting with the operating system.
-    emoji: "\U0001F5A5"
+    emoji: "\U0001F5A5️"
   - key: window_manager
     name: Window Managers
     description: Applications that control the placement and appearance of windows in a GUI.
@@ -524,7 +527,7 @@ categories:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: "\U0001F5C3"
+    emoji: "\U0001F5C3️"
   - key: browser
     name: Browsers
     description: Applications for accessing and navigating the World Wide Web.
@@ -564,7 +567,7 @@ categories:
   - key: game_development
     name: Game Development
     description: Applications that are designed for creating, designing and building video games.
-    emoji: "\U0001F579"
+    emoji: "\U0001F579️"
   - key: 3d_modelling
     name: 3D Modelling
     description: Applications that are designed to create and manipulate objects in three-dimensional space.
@@ -781,7 +784,7 @@ repositories:
     past-maintainers: [ayamir]
   - name: firefox
     url: https://github.com/catppuccin/firefox
-    current-maintainers: [isabelincorp, ShyyLexi]
+    current-maintainers: [isabelincorp, AwA-VR]
   - name: fish
     url: https://github.com/catppuccin/fish
     current-maintainers: [ghostx31, backwardspy]
@@ -1405,6 +1408,9 @@ repositories:
   - name: vscode-icons
     url: https://github.com/catppuccin/vscode-icons
     current-maintainers: [prazdevs]
+  - name: vscord
+    url: https://github.com/catppuccin/vscord
+    current-maintainers: [Lichthagel]
   - name: warp
     url: https://github.com/catppuccin/warp
     current-maintainers: []
@@ -1597,6 +1603,9 @@ repositories:
   - name: hacker-news
     url: https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news
     current-maintainers: [lucasmelin]
+  - name: have-i-been-pwned
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/have-i-been-pwned
+    current-maintainers: [trinkey]
   - name: holodex
     url: https://github.com/catppuccin/userstyles/tree/main/styles/holodex
     current-maintainers: [Guaxinim5573]
@@ -3427,6 +3436,12 @@ ports:
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
     key: vscode-icons
     repository: vscode-icons
+  - name: VSCord
+    categories: [development, analytics]
+    platform: agnostic
+    color: lavender
+    key: vscord
+    repository: vscord
   - name: Warp
     categories: [terminal]
     platform: [macos]
@@ -3765,6 +3780,11 @@ ports:
     categories: [discussion_forum, entertainment, social_networking, userstyle]
     icon: ycombinator
     color: peach
+  - name: Have I Been Pwned
+    key: have-i-been-pwned
+    repository: have-i-been-pwned
+    categories: [productivity, userstyle]
+    color: blue
   - name: Holodex
     key: holodex
     repository: holodex
