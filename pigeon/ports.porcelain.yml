@@ -52,7 +52,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: productivity
     name: Productivity
     description: Applications that make certain tasks or activities more organised
@@ -220,7 +220,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -594,7 +594,7 @@ ports:
     name: Desktop Environments
     description: Graphical User Interfaces providing a complete experience for interacting
       with the operating system.
-    emoji: 🖥
+    emoji: 🖥️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -768,7 +768,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -987,8 +987,9 @@ ports:
     current-maintainers:
     - username: isabelincorp
       url: https://github.com/isabelincorp
-    - username: ShyyLexi
-      url: https://github.com/ShyyLexi
+    - username: AwA-VR
+      name: AwA
+      url: https://github.com/AwA-VR
     past-maintainers: []
 - name: fish shell
   categories:
@@ -1069,7 +1070,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -1208,7 +1209,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -1246,7 +1247,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -1609,7 +1610,7 @@ ports:
     name: Game Development
     description: Applications that are designed for creating, designing and building
       video games.
-    emoji: 🕹
+    emoji: 🕹️
   platform: [linux, macos, windows]
   color: blue
   icon: godotengine
@@ -1697,7 +1698,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   platform: [linux, macos, windows]
   color: sky
   key: heroic
@@ -2167,7 +2168,7 @@ ports:
     name: Desktop Environments
     description: Graphical User Interfaces providing a complete experience for interacting
       with the operating system.
-    emoji: 🖥
+    emoji: 🖥️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -2373,7 +2374,7 @@ ports:
     name: Desktop Environments
     description: Graphical User Interfaces providing a complete experience for interacting
       with the operating system.
-    emoji: 🖥
+    emoji: 🖥️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -3051,7 +3052,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -3166,7 +3167,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   platform: [linux, macos, windows]
   color: text
   key: prismlauncher
@@ -3331,7 +3332,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: productivity
     name: Productivity
     description: Applications that make certain tasks or activities more organised
@@ -3391,7 +3392,7 @@ ports:
     name: Desktop Environments
     description: Graphical User Interfaces providing a complete experience for interacting
       with the operating system.
-    emoji: 🖥
+    emoji: 🖥️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -3486,7 +3487,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -4284,7 +4285,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -4381,7 +4382,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -4424,7 +4425,7 @@ ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: system
     name: System
     description: Applications that are close to the operating system.
@@ -4465,7 +4466,7 @@ ports:
     name: Game Development
     description: Applications that are designed for creating, designing and building
       video games.
-    emoji: 🕹
+    emoji: 🕹️
   platform: [linux, macos, windows]
   icon: unrealengine
   color: blue
@@ -4674,6 +4675,26 @@ ports:
     current-maintainers:
     - username: prazdevs
       url: https://github.com/prazdevs
+    past-maintainers: []
+- name: VSCord
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  platform: agnostic
+  color: lavender
+  key: vscord
+  repository:
+    name: vscord
+    url: https://github.com/catppuccin/vscord
+    current-maintainers:
+    - username: Lichthagel
+      url: https://github.com/Lichthagel
     past-maintainers: []
 - name: Warp
   categories:
@@ -5919,6 +5940,26 @@ ports:
     emoji: 🖌️
   icon: ycombinator
   color: peach
+- name: Have I Been Pwned
+  key: have-i-been-pwned
+  repository:
+    name: have-i-been-pwned
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/have-i-been-pwned
+    current-maintainers:
+    - username: trinkey
+      url: https://github.com/trinkey
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
 - name: Holodex
   key: holodex
   repository:
@@ -6583,7 +6624,7 @@ ports:
     name: Game Development
     description: Applications that are designed for creating, designing and building
       video games.
-    emoji: 🕹
+    emoji: 🕹️
   - key: analytics
     name: Analytics
     description: Applications related to visualizations and analytics of data.
@@ -7673,8 +7714,9 @@ collaborators:
 - username: AnubisNekhet
   name: Anubis
   url: https://github.com/AnubisNekhet
-- username: ShyyLexi
-  url: https://github.com/ShyyLexi
+- username: AwA-VR
+  name: AwA
+  url: https://github.com/AwA-VR
 - username: asrvd
   url: https://github.com/asrvd
 - username: aszecsei
@@ -7813,6 +7855,8 @@ collaborators:
   url: https://github.com/lokesh-krishna
 - username: LudoPinelli
   url: https://github.com/LudoPinelli
+- username: Lichthagel
+  url: https://github.com/Lichthagel
 - username: Liumingxun
   name: Lime
   url: https://github.com/Liumingxun
@@ -8167,7 +8211,7 @@ categories:
   name: Desktop Environments
   description: Graphical User Interfaces providing a complete experience for interacting
     with the operating system.
-  emoji: 🖥
+  emoji: 🖥️
 - key: window_manager
   name: Window Managers
   description: Applications that control the placement and appearance of windows in
@@ -8181,7 +8225,7 @@ categories:
 - key: application_launcher
   name: Application Launchers
   description: Tools that provide a quick and easy way for users to launch applications.
-  emoji: 🗃
+  emoji: 🗃️
 - key: browser
   name: Browsers
   description: Applications for accessing and navigating the World Wide Web.
@@ -8227,7 +8271,7 @@ categories:
   name: Game Development
   description: Applications that are designed for creating, designing and building
     video games.
-  emoji: 🕹
+  emoji: 🕹️
 - key: 3d_modelling
   name: 3D Modelling
   description: Applications that are designed to create and manipulate objects in
@@ -8407,7 +8451,7 @@ archived-ports:
   - key: application_launcher
     name: Application Launchers
     description: Tools that provide a quick and easy way for users to launch applications.
-    emoji: 🗃
+    emoji: 🗃️
   - key: entertainment
     name: Entertainment
     description: Applications designed to entertain the user.
