@@ -253,6 +253,9 @@ repositories:
 - name: hacker-news
   url: https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news
   current-maintainers: [lucasmelin]
+- name: have-i-been-pwned
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/have-i-been-pwned
+  current-maintainers: [trinkey]
 - name: holodex
   url: https://github.com/catppuccin/userstyles/tree/main/styles/holodex
   current-maintainers: [Guaxinim5573]
@@ -669,6 +672,11 @@ ports:
   categories: [discussion_forum, entertainment, social_networking, userstyle]
   icon: ycombinator
   color: peach
+- name: Have I Been Pwned
+  key: have-i-been-pwned
+  repository: have-i-been-pwned
+  categories: [productivity, userstyle]
+  color: blue
 - name: Holodex
   key: holodex
   repository: holodex
