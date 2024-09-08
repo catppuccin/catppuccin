@@ -720,6 +720,9 @@ repositories:
 - name: gh-dash
   url: https://github.com/catppuccin/gh-dash
   current-maintainers: [isabelroses]
+- name: ghostty
+  url: https://github.com/catppuccin/ghostty
+  current-maintainers: [uncenter]
 - name: ghostwriter
   url: https://github.com/catppuccin/ghostwriter
   current-maintainers: [bagelwaffle]
@@ -1814,6 +1817,12 @@ ports:
   color: text
   key: gh-dash
   repository: gh-dash
+- name: Ghostty
+  categories: [terminal]
+  platform: [linux, macos, windows]
+  color: blue
+  key: ghostty
+  repository: ghostty
 - name: ghostwriter
   categories: [note_taking, productivity]
   platform: [linux, macos, windows]

@@ -1334,6 +1334,24 @@ ports:
       name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
+- name: Ghostty
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  platform: [linux, macos, windows]
+  color: blue
+  key: ghostty
+  repository:
+    name: ghostty
+    url: https://github.com/catppuccin/ghostty
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
 - name: ghostwriter
   categories:
   - key: note_taking
