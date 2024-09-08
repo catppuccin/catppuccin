@@ -812,6 +812,12 @@ ports:
     platform: [linux, macos, windows]
     color: text
     current-maintainers: [*isabelroses]
+  ghostty:
+    name: Ghostty
+    categories: [terminal]
+    platform: [linux, macos, windows]
+    color: blue
+    current-maintainers: [*uncenter]
   ghostwriter:
     name: ghostwriter
     categories: [note_taking, productivity]
