@@ -382,7 +382,7 @@ ports:
   anki:
     name: Anki
     categories: [education, productivity]
-    platform: agnostic
+    platform: [agnostic]
     icon: anki
     color: blue
     current-maintainers: [*AnubisNekhet]
@@ -406,7 +406,7 @@ ports:
   base16:
     name: Base16
     categories: [system]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     current-maintainers: []
     past-maintainers: [*schoblaska]
@@ -429,7 +429,7 @@ ports:
     categories: [productivity]
     icon: bento
     color: lavender
-    platform: agnostic
+    platform: [agnostic]
     current-maintainers: [*BlueFalconHD]
   binary-ninja:
     name: Binary Ninja
@@ -529,7 +529,7 @@ ports:
     categories: [code_editor]
     color: red
     icon: codemirror
-    platform: agnostic
+    platform: [agnostic]
     current-maintainers: [*uncenter]
     past-maintainers: [*griimick]
   conky:
@@ -575,7 +575,7 @@ ports:
   daisyui:
     name: daisyUI
     categories: [development]
-    platform: agnostic
+    platform: [agnostic]
     color: mauve
     icon: daisyui
     current-maintainers: [*Liumingxun]
@@ -587,7 +587,7 @@ ports:
   dark-reader:
     name: Dark Reader
     categories: [browser_extension]
-    platform: agnostic
+    platform: [agnostic]
     icon: darkreader
     color: teal
     current-maintainers: [*sgoudham]
@@ -661,7 +661,7 @@ ports:
   elixir:
     name: Elixir
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: lavender
     icon: elixir
     current-maintainers: [*MikaelFangel]
@@ -704,7 +704,7 @@ ports:
   fitbit:
     name: Fitbit
     categories: [health_and_fitness]
-    platform: agnostic
+    platform: [agnostic]
     color: teal
     icon: fitbit
     current-maintainers: [*lighttigerXIV]
@@ -737,7 +737,7 @@ ports:
   flutter:
     name: Flutter
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     icon: flutter
     current-maintainers: [*useEffects]
@@ -827,13 +827,13 @@ ports:
   giscus:
     name: Giscus
     categories: [discussion_forum]
-    platform: agnostic
+    platform: [agnostic]
     color: sky
     current-maintainers: [*uncenter]
   gitea:
     name: Gitea
     categories: [productivity]
-    platform: agnostic
+    platform: [agnostic]
     color: green
     icon: gitea
     current-maintainers: []
@@ -841,14 +841,14 @@ ports:
   github-file-explorer-icons:
     name: GitHub File Explorer Icons
     categories: [browser_extension]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     icon: github
     current-maintainers: [*uncenter]
   github-readme-stats:
     name: GitHub Readme Stats
     categories: [analytics]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     icon: github
     current-maintainers: [*sgoudham]
@@ -856,14 +856,14 @@ ports:
   github-readme-streak-stats:
     name: GitHub Readme Streak Stats
     categories: [analytics]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     icon: github
     current-maintainers: [*abhishekmj303]
   github-readme-tech-stack:
     name: GitHub Readme Tech Stack
     categories: [analytics]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     icon: github
     current-maintainers: [*sakkke]
@@ -897,7 +897,7 @@ ports:
   gleam:
     name: Gleam
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: pink
     current-maintainers: [*MAHcodes]
   gnome-terminal:
@@ -911,7 +911,7 @@ ports:
   go:
     name: Go
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: sapphire
     icon: go
     current-maintainers: [*caarlos0]
@@ -959,7 +959,7 @@ ports:
   highlightjs:
     name: highlight.js
     categories: [development]
-    platform: agnostic
+    platform: [agnostic]
     color: maroon
     links:
       - name: npm
@@ -971,7 +971,7 @@ ports:
   home-assistant:
     name: Home Assistant
     categories: [productivity]
-    platform: agnostic
+    platform: [agnostic]
     icon: homeassistant
     color: blue
     current-maintainers: [*fapfaff]
@@ -1060,7 +1060,7 @@ ports:
   java:
     name: Java
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: maroon
     current-maintainers: [*sgoudham, *nullishamy]
   jetbrains:
@@ -1098,7 +1098,7 @@ ports:
   jupyterlab:
     name: JupyterLab
     categories: [development, analytics]
-    platform: agnostic
+    platform: [agnostic]
     color: peach
     icon: jupyter
     current-maintainers: [*gabrielmagno]
@@ -1154,7 +1154,7 @@ ports:
   latex:
     name: LaTeX
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     icon: latex
     color: teal
     current-maintainers: [*walshyb, *atticus-sullivan]
@@ -1180,7 +1180,7 @@ ports:
   linear:
     name: Linear
     categories: [productivity]
-    platform: agnostic
+    platform: [agnostic]
     color: lavender
     icon: linear
     current-maintainers: [*kkrypt0nn]
@@ -1194,7 +1194,7 @@ ports:
   lua:
     name: Lua
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     icon: lua
     current-maintainers: [*cattokomo]
@@ -1230,14 +1230,14 @@ ports:
   matplotlib:
     name: Matplotlib
     categories: [development, analytics]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     alias: python
     current-maintainers: [*backwardspy, *brambozz]
   mattermost:
     name: Mattermost
     categories: [social_networking]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     icon: mattermost
     current-maintainers: []
@@ -1251,7 +1251,7 @@ ports:
   mdBook:
     name: mdBook
     categories: [development]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     icon: mdbook
     current-maintainers: [*sgoudham]
@@ -1286,7 +1286,7 @@ ports:
   misskey:
     name: Misskey
     categories: [social_networking]
-    platform: agnostic
+    platform: [agnostic]
     color: green
     icon: misskey
     upstreamed: true
@@ -1306,7 +1306,7 @@ ports:
   monkeytype:
     name: Monkeytype
     categories: [entertainment]
-    platform: agnostic
+    platform: [agnostic]
     color: yellow
     icon: monkeytype
     current-maintainers: []
@@ -1345,14 +1345,14 @@ ports:
   nighttab:
     name: nightTab
     categories: [browser_extension]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     current-maintainers: []
     past-maintainers: [*justTOBBI]
   nim:
     name: Nim
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: yellow
     icon: nim
     current-maintainers: [*daylinmorgan]
@@ -1432,7 +1432,7 @@ ports:
   pantone:
     name: Pantone
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     current-maintainers: [*BlueFalconHD]
   papirus-folders:
@@ -1479,14 +1479,14 @@ ports:
   powershell:
     name: PowerShell
     categories: [cli]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     icon: powershell
     current-maintainers: [*JK-Flip-Flop96]
   prismjs:
     name: Prism.js
     categories: [development]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     current-maintainers: [*uncenter]
   prismlauncher:
@@ -1513,7 +1513,7 @@ ports:
   python:
     name: Python
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     icon: python
     current-maintainers: [*backwardspy, *brambozz]
@@ -1582,14 +1582,14 @@ ports:
   remnote:
     name: RemNote
     categories: [note_taking]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     current-maintainers: [*coldenate]
     past-maintainers: [*justTOBBI]
   replit:
     name: Replit
     categories: [code_editor]
-    platform: agnostic
+    platform: [agnostic]
     color: peach
     icon: replit
     current-maintainers: []
@@ -1625,7 +1625,7 @@ ports:
   rust:
     name: Rust
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     icon: rust
     current-maintainers: [*backwardspy]
@@ -1659,7 +1659,7 @@ ports:
   serenity-os:
     name: SerenityOS
     categories: [system]
-    platform: agnostic
+    platform: [agnostic]
     color: red
     current-maintainers: [*nullishamy]
   sharex:
@@ -1672,7 +1672,7 @@ ports:
   shiki:
     name: Shiki
     categories: [development]
-    platform: agnostic
+    platform: [agnostic]
     url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
     color: sapphire
     current-maintainers: [*backwardspy]
@@ -1692,7 +1692,7 @@ ports:
   slack:
     name: Slack
     categories: [social_networking]
-    platform: agnostic
+    platform: [agnostic]
     color: mauve
     icon: slack
     current-maintainers: [*sgoudham]
@@ -1762,7 +1762,7 @@ ports:
   stable-diffusion-web-ui:
     name: Stable Diffusion WebUI
     categories: [artificial_intelligence, entertainment]
-    platform: agnostic
+    platform: [agnostic]
     color: text
     current-maintainers: []
     past-maintainers: [*Kettukaa]
@@ -1818,7 +1818,7 @@ ports:
   tailwindcss:
     name: Tailwind CSS
     categories: [development]
-    platform: agnostic
+    platform: [agnostic]
     color: sky
     icon: tailwindcss
     links:
@@ -1831,7 +1831,7 @@ ports:
   telegram:
     name: Telegram
     categories: [social_networking]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     icon: telegram
     current-maintainers: [*isabelincorp]
@@ -1866,7 +1866,7 @@ ports:
   thelounge:
     name: The Lounge
     categories: [social_networking]
-    platform: agnostic
+    platform: [agnostic]
     color: peach
     current-maintainers: []
     past-maintainers: [*hyperreal64]
@@ -1874,7 +1874,7 @@ ports:
     name: theme.park
     categories: [entertainment]
     upstreamed: true
-    platform: agnostic
+    platform: [agnostic]
     color: teal
     current-maintainers: [*lewisakura]
   thunderbird:
@@ -1927,7 +1927,7 @@ ports:
   typst:
     name: Typst
     categories: [library, note_taking]
-    platform: agnostic
+    platform: [agnostic]
     icon: typst
     color: teal
     current-maintainers: [*TimeTravelPenguin]
@@ -1940,7 +1940,7 @@ ports:
   ui:
     name: UI
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     icon: react
     color: sky
     links:
@@ -1980,7 +1980,7 @@ ports:
   v:
     name: V
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: lavender
     icon: v
     current-maintainers: [*Delta456]
@@ -2001,7 +2001,7 @@ ports:
   vimium:
     name: Vimium
     categories: [browser_extension]
-    platform: agnostic
+    platform: [agnostic]
     color: green
     icon: vim
     current-maintainers: [*Sebagabones]
@@ -2064,7 +2064,7 @@ ports:
   vscord:
     name: VSCord
     categories: [development, analytics]
-    platform: agnostic
+    platform: [agnostic]
     color: lavender
     current-maintainers: [*Lichthagel]
   warp:
@@ -2094,7 +2094,7 @@ ports:
   whoogle:
     name: Whoogle
     categories: [search_engine]
-    platform: agnostic
+    platform: [agnostic]
     color: lavender
     current-maintainers: []
     past-maintainers: [*WitherCubes]
@@ -2162,7 +2162,7 @@ ports:
   youtubemusic:
     name: YouTube Music
     categories: [music]
-    platform: agnostic
+    platform: [agnostic]
     color: red
     icon: youtubemusic
     current-maintainers: [*kerichdev]
@@ -2225,20 +2225,20 @@ archived:
     name: Matplotlib
     reason: "The package is now included within catppuccin/python, therefore the catppuccin/matplotlib repository has been archived."
     categories: [development, analytics]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
   oldtwitter:
     name: OldTwitter
     reason: "Extension is unusable due to X/Twitter's extensive measures to limit third party modifications, this port could be revived."
     categories: [browser_extension, social_networking]
-    platform: agnostic
+    platform: [agnostic]
     icon: twitter
     color: blue
   sidebery:
     name: Sidebery
     reason: "Sidebery automatically takes in colours from the Firefox theme, this port is now redundant."
     categories: [browser_extension]
-    platform: agnostic
+    platform: [agnostic]
     color: text
   steam:
     name: Steam
@@ -2416,4 +2416,4 @@ showcases:
   - title: Reciper
     description: A simple, open-source recipe management app.
     link: https://github.com/judemont/reciper
-# yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
+# yaml-language-server: $schema=./ports.schema.json
