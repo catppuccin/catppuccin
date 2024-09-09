@@ -1483,6 +1483,12 @@ ports:
     color: blue
     icon: powershell
     current-maintainers: [*JK-Flip-Flop96]
+  prismjs:
+    name: Prism.js
+    categories: [development]
+    platform: agnostic
+    color: text
+    current-maintainers: [*uncenter]
   prismlauncher:
     name: Prism Launcher
     categories: [game, application_launcher]
