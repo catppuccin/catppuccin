@@ -974,6 +974,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [Ollama](https://github.com/catppuccin/userstyles/tree/main/styles/ollama)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
+- [Prism.js](https://github.com/catppuccin/prismjs)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
 - [Stack Overflow](https://github.com/catppuccin/userstyles/tree/main/styles/stack-overflow)
