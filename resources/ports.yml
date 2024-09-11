@@ -2018,6 +2018,13 @@ ports:
         color: blue
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.CatppuccinVS
     current-maintainers: [*djflan]
+  vitepress:
+    name: VitePress
+    categories: [development]
+    platform: agnostic
+    color: blue
+    icon: vitepress
+    current-maintainers: [*42Willow]
   vivaldi:
     name: Vivaldi
     categories: [browser]
