@@ -968,6 +968,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [iSH](https://github.com/catppuccin/ish)
 - [JupyterLab](https://github.com/catppuccin/jupyterlab)
 - [Keyoxide](https://github.com/catppuccin/userstyles/tree/main/styles/keyoxide)
+- [Learn X in Y Minutes](https://github.com/catppuccin/userstyles/tree/main/styles/learn-x-in-y-minutes)
 - [Matplotlib](https://github.com/catppuccin/python)
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
@@ -981,6 +982,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
 - [Vercel, Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
+- [VitePress](https://github.com/catppuccin/vitepress)
 - [VSCord](https://github.com/catppuccin/vscord)
 - [web.dev](https://github.com/catppuccin/userstyles/tree/main/styles/web.dev)
 
