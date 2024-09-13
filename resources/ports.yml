@@ -1898,7 +1898,7 @@ ports:
     platform: [linux, macos]
     color: green
     icon: tmux
-    current-maintainers: [*rogeruiz, *89iuv, *vdbe]
+    current-maintainers: [*rogeruiz, *89iuv, *vdbe, *kjnsn]
   tofi:
     name: Tofi
     categories: [application_launcher, system]
