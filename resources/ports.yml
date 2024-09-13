@@ -966,7 +966,7 @@ ports:
         icon: npm
         color: red
         url: https://www.npmjs.com/package/@catppuccin/highlightjs
-    current-maintainers: []
+    current-maintainers: [*uncenter]
     past-maintainers: [*nekowinston]
   home-assistant:
     name: Home Assistant
