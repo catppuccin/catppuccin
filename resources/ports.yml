@@ -285,6 +285,8 @@ collaborators:
     url: https://github.com/southqaw
   - &Sourcastic
     url: https://github.com/Sourcastic
+  - &stellophiliac
+    url: https://github.com/stellophiliac
   - &Stonks3141
     url: https://github.com/Stonks3141
   - &Syndrizzle
@@ -1918,6 +1920,13 @@ ports:
     platform: [linux]
     color: text
     current-maintainers: [*CallMeEchoCodes]
+  tumblr:
+    name: Tumblr
+    categories: [browser_extension, social_networking, photo_and_video]
+    platform: agnostic
+    icon: tumblr
+    color: blue
+    current-maintainers: [*stellophiliac]
   tym:
     name: tym
     categories: [terminal]
