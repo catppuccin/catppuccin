@@ -1410,7 +1410,8 @@ ports:
     platform: [linux, macos, windows]
     color: text
     icon: obsstudio
-    current-maintainers: [*Xurdejl]
+    current-maintainers: [*sgoudham]
+    past-maintainers: [*Xurdejl]
   obsidian:
     name: Obsidian
     categories: [note_taking]
@@ -1527,7 +1528,8 @@ ports:
     platform: [linux, macos, windows]
     color: blue
     icon: qbittorrent
-    current-maintainers: [*Xurdejl]
+    current-maintainers: [*sgoudham]
+    past-maintainers: [*Xurdejl]
   qt5ct:
     name: qt5ct
     categories: [system]
