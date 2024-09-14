@@ -151,6 +151,8 @@ collaborators:
     url: https://github.com/kerichdev
   - &Kettukaa
     url: https://github.com/Kettukaa
+  - &kjnsn
+    url: https://github.com/kjnsn
   - &kkrypt0nn
     url: https://github.com/kkrypt0nn
   - &lemon-sh
@@ -1900,7 +1902,7 @@ ports:
     platform: [linux, macos]
     color: green
     icon: tmux
-    current-maintainers: [*rogeruiz, *89iuv, *vdbe]
+    current-maintainers: [*rogeruiz, *89iuv, *vdbe, *kjnsn]
   tofi:
     name: Tofi
     categories: [application_launcher, system]
