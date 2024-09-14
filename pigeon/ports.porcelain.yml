@@ -1762,7 +1762,10 @@ ports:
   repository:
     name: highlightjs
     url: https://github.com/catppuccin/highlightjs
-    current-maintainers: []
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
     past-maintainers:
     - username: nekowinston
       name: winston
@@ -2971,9 +2974,12 @@ ports:
     name: obs
     url: https://github.com/catppuccin/obs
     current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers:
     - username: Xurdejl
       url: https://github.com/Xurdejl
-    past-maintainers: []
 - name: Obsidian
   categories:
   - key: note_taking
@@ -3176,6 +3182,23 @@ ports:
     - username: JK-Flip-Flop96
       url: https://github.com/JK-Flip-Flop96
     past-maintainers: []
+- name: Prism.js
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: agnostic
+  color: text
+  key: prismjs
+  repository:
+    name: prismjs
+    url: https://github.com/catppuccin/prismjs
+    current-maintainers:
+    - username: uncenter
+      name: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
 - name: Prism Launcher
   categories:
   - key: game
@@ -3271,9 +3294,12 @@ ports:
     name: qbittorrent
     url: https://github.com/catppuccin/qbittorrent
     current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
+    past-maintainers:
     - username: Xurdejl
       url: https://github.com/Xurdejl
-    past-maintainers: []
 - name: qt5ct
   categories:
   - key: system
@@ -4297,6 +4323,8 @@ ports:
       url: https://github.com/89iuv
     - username: vdbe
       url: https://github.com/vdbe
+    - username: kjnsn
+      url: https://github.com/kjnsn
     past-maintainers: []
 - name: Tofi
   categories:
@@ -4355,6 +4383,34 @@ ports:
     current-maintainers:
     - username: CallMeEchoCodes
       url: https://github.com/CallMeEchoCodes
+    past-maintainers: []
+- name: Tumblr
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: photo_and_video
+    name: Photo & Video
+    description: Applications that help in capturing, editing, managing, storing,
+      or sharing photos and videos.
+    emoji: 📸
+  platform: agnostic
+  icon: tumblr
+  color: blue
+  key: tumblr
+  repository:
+    name: tumblr
+    url: https://github.com/catppuccin/tumblr
+    current-maintainers:
+    - username: stellophiliac
+      url: https://github.com/stellophiliac
     past-maintainers: []
 - name: tym
   categories:
@@ -4618,6 +4674,23 @@ ports:
     current-maintainers:
     - username: djflan
       url: https://github.com/djflan
+    past-maintainers: []
+- name: VitePress
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: agnostic
+  color: blue
+  icon: vitepress
+  key: vitepress
+  repository:
+    name: vitepress
+    url: https://github.com/catppuccin/vitepress
+    current-maintainers:
+    - username: 42Willow
+      url: https://github.com/42Willow
     past-maintainers: []
 - name: Vivaldi
   categories:
@@ -6074,6 +6147,29 @@ ports:
     emoji: 🖌️
   icon: hoppscotch
   color: green
+- name: Learn X in Y Minutes
+  key: learn-x-in-y-minutes
+  repository:
+    name: learn-x-in-y-minutes
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/learn-x-in-y-minutes
+    current-maintainers:
+    - username: nikitarevenco
+      url: https://github.com/nikitarevenco
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
 - name: Hyperpipe
   key: hyperpipe
   repository:
@@ -7859,6 +7955,8 @@ collaborators:
   url: https://github.com/kerichdev
 - username: Kettukaa
   url: https://github.com/Kettukaa
+- username: kjnsn
+  url: https://github.com/kjnsn
 - username: kkrypt0nn
   url: https://github.com/kkrypt0nn
 - username: lemon-sh
@@ -7993,6 +8091,8 @@ collaborators:
   url: https://github.com/southqaw
 - username: Sourcastic
   url: https://github.com/Sourcastic
+- username: stellophiliac
+  url: https://github.com/stellophiliac
 - username: Stonks3141
   url: https://github.com/Stonks3141
 - username: Syndrizzle
@@ -8048,6 +8148,8 @@ collaborators:
   url: https://github.com/xzi
 - username: Zazucki
   url: https://github.com/Zazucki
+- username: nikitarevenco
+  url: https://github.com/nikitarevenco
 - username: AnubisNekhet
   url: https://github.com/AnubisNekhet
 - username: ndsboy
