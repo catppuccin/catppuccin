@@ -1493,6 +1493,13 @@ Thanks to the following tools developing this project is possible:
 
 &nbsp;
 
+### ❤️ Contributors
+Thanks to all of our contributors for making this project possible!
+
+<a href="https://github.com/catppuccin/catppuccin/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=catppuccin/catppuccin" />
+</a>
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
