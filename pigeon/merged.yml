@@ -151,6 +151,8 @@ collaborators:
     url: https://github.com/kerichdev
   - username: Kettukaa
     url: https://github.com/Kettukaa
+  - username: kjnsn
+    url: https://github.com/kjnsn
   - username: kkrypt0nn
     url: https://github.com/kkrypt0nn
   - username: lemon-sh
@@ -285,6 +287,8 @@ collaborators:
     url: https://github.com/southqaw
   - username: Sourcastic
     url: https://github.com/Sourcastic
+  - username: stellophiliac
+    url: https://github.com/stellophiliac
   - username: Stonks3141
     url: https://github.com/Stonks3141
   - username: Syndrizzle
@@ -340,6 +344,8 @@ collaborators:
     url: https://github.com/xzi
   - username: Zazucki
     url: https://github.com/Zazucki
+  - username: nikitarevenco
+    url: https://github.com/nikitarevenco
   - username: AnubisNekhet
     url: https://github.com/AnubisNekhet
   - username: ndsboy
@@ -915,7 +921,7 @@ repositories:
     current-maintainers: [aszecsei]
   - name: highlightjs
     url: https://github.com/catppuccin/highlightjs
-    current-maintainers: []
+    current-maintainers: [uncenter]
     past-maintainers: [nekowinston]
   - name: home-assistant
     url: https://github.com/catppuccin/home-assistant
@@ -1111,7 +1117,8 @@ repositories:
     past-maintainers: [pocco81, nullchilly]
   - name: obs
     url: https://github.com/catppuccin/obs
-    current-maintainers: [Xurdejl]
+    current-maintainers: [sgoudham]
+    past-maintainers: [Xurdejl]
   - name: obsidian
     url: https://github.com/catppuccin/obsidian
     current-maintainers: [mbeckrich]
@@ -1150,6 +1157,9 @@ repositories:
   - name: powershell
     url: https://github.com/catppuccin/powershell
     current-maintainers: [JK-Flip-Flop96]
+  - name: prismjs
+    url: https://github.com/catppuccin/prismjs
+    current-maintainers: [uncenter]
   - name: prismlauncher
     url: https://github.com/catppuccin/prismlauncher
     current-maintainers: []
@@ -1167,7 +1177,8 @@ repositories:
     current-maintainers: [backwardspy, brambozz]
   - name: qbittorrent
     url: https://github.com/catppuccin/qbittorrent
-    current-maintainers: [Xurdejl]
+    current-maintainers: [sgoudham]
+    past-maintainers: [Xurdejl]
   - name: qt5ct
     url: https://github.com/catppuccin/qt5ct
     current-maintainers: [Syndrizzle]
@@ -1348,7 +1359,7 @@ repositories:
     past-maintainers: [elkrien]
   - name: tmux
     url: https://github.com/catppuccin/tmux
-    current-maintainers: [rogeruiz, 89iuv, vdbe]
+    current-maintainers: [rogeruiz, 89iuv, vdbe, kjnsn]
   - name: tofi
     url: https://github.com/catppuccin/tofi
     current-maintainers: [iruzo]
@@ -1358,6 +1369,9 @@ repositories:
   - name: tty
     url: https://github.com/catppuccin/tty
     current-maintainers: [CallMeEchoCodes]
+  - name: tumblr
+    url: https://github.com/catppuccin/tumblr
+    current-maintainers: [stellophiliac]
   - name: tym
     url: https://github.com/catppuccin/tym
     current-maintainers: [justleoo]
@@ -1401,6 +1415,9 @@ repositories:
   - name: visual-studio
     url: https://github.com/catppuccin/visual-studio
     current-maintainers: [djflan]
+  - name: vitepress
+    url: https://github.com/catppuccin/vitepress
+    current-maintainers: [42Willow]
   - name: vivaldi
     url: https://github.com/catppuccin/vivaldi
     current-maintainers: [sakkke]
@@ -1621,6 +1638,9 @@ repositories:
   - name: hoppscotch
     url: https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch
     current-maintainers: [justTOBBI]
+  - name: learn-x-in-y-minutes
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/learn-x-in-y-minutes
+    current-maintainers: [nikitarevenco]
   - name: hyperpipe
     url: https://github.com/catppuccin/userstyles/tree/main/styles/hyperpipe
     current-maintainers: [jn-sena]
@@ -2911,6 +2931,12 @@ ports:
     icon: powershell
     key: powershell
     repository: powershell
+  - name: Prism.js
+    categories: [development]
+    platform: agnostic
+    color: text
+    key: prismjs
+    repository: prismjs
   - name: Prism Launcher
     categories: [game, application_launcher]
     platform: [linux, macos, windows]
@@ -3314,6 +3340,13 @@ ports:
     color: text
     key: tty
     repository: tty
+  - name: Tumblr
+    categories: [browser_extension, social_networking, photo_and_video]
+    platform: agnostic
+    icon: tumblr
+    color: blue
+    key: tumblr
+    repository: tumblr
   - name: tym
     categories: [terminal]
     platform: [linux]
@@ -3410,6 +3443,13 @@ ports:
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.CatppuccinVS
     key: visual-studio
     repository: visual-studio
+  - name: VitePress
+    categories: [development]
+    platform: agnostic
+    color: blue
+    icon: vitepress
+    key: vitepress
+    repository: vitepress
   - name: Vivaldi
     categories: [browser]
     platform: [linux, macos, windows]
@@ -3815,6 +3855,11 @@ ports:
     categories: [development, productivity, userstyle]
     icon: hoppscotch
     color: green
+  - name: Learn X in Y Minutes
+    key: learn-x-in-y-minutes
+    repository: learn-x-in-y-minutes
+    categories: [development, wiki, userstyle]
+    color: blue
   - name: Hyperpipe
     key: hyperpipe
     repository: hyperpipe
