@@ -1175,6 +1175,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Noir](https://github.com/catppuccin/noir)
 - [Shinigami Eyes](https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes)
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
+- [Tumblr](https://github.com/catppuccin/tumblr)
 - [Vimium](https://github.com/catppuccin/vimium)
 
 </details>
