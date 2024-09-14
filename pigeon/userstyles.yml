@@ -1,4 +1,6 @@
 collaborators:
+- username: nikitarevenco
+  url: https://github.com/nikitarevenco
 - username: AnubisNekhet
   url: https://github.com/AnubisNekhet
 - username: ndsboy
@@ -268,6 +270,9 @@ repositories:
 - name: hoppscotch
   url: https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch
   current-maintainers: [justTOBBI]
+- name: learn-x-in-y-minutes
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/learn-x-in-y-minutes
+  current-maintainers: [nikitarevenco]
 - name: hyperpipe
   url: https://github.com/catppuccin/userstyles/tree/main/styles/hyperpipe
   current-maintainers: [jn-sena]
@@ -698,6 +703,11 @@ ports:
   categories: [development, productivity, userstyle]
   icon: hoppscotch
   color: green
+- name: Learn X in Y Minutes
+  key: learn-x-in-y-minutes
+  repository: learn-x-in-y-minutes
+  categories: [development, wiki, userstyle]
+  color: blue
 - name: Hyperpipe
   key: hyperpipe
   repository: hyperpipe
