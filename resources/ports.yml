@@ -19,6 +19,8 @@ collaborators:
     url: https://github.com/unseen-ninja
   - &AngelBerihuete
     url: https://github.com/AngelBerihuete
+  - &AnicJov
+    url: https://github.com/AnicJov
   - &Anomalocaridid
     url: https://github.com/Anomalocaridid
   - &AnubisNekhet
@@ -828,6 +830,12 @@ ports:
     platform: [linux, macos, windows]
     color: red
     current-maintainers: [*bagelwaffle]
+  ghidra:
+    name: Ghidra
+    categories: [code_editor]
+    platform: [linux, macos, windows]
+    color: mauve
+    current-maintainers: [*AnicJov]
   giscus:
     name: Giscus
     categories: [discussion_forum]
