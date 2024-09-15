@@ -919,6 +919,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Emacs](https://github.com/catppuccin/emacs)
 - [Geany](https://github.com/catppuccin/geany)
 - [Gedit](https://github.com/catppuccin/gedit)
+- [Ghidra](https://github.com/catppuccin/ghidra)
 - [Helix](https://github.com/catppuccin/helix)
 - [IDA (Interactive Disassembler)](https://github.com/catppuccin/ida-debugger)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
