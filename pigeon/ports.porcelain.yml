@@ -1373,6 +1373,23 @@ ports:
     - username: bagelwaffle
       url: https://github.com/bagelwaffle
     past-maintainers: []
+- name: Ghidra
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [linux, macos, windows]
+  color: mauve
+  key: ghidra
+  repository:
+    name: ghidra
+    url: https://github.com/catppuccin/ghidra
+    current-maintainers:
+    - username: AnicJov
+      url: https://github.com/AnicJov
+    past-maintainers: []
 - name: Giscus
   categories:
   - key: discussion_forum
@@ -7823,6 +7840,8 @@ collaborators:
   url: https://github.com/unseen-ninja
 - username: AngelBerihuete
   url: https://github.com/AngelBerihuete
+- username: AnicJov
+  url: https://github.com/AnicJov
 - username: Anomalocaridid
   url: https://github.com/Anomalocaridid
 - username: AnubisNekhet
