@@ -19,6 +19,8 @@ collaborators:
   url: https://github.com/unseen-ninja
 - username: AngelBerihuete
   url: https://github.com/AngelBerihuete
+- username: AnicJov
+  url: https://github.com/AnicJov
 - username: Anomalocaridid
   url: https://github.com/Anomalocaridid
 - username: AnubisNekhet
@@ -730,6 +732,9 @@ repositories:
 - name: ghostwriter
   url: https://github.com/catppuccin/ghostwriter
   current-maintainers: [bagelwaffle]
+- name: ghidra
+  url: https://github.com/catppuccin/ghidra
+  current-maintainers: [AnicJov]
 - name: giscus
   url: https://github.com/catppuccin/giscus
   current-maintainers: [uncenter]
@@ -1844,6 +1849,12 @@ ports:
   color: red
   key: ghostwriter
   repository: ghostwriter
+- name: Ghidra
+  categories: [code_editor]
+  platform: [linux, macos, windows]
+  color: mauve
+  key: ghidra
+  repository: ghidra
 - name: Giscus
   categories: [discussion_forum]
   platform: agnostic
