@@ -1635,7 +1635,8 @@ ports:
     platform: [linux, macos, windows]
     color: sky
     icon: rstudioide
-    current-maintainers: [*AngelBerihuete]
+    current-maintainers: []
+    past-maintainers: [*AngelBerihuete]
   rust:
     name: Rust
     categories: [library]
