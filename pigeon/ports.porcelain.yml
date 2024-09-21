@@ -3581,10 +3581,10 @@ ports:
   repository:
     name: rstudio
     url: https://github.com/catppuccin/rstudio
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: AngelBerihuete
       url: https://github.com/AngelBerihuete
-    past-maintainers: []
 - name: Rust
   categories:
   - key: library
