@@ -1105,7 +1105,8 @@ repositories:
   past-maintainers: [AlphaTechnolog]
 - name: rstudio
   url: https://github.com/catppuccin/rstudio
-  current-maintainers: [AngelBerihuete]
+  current-maintainers: []
+  past-maintainers: [AngelBerihuete]
 - name: rust
   url: https://github.com/catppuccin/rust
   current-maintainers: [backwardspy]
