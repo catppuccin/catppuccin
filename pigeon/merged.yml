@@ -338,6 +338,8 @@ collaborators:
     url: https://github.com/Waxxx333
   - username: WitherCubes
     url: https://github.com/WitherCubes
+  - username: waterlilly-lilly
+    url: https://github.com/waterlilly-lilly
   - username: xhayper
     url: https://github.com/xhayper
   - username: Xurdejl
@@ -996,6 +998,9 @@ repositories:
     url: https://github.com/catppuccin/kde
     current-maintainers: [Sourcastic]
     past-maintainers: [Prayag2]
+  - name: kicad
+    url: https://github.com/catppuccin/kicad
+    current-maintainers: [waterlilly-lilly]
   - name: kitty
     url: https://github.com/catppuccin/kitty
     current-maintainers: [unseen-ninja]
@@ -2606,6 +2611,13 @@ ports:
     icon: kde
     key: kde
     repository: kde
+  - name: KiCad
+    platform: [linux, macos, windows]
+    categories: [development]
+    color: blue
+    icon: kicad
+    key: kicad
+    repository: kicad
   - name: kitty
     categories: [terminal]
     platform: [linux, macos]
