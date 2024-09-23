@@ -2224,6 +2224,23 @@ ports:
     past-maintainers:
     - username: Prayag2
       url: https://github.com/Prayag2
+- name: KiCad
+  platform: [linux, macos, windows]
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  color: blue
+  icon: kicad
+  key: kicad
+  repository:
+    name: kicad
+    url: https://github.com/catppuccin/kicad
+    current-maintainers:
+    - username: waterlilly-lilly
+      url: https://github.com/waterlilly-lilly
+    past-maintainers: []
 - name: kitty
   categories:
   - key: terminal
@@ -8159,6 +8176,8 @@ collaborators:
   url: https://github.com/Waxxx333
 - username: WitherCubes
   url: https://github.com/WitherCubes
+- username: waterlilly-lilly
+  url: https://github.com/waterlilly-lilly
 - username: xhayper
   url: https://github.com/xhayper
 - username: Xurdejl
