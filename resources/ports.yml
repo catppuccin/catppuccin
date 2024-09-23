@@ -338,6 +338,8 @@ collaborators:
     url: https://github.com/Waxxx333
   - &WitherCubes
     url: https://github.com/WitherCubes
+  - &waterlilly-lilly
+    url: https://github.com/waterlilly-lilly
   - &xhayper
     url: https://github.com/xhayper
   - &Xurdejl
@@ -1143,6 +1145,13 @@ ports:
     icon: kde
     current-maintainers: [*Sourcastic]
     past-maintainers: [*Prayag2]
+  kicad:
+    name: KiCad
+    platform: [linux, macos, windows]
+    categories: [development]
+    color: blue
+    icon: kicad
+    current-maintainers: [*waterlilly-lilly]
   kitty:
     name: kitty
     categories: [terminal]
