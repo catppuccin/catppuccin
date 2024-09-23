@@ -969,6 +969,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [iSH](https://github.com/catppuccin/ish)
 - [JupyterLab](https://github.com/catppuccin/jupyterlab)
 - [Keyoxide](https://github.com/catppuccin/userstyles/tree/main/styles/keyoxide)
+- [KiCad](https://github.com/catppuccin/kicad)
 - [Learn X in Y Minutes](https://github.com/catppuccin/userstyles/tree/main/styles/learn-x-in-y-minutes)
 - [Matplotlib](https://github.com/catppuccin/python)
 - [mdBook](https://github.com/catppuccin/mdBook)
