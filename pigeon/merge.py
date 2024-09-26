@@ -5,21 +5,6 @@ import yaml
 from pigeon.caveman import DumpyMcDumpface
 
 
-def merge_list_with_dicts_based_on_key(
-    list1: list[dict], list2: list[dict], **kwargs
-) -> list[dict]:
-    seen_keys = set()
-    merged_list = []
-
-    for entry in list1 + list2:
-        key_value = entry.get(kwargs.get("key"))
-        if key_value not in seen_keys:
-            seen_keys.add(key_value)
-            merged_list.append(entry)
-
-    return merged_list
-
-
 def merge(into: dict, values: dict) -> dict:
     merged = into.copy()
     for k, v in values.items():
