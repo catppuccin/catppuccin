@@ -1,7 +1,6 @@
 from copy import deepcopy
 from pathlib import Path
 
-import requests
 import yaml
 
 from pigeon.caveman import DumpyMcDumpface
@@ -64,8 +63,6 @@ def make_archived_ports(data: dict, indices: Indices) -> list:
 
 
 def main():
-    # TODO: We need to deduplicate the collaborators between ports and userstyles
-    # We might want to tackle this problem at a different abstraction level
     with Path("pigeon/merged.yml").open("r", encoding="utf-8") as f:
         ports = yaml.safe_load(f)
 

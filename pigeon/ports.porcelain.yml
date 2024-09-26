@@ -23,7 +23,6 @@ ports:
     url: https://github.com/catppuccin/aerc
     current-maintainers:
     - username: Stonks3141
-      name: Stonks3141
       url: https://github.com/Stonks3141
     past-maintainers: []
 - name: Alacritty
@@ -129,6 +128,7 @@ ports:
     url: https://github.com/catppuccin/anki
     current-maintainers:
     - username: AnubisNekhet
+      name: Anubis
       url: https://github.com/AnubisNekhet
     past-maintainers:
     - username: BlueFalconHD
@@ -302,7 +302,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Blink
   categories:
@@ -341,7 +340,6 @@ ports:
     url: https://github.com/catppuccin/blockbench
     current-maintainers:
     - username: Tnixc
-      name: Tnixc
       url: https://github.com/Tnixc
     past-maintainers: []
 - name: bottom
@@ -489,7 +487,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Google Chrome DevTools
   categories:
@@ -507,7 +504,6 @@ ports:
     url: https://github.com/catppuccin/chrome-devtools
     current-maintainers:
     - username: r58Playz
-      name: r58Playz
       url: https://github.com/r58Playz
     past-maintainers: []
 - name: Cider
@@ -524,7 +520,6 @@ ports:
     url: https://github.com/catppuccin/cider
     current-maintainers:
     - username: Flapperoo
-      name: Eli
       url: https://github.com/Flapperoo
     past-maintainers:
     - username: nekowinston
@@ -546,7 +541,6 @@ ports:
     url: https://github.com/catppuccin/codemirror
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers:
     - username: griimick
@@ -642,7 +636,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Cutter
   categories:
@@ -870,7 +863,6 @@ ports:
     url: https://github.com/catppuccin/egui
     current-maintainers:
     - username: Stonks3141
-      name: Stonks3141
       url: https://github.com/Stonks3141
     past-maintainers: []
 - name: Element
@@ -1083,7 +1075,6 @@ ports:
     url: https://github.com/catppuccin/flow-launcher
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers:
     - username: Syndrizzle
@@ -1240,7 +1231,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
 - name: Fuzzel
   categories:
@@ -1331,7 +1321,6 @@ ports:
     url: https://github.com/catppuccin/gh-dash
     current-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
 - name: Ghostty
@@ -1349,7 +1338,6 @@ ports:
     url: https://github.com/catppuccin/ghostty
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
 - name: ghostwriter
@@ -1405,7 +1393,6 @@ ports:
     url: https://github.com/catppuccin/giscus
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
 - name: Gitea
@@ -1443,7 +1430,6 @@ ports:
     url: https://github.com/catppuccin/github-file-explorer-icons
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
 - name: GitHub Readme Stats
@@ -1680,7 +1666,6 @@ ports:
       url: https://github.com/isabelincorp
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Halloy
   categories:
@@ -1781,7 +1766,6 @@ ports:
     url: https://github.com/catppuccin/highlightjs
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers:
     - username: nekowinston
@@ -2176,7 +2160,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Kakoune
   categories:
@@ -2256,7 +2239,6 @@ ports:
     url: https://github.com/catppuccin/kitty
     current-maintainers:
     - username: unseen-ninja
-      name: Lemon
       url: https://github.com/unseen-ninja
     past-maintainers: []
 - name: Konsole
@@ -2483,7 +2465,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: mako
   categories:
@@ -2612,7 +2593,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Minecraft
   categories:
@@ -2811,7 +2791,6 @@ ports:
     url: https://github.com/catppuccin/neomutt
     current-maintainers:
     - username: Sekki21956
-      name: Sekki
       url: https://github.com/Sekki21956
     past-maintainers: []
 - name: Newsboat
@@ -2897,7 +2876,6 @@ ports:
     url: https://github.com/catppuccin/nix
     current-maintainers:
     - username: Stonks3141
-      name: Stonks3141
       url: https://github.com/Stonks3141
     - username: getchoo
       url: https://github.com/getchoo
@@ -3068,7 +3046,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
 - name: Pantone
   categories:
@@ -3103,7 +3080,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Plank
   categories:
@@ -3124,7 +3100,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Plymouth
   categories:
@@ -3177,7 +3152,6 @@ ports:
     url: https://github.com/catppuccin/pomotroid
     current-maintainers:
     - username: coldenate
-      name: coldenate
       url: https://github.com/coldenate
     past-maintainers: []
 - name: Microsoft PowerPoint Slides
@@ -3230,7 +3204,6 @@ ports:
     url: https://github.com/catppuccin/prismjs
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
 - name: Prism Launcher
@@ -3290,7 +3263,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Python
   categories:
@@ -3499,7 +3471,6 @@ ports:
     url: https://github.com/catppuccin/remnote
     current-maintainers:
     - username: coldenate
-      name: coldenate
       url: https://github.com/coldenate
     past-maintainers:
     - username: justTOBBI
@@ -3538,7 +3509,6 @@ ports:
     url: https://github.com/catppuccin/revolt
     current-maintainers:
     - username: unseen-ninja
-      name: Lemon
       url: https://github.com/unseen-ninja
     past-maintainers:
     - username: pocco81
@@ -3676,7 +3646,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
 - name: sent
   categories:
@@ -3908,7 +3877,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Spotify TUI
   categories:
@@ -3930,7 +3898,6 @@ ports:
     url: https://github.com/catppuccin/spotify-tui
     current-maintainers:
     - username: Sekki21956
-      name: Sekki
       url: https://github.com/Sekki21956
     past-maintainers: []
 - name: Spyder
@@ -4128,7 +4095,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
 - name: Tabby
   categories:
@@ -4316,7 +4282,6 @@ ports:
       url: https://github.com/nullishamy
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Tilix
   categories:
@@ -4334,7 +4299,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: tmux
   categories:
@@ -4684,7 +4648,6 @@ ports:
       url: https://github.com/Sebagabones
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
 - name: Visual Studio
   categories:
@@ -5060,7 +5023,6 @@ ports:
     url: https://github.com/catppuccin/yazi
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
 - name: YouTube Music
@@ -5078,7 +5040,6 @@ ports:
     url: https://github.com/catppuccin/youtubemusic
     current-maintainers:
     - username: kerichdev
-      name: keri
       url: https://github.com/kerichdev
     past-maintainers:
     - username: rubyowo
@@ -5248,6 +5209,7 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/anilist
     current-maintainers:
     - username: AnubisNekhet
+      name: Anubis
       url: https://github.com/AnubisNekhet
     past-maintainers: []
   categories:
@@ -5273,6 +5235,7 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/anilist
     current-maintainers:
     - username: AnubisNekhet
+      name: Anubis
       url: https://github.com/AnubisNekhet
     past-maintainers: []
   categories:
@@ -5442,7 +5405,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers:
     - username: rubyowo
@@ -5471,6 +5433,7 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/chatreplay
     current-maintainers:
     - username: AnubisNekhet
+      name: Anubis
       url: https://github.com/AnubisNekhet
     past-maintainers: []
   categories:
@@ -5499,10 +5462,8 @@ ports:
       name: skele
       url: https://github.com/skelebro1
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
     - username: coldenate
-      name: coldenate
       url: https://github.com/coldenate
   categories:
   - key: game
@@ -5548,7 +5509,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/codeberg
     current-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers:
     - username: justTOBBI
@@ -5576,7 +5536,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/cobalt
     current-maintainers:
     - username: kerichdev
-      name: keri
       url: https://github.com/kerichdev
     past-maintainers: []
   categories:
@@ -5602,7 +5561,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/crates.io
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -5677,7 +5635,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/docs.rs
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -5720,7 +5677,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/ecosia
     current-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
   categories:
@@ -5783,7 +5739,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/formative
     current-maintainers:
     - username: r58Playz
-      name: r58Playz
       url: https://github.com/r58Playz
     past-maintainers: []
   categories:
@@ -5809,11 +5764,9 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/github
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers:
     - username: unseen-ninja
-      name: Lemon
       url: https://github.com/unseen-ninja
     - username: Pocco81
       url: https://github.com/Pocco81
@@ -5843,11 +5796,9 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/gmail
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
   categories:
   - key: email_client
@@ -5872,7 +5823,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/go.dev
     current-maintainers:
     - username: Flapperoo
-      name: Eli
       url: https://github.com/Flapperoo
     past-maintainers: []
   categories:
@@ -5918,7 +5868,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/google-drive
     current-maintainers:
     - username: r58Playz
-      name: r58Playz
       url: https://github.com/r58Playz
     past-maintainers: []
   categories:
@@ -5962,7 +5911,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/graphite
     current-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
   categories:
@@ -6122,7 +6070,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/home-manager-options-search
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -6283,7 +6230,6 @@ ports:
       url: https://github.com/GenShibe
     past-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
   categories:
   - key: social_networking
@@ -6314,7 +6260,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: unseen-ninja
-      name: Lemon
       url: https://github.com/unseen-ninja
     - username: nekowinston
       name: winston
@@ -6368,7 +6313,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/keyoxide
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -6388,6 +6332,7 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/lastfm
     current-maintainers:
     - username: AnubisNekhet
+      name: Anubis
       url: https://github.com/AnubisNekhet
     past-maintainers:
     - username: Gingeh
@@ -6446,7 +6391,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: unseen-ninja
-      name: Lemon
       url: https://github.com/unseen-ninja
   categories:
   - key: discussion_forum
@@ -6477,7 +6421,6 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: unseen-ninja
-      name: Lemon
       url: https://github.com/unseen-ninja
   categories:
   - key: discussion_forum
@@ -6553,7 +6496,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/linkedin
     current-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
     past-maintainers: []
   categories:
@@ -6600,10 +6542,8 @@ ports:
     current-maintainers: []
     past-maintainers:
     - username: unseen-ninja
-      name: Lemon
       url: https://github.com/unseen-ninja
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
   categories:
   - key: social_networking
@@ -6628,7 +6568,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/mdbook
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -6719,7 +6658,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/migadu-webmail
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -6795,6 +6733,7 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/nitter
     current-maintainers:
     - username: AnubisNekhet
+      name: Anubis
       url: https://github.com/AnubisNekhet
     past-maintainers: []
   categories:
@@ -6873,7 +6812,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/npm
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -6939,7 +6877,6 @@ ports:
       url: https://github.com/Guaxinim5573
     past-maintainers:
     - username: Stonks3141
-      name: Stonks3141
       url: https://github.com/Stonks3141
   categories:
   - key: development
@@ -6959,11 +6896,9 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/perplexity
     current-maintainers:
     - username: Tnixc
-      name: Tnixc
       url: https://github.com/Tnixc
     past-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
   categories:
   - key: artificial_intelligence
@@ -7091,7 +7026,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/porkbun
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -7113,7 +7047,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.page
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -7258,7 +7191,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/searxng
     current-maintainers:
     - username: Sekki21956
-      name: Sekki
       url: https://github.com/Sekki21956
     - username: ryanccn
       name: Ryan Cao
@@ -7340,7 +7272,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/spotify-web
     current-maintainers:
     - username: Tnixc
-      name: Tnixc
       url: https://github.com/Tnixc
     past-maintainers: []
   categories:
@@ -7361,7 +7292,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/stack-overflow
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -7504,7 +7434,6 @@ ports:
       name: GenShibe
       url: https://github.com/GenShibe
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -7573,7 +7502,6 @@ ports:
     - username: GitMuslim
       url: https://github.com/GitMuslim
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -7708,7 +7636,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/web.dev
     current-maintainers:
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
@@ -7780,7 +7707,6 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand
     current-maintainers:
     - username: Tnixc
-      name: Tnixc
       url: https://github.com/Tnixc
     past-maintainers: []
   categories:
@@ -7806,14 +7732,11 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/youtube
     current-maintainers:
     - username: isabelroses
-      name: Isabel
       url: https://github.com/isabelroses
     - username: uncenter
-      name: uncenter
       url: https://github.com/uncenter
     past-maintainers:
     - username: elkrien
-      name: Elkrien
       url: https://github.com/elkrien
   categories:
   - key: entertainment
@@ -8188,10 +8111,6 @@ collaborators:
   url: https://github.com/Zazucki
 - username: nikitarevenco
   url: https://github.com/nikitarevenco
-- username: AnubisNekhet
-  url: https://github.com/AnubisNekhet
-- username: ndsboy
-  url: https://github.com/ndsboy
 - username: jn-sena
   name: Sena
   url: https://github.com/jn-sena
@@ -8206,19 +8125,9 @@ collaborators:
 - username: GlowingUmbreon
   name: Umbreon
   url: https://github.com/GlowingUmbreon
-- username: justTOBBI
-  url: https://github.com/justTOBBI
-- username: unseen-ninja
-  name: Lemon
-  url: https://github.com/unseen-ninja
 - username: lucasmelin
   name: Lucas Melin
   url: https://github.com/lucasmelin
-- username: Gingeh
-  url: https://github.com/Gingeh
-- username: isabelroses
-  name: Isabel
-  url: https://github.com/isabelroses
 - username: thismoon
   url: https://github.com/thismoon
 - username: cecelot
@@ -8227,47 +8136,22 @@ collaborators:
 - username: soya-daizu
   name: soya_daizu
   url: https://github.com/soya-daizu
-- username: jayylmao
-  url: https://github.com/jayylmao
-- username: Sekki21956
-  name: Sekki
-  url: https://github.com/Sekki21956
-- username: nekowinston
-  name: winston
-  url: https://github.com/nekowinston
 - username: GitMuslim
   url: https://github.com/GitMuslim
-- username: Tnixc
-  name: Tnixc
-  url: https://github.com/Tnixc
-- username: elkrien
-  name: Elkrien
-  url: https://github.com/elkrien
 - username: TheMemeSniper
   name: TheMemeSniper
   url: https://github.com/TheMemeSniper
 - username: spaghettiosareyummy
   url: https://github.com/spaghettiosareyummy
-- username: Stonks3141
-  name: Stonks3141
-  url: https://github.com/Stonks3141
-- username: rubyowo
-  url: https://github.com/rubyowo
 - username: Gandalf-the-Blue
   name: Gandalf the Blue
   url: https://github.com/Gandalf-the-Blue
 - username: FrancoRav
   name: FrancoRav
   url: https://github.com/FrancoRav
-- username: coldenate
-  name: coldenate
-  url: https://github.com/coldenate
 - username: skelebro1
   name: skele
   url: https://github.com/skelebro1
-- username: r58Playz
-  name: r58Playz
-  url: https://github.com/r58Playz
 - username: rockquiet
   name: rockquiet
   url: https://github.com/rockquiet
@@ -8298,9 +8182,6 @@ collaborators:
 - username: Dandraghas
   name: Dandraghas
   url: https://github.com/Dandraghas
-- username: uncenter
-  name: uncenter
-  url: https://github.com/uncenter
 - username: thomas-philippot
   name: Thomas Philippot
   url: https://github.com/thomas-philippot
@@ -8314,17 +8195,9 @@ collaborators:
   name: NK308
 - username: 00dani
   url: https://github.com/00dani
-- username: kerichdev
-  name: keri
-  url: https://github.com/kerichdev
-- username: Flapperoo
-  name: Eli
-  url: https://github.com/Flapperoo
 - username: jh-devv
   name: jh-devv
   url: https://github.com/jh-devv
-- username: stellophiliac
-  url: https://github.com/stellophiliac
 - username: NeonGamerBot-QK
   url: https://github.com/NeonGamerBot-QK
 categories:
