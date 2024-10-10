@@ -4840,6 +4840,22 @@ ports:
     - username: nekowinston
       name: winston
       url: https://github.com/nekowinston
+- name: Where is my SDDM theme?
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: text
+  key: where-is-my-sddm-theme
+  repository:
+    name: where-is-my-sddm-theme
+    url: https://github.com/catppuccin/where-is-my-sddm-theme
+    current-maintainers:
+    - username: HeitorAugustoLN
+      url: https://github.com/HeitorAugustoLN
+    past-maintainers: []
 - name: Whoogle
   categories:
   - key: search_engine
@@ -6306,6 +6322,26 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: yellow
+- name: Jisho
+  key: jisho
+  repository:
+    name: jisho
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/jisho
+    current-maintainers:
+    - username: Lichthagel
+      url: https://github.com/Lichthagel
+    past-maintainers: []
+  categories:
+  - key: translation_tool
+    name: Translation Tools
+    description: Applications that help bridge language gaps by translating one language
+      to another.
+    emoji: 🗺️
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: green
 - name: Keyoxide
   key: keyoxide
   repository:
@@ -7878,6 +7914,8 @@ collaborators:
   url: https://github.com/Gingeh
 - username: griimick
   url: https://github.com/griimick
+- username: HeitorAugustoLN
+  url: https://github.com/HeitorAugustoLN
 - username: hyperreal64
   url: https://github.com/hyperreal64
 - username: icy-comet
