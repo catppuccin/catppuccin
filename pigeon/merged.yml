@@ -117,6 +117,8 @@ collaborators:
   url: https://github.com/Gingeh
 - username: griimick
   url: https://github.com/griimick
+- username: HeitorAugustoLN
+  url: https://github.com/HeitorAugustoLN
 - username: hyperreal64
   url: https://github.com/hyperreal64
 - username: icy-comet
@@ -1422,6 +1424,9 @@ repositories:
   url: https://github.com/catppuccin/wezterm
   current-maintainers: []
   past-maintainers: [nekowinston]
+- name: where-is-my-sddm-theme
+  url: https://github.com/catppuccin/where-is-my-sddm-theme
+  current-maintainers: [HeitorAugustoLN]
 - name: whoogle
   url: https://github.com/catppuccin/whoogle
   current-maintainers: []
@@ -1641,6 +1646,9 @@ repositories:
 - name: invokeai
   url: https://github.com/catppuccin/userstyles/tree/main/styles/invokeai
   current-maintainers: [ryanccn]
+- name: jisho
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/jisho
+  current-maintainers: [Lichthagel]
 - name: keyoxide
   url: https://github.com/catppuccin/userstyles/tree/main/styles/keyoxide
   current-maintainers: [uncenter]
@@ -3506,6 +3514,12 @@ ports:
   upstreamed: true
   key: wezterm
   repository: wezterm
+- name: Where is my SDDM theme?
+  categories: [system]
+  platform: [linux]
+  color: text
+  key: where-is-my-sddm-theme
+  repository: where-is-my-sddm-theme
 - name: Whoogle
   categories: [search_engine]
   platform: agnostic
@@ -3886,6 +3900,11 @@ ports:
   repository: invokeai
   categories: [artificial_intelligence, productivity, userstyle]
   color: yellow
+- name: Jisho
+  key: jisho
+  repository: jisho
+  categories: [translation_tool, userstyle]
+  color: green
 - name: Keyoxide
   key: keyoxide
   repository: keyoxide
