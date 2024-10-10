@@ -140,6 +140,8 @@ collaborators:
   url: https://github.com/stellophiliac
 - username: NeonGamerBot-QK
   url: https://github.com/NeonGamerBot-QK
+- username: Lichthagel
+  url: https://github.com/Lichthagel
 categories:
 - key: userstyle
   name: Userstyles
@@ -293,6 +295,9 @@ repositories:
 - name: invokeai
   url: https://github.com/catppuccin/userstyles/tree/main/styles/invokeai
   current-maintainers: [ryanccn]
+- name: jisho
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/jisho
+  current-maintainers: [Lichthagel]
 - name: keyoxide
   url: https://github.com/catppuccin/userstyles/tree/main/styles/keyoxide
   current-maintainers: [uncenter]
@@ -741,6 +746,11 @@ ports:
   repository: invokeai
   categories: [artificial_intelligence, productivity, userstyle]
   color: yellow
+- name: Jisho
+  key: jisho
+  repository: jisho
+  categories: [translation_tool, userstyle]
+  color: green
 - name: Keyoxide
   key: keyoxide
   repository: keyoxide
