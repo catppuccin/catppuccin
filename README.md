@@ -1090,6 +1090,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SerenityOS](https://github.com/catppuccin/serenity-os)
 - [swaylock](https://github.com/catppuccin/swaylock)
 - [waybar](https://github.com/catppuccin/waybar)
+- [Where is my SDDM theme?](https://github.com/catppuccin/where-is-my-sddm-theme)
 - [Windows 9x](https://github.com/catppuccin/windows9x)
 - [Xresources](https://github.com/catppuccin/xresources)
 
@@ -1200,6 +1201,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Crowdin](https://github.com/catppuccin/userstyles/tree/main/styles/crowdin)
 - [DeepL](https://github.com/catppuccin/userstyles/tree/main/styles/deepl)
 - [ichi.moe](https://github.com/catppuccin/userstyles/tree/main/styles/ichi.moe)
+- [Jisho](https://github.com/catppuccin/userstyles/tree/main/styles/jisho)
 - [Lingva](https://github.com/catppuccin/userstyles/tree/main/styles/lingva)
 
 </details>
