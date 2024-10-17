@@ -208,6 +208,9 @@ collaborators:
     url: https://github.com/myumichi
   - &NamesCode
     url: https://github.com/NamesCode
+  - &neongamerbot
+    name: Neon
+    url: https://github.com/NeonGamerBot-QK
   - &ndsboy
     url: https://github.com/ndsboy
   - &nekowinston
@@ -1194,6 +1197,12 @@ ports:
     platform: [linux, macos]
     color: green
     current-maintainers: [*nullishamy]
+  libre_office:
+      name: Libre Office
+      categories: [document_viewer]
+      platform: [linux,macos,windows]
+      color: green
+      current-maintainers: [*neongamerbot]
   limine:
     name: Limine
     categories: [boot_loader, system]
