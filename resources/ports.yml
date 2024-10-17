@@ -1200,7 +1200,7 @@ ports:
   libreoffice:
       name: Libre Office
       categories: [document_viewer]
-      platform: [linux,macos,windows]
+      platform: [linux, macos, windows]
       color: green
       icon: libreoffice
       current-maintainers: [*neongamerbot]
