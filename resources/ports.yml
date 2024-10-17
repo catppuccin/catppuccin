@@ -1202,6 +1202,7 @@ ports:
       categories: [document_viewer]
       platform: [linux,macos,windows]
       color: green
+      icon: libreoffice
       current-maintainers: [*neongamerbot]
   limine:
     name: Limine
