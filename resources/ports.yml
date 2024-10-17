@@ -213,6 +213,9 @@ collaborators:
   - &nekowinston
     name: winston
     url: https://github.com/nekowinston
+  - &neongamerbot
+    name: Neon
+    url: https://github.com/NeonGamerBot-QK
   - &NickSquiggles
     name: Nick
     url: https://github.com/NickSquiggles
@@ -1194,6 +1197,13 @@ ports:
     platform: [linux, macos]
     color: green
     current-maintainers: [*nullishamy]
+  libreoffice:
+      name: Libre Office
+      categories: [document_viewer]
+      platform: [linux, macos, windows]
+      color: green
+      icon: libreoffice
+      current-maintainers: [*neongamerbot]
   limine:
     name: Limine
     categories: [boot_loader, system]
