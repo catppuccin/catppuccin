@@ -1431,8 +1431,8 @@ ports:
     platform: [linux, macos, windows]
     icon: neovim
     color: green
-    current-maintainers: [*mrtnvgr, *vollowx]
-    past-maintainers: [*pocco81, *nullchilly]
+    current-maintainers: [*vollowx]
+    past-maintainers: [*pocco81, *nullchilly, *mrtnvgr]
   obs:
     name: OBS Studio
     categories: [productivity, photo_and_video]
