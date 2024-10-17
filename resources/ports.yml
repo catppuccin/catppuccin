@@ -1197,7 +1197,7 @@ ports:
     platform: [linux, macos]
     color: green
     current-maintainers: [*nullishamy]
-  libre_office:
+  libreoffice:
       name: Libre Office
       categories: [document_viewer]
       platform: [linux,macos,windows]
