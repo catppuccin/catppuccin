@@ -61,8 +61,8 @@ collaborators:
     url: https://github.com/CallMeEchoCodes
   - &catb00mer
     url: https://github.com/catb00mer
-  - &cattokomo
-    url: https://github.com/cattokomo
+  - &mbekkomo
+    url: https://github.com/mbekkomo
   - &Cristhyano
     url: https://github.com/Cristhyano
   - &coldenate
@@ -623,7 +623,7 @@ ports:
     categories: [productivity]
     platform: [android]
     color: text
-    current-maintainers: [*cattokomo]
+    current-maintainers: [*mbekkomo]
   dmenu:
     name: dmenu
     categories: [application_launcher, system]
@@ -1230,7 +1230,7 @@ ports:
     platform: agnostic
     color: blue
     icon: lua
-    current-maintainers: [*cattokomo]
+    current-maintainers: [*mbekkomo]
   lxqt:
     name: LXQt
     categories: [desktop_environment, system]
