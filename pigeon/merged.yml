@@ -61,8 +61,8 @@ collaborators:
   url: https://github.com/CallMeEchoCodes
 - username: catb00mer
   url: https://github.com/catb00mer
-- username: cattokomo
-  url: https://github.com/cattokomo
+- username: mbekkomo
+  url: https://github.com/mbekkomo
 - username: Cristhyano
   url: https://github.com/Cristhyano
 - username: coldenate
@@ -213,6 +213,9 @@ collaborators:
 - username: nekowinston
   name: winston
   url: https://github.com/nekowinston
+- username: NeonGamerBot-QK
+  name: Neon
+  url: https://github.com/NeonGamerBot-QK
 - username: NickSquiggles
   name: Nick
   url: https://github.com/NickSquiggles
@@ -439,8 +442,8 @@ collaborators:
 - username: jh-devv
   name: jh-devv
   url: https://github.com/jh-devv
-- username: NeonGamerBot-QK
-  url: https://github.com/NeonGamerBot-QK
+- username: comfysage
+  url: https://github.com/comfysage
 categories:
 - key: code_editor
   name: Code Editors & IDEs
@@ -725,7 +728,7 @@ repositories:
   current-maintainers: [rubyowo, ToxicAven]
 - name: diohub
   url: https://github.com/catppuccin/diohub
-  current-maintainers: [cattokomo]
+  current-maintainers: [mbekkomo]
 - name: dmenu
   url: https://github.com/catppuccin/dmenu
   current-maintainers: []
@@ -990,6 +993,9 @@ repositories:
 - name: lazygit
   url: https://github.com/catppuccin/lazygit
   current-maintainers: [nullishamy]
+- name: libreoffice
+  url: https://github.com/catppuccin/libreoffice
+  current-maintainers: [NeonGamerBot-QK]
 - name: limine
   url: https://github.com/catppuccin/limine
   current-maintainers: [mekb-turtle]
@@ -1001,7 +1007,7 @@ repositories:
   current-maintainers: [griimick]
 - name: lua
   url: https://github.com/catppuccin/lua
-  current-maintainers: [cattokomo]
+  current-maintainers: [mbekkomo]
 - name: lxqt
   url: https://github.com/catppuccin/lxqt
   current-maintainers: [DonutDev]
@@ -1094,8 +1100,8 @@ repositories:
   current-maintainers: [daveyholler]
 - name: nvim
   url: https://github.com/catppuccin/nvim
-  current-maintainers: [mrtnvgr, vollowx]
-  past-maintainers: [pocco81, nullchilly]
+  current-maintainers: [vollowx]
+  past-maintainers: [pocco81, nullchilly, mrtnvgr]
 - name: obs
   url: https://github.com/catppuccin/obs
   current-maintainers: [sgoudham]
@@ -1502,6 +1508,9 @@ repositories:
 - name: advent-of-code
   url: https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code
   current-maintainers: [rubyowo]
+- name: alternativeto
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/alternativeto
+  current-maintainers: [thismoon]
 - name: amplenote
   url: https://github.com/catppuccin/userstyles/tree/main/styles/amplenote
   current-maintainers: [stellophiliac]
@@ -1677,7 +1686,7 @@ repositories:
   current-maintainers: [00dani]
 - name: mastodon
   url: https://github.com/catppuccin/userstyles/tree/main/styles/mastodon
-  current-maintainers: []
+  current-maintainers: [comfysage]
   past-maintainers: [unseen-ninja, isabelroses]
 - name: mdbook
   url: https://github.com/catppuccin/userstyles/tree/main/styles/mdbook
@@ -1762,6 +1771,9 @@ repositories:
   url: https://github.com/catppuccin/userstyles/tree/main/styles/reddit
   current-maintainers: []
   past-maintainers: [jayylmao, rubyowo]
+- name: rentry.co
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/rentry.co
+  current-maintainers: [thismoon]
 - name: searxng
   url: https://github.com/catppuccin/userstyles/tree/main/styles/searxng
   current-maintainers: [Sekki21956, ryanccn]
@@ -2635,6 +2647,13 @@ ports:
   color: green
   key: lazygit
   repository: lazygit
+- name: Libre Office
+  categories: [document_viewer]
+  platform: [linux, macos, windows]
+  color: green
+  icon: libreoffice
+  key: libreoffice
+  repository: libreoffice
 - name: Limine
   categories: [boot_loader, system]
   platform: [linux]
@@ -3641,6 +3660,11 @@ ports:
   categories: [game, entertainment, userstyle]
   icon: adventofcode
   color: yellow
+- name: AlternativeTo
+  key: alternativeto
+  repository: alternativeto
+  categories: [productivity, discussion_forum, userstyle]
+  color: sapphire
 - name: Amplenote
   key: amplenote
   repository: amplenote
@@ -4113,6 +4137,11 @@ ports:
   categories: [discussion_forum, social_networking, entertainment, userstyle]
   color: red
   icon: reddit
+- name: Rentry.co
+  key: rentry.co
+  repository: rentry.co
+  categories: [productivity, userstyle]
+  color: text
 - name: SearXNG
   key: searxng
   repository: searxng
