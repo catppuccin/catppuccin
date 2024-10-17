@@ -753,8 +753,8 @@ ports:
     name: diohub
     url: https://github.com/catppuccin/diohub
     current-maintainers:
-    - username: cattokomo
-      url: https://github.com/cattokomo
+    - username: mbekkomo
+      url: https://github.com/mbekkomo
     past-maintainers: []
 - name: dmenu
   categories:
@@ -2332,6 +2332,24 @@ ports:
     - username: nullishamy
       url: https://github.com/nullishamy
     past-maintainers: []
+- name: Libre Office
+  categories:
+  - key: document_viewer
+    name: Document Viewers
+    description: Applications that allow users to open, view and interact with documents.
+    emoji: 📃
+  platform: [linux, macos, windows]
+  color: green
+  icon: libreoffice
+  key: libreoffice
+  repository:
+    name: libreoffice
+    url: https://github.com/catppuccin/libreoffice
+    current-maintainers:
+    - username: NeonGamerBot-QK
+      name: Neon
+      url: https://github.com/NeonGamerBot-QK
+    past-maintainers: []
 - name: Limine
   categories:
   - key: boot_loader
@@ -2402,8 +2420,8 @@ ports:
     name: lua
     url: https://github.com/catppuccin/lua
     current-maintainers:
-    - username: cattokomo
-      url: https://github.com/cattokomo
+    - username: mbekkomo
+      url: https://github.com/mbekkomo
     past-maintainers: []
 - name: LXQt
   categories:
@@ -2956,8 +2974,6 @@ ports:
     name: nvim
     url: https://github.com/catppuccin/nvim
     current-maintainers:
-    - username: mrtnvgr
-      url: https://github.com/mrtnvgr
     - username: vollowx
       name: Vollow
       url: https://github.com/vollowx
@@ -2966,6 +2982,8 @@ ports:
       url: https://github.com/pocco81
     - username: nullchilly
       url: https://github.com/nullchilly
+    - username: mrtnvgr
+      url: https://github.com/mrtnvgr
 - name: OBS Studio
   categories:
   - key: productivity
@@ -5198,6 +5216,31 @@ ports:
     emoji: 🖌️
   icon: adventofcode
   color: yellow
+- name: AlternativeTo
+  key: alternativeto
+  repository:
+    name: alternativeto
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/alternativeto
+    current-maintainers:
+    - username: thismoon
+      url: https://github.com/thismoon
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: sapphire
 - name: Amplenote
   key: amplenote
   repository:
@@ -6575,7 +6618,9 @@ ports:
   repository:
     name: mastodon
     url: https://github.com/catppuccin/userstyles/tree/main/styles/mastodon
-    current-maintainers: []
+    current-maintainers:
+    - username: comfysage
+      url: https://github.com/comfysage
     past-maintainers:
     - username: unseen-ninja
       url: https://github.com/unseen-ninja
@@ -6868,6 +6913,7 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/ollama
     current-maintainers:
     - username: NeonGamerBot-QK
+      name: Neon
       url: https://github.com/NeonGamerBot-QK
     past-maintainers: []
   categories:
@@ -7220,6 +7266,26 @@ ports:
     emoji: 🖌️
   color: red
   icon: reddit
+- name: Rentry.co
+  key: rentry.co
+  repository:
+    name: rentry.co
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/rentry.co
+    current-maintainers:
+    - username: thismoon
+      url: https://github.com/thismoon
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: text
 - name: SearXNG
   key: searxng
   repository:
@@ -7858,8 +7924,8 @@ collaborators:
   url: https://github.com/CallMeEchoCodes
 - username: catb00mer
   url: https://github.com/catb00mer
-- username: cattokomo
-  url: https://github.com/cattokomo
+- username: mbekkomo
+  url: https://github.com/mbekkomo
 - username: Cristhyano
   url: https://github.com/Cristhyano
 - username: coldenate
@@ -8010,6 +8076,9 @@ collaborators:
 - username: nekowinston
   name: winston
   url: https://github.com/nekowinston
+- username: NeonGamerBot-QK
+  name: Neon
+  url: https://github.com/NeonGamerBot-QK
 - username: NickSquiggles
   name: Nick
   url: https://github.com/NickSquiggles
@@ -8236,8 +8305,8 @@ collaborators:
 - username: jh-devv
   name: jh-devv
   url: https://github.com/jh-devv
-- username: NeonGamerBot-QK
-  url: https://github.com/NeonGamerBot-QK
+- username: comfysage
+  url: https://github.com/comfysage
 categories:
 - key: code_editor
   name: Code Editors & IDEs
