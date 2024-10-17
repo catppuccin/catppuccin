@@ -142,6 +142,8 @@ collaborators:
   url: https://github.com/NeonGamerBot-QK
 - username: Lichthagel
   url: https://github.com/Lichthagel
+- username: comfysage
+  url: https://github.com/comfysage
 categories:
 - key: userstyle
   name: Userstyles
@@ -151,6 +153,9 @@ repositories:
 - name: advent-of-code
   url: https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code
   current-maintainers: [rubyowo]
+- name: alternativeto
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/alternativeto
+  current-maintainers: [thismoon]
 - name: amplenote
   url: https://github.com/catppuccin/userstyles/tree/main/styles/amplenote
   current-maintainers: [stellophiliac]
@@ -326,7 +331,7 @@ repositories:
   current-maintainers: [00dani]
 - name: mastodon
   url: https://github.com/catppuccin/userstyles/tree/main/styles/mastodon
-  current-maintainers: []
+  current-maintainers: [comfysage]
   past-maintainers: [unseen-ninja, isabelroses]
 - name: mdbook
   url: https://github.com/catppuccin/userstyles/tree/main/styles/mdbook
@@ -411,6 +416,9 @@ repositories:
   url: https://github.com/catppuccin/userstyles/tree/main/styles/reddit
   current-maintainers: []
   past-maintainers: [jayylmao, rubyowo]
+- name: rentry.co
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/rentry.co
+  current-maintainers: [thismoon]
 - name: searxng
   url: https://github.com/catppuccin/userstyles/tree/main/styles/searxng
   current-maintainers: [Sekki21956, ryanccn]
@@ -487,6 +495,11 @@ ports:
   categories: [game, entertainment, userstyle]
   icon: adventofcode
   color: yellow
+- name: AlternativeTo
+  key: alternativeto
+  repository: alternativeto
+  categories: [productivity, discussion_forum, userstyle]
+  color: sapphire
 - name: Amplenote
   key: amplenote
   repository: amplenote
@@ -959,6 +972,11 @@ ports:
   categories: [discussion_forum, social_networking, entertainment, userstyle]
   color: red
   icon: reddit
+- name: Rentry.co
+  key: rentry.co
+  repository: rentry.co
+  categories: [productivity, userstyle]
+  color: text
 - name: SearXNG
   key: searxng
   repository: searxng
