@@ -543,7 +543,7 @@ ports:
     color: red
     icon: codemirror
     platform: agnostic
-    current-maintainers: [*uncenter]
+    current-maintainers: []
     past-maintainers: [*griimick]
   conky:
     name: Conky
