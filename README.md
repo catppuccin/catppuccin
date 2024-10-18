@@ -1173,7 +1173,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
 - [GitHub File Explorer Icons](https://github.com/catppuccin/github-file-explorer-icons)
-- [Google Chrome DevTools](https://github.com/catppuccin/chrome-devtools)
 - [nightTab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
 - [Shinigami Eyes](https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes)
