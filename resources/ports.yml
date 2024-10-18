@@ -253,8 +253,6 @@ collaborators:
   - &quentinguidee
     name: Quentin
     url: https://github.com/quentinguidee
-  - &r58Playz
-    url: https://github.com/r58Playz
   - &rayhanadev
     url: https://github.com/rayhanadev
   - &remiposo
@@ -523,13 +521,6 @@ ports:
     color: yellow
     current-maintainers: []
     past-maintainers: [*elkrien]
-  chrome-devtools:
-    name: Google Chrome DevTools
-    categories: [browser_extension]
-    platform: [linux, macos, windows]
-    icon: googlechrome
-    color: yellow
-    current-maintainers: [*r58Playz]
   cider:
     name: Cider
     categories: [music]
@@ -2263,6 +2254,13 @@ ports:
     current-maintainers: [*sakkke]
 
 archived:
+  chrome-devtools:
+    name: Google Chrome DevTools
+    reason: "Chrome has removed the experimental API required for the Catppuccin theme to be loaded."
+    categories: [browser_extension]
+    platform: [linux, macos, windows]
+    icon: googlechrome
+    color: yellow
   gtk:
     name: GTK
     reason: "Incredibly difficult to theme and maintain, this port could be revived if better theming methods arise. (highly unlikely)"
