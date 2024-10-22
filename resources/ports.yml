@@ -2228,7 +2228,7 @@ ports:
     name: Zen Browser
     categories: [browser]
     platform: [macos, linux, windows]
-    color: sapphire
+    color: text
     current-maintainers: [*IAmJafeth]
   zellij:
     name: Zellij
