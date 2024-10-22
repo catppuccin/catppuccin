@@ -2224,7 +2224,7 @@ ports:
     color: blue
     current-maintainers: [*tecandrew]
     icon: zedindustries
-  -browser:
+  zen-browser:
     name: Zen Browser
     categories: [browser]
     platform: [macos, linux, windows]
