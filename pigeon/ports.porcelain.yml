@@ -488,24 +488,6 @@ ports:
     past-maintainers:
     - username: elkrien
       url: https://github.com/elkrien
-- name: Google Chrome DevTools
-  categories:
-  - key: browser_extension
-    name: Browser Extensions
-    description: Add-ons which extend the functionality of web browsers, enhancing
-      the browsing experience.
-    emoji: 🧩
-  platform: [linux, macos, windows]
-  icon: googlechrome
-  color: yellow
-  key: chrome-devtools
-  repository:
-    name: chrome-devtools
-    url: https://github.com/catppuccin/chrome-devtools
-    current-maintainers:
-    - username: r58Playz
-      url: https://github.com/r58Playz
-    past-maintainers: []
 - name: Cider
   categories:
   - key: music
@@ -539,9 +521,7 @@ ports:
   repository:
     name: codemirror
     url: https://github.com/catppuccin/codemirror
-    current-maintainers:
-    - username: uncenter
-      url: https://github.com/uncenter
+    current-maintainers: []
     past-maintainers:
     - username: griimick
       url: https://github.com/griimick
@@ -5798,6 +5778,7 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/formative
     current-maintainers:
     - username: r58Playz
+      name: r58Playz
       url: https://github.com/r58Playz
     past-maintainers: []
   categories:
@@ -5927,6 +5908,7 @@ ports:
     url: https://github.com/catppuccin/userstyles/tree/main/styles/google-drive
     current-maintainers:
     - username: r58Playz
+      name: r58Playz
       url: https://github.com/r58Playz
     past-maintainers: []
   categories:
@@ -8116,8 +8098,6 @@ collaborators:
 - username: quentinguidee
   name: Quentin
   url: https://github.com/quentinguidee
-- username: r58Playz
-  url: https://github.com/r58Playz
 - username: rayhanadev
   url: https://github.com/rayhanadev
 - username: remiposo
@@ -8259,6 +8239,9 @@ collaborators:
 - username: skelebro1
   name: skele
   url: https://github.com/skelebro1
+- username: r58Playz
+  name: r58Playz
+  url: https://github.com/r58Playz
 - username: rockquiet
   name: rockquiet
   url: https://github.com/rockquiet
@@ -8501,6 +8484,24 @@ showcases:
   description: A simple, open-source recipe management app.
   link: https://github.com/judemont/reciper
 archived-ports:
+- name: Google Chrome DevTools
+  reason: Chrome has removed the experimental API required for the Catppuccin theme
+    to be loaded.
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  platform: [linux, macos, windows]
+  icon: googlechrome
+  color: yellow
+  key: chrome-devtools
+  repository:
+    name: chrome-devtools
+    url: https://github.com/catppuccin/chrome-devtools
+    current-maintainers: []
+    past-maintainers: []
 - name: GTK
   reason: Incredibly difficult to theme and maintain, this port could be revived if
     better theming methods arise. (highly unlikely)
