@@ -253,8 +253,6 @@ collaborators:
 - username: quentinguidee
   name: Quentin
   url: https://github.com/quentinguidee
-- username: r58Playz
-  url: https://github.com/r58Playz
 - username: rayhanadev
   url: https://github.com/rayhanadev
 - username: remiposo
@@ -396,6 +394,9 @@ collaborators:
 - username: skelebro1
   name: skele
   url: https://github.com/skelebro1
+- username: r58Playz
+  name: r58Playz
+  url: https://github.com/r58Playz
 - username: rockquiet
   name: rockquiet
   url: https://github.com/rockquiet
@@ -681,16 +682,13 @@ repositories:
   url: https://github.com/catppuccin/chrome
   current-maintainers: []
   past-maintainers: [elkrien]
-- name: chrome-devtools
-  url: https://github.com/catppuccin/chrome-devtools
-  current-maintainers: [r58Playz]
 - name: cider
   url: https://github.com/catppuccin/cider
   current-maintainers: [Flapperoo]
   past-maintainers: [nekowinston]
 - name: codemirror
   url: https://github.com/catppuccin/codemirror
-  current-maintainers: [uncenter]
+  current-maintainers: []
   past-maintainers: [griimick]
 - name: conky
   url: https://github.com/catppuccin/conky
@@ -1490,6 +1488,9 @@ repositories:
 - name: zutty
   url: https://github.com/catppuccin/zutty
   current-maintainers: [sakkke]
+- name: chrome-devtools
+  url: https://github.com/catppuccin/chrome-devtools
+  current-maintainers: []
 - name: gtk
   url: https://github.com/catppuccin/gtk
   current-maintainers: []
@@ -2000,13 +2001,6 @@ ports:
   color: yellow
   key: chrome
   repository: chrome
-- name: Google Chrome DevTools
-  categories: [browser_extension]
-  platform: [linux, macos, windows]
-  icon: googlechrome
-  color: yellow
-  key: chrome-devtools
-  repository: chrome-devtools
 - name: Cider
   categories: [music]
   platform: [linux, macos, windows]
@@ -4311,6 +4305,15 @@ showcases:
   description: A simple, open-source recipe management app.
   link: https://github.com/judemont/reciper
 archived-ports:
+- name: Google Chrome DevTools
+  reason: Chrome has removed the experimental API required for the Catppuccin theme
+    to be loaded.
+  categories: [browser_extension]
+  platform: [linux, macos, windows]
+  icon: googlechrome
+  color: yellow
+  key: chrome-devtools
+  repository: chrome-devtools
 - name: GTK
   reason: Incredibly difficult to theme and maintain, this port could be revived if
     better theming methods arise. (highly unlikely)
