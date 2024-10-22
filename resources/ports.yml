@@ -2224,10 +2224,10 @@ ports:
     color: blue
     current-maintainers: [*tecandrew]
     icon: zedindustries
-  zen-browser:
+  -browser:
     name: Zen Browser
     categories: [browser]
-    plaform: [macos, linux, windows]
+    platform: [macos, linux, windows]
     color: sapphire
     current-maintainers: [*IAmJafeth]
     icon: zen-browser
