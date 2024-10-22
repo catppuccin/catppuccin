@@ -121,6 +121,8 @@ collaborators:
     url: https://github.com/HeitorAugustoLN
   - &hyperreal64
     url: https://github.com/hyperreal64
+  - &IAmJafeth
+    url: https://github.com/IAmJafeth
   - &icy-comet
     url: https://github.com/icy-comet
   - &ignamartinoli
@@ -2222,6 +2224,13 @@ ports:
     color: blue
     current-maintainers: [*tecandrew]
     icon: zedindustries
+  zen-browser:
+    name: Zen Browser
+    categories: [browser]
+    plaform: [macos, linux, windows]
+    color: sapphire
+    current-maintainers: [*IAmJafeth]
+    icon: zen-browser
   zellij:
     name: Zellij
     categories: [cli]
