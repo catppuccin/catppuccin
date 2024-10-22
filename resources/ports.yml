@@ -487,6 +487,14 @@ ports:
     platform: [linux, macos]
     color: red
     current-maintainers: [*lokesh-krishna]
+  bunny:
+    name: Bunny
+    categories: [social_networking]
+    platform: [android, ios]
+    color: blue
+    icon: discord
+    alias: vendetta
+    current-maintainers: [*112cxyz, *Moodzz1]
   calibre:
     name: calibre
     categories: [document_viewer, productivity]
@@ -683,7 +691,8 @@ ports:
     platform: [ios]
     color: blue
     icon: discord
-    current-maintainers: [*112cxyz]
+    alias: vendetta
+    current-maintainers: [*112cxyz, *Moodzz1]
   fcitx5:
     name: fcitx5
     categories: [system]
@@ -2261,6 +2270,13 @@ archived:
     platform: [linux, macos, windows]
     icon: googlechrome
     color: yellow
+  enmity:
+    name: Enmity
+    reason: "This theme is now included within catppuccin/vendetta, therefore the catppuccin/enmity repository has been archived."
+    categories: [social_networking]
+    platform: [ios]
+    color: blue
+    icon: discord
   gtk:
     name: GTK
     reason: "Incredibly difficult to theme and maintain, this port could be revived if better theming methods arise. (highly unlikely)"
