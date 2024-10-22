@@ -303,11 +303,11 @@
     <td><img src="../assets/palette/circles/latte-ansi-black.png" height="16" width="16"/>
     </td><td>Subtext 1</td>
     <td><img src="../assets/palette/circles/frappe-ansi-black.png" height="16" width="16"/></td>
-    <td>Surface 1</td>
+    <td>Surface 2</td>
     <td><img src="../assets/palette/circles/macchiato-ansi-black.png" height="16" width="16"/>
-    </td><td>Surface 1</td>
+    </td><td>Surface 2</td>
     <td><img src="../assets/palette/circles/mocha-ansi-black.png" height="16" width="16"/></td>
-    <td>Surface 1</td>
+    <td>Surface 2</td>
   </tr>
   <tr>
     <td>color1</td>
@@ -401,11 +401,11 @@
     <td><img src="../assets/palette/circles/latte-ansi-black-bright.png" height="16" width="16"/></td>
     <td>Subtext 0</td>
     <td><img src="../assets/palette/circles/frappe-ansi-black-bright.png" height="16" width="16"/></td>
-    <td>Surface 2</td>
+    <td>Surface 1</td>
     <td><img src="../assets/palette/circles/macchiato-ansi-black-bright.png" height="16" width="16"/></td>
-    <td>Surface 2</td>
+    <td>Surface 1</td>
     <td><img src="../assets/palette/circles/mocha-ansi-black-bright.png" height="16" width="16"/></td>
-    <td>Surface 2</td>
+    <td>Surface 1</td>
   </tr>
   <tr>
     <td>color9</td>
