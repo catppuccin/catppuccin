@@ -5118,6 +5118,22 @@ ports:
     - username: mainrs
       url: https://github.com/mainrs
     past-maintainers: []
+- name: Zen Browser
+  categories:
+  - key: browser
+    name: Browsers
+    description: Applications for accessing and navigating the World Wide Web.
+    emoji: 🏄
+  platform: [linux, macos, windows]
+  color: text
+  key: zen-browser
+  repository:
+    name: zen-browser
+    url: https://github.com/catppuccin/zen-browser
+    current-maintainers:
+    - username: IAmJafeth
+      url: https://github.com/IAmJafeth
+    past-maintainers: []
 - name: ZSH Fast Syntax Highlighting
   categories:
   - key: cli
@@ -7966,6 +7982,8 @@ collaborators:
   url: https://github.com/HeitorAugustoLN
 - username: hyperreal64
   url: https://github.com/hyperreal64
+- username: IAmJafeth
+  url: https://github.com/IAmJafeth
 - username: icy-comet
   url: https://github.com/icy-comet
 - username: ignamartinoli
