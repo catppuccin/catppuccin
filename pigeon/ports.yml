@@ -121,6 +121,8 @@ collaborators:
   url: https://github.com/HeitorAugustoLN
 - username: hyperreal64
   url: https://github.com/hyperreal64
+- username: IAmJafeth
+  url: https://github.com/IAmJafeth
 - username: icy-comet
   url: https://github.com/icy-comet
 - username: ignamartinoli
@@ -1379,6 +1381,9 @@ repositories:
 - name: zellij
   url: https://github.com/catppuccin/zellij
   current-maintainers: [mainrs]
+- name: zen-browser
+  url: https://github.com/catppuccin/zen-browser
+  current-maintainers: [IAmJafeth]
 - name: zsh-fsh
   url: https://github.com/catppuccin/zsh-fsh
   current-maintainers: []
@@ -3192,6 +3197,12 @@ ports:
   color: green
   key: zellij
   repository: zellij
+- name: Zen Browser
+  categories: [browser]
+  platform: [linux, macos, windows]
+  color: text
+  key: zen-browser
+  repository: zen-browser
 - name: ZSH Fast Syntax Highlighting
   categories: [cli]
   platform: [linux, macos]
