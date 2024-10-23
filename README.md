@@ -1166,6 +1166,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Opera GX](https://github.com/catppuccin/opera-gx)
 - [qutebrowser](https://github.com/catppuccin/qutebrowser)
 - [Vivaldi](https://github.com/catppuccin/vivaldi)
+- [Zen Browser](https://github.com/catppuccin/zen-browser)
 
 </details>
 <details open>
