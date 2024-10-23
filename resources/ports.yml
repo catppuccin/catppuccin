@@ -2224,12 +2224,6 @@ ports:
     color: blue
     current-maintainers: [*tecandrew]
     icon: zedindustries
-  zen-browser:
-    name: Zen Browser
-    categories: [browser]
-    platform: [macos, linux, windows]
-    color: text
-    current-maintainers: [*IAmJafeth]
   zellij:
     name: Zellij
     categories: [cli]
@@ -2238,6 +2232,12 @@ ports:
     icon: zellij.svg
     color: green
     current-maintainers: [*mainrs]
+  zen-browser:
+    name: Zen Browser
+    categories: [browser]
+    platform: [linux, macos, windows]
+    color: text
+    current-maintainers: [*IAmJafeth]
   zsh-fsh:
     name: ZSH Fast Syntax Highlighting
     categories: [cli]
