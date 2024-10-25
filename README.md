@@ -1210,7 +1210,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Arch Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki)
 - [mdBook](https://github.com/catppuccin/userstyles/tree/main/styles/mdbook)
-- [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki)
+- [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/wiki.nixos.org)
 - [Wikipedia](https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia)
 - [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
 
