@@ -597,7 +597,7 @@
 #### <sup>1)</sup> ANSI Color Generation
 
 > [!NOTE]<br>
-> These bright colors are not neccesarily "brighter" than the normal colors, but rather more bold and saturated.
+> These bright colors are not necessarily "brighter" than the normal colors, but rather more bold and saturated.
 
 For Catppuccin's accents the ANSI brights are automatically generated based on the following formulas:
 
