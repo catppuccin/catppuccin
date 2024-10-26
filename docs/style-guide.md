@@ -599,7 +599,7 @@
 > [!NOTE]<br>
 > These bright colors are not necessarily "brighter" than the normal colors, but rather more bold and saturated.
 
-The ANSI brights, excluding `white` and `black`,  are automatically generated based on the following formulas:
+The ANSI brights, excluding `black` and `white`,  are automatically generated based on the following formulas:
 
 <table>
   <tr>
@@ -620,7 +620,7 @@ color.hue + 2</code></pre>
   </tr>
 </table>
 
-The color values for black and white are currently hard-mapped as follows:
+The color values for `black` and `white` are mapped as shown below:
 
 <table>
   <tr>
