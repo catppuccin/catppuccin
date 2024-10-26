@@ -2472,4 +2472,7 @@ showcases:
   - title: Reciper
     description: A simple, open-source recipe management app.
     link: https://github.com/judemont/reciper
+  - title: Catbbrew
+    description: Easily create your own Catppuccin flavors.
+    link: https://catbbrew.com/
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
