@@ -989,7 +989,7 @@ repositories:
   current-maintainers: [jayylmao]
 - name: nix
   url: https://github.com/catppuccin/nix
-  current-maintainers: [Stonks3141, getchoo]
+  current-maintainers: [Stonks3141, getchoo, isabelroses]
 - name: noir
   url: https://github.com/catppuccin/noir
   current-maintainers: []
@@ -1249,7 +1249,8 @@ repositories:
   past-maintainers: [elkrien]
 - name: tmux
   url: https://github.com/catppuccin/tmux
-  current-maintainers: [rogeruiz, 89iuv, vdbe, kjnsn]
+  current-maintainers: [rogeruiz, 89iuv, kjnsn]
+  past-maintainers: [vdbe]
 - name: tofi
   url: https://github.com/catppuccin/tofi
   current-maintainers: [iruzo]

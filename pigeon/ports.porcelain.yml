@@ -2877,6 +2877,8 @@ ports:
       url: https://github.com/Stonks3141
     - username: getchoo
       url: https://github.com/getchoo
+    - username: isabelroses
+      url: https://github.com/isabelroses
     past-maintainers: []
 - name: Noir
   categories:
@@ -4317,11 +4319,11 @@ ports:
       url: https://github.com/rogeruiz
     - username: 89iuv
       url: https://github.com/89iuv
-    - username: vdbe
-      url: https://github.com/vdbe
     - username: kjnsn
       url: https://github.com/kjnsn
-    past-maintainers: []
+    past-maintainers:
+    - username: vdbe
+      url: https://github.com/vdbe
 - name: Tofi
   categories:
   - key: application_launcher
@@ -6859,11 +6861,14 @@ ports:
   icon: nixos
   color: blue
 - name: NixOS Wiki
-  key: nixos.wiki
+  key: wiki.nixos.org
   repository:
-    name: nixos.wiki
-    url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki
-    current-maintainers: []
+    name: wiki.nixos.org
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/wiki.nixos.org
+    current-maintainers:
+    - username: orxngc
+      name: orangc
+      url: https://github.com/orxngc
     past-maintainers:
     - username: nekowinston
       name: winston
@@ -6873,11 +6878,10 @@ ports:
     name: Wikis
     description: Websites that hold information edited by multiple users.
     emoji: 🧠
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -8306,6 +8310,9 @@ collaborators:
 - username: jh-devv
   name: jh-devv
   url: https://github.com/jh-devv
+- username: orxngc
+  name: orangc
+  url: https://github.com/orxngc
 - username: comfysage
   url: https://github.com/comfysage
 categories:
