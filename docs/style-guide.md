@@ -387,7 +387,7 @@
     <td>Subtext 1</td>
   </tr>
   <tr>
-    <th colspan="9" align="center"><h4>Bold Colors</h4></th>
+    <th colspan="9" align="center"><h4>Bold Colors <a href="#1-ansi-color-generation"><sup>1)</sup></a></h4></th>
   </tr>
   <tr>
     <th></th>
@@ -593,6 +593,146 @@
     <td>Crust</td>
   </tr>
 </table>
+
+#### <sup>1)</sup> ANSI Color Generation
+
+> [!NOTE]<br>
+> These bright colors are not neccesarily "brighter" than the normal colors, but rather more bold and saturated.
+
+For Catppuccin's accents the ANSI brights are automatically generated based on the following formulas:
+
+<table>
+  <tr>
+    <th>Mocha, Macchiato, Frappé</th>
+    <th>Latte</th>
+  </tr>
+  <tr>
+    <td>
+<pre><code>color.lightness * 0.94
+color.chroma + 8
+color.hue + 2</code></pre>
+    </td>
+    <td>
+<pre><code>color.lightness * 1.09
+<br>
+color.hue + 2</code></pre>
+    </td>
+  </tr>
+</table>
+
+The color values for black and white are currently hard-mapped as follows:
+
+<table>
+  <tr>
+    <th>Mocha, Macchiato, Frappé</th>
+    <th>Latte</th>
+  </tr>
+  <tr>
+    <td>
+      Black (0): <code>Surface 2</code><br>
+      Black (8): <code>Surface 1</code><br>
+      White (7): <code>Subtext 1</code><br>
+      White (15): <code>Subtext 0</code>
+    </td>
+    <td>
+      Black  (0): <code>Subtext 1</code><br>
+      Black  (8): <code>Subtext 0</code><br>
+      White  (7): <code>Surface 2</code><br>
+      White (15): <code>Surface 1</code>
+    </td>
+  </tr>
+</table>
+
+<details closed>
+<summary>Complete ANSI color mappings</summary>
+  <table>
+    <tr>
+      <th>ANSI color</th>
+      <th>Catppuccin color</th>
+      <th>Latte Overwrite</th>
+    </tr>
+    <tr>
+      <td>Color 0</td>
+      <td>Surface 2</td>
+      <td>Subtext 1</td>
+    </tr>
+    <tr>
+      <td>Color 1</td>
+      <td>Red</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 2</td>
+      <td>Green</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 3</td>
+      <td>Yellow</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 4</td>
+      <td>Blue</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 5</td>
+      <td>Pink</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 6</td>
+      <td>Teal</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 7</td>
+      <td>Subtext 1</td>
+      <td>Surface 2</td>
+    </tr>
+    <tr>
+      <td>Color 8</td>
+      <td>Surface 1</td>
+      <td>Subtext 0</td>
+    </tr>
+    <tr>
+      <td>Color 9</td>
+      <td>Red</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 10</td>
+      <td>Green</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 11</td>
+      <td>Yellow</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 12</td>
+      <td>Blue</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 13</td>
+      <td>Pink</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 14</td>
+      <td>Teal</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Color 15</td>
+      <td>Subtext 0</td>
+      <td>Surface 1</td>
+    </tr>
+  </table>
+</details>
 
 ### Code Editors
 
