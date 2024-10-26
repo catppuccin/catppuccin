@@ -599,7 +599,7 @@
 > [!NOTE]<br>
 > These bright colors are not necessarily "brighter" than the normal colors, but rather more bold and saturated.
 
-For Catppuccin's accents the ANSI brights are automatically generated based on the following formulas:
+The ANSI brights, excluding `white` and `black`,  are automatically generated based on the following formulas:
 
 <table>
   <tr>
