@@ -445,6 +445,9 @@ collaborators:
 - username: jh-devv
   name: jh-devv
   url: https://github.com/jh-devv
+- username: orxngc
+  name: orangc
+  url: https://github.com/orxngc
 - username: comfysage
   url: https://github.com/comfysage
 categories:
@@ -1087,7 +1090,7 @@ repositories:
   current-maintainers: [jayylmao]
 - name: nix
   url: https://github.com/catppuccin/nix
-  current-maintainers: [Stonks3141, getchoo]
+  current-maintainers: [Stonks3141, getchoo, isabelroses]
 - name: noir
   url: https://github.com/catppuccin/noir
   current-maintainers: []
@@ -1347,7 +1350,8 @@ repositories:
   past-maintainers: [elkrien]
 - name: tmux
   url: https://github.com/catppuccin/tmux
-  current-maintainers: [rogeruiz, 89iuv, vdbe, kjnsn]
+  current-maintainers: [rogeruiz, 89iuv, kjnsn]
+  past-maintainers: [vdbe]
 - name: tofi
   url: https://github.com/catppuccin/tofi
   current-maintainers: [iruzo]
@@ -1721,9 +1725,9 @@ repositories:
 - name: nixos-search
   url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search
   current-maintainers: [cecelot]
-- name: nixos.wiki
-  url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki
-  current-maintainers: []
+- name: wiki.nixos.org
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/wiki.nixos.org
+  current-maintainers: [orxngc]
   past-maintainers: [nekowinston]
 - name: npm
   url: https://github.com/catppuccin/userstyles/tree/main/styles/npm
@@ -4046,9 +4050,9 @@ ports:
   icon: nixos
   color: blue
 - name: NixOS Wiki
-  key: nixos.wiki
-  repository: nixos.wiki
-  categories: [wiki, productivity, userstyle]
+  key: wiki.nixos.org
+  repository: wiki.nixos.org
+  categories: [wiki, development, userstyle]
   icon: nixos
   color: blue
 - name: npm

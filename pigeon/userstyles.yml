@@ -140,6 +140,9 @@ collaborators:
   url: https://github.com/stellophiliac
 - username: NeonGamerBot-QK
   url: https://github.com/NeonGamerBot-QK
+- username: orxngc
+  name: orangc
+  url: https://github.com/orxngc
 - username: Lichthagel
   url: https://github.com/Lichthagel
 - username: comfysage
@@ -360,9 +363,9 @@ repositories:
 - name: nixos-search
   url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search
   current-maintainers: [cecelot]
-- name: nixos.wiki
-  url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki
-  current-maintainers: []
+- name: wiki.nixos.org
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/wiki.nixos.org
+  current-maintainers: [orxngc]
   past-maintainers: [nekowinston]
 - name: npm
   url: https://github.com/catppuccin/userstyles/tree/main/styles/npm
@@ -876,9 +879,9 @@ ports:
   icon: nixos
   color: blue
 - name: NixOS Wiki
-  key: nixos.wiki
-  repository: nixos.wiki
-  categories: [wiki, productivity, userstyle]
+  key: wiki.nixos.org
+  repository: wiki.nixos.org
+  categories: [wiki, development, userstyle]
   icon: nixos
   color: blue
 - name: npm
