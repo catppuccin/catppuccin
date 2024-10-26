@@ -1261,6 +1261,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [homepage](https://github.com/catppuccin/userstyles/tree/main/styles/homepage)
 - [inoreader](https://github.com/catppuccin/userstyles/tree/main/styles/inoreader)
+- [keybr.com](https://github.com/catppuccin/userstyles/tree/main/styles/keybr.com)
 - [Linear](https://github.com/catppuccin/linear)
 - [Microsoft PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
 - [Microsoft Word](https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word)
@@ -1472,6 +1473,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Career Vault](https://careervault.io) - A remote job board that shows hundreds of new opportunities every day.
 - [Loungy](https://loungy.app) - An open-source application launcher in the vein of Raycast and Alfred.
 - [Reciper](https://github.com/judemont/reciper) - A simple, open-source recipe management app.
+- [Catbbrew](https://catbbrew.com/) - Easily create your own Catppuccin flavors.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
