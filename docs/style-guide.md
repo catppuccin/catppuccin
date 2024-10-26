@@ -302,12 +302,12 @@
     <td>color0</td>
     <td><img src="../assets/palette/circles/latte_subtext1.png" height="16" width="16"/>
     </td><td>Subtext 1</td>
-    <td><img src="../assets/palette/circles/frappe_surface2.png" height="16" width="16"/></td>
-    <td>Surface 2</td>
-    <td><img src="../assets/palette/circles/macchiato_surface2.png" height="16" width="16"/>
-    </td><td>Surface 2</td>
-    <td><img src="../assets/palette/circles/mocha_surface2.png" height="16" width="16"/></td>
-    <td>Surface 2</td>
+    <td><img src="../assets/palette/circles/frappe_surface1.png" height="16" width="16"/></td>
+    <td>Surface 1</td>
+    <td><img src="../assets/palette/circles/macchiato_surface1.png" height="16" width="16"/></td>
+    <td>Surface 1</td>
+    <td><img src="../assets/palette/circles/mocha_surface1.png" height="16" width="16"/></td>
+    <td>Surface 1</td>
   </tr>
   <tr>
     <td>color1</td>
@@ -379,12 +379,12 @@
     <td>color7</td>
     <td><img src="../assets/palette/circles/latte_surface2.png" height="16" width="16"/></td>
     <td>Surface 2</td>
-    <td><img src="../assets/palette/circles/frappe_subtext1.png" height="16" width="16"/></td>
-    <td>Subtext 1</td>
-    <td><img src="../assets/palette/circles/macchiato_subtext1.png" height="16" width="16"/></td>
-    <td>Subtext 1</td>
-    <td><img src="../assets/palette/circles/mocha_subtext1.png" height="16" width="16"/></td>
-    <td>Subtext 1</td>
+    <td><img src="../assets/palette/circles/frappe_subtext0.png" height="16" width="16"/></td>
+    <td>Subtext 0</td>
+    <td><img src="../assets/palette/circles/macchiato_subtext0.png" height="16" width="16"/></td>
+    <td>Subtext 0</td>
+    <td><img src="../assets/palette/circles/mocha_subtext0.png" height="16" width="16"/></td>
+    <td>Subtext 0</td>
   </tr>
   <tr>
     <th colspan="9" align="center"><h4>Bold Colors <a href="#1-ansi-color-generation"><sup>1)</sup></a></h4></th>
@@ -398,14 +398,14 @@
   </tr>
   <tr>
     <td>color8</td>
-    <td><img src="../assets/palette/circles/latte-ansi-black.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/latte_subtext0.png" height="16" width="16"/></td>
     <td>Subtext 0</td>
-    <td><img src="../assets/palette/circles/frappe-ansi-black.png" height="16" width="16"/></td>
-    <td>Surface 1</td>
-    <td><img src="../assets/palette/circles/macchiato-ansi-black.png" height="16" width="16"/></td>
-    <td>Surface 1</td>
-    <td><img src="../assets/palette/circles/mocha-ansi-black.png" height="16" width="16"/></td>
-    <td>Surface 1</td>
+    <td><img src="../assets/palette/circles/frappe_surface2.png" height="16" width="16"/></td>
+    <td>Surface 2</td>
+    <td><img src="../assets/palette/circles/macchiato_surface2.png" height="16" width="16"/>
+    </td><td>Surface 2</td>
+    <td><img src="../assets/palette/circles/mocha_surface2.png" height="16" width="16"/></td>
+    <td>Surface 2</td>
   </tr>
   <tr>
     <td>color9</td>
@@ -475,14 +475,14 @@
   </tr>
   <tr>
     <td>color15</td>
-    <td><img src="../assets/palette/circles/latte-ansi-white.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/latte_surface1.png" height="16" width="16"/></td>
     <td>Surface 1</td>
-    <td><img src="../assets/palette/circles/frappe-ansi-white.png" height="16" width="16"/></td>
-    <td>Subtext 0</td>
-    <td><img src="../assets/palette/circles/macchiato-ansi-white.png" height="16" width="16"/></td>
-    <td>Subtext 0</td>
-    <td><img src="../assets/palette/circles/mocha-ansi-white.png" height="16" width="16"/></td>
-    <td>Subtext 0</td>
+    <td><img src="../assets/palette/circles/frappe_subtext1.png" height="16" width="16"/></td>
+    <td>Subtext 1</td>
+    <td><img src="../assets/palette/circles/macchiato_subtext1.png" height="16" width="16"/></td>
+    <td>Subtext 1</td>
+    <td><img src="../assets/palette/circles/mocha_subtext1.png" height="16" width="16"/></td>
+    <td>Subtext 1</td>
   </tr>
   <tr>
     <th colspan="9" align="center"><h4>Extended Colors</h4></th>
@@ -629,10 +629,10 @@ The color values for `black` and `white` are mapped as shown below:
   </tr>
   <tr>
     <td>
-      Black (0): <code>Surface 2</code><br>
-      Black (8): <code>Surface 1</code><br>
-      White (7): <code>Subtext 1</code><br>
-      White (15): <code>Subtext 0</code>
+      Black (0): <code>Surface 1</code><br>
+      Black (8): <code>Surface 2</code><br>
+      White (7): <code>Subtext 0</code><br>
+      White (15): <code>Subtext 1</code>
     </td>
     <td>
       Black  (0): <code>Subtext 1</code><br>
