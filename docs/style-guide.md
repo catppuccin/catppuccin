@@ -304,8 +304,8 @@
     </td><td>Subtext 1</td>
     <td><img src="../assets/palette/circles/frappe_surface1.png" height="16" width="16"/></td>
     <td>Surface 1</td>
-    <td><img src="../assets/palette/circles/macchiato_surface1.png" height="16" width="16"/>
-    </td><td>Surface 1</td>
+    <td><img src="../assets/palette/circles/macchiato_surface1.png" height="16" width="16"/></td>
+    <td>Surface 1</td>
     <td><img src="../assets/palette/circles/mocha_surface1.png" height="16" width="16"/></td>
     <td>Surface 1</td>
   </tr>
@@ -379,15 +379,15 @@
     <td>color7</td>
     <td><img src="../assets/palette/circles/latte_surface2.png" height="16" width="16"/></td>
     <td>Surface 2</td>
-    <td><img src="../assets/palette/circles/frappe_subtext1.png" height="16" width="16"/></td>
-    <td>Subtext 1</td>
-    <td><img src="../assets/palette/circles/macchiato_subtext1.png" height="16" width="16"/></td>
-    <td>Subtext 1</td>
-    <td><img src="../assets/palette/circles/mocha_subtext1.png" height="16" width="16"/></td>
-    <td>Subtext 1</td>
+    <td><img src="../assets/palette/circles/frappe_subtext0.png" height="16" width="16"/></td>
+    <td>Subtext 0</td>
+    <td><img src="../assets/palette/circles/macchiato_subtext0.png" height="16" width="16"/></td>
+    <td>Subtext 0</td>
+    <td><img src="../assets/palette/circles/mocha_subtext0.png" height="16" width="16"/></td>
+    <td>Subtext 0</td>
   </tr>
   <tr>
-    <th colspan="9" align="center"><h4>Bold Colors</h4></th>
+    <th colspan="9" align="center"><h4>Bold Colors <a href="#1-ansi-color-generation"><sup>1)</sup></a></h4></th>
   </tr>
   <tr>
     <th></th>
@@ -402,87 +402,87 @@
     <td>Subtext 0</td>
     <td><img src="../assets/palette/circles/frappe_surface2.png" height="16" width="16"/></td>
     <td>Surface 2</td>
-    <td><img src="../assets/palette/circles/macchiato_surface2.png" height="16" width="16"/></td>
-    <td>Surface 2</td>
+    <td><img src="../assets/palette/circles/macchiato_surface2.png" height="16" width="16"/>
+    </td><td>Surface 2</td>
     <td><img src="../assets/palette/circles/mocha_surface2.png" height="16" width="16"/></td>
     <td>Surface 2</td>
   </tr>
   <tr>
     <td>color9</td>
-    <td><img src="../assets/palette/circles/latte_red.png" height="16" width="16"/></td>
-    <td>Red</td>
-    <td><img src="../assets/palette/circles/frappe_red.png" height="16" width="16"/></td>
-    <td>Red</td>
-    <td><img src="../assets/palette/circles/macchiato_red.png" height="16" width="16"/></td>
-    <td>Red</td>
-    <td><img src="../assets/palette/circles/mocha_red.png" height="16" width="16"/></td>
-    <td>Red</td>
+    <td><img src="../assets/palette/circles/latte-ansi-red.png" height="16" width="16"/></td>
+    <td>Bright Red</td>
+    <td><img src="../assets/palette/circles/frappe-ansi-red.png" height="16" width="16"/></td>
+    <td>Bright Red</td>
+    <td><img src="../assets/palette/circles/macchiato-ansi-red.png" height="16" width="16"/></td>
+    <td>Bright Red</td>
+    <td><img src="../assets/palette/circles/mocha-ansi-red.png" height="16" width="16"/></td>
+    <td>Bright Red</td>
   </tr>
   <tr>
     <td>color10</td>
-    <td><img src="../assets/palette/circles/latte_green.png" height="16" width="16"/></td>
-    <td>Green</td>
-    <td><img src="../assets/palette/circles/frappe_green.png" height="16" width="16"/></td>
-    <td>Green</td>
-    <td><img src="../assets/palette/circles/macchiato_green.png" height="16" width="16"/></td>
-    <td>Green</td>
-    <td><img src="../assets/palette/circles/mocha_green.png" height="16" width="16"/></td>
-    <td>Green</td>
+    <td><img src="../assets/palette/circles/latte-ansi-green.png" height="16" width="16"/></td>
+    <td>Bright Green</td>
+    <td><img src="../assets/palette/circles/frappe-ansi-green.png" height="16" width="16"/></td>
+    <td>Bright Green</td>
+    <td><img src="../assets/palette/circles/macchiato-ansi-green.png" height="16" width="16"/></td>
+    <td>Bright Green</td>
+    <td><img src="../assets/palette/circles/mocha-ansi-green.png" height="16" width="16"/></td>
+    <td>Bright Green</td>
   </tr>
   <tr>
     <td>color11</td>
-    <td><img src="../assets/palette/circles/latte_yellow.png" height="16" width="16"/></td>
-    <td>Yellow</td>
-    <td><img src="../assets/palette/circles/frappe_yellow.png" height="16" width="16"/></td>
-    <td>Yellow</td>
-    <td><img src="../assets/palette/circles/macchiato_yellow.png" height="16" width="16"/></td>
-    <td>Yellow</td>
-    <td><img src="../assets/palette/circles/mocha_yellow.png" height="16" width="16"/></td>
-    <td>Yellow</td>
+    <td><img src="../assets/palette/circles/latte-ansi-yellow.png" height="16" width="16"/></td>
+    <td>Bright Yellow</td>
+    <td><img src="../assets/palette/circles/frappe-ansi-yellow.png" height="16" width="16"/></td>
+    <td>Bright Yellow</td>
+    <td><img src="../assets/palette/circles/macchiato-ansi-yellow.png" height="16" width="16"/></td>
+    <td>Bright Yellow</td>
+    <td><img src="../assets/palette/circles/mocha-ansi-yellow.png" height="16" width="16"/></td>
+    <td>Bright Yellow</td>
   </tr>
   <tr>
     <td>color12</td>
-    <td><img src="../assets/palette/circles/latte_blue.png" height="16" width="16"/></td>
-    <td>Blue</td>
-    <td><img src="../assets/palette/circles/frappe_blue.png" height="16" width="16"/></td>
-    <td>Blue</td>
-    <td><img src="../assets/palette/circles/macchiato_blue.png" height="16" width="16"/></td>
-    <td>Blue</td>
-    <td><img src="../assets/palette/circles/mocha_blue.png" height="16" width="16"/></td>
-    <td>Blue</td>
+    <td><img src="../assets/palette/circles/latte-ansi-blue.png" height="16" width="16"/></td>
+    <td>Bright Blue</td>
+    <td><img src="../assets/palette/circles/frappe-ansi-blue.png" height="16" width="16"/></td>
+    <td>Bright Blue</td>
+    <td><img src="../assets/palette/circles/macchiato-ansi-blue.png" height="16" width="16"/></td>
+    <td>Bright Blue</td>
+    <td><img src="../assets/palette/circles/mocha-ansi-blue.png" height="16" width="16"/></td>
+    <td>Bright Blue</td>
   </tr>
   <tr>
     <td>color13</td>
-    <td><img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/></td>
-    <td>Pink</td>
-    <td><img src="../assets/palette/circles/frappe_pink.png" height="16" width="16"/></td>
-    <td>Pink</td>
-    <td><img src="../assets/palette/circles/macchiato_pink.png" height="16" width="16"/></td>
-    <td>Pink</td>
-    <td><img src="../assets/palette/circles/mocha_pink.png" height="16" width="16"/></td>
-    <td>Pink</td>
+    <td><img src="../assets/palette/circles/latte-ansi-pink.png" height="16" width="16"/></td>
+    <td>Bright Pink</td>
+    <td><img src="../assets/palette/circles/frappe-ansi-pink.png" height="16" width="16"/></td>
+    <td>Bright Pink</td>
+    <td><img src="../assets/palette/circles/macchiato-ansi-pink.png" height="16" width="16"/></td>
+    <td>Bright Pink</td>
+    <td><img src="../assets/palette/circles/mocha-ansi-pink.png" height="16" width="16"/></td>
+    <td>Bright Pink</td>
   </tr>
   <tr>
     <td>color14</td>
-    <td><img src="../assets/palette/circles/latte_teal.png" height="16" width="16"/></td>
-    <td>Teal</td>
-    <td><img src="../assets/palette/circles/frappe_teal.png" height="16" width="16"/></td>
-    <td>Teal</td>
-    <td><img src="../assets/palette/circles/macchiato_teal.png" height="16" width="16"/></td>
-    <td>Teal</td>
-    <td><img src="../assets/palette/circles/mocha_teal.png" height="16" width="16"/></td>
-    <td>Teal</td>
+    <td><img src="../assets/palette/circles/latte-ansi-teal.png" height="16" width="16"/></td>
+    <td>Bright Teal</td>
+    <td><img src="../assets/palette/circles/frappe-ansi-teal.png" height="16" width="16"/></td>
+    <td>Bright Teal</td>
+    <td><img src="../assets/palette/circles/macchiato-ansi-teal.png" height="16" width="16"/></td>
+    <td>Bright Teal</td>
+    <td><img src="../assets/palette/circles/mocha-ansi-teal.png" height="16" width="16"/></td>
+    <td>Bright Teal</td>
   </tr>
   <tr>
     <td>color15</td>
     <td><img src="../assets/palette/circles/latte_surface1.png" height="16" width="16"/></td>
     <td>Surface 1</td>
-    <td><img src="../assets/palette/circles/frappe_subtext0.png" height="16" width="16"/></td>
-    <td>Subtext 0</td>
-    <td><img src="../assets/palette/circles/macchiato_subtext0.png" height="16" width="16"/></td>
-    <td>Subtext 0</td>
-    <td><img src="../assets/palette/circles/mocha_subtext0.png" height="16" width="16"/></td>
-    <td>Subtext 0</td>
+    <td><img src="../assets/palette/circles/frappe_subtext1.png" height="16" width="16"/></td>
+    <td>Subtext 1</td>
+    <td><img src="../assets/palette/circles/macchiato_subtext1.png" height="16" width="16"/></td>
+    <td>Subtext 1</td>
+    <td><img src="../assets/palette/circles/mocha_subtext1.png" height="16" width="16"/></td>
+    <td>Subtext 1</td>
   </tr>
   <tr>
     <th colspan="9" align="center"><h4>Extended Colors</h4></th>
@@ -591,6 +591,55 @@
     <td>Crust</td>
     <td><img src="../assets/palette/circles/mocha_crust.png" height="16" width="16"/></td>
     <td>Crust</td>
+  </tr>
+</table>
+
+#### <sup>1)</sup> ANSI Color Generation
+
+> [!NOTE]<br>
+> These bright colors are not necessarily "brighter" than the normal colors, but rather more bold and saturated.
+
+The ANSI brights, excluding `black` and `white`,  are automatically generated based on the following formulas:
+
+<table>
+  <tr>
+    <th>Mocha, Macchiato, Frappé</th>
+    <th>Latte</th>
+  </tr>
+  <tr>
+    <td>
+<pre><code>color.lightness * 0.94
+color.chroma + 8
+color.hue + 2</code></pre>
+    </td>
+    <td>
+<pre><code>color.lightness * 1.09
+<br>
+color.hue + 2</code></pre>
+    </td>
+  </tr>
+</table>
+
+The color values for `black` and `white` are mapped as shown below:
+
+<table>
+  <tr>
+    <th>Mocha, Macchiato, Frappé</th>
+    <th>Latte</th>
+  </tr>
+  <tr>
+    <td>
+      Black (0): <code>Surface 1</code><br>
+      Black (8): <code>Surface 2</code><br>
+      White (7): <code>Subtext 0</code><br>
+      White (15): <code>Subtext 1</code>
+    </td>
+    <td>
+      Black  (0): <code>Subtext 1</code><br>
+      Black  (8): <code>Subtext 0</code><br>
+      White  (7): <code>Surface 2</code><br>
+      White (15): <code>Surface 1</code>
+    </td>
   </tr>
 </table>
 
