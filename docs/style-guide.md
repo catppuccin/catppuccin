@@ -409,68 +409,68 @@
   </tr>
   <tr>
     <td>color9</td>
-    <td><img src="../assets/palette/circles/latte-ansi-red.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/latte_ansi_red.png" height="16" width="16"/></td>
     <td>Bright Red</td>
-    <td><img src="../assets/palette/circles/frappe-ansi-red.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/frappe_ansi_red.png" height="16" width="16"/></td>
     <td>Bright Red</td>
-    <td><img src="../assets/palette/circles/macchiato-ansi-red.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/macchiato_ansi_red.png" height="16" width="16"/></td>
     <td>Bright Red</td>
-    <td><img src="../assets/palette/circles/mocha-ansi-red.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/mocha_ansi_red.png" height="16" width="16"/></td>
     <td>Bright Red</td>
   </tr>
   <tr>
     <td>color10</td>
-    <td><img src="../assets/palette/circles/latte-ansi-green.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/latte_ansi_green.png" height="16" width="16"/></td>
     <td>Bright Green</td>
-    <td><img src="../assets/palette/circles/frappe-ansi-green.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/frappe_ansi_green.png" height="16" width="16"/></td>
     <td>Bright Green</td>
-    <td><img src="../assets/palette/circles/macchiato-ansi-green.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/macchiato_ansi_green.png" height="16" width="16"/></td>
     <td>Bright Green</td>
-    <td><img src="../assets/palette/circles/mocha-ansi-green.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/mocha_ansi_green.png" height="16" width="16"/></td>
     <td>Bright Green</td>
   </tr>
   <tr>
     <td>color11</td>
-    <td><img src="../assets/palette/circles/latte-ansi-yellow.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/latte_ansi_yellow.png" height="16" width="16"/></td>
     <td>Bright Yellow</td>
-    <td><img src="../assets/palette/circles/frappe-ansi-yellow.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/frappe_ansi_yellow.png" height="16" width="16"/></td>
     <td>Bright Yellow</td>
-    <td><img src="../assets/palette/circles/macchiato-ansi-yellow.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/macchiato_ansi_yellow.png" height="16" width="16"/></td>
     <td>Bright Yellow</td>
-    <td><img src="../assets/palette/circles/mocha-ansi-yellow.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/mocha_ansi_yellow.png" height="16" width="16"/></td>
     <td>Bright Yellow</td>
   </tr>
   <tr>
     <td>color12</td>
-    <td><img src="../assets/palette/circles/latte-ansi-blue.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/latte_ansi_blue.png" height="16" width="16"/></td>
     <td>Bright Blue</td>
-    <td><img src="../assets/palette/circles/frappe-ansi-blue.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/frappe_ansi_blue.png" height="16" width="16"/></td>
     <td>Bright Blue</td>
-    <td><img src="../assets/palette/circles/macchiato-ansi-blue.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/macchiato_ansi_blue.png" height="16" width="16"/></td>
     <td>Bright Blue</td>
-    <td><img src="../assets/palette/circles/mocha-ansi-blue.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/mocha_ansi_blue.png" height="16" width="16"/></td>
     <td>Bright Blue</td>
   </tr>
   <tr>
     <td>color13</td>
-    <td><img src="../assets/palette/circles/latte-ansi-pink.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/latte_ansi_pink.png" height="16" width="16"/></td>
     <td>Bright Pink</td>
-    <td><img src="../assets/palette/circles/frappe-ansi-pink.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/frappe_ansi_pink.png" height="16" width="16"/></td>
     <td>Bright Pink</td>
-    <td><img src="../assets/palette/circles/macchiato-ansi-pink.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/macchiato_ansi_pink.png" height="16" width="16"/></td>
     <td>Bright Pink</td>
-    <td><img src="../assets/palette/circles/mocha-ansi-pink.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/mocha_ansi_pink.png" height="16" width="16"/></td>
     <td>Bright Pink</td>
   </tr>
   <tr>
     <td>color14</td>
-    <td><img src="../assets/palette/circles/latte-ansi-teal.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/latte_ansi_teal.png" height="16" width="16"/></td>
     <td>Bright Teal</td>
-    <td><img src="../assets/palette/circles/frappe-ansi-teal.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/frappe_ansi_teal.png" height="16" width="16"/></td>
     <td>Bright Teal</td>
-    <td><img src="../assets/palette/circles/macchiato-ansi-teal.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/macchiato_ansi_teal.png" height="16" width="16"/></td>
     <td>Bright Teal</td>
-    <td><img src="../assets/palette/circles/mocha-ansi-teal.png" height="16" width="16"/></td>
+    <td><img src="../assets/palette/circles/mocha_ansi_teal.png" height="16" width="16"/></td>
     <td>Bright Teal</td>
   </tr>
   <tr>
