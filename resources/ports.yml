@@ -29,6 +29,8 @@ collaborators:
   - &AwA-VR
     name: AwA
     url: https://github.com/AwA-VR
+  - &acm-wq
+    url: https://github.com/acm-wq
   - &asrvd
     url: https://github.com/asrvd
   - &aszecsei
@@ -1651,6 +1653,13 @@ ports:
     icon: rstudioide
     current-maintainers: []
     past-maintainers: [*AngelBerihuete]
+  ruby:
+    name: Ruby
+    categories: [library]
+    platform: agnostic
+    color: red
+    icon: ruby
+    current-maintainers: [*acm-wq]
   rust:
     name: Rust
     categories: [library]
