@@ -1002,6 +1002,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Nim](https://github.com/catppuccin/nim)
 - [Pantone](https://github.com/catppuccin/pantone)
 - [Python](https://github.com/catppuccin/python)
+- [Ruby](https://github.com/catppuccin/ruby)
 - [Rust](https://github.com/catppuccin/rust)
 - [Typst](https://github.com/catppuccin/typst)
 - [UI](https://github.com/catppuccin/ui)
