@@ -1445,7 +1445,7 @@ ports:
     current-maintainers: [*mbeckrich]
   ohmyrepl:
     name: OhMyREPL
-    categories: [cli, development, terminal]
+    categories: [cli, development]
     platform: [linux, macos, windows]
     color: mauve
     current-maintainers: [*Anomalocaridid]
