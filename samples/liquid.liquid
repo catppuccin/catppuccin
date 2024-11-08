@@ -1,0 +1,51 @@
+<article>
+  <header>
+    <h1>{{ article.title }}</h1>
+
+    {%- if section.settings.blog_show_author -%}
+      <span> By {{ article.author }} </span>
+    {%- endif -%}
+
+    {%- if section.settings.blog_show_date -%}
+      <span>
+        {{ article.published_at | time_tag: format: 'month_day_year' }}
+      </span>
+    {%- endif -%}
+  </header>
+
+  {{ article.content }}
+
+  {%- if article.tags.size > 0 -%}
+    <footer>
+      <ul aria-label="Tags">
+        {%- for tag in article.tags -%}
+          <li>
+            <a href="{{ blog.url }}/tagged/{{ tag | handle }}">
+              {{ tag }}
+            </a>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </footer>
+  {%- endif -%}
+</article>
+
+{% schema %}
+{
+  "name": "Posts",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "blog_show_author",
+      "label": "Show author",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "blog_show_date",
+      "label": "Show date",
+      "default": true
+    }
+  ]
+}
+{% endschema %}
