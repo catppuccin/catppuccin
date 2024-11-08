@@ -1023,6 +1023,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [k9s](https://github.com/catppuccin/k9s)
 - [lazygit](https://github.com/catppuccin/lazygit)
 - [Newsboat](https://github.com/catppuccin/newsboat)
+- [OhMyREPL](https://github.com/catppuccin/ohmyrepl)
 - [PowerShell](https://github.com/catppuccin/powershell)
 - [Process Compose](https://github.com/catppuccin/process-compose)
 - [sc-im](https://github.com/catppuccin/sc-im)
