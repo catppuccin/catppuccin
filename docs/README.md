@@ -23,6 +23,7 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
 + [Specifications](https://github.com/catppuccin/catppuccin/blob/main/docs/specs.md): properties of the palette
 + [Style Guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md): a guide on how to properly use the palette
 + [Port Creation](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md): creating Catppuccin ports
++ [Translation Table](https://github.com/catppuccin/catppuccin/blob/main/docs/translation-table.md): convert older v0.1.3 ports to v0.2.0's palette
 
 &nbsp;
 
