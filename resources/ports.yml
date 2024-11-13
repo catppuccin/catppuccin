@@ -728,7 +728,7 @@ ports:
     categories: [system]
     platform: [android]
     color: green
-    current-maintainers: [*skinatro]
+    current-maintainers: [*skinatro, *sgoudham]
   flow-launcher:
     name: Flow Launcher
     categories: [application_launcher, system]
@@ -850,7 +850,7 @@ ports:
     platform: agnostic
     color: green
     icon: gitea
-    current-maintainers: []
+    current-maintainers: [*sgoudham]
     past-maintainers: [*nekowinston]
   github-file-explorer-icons:
     name: GitHub File Explorer Icons
@@ -2099,7 +2099,7 @@ ports:
         icon: vscodium
         color: blue
         url: https://open-vsx.org/extension/Catppuccin/catppuccin-vsc
-    current-maintainers: [*backwardspy]
+    current-maintainers: [*backwardspy, *sgoudham]
     past-maintainers: [*ghostx31, *VictorTennekes, *nekowinston]
   vscode-icons:
     name: Visual Studio Code Icons
