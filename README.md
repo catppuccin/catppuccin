@@ -981,6 +981,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [Prism.js](https://github.com/catppuccin/prismjs)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
+- [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
 - [Stack Overflow](https://github.com/catppuccin/userstyles/tree/main/styles/stack-overflow)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
