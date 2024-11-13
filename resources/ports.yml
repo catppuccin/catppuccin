@@ -928,7 +928,7 @@ ports:
     platform: agnostic
     color: sapphire
     icon: go
-    current-maintainers: [*caarlos0]
+    current-maintainers: [*caarlos0, *jolheiser]
   godot:
     name: Godot
     categories: [game_development]
