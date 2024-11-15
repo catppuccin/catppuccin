@@ -2069,7 +2069,8 @@ ports:
         icon: visualstudio
         color: blue
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.CatppuccinVS
-    current-maintainers: [*djflan]
+    current-maintainers: []
+    past-maintainers: [*djflan]
   vitepress:
     name: VitePress
     categories: [development]
