@@ -404,9 +404,9 @@ ports:
     past-maintainers: [*BlueFalconHD]
   asciinema:
     name: Asciinema
-    categories: [terminal, development]
+    categories: [cli, productivity, development]
     color: text
-    platform: "agnostic"
+    platform: [linux, macos, windows]
     current-maintainers: [*mbekkomo]
   aseprite:
     name: Aseprite
