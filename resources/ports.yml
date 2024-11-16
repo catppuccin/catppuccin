@@ -402,6 +402,12 @@ ports:
     color: blue
     current-maintainers: [*AnubisNekhet]
     past-maintainers: [*BlueFalconHD]
+  asciinema:
+    name: Asciinema
+    categories: [cli, productivity, development]
+    color: text
+    platform: [linux, macos, windows]
+    current-maintainers: [*mbekkomo]
   aseprite:
     name: Aseprite
     categories: [productivity]
