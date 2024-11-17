@@ -63,6 +63,8 @@ collaborators:
     url: https://github.com/CallMeEchoCodes
   - &catb00mer
     url: https://github.com/catb00mer
+  - &Covkie
+    url: https://github.com/Covkie
   - &mbekkomo
     url: https://github.com/mbekkomo
   - &Cristhyano
@@ -504,7 +506,7 @@ ports:
     color: blue
     icon: discord
     alias: vendetta
-    current-maintainers: [*112cxyz, *Moodzz1]
+    current-maintainers: [*112cxyz, *Covkie, *Moodzz1, *riichi67]
   calibre:
     name: calibre
     categories: [document_viewer, productivity]
@@ -702,7 +704,7 @@ ports:
     color: blue
     icon: discord
     alias: vendetta
-    current-maintainers: [*112cxyz, *Moodzz1]
+    current-maintainers: [*112cxyz, *Covkie, *riichi67, *Moodzz1]
   fcitx5:
     name: fcitx5
     categories: [system]
@@ -2057,7 +2059,7 @@ ports:
     platform: [android, ios]
     color: blue
     icon: discord
-    current-maintainers: [*riichi67, *Moodzz1]
+    current-maintainers: [*112cxyz, *Covkie, *Moodzz1, *riichi67]
   vim:
     name: Vim
     categories: [code_editor, cli]
