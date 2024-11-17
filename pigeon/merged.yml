@@ -29,6 +29,8 @@ collaborators:
 - username: AwA-VR
   name: AwA
   url: https://github.com/AwA-VR
+- username: acm-wq
+  url: https://github.com/acm-wq
 - username: asrvd
   url: https://github.com/asrvd
 - username: aszecsei
@@ -61,6 +63,8 @@ collaborators:
   url: https://github.com/CallMeEchoCodes
 - username: catb00mer
   url: https://github.com/catb00mer
+- username: Covkie
+  url: https://github.com/Covkie
 - username: mbekkomo
   url: https://github.com/mbekkomo
 - username: Cristhyano
@@ -380,8 +384,6 @@ collaborators:
 - username: soya-daizu
   name: soya_daizu
   url: https://github.com/soya-daizu
-- username: GitMuslim
-  url: https://github.com/GitMuslim
 - username: TheMemeSniper
   name: TheMemeSniper
   url: https://github.com/TheMemeSniper
@@ -445,11 +447,16 @@ collaborators:
 - username: jh-devv
   name: jh-devv
   url: https://github.com/jh-devv
-- username: orxngc
+- username: orangci
   name: orangc
-  url: https://github.com/orxngc
+  url: https://github.com/orangci
 - username: comfysage
   url: https://github.com/comfysage
+- username: TadoTheMiner
+  name: jan Tatesa
+  url: https://github.com/TadoTheMiner
+- username: mxgic1337
+  url: https://github.com/mxgic1337
 categories:
 - key: code_editor
   name: Code Editors & IDEs
@@ -630,6 +637,9 @@ repositories:
   url: https://github.com/catppuccin/anki
   current-maintainers: [AnubisNekhet]
   past-maintainers: [BlueFalconHD]
+- name: asciinema
+  url: https://github.com/catppuccin/asciinema
+  current-maintainers: [mbekkomo]
 - name: aseprite
   url: https://github.com/catppuccin/aseprite
   current-maintainers: [sofycat]
@@ -762,9 +772,6 @@ repositories:
   url: https://github.com/catppuccin/emacs
   current-maintainers: [nyxkrage, jtbx]
   past-maintainers: [pspiagicw, NamesCode]
-- name: enmity
-  url: https://github.com/catppuccin/enmity
-  current-maintainers: [112cxyz]
 - name: fcitx5
   url: https://github.com/catppuccin/fcitx5
   current-maintainers: []
@@ -783,7 +790,7 @@ repositories:
   current-maintainers: [kkrypt0nn, davfsa]
 - name: florisboard
   url: https://github.com/catppuccin/florisboard
-  current-maintainers: [skinatro]
+  current-maintainers: [skinatro, sgoudham]
 - name: flow-launcher
   url: https://github.com/catppuccin/flow-launcher
   current-maintainers: [uncenter]
@@ -845,7 +852,7 @@ repositories:
   current-maintainers: [uncenter]
 - name: gitea
   url: https://github.com/catppuccin/gitea
-  current-maintainers: []
+  current-maintainers: [sgoudham]
   past-maintainers: [nekowinston]
 - name: github-file-explorer-icons
   url: https://github.com/catppuccin/github-file-explorer-icons
@@ -882,7 +889,7 @@ repositories:
   past-maintainers: [nekowinston]
 - name: go
   url: https://github.com/catppuccin/go
-  current-maintainers: [caarlos0]
+  current-maintainers: [caarlos0, jolheiser]
 - name: godot
   url: https://github.com/catppuccin/godot
   current-maintainers: [backwardspy]
@@ -1112,6 +1119,9 @@ repositories:
 - name: obsidian
   url: https://github.com/catppuccin/obsidian
   current-maintainers: [mbeckrich]
+- name: ohmyrepl
+  url: https://github.com/catppuccin/ohmyrepl
+  current-maintainers: [Anomalocaridid]
 - name: openbox
   url: https://github.com/catppuccin/openbox
   current-maintainers: []
@@ -1218,6 +1228,9 @@ repositories:
   url: https://github.com/catppuccin/rstudio
   current-maintainers: []
   past-maintainers: [AngelBerihuete]
+- name: ruby
+  url: https://github.com/catppuccin/ruby
+  current-maintainers: [acm-wq]
 - name: rust
   url: https://github.com/catppuccin/rust
   current-maintainers: [backwardspy]
@@ -1396,7 +1409,7 @@ repositories:
   current-maintainers: [Delta456]
 - name: vendetta
   url: https://github.com/catppuccin/vendetta
-  current-maintainers: [riichi67, Moodzz1]
+  current-maintainers: [112cxyz, Covkie, Moodzz1, riichi67]
 - name: vim
   url: https://github.com/catppuccin/vim
   current-maintainers: [M3nny]
@@ -1406,7 +1419,8 @@ repositories:
   past-maintainers: [elkrien]
 - name: visual-studio
   url: https://github.com/catppuccin/visual-studio
-  current-maintainers: [djflan]
+  current-maintainers: []
+  past-maintainers: [djflan]
 - name: vitepress
   url: https://github.com/catppuccin/vitepress
   current-maintainers: [42Willow]
@@ -1415,7 +1429,7 @@ repositories:
   current-maintainers: [sakkke]
 - name: vscode
   url: https://github.com/catppuccin/vscode
-  current-maintainers: [backwardspy]
+  current-maintainers: [backwardspy, sgoudham]
   past-maintainers: [ghostx31, VictorTennekes, nekowinston]
 - name: vscode-icons
   url: https://github.com/catppuccin/vscode-icons
@@ -1499,6 +1513,9 @@ repositories:
   current-maintainers: [sakkke]
 - name: chrome-devtools
   url: https://github.com/catppuccin/chrome-devtools
+  current-maintainers: []
+- name: enmity
+  url: https://github.com/catppuccin/enmity
   current-maintainers: []
 - name: gtk
   url: https://github.com/catppuccin/gtk
@@ -1608,13 +1625,16 @@ repositories:
   current-maintainers: [Flapperoo]
 - name: google
   url: https://github.com/catppuccin/userstyles/tree/main/styles/google
-  current-maintainers: [GitMuslim]
+  current-maintainers: []
 - name: google-drive
   url: https://github.com/catppuccin/userstyles/tree/main/styles/google-drive
   current-maintainers: [r58Playz]
 - name: google-photos
   url: https://github.com/catppuccin/userstyles/tree/main/styles/google-photos
   current-maintainers: [GenShibe]
+- name: grabify
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/grabify
+  current-maintainers: [trinkey]
 - name: graphite
   url: https://github.com/catppuccin/userstyles/tree/main/styles/graphite
   current-maintainers: [isabelroses]
@@ -1639,6 +1659,9 @@ repositories:
 - name: homepage
   url: https://github.com/catppuccin/userstyles/tree/main/styles/homepage
   current-maintainers: [Gandalf-the-Blue]
+- name: hoogle
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/hoogle
+  current-maintainers: [jn-sena]
 - name: hoppscotch
   url: https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch
   current-maintainers: [justTOBBI]
@@ -1654,6 +1677,9 @@ repositories:
 - name: inoreader
   url: https://github.com/catppuccin/userstyles/tree/main/styles/inoreader
   current-maintainers: [thomas-philippot]
+- name: indie-wiki-buddy
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/indie-wiki-buddy
+  current-maintainers: [thismoon]
 - name: instagram
   url: https://github.com/catppuccin/userstyles/tree/main/styles/instagram
   current-maintainers: [GenShibe]
@@ -1668,6 +1694,9 @@ repositories:
 - name: jisho
   url: https://github.com/catppuccin/userstyles/tree/main/styles/jisho
   current-maintainers: [Lichthagel]
+- name: keybr.com
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/keybr.com
+  current-maintainers: [TadoTheMiner]
 - name: keyoxide
   url: https://github.com/catppuccin/userstyles/tree/main/styles/keyoxide
   current-maintainers: [uncenter]
@@ -1709,13 +1738,13 @@ repositories:
   current-maintainers: [thismoon]
 - name: microsoft-word
   url: https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word
-  current-maintainers: [GitMuslim]
+  current-maintainers: []
 - name: migadu-webmail
   url: https://github.com/catppuccin/userstyles/tree/main/styles/migadu-webmail
   current-maintainers: [uncenter]
 - name: minesweeper
   url: https://github.com/catppuccin/userstyles/tree/main/styles/minesweeper
-  current-maintainers: [GitMuslim]
+  current-maintainers: []
 - name: namemc
   url: https://github.com/catppuccin/userstyles/tree/main/styles/namemc
   current-maintainers: [Nyatalieeee]
@@ -1727,7 +1756,7 @@ repositories:
   current-maintainers: [cecelot]
 - name: wiki.nixos.org
   url: https://github.com/catppuccin/userstyles/tree/main/styles/wiki.nixos.org
-  current-maintainers: [orxngc]
+  current-maintainers: [orangci]
   past-maintainers: [nekowinston]
 - name: npm
   url: https://github.com/catppuccin/userstyles/tree/main/styles/npm
@@ -1771,6 +1800,9 @@ repositories:
 - name: pypi
   url: https://github.com/catppuccin/userstyles/tree/main/styles/pypi
   current-maintainers: [trinkey]
+- name: pythonanywhere
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere
+  current-maintainers: [trinkey]
 - name: quizlet
   url: https://github.com/catppuccin/userstyles/tree/main/styles/quizlet
   current-maintainers: [spaghettiosareyummy]
@@ -1805,10 +1837,10 @@ repositories:
   past-maintainers: [bartlibert]
 - name: stylus
   url: https://github.com/catppuccin/userstyles/tree/main/styles/stylus
-  current-maintainers: [GitMuslim]
+  current-maintainers: []
 - name: substack
   url: https://github.com/catppuccin/userstyles/tree/main/styles/substack
-  current-maintainers: []
+  current-maintainers: [uncenter]
   past-maintainers: [nekowinston]
 - name: syncthing
   url: https://github.com/catppuccin/userstyles/tree/main/styles/syncthing
@@ -1827,7 +1859,7 @@ repositories:
   current-maintainers: [ryanccn]
 - name: twitch
   url: https://github.com/catppuccin/userstyles/tree/main/styles/twitch
-  current-maintainers: [GitMuslim, uncenter]
+  current-maintainers: [uncenter, mxgic1337]
 - name: twitter
   url: https://github.com/catppuccin/userstyles/tree/main/styles/twitter
   current-maintainers: [watatomo]
@@ -1845,7 +1877,7 @@ repositories:
   current-maintainers: [FrancoRav]
 - name: wikipedia
   url: https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia
-  current-maintainers: [GitMuslim]
+  current-maintainers: []
 - name: wikiwand
   url: https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand
   current-maintainers: [Tnixc]
@@ -1894,6 +1926,12 @@ ports:
   color: blue
   key: anki
   repository: anki
+- name: Asciinema
+  categories: [cli, productivity, development]
+  color: text
+  platform: [linux, macos, windows]
+  key: asciinema
+  repository: asciinema
 - name: Aseprite
   categories: [productivity]
   icon: aseprite
@@ -1978,6 +2016,14 @@ ports:
   color: red
   key: btop
   repository: btop
+- name: Bunny
+  categories: [social_networking]
+  platform: [android, ios]
+  color: blue
+  icon: discord
+  alias: vendetta
+  key: bunny
+  repository: vendetta
 - name: calibre
   categories: [document_viewer, productivity]
   platform: [linux, macos, windows]
@@ -2162,8 +2208,9 @@ ports:
   platform: [ios]
   color: blue
   icon: discord
+  alias: vendetta
   key: enmity
-  repository: enmity
+  repository: vendetta
 - name: fcitx5
   categories: [system]
   platform: [linux]
@@ -2890,6 +2937,12 @@ ports:
   icon: obsidian
   key: obsidian
   repository: obsidian
+- name: OhMyREPL
+  categories: [cli, development]
+  platform: [linux, macos, windows]
+  color: mauve
+  key: ohmyrepl
+  repository: ohmyrepl
 - name: Openbox
   categories: [window_manager, system]
   platform: [linux]
@@ -3058,6 +3111,14 @@ ports:
   icon: replit
   key: replit
   repository: replit
+- name: Revenge
+  categories: [social_networking]
+  platform: [android, ios]
+  color: blue
+  icon: discord
+  alias: vendetta
+  key: revenge
+  repository: vendetta
 - name: Revolt
   categories: [social_networking]
   platform: [linux, macos, windows]
@@ -3084,6 +3145,13 @@ ports:
   icon: rstudioide
   key: rstudio
   repository: rstudio
+- name: Ruby
+  categories: [library]
+  platform: agnostic
+  color: red
+  icon: ruby
+  key: ruby
+  repository: ruby
 - name: Rust
   categories: [library]
   platform: agnostic
@@ -3845,6 +3913,11 @@ ports:
   categories: [photo_and_video, userstyle]
   icon: googlephotos
   color: sapphire
+- name: Grabify
+  key: grabify
+  repository: grabify
+  categories: [development, productivity, userstyle]
+  color: teal
 - name: Graphite
   key: graphite
   repository: graphite
@@ -3889,6 +3962,12 @@ ports:
   repository: homepage
   categories: [productivity, userstyle]
   color: sky
+- name: Hoogle
+  key: hoogle
+  repository: hoogle
+  categories: [development, productivity, userstyle]
+  icon: haskell
+  color: mauve
 - name: Hoppscotch
   key: hoppscotch
   repository: hoppscotch
@@ -3916,6 +3995,11 @@ ports:
   categories: [productivity, userstyle]
   icon: inoreader
   color: blue
+- name: Indie Wiki Buddy
+  key: indie-wiki-buddy
+  repository: indie-wiki-buddy
+  categories: [browser_extension, userstyle]
+  color: blue
 - name: Instagram
   key: instagram
   repository: instagram
@@ -3938,6 +4022,11 @@ ports:
   repository: jisho
   categories: [translation_tool, userstyle]
   color: green
+- name: keybr.com
+  key: keybr.com
+  repository: keybr.com
+  categories: [productivity, userstyle]
+  color: text
 - name: Keyoxide
   key: keyoxide
   repository: keyoxide
@@ -4127,6 +4216,11 @@ ports:
 - name: PyPI
   key: pypi
   repository: pypi
+  categories: [development, userstyle]
+  color: sapphire
+- name: PythonAnywhere
+  key: pythonanywhere
+  repository: pythonanywhere
   categories: [development, userstyle]
   color: sapphire
 - name: Quizlet
@@ -4319,6 +4413,9 @@ showcases:
 - title: Reciper
   description: A simple, open-source recipe management app.
   link: https://github.com/judemont/reciper
+- title: Catbbrew
+  description: Easily create your own Catppuccin flavors.
+  link: https://catbbrew.com/
 archived-ports:
 - name: Google Chrome DevTools
   reason: Chrome has removed the experimental API required for the Catppuccin theme
@@ -4329,6 +4426,15 @@ archived-ports:
   color: yellow
   key: chrome-devtools
   repository: chrome-devtools
+- name: Enmity
+  reason: This theme is now included within catppuccin/vendetta, therefore the catppuccin/enmity
+    repository has been archived.
+  categories: [social_networking]
+  platform: [ios]
+  color: blue
+  icon: discord
+  key: enmity
+  repository: enmity
 - name: GTK
   reason: Incredibly difficult to theme and maintain, this port could be revived if
     better theming methods arise. (highly unlikely)
