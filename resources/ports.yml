@@ -29,6 +29,8 @@ collaborators:
   - &AwA-VR
     name: AwA
     url: https://github.com/AwA-VR
+  - &acm-wq
+    url: https://github.com/acm-wq
   - &asrvd
     url: https://github.com/asrvd
   - &aszecsei
@@ -121,6 +123,8 @@ collaborators:
     url: https://github.com/HeitorAugustoLN
   - &hyperreal64
     url: https://github.com/hyperreal64
+  - &IAmJafeth
+    url: https://github.com/IAmJafeth
   - &icy-comet
     url: https://github.com/icy-comet
   - &ignamartinoli
@@ -398,6 +402,12 @@ ports:
     color: blue
     current-maintainers: [*AnubisNekhet]
     past-maintainers: [*BlueFalconHD]
+  asciinema:
+    name: Asciinema
+    categories: [cli, productivity, development]
+    color: text
+    platform: [linux, macos, windows]
+    current-maintainers: [*mbekkomo]
   aseprite:
     name: Aseprite
     categories: [productivity]
@@ -733,7 +743,7 @@ ports:
     categories: [system]
     platform: [android]
     color: green
-    current-maintainers: [*skinatro]
+    current-maintainers: [*skinatro, *sgoudham]
   flow-launcher:
     name: Flow Launcher
     categories: [application_launcher, system]
@@ -855,7 +865,7 @@ ports:
     platform: agnostic
     color: green
     icon: gitea
-    current-maintainers: []
+    current-maintainers: [*sgoudham]
     past-maintainers: [*nekowinston]
   github-file-explorer-icons:
     name: GitHub File Explorer Icons
@@ -933,7 +943,7 @@ ports:
     platform: agnostic
     color: sapphire
     icon: go
-    current-maintainers: [*caarlos0]
+    current-maintainers: [*caarlos0, *jolheiser]
   godot:
     name: Godot
     categories: [game_development]
@@ -1401,7 +1411,7 @@ ports:
     platform: [linux, macos]
     color: blue
     icon: nixos
-    current-maintainers: [*Stonks3141, *getchoo]
+    current-maintainers: [*Stonks3141, *getchoo, *isabelroses]
   noir:
     name: Noir
     categories: [browser_extension]
@@ -1448,6 +1458,12 @@ ports:
     color: mauve
     icon: obsidian
     current-maintainers: [*mbeckrich]
+  ohmyrepl:
+    name: OhMyREPL
+    categories: [cli, development]
+    platform: [linux, macos, windows]
+    color: mauve
+    current-maintainers: [*Anomalocaridid]
   openbox:
     name: Openbox
     categories: [window_manager, system]
@@ -1658,6 +1674,13 @@ ports:
     icon: rstudioide
     current-maintainers: []
     past-maintainers: [*AngelBerihuete]
+  ruby:
+    name: Ruby
+    categories: [library]
+    platform: agnostic
+    color: red
+    icon: ruby
+    current-maintainers: [*acm-wq]
   rust:
     name: Rust
     categories: [library]
@@ -1934,7 +1957,8 @@ ports:
     platform: [linux, macos]
     color: green
     icon: tmux
-    current-maintainers: [*rogeruiz, *89iuv, *vdbe, *kjnsn]
+    current-maintainers: [*rogeruiz, *89iuv, *kjnsn]
+    past-maintainers: [*vdbe]
   tofi:
     name: Tofi
     categories: [application_launcher, system]
@@ -2060,7 +2084,8 @@ ports:
         icon: visualstudio
         color: blue
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.CatppuccinVS
-    current-maintainers: [*djflan]
+    current-maintainers: []
+    past-maintainers: [*djflan]
   vitepress:
     name: VitePress
     categories: [development]
@@ -2090,7 +2115,7 @@ ports:
         icon: vscodium
         color: blue
         url: https://open-vsx.org/extension/Catppuccin/catppuccin-vsc
-    current-maintainers: [*backwardspy]
+    current-maintainers: [*backwardspy, *sgoudham]
     past-maintainers: [*ghostx31, *VictorTennekes, *nekowinston]
   vscode-icons:
     name: Visual Studio Code Icons
@@ -2239,6 +2264,12 @@ ports:
     icon: zellij.svg
     color: green
     current-maintainers: [*mainrs]
+  zen-browser:
+    name: Zen Browser
+    categories: [browser]
+    platform: [linux, macos, windows]
+    color: text
+    current-maintainers: [*IAmJafeth]
   zsh-fsh:
     name: ZSH Fast Syntax Highlighting
     categories: [cli]
@@ -2479,4 +2510,7 @@ showcases:
   - title: Reciper
     description: A simple, open-source recipe management app.
     link: https://github.com/judemont/reciper
+  - title: Catbbrew
+    description: Easily create your own Catppuccin flavors.
+    link: https://catbbrew.com/
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json

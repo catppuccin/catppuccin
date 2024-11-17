@@ -959,10 +959,12 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [freedesktop.org](https://github.com/catppuccin/userstyles/tree/main/styles/freedesktop)
 - [GitHub](https://github.com/catppuccin/userstyles/tree/main/styles/github)
 - [go.dev](https://github.com/catppuccin/userstyles/tree/main/styles/go.dev)
+- [Grabify](https://github.com/catppuccin/userstyles/tree/main/styles/grabify)
 - [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
 - [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
 - [highlight.js](https://github.com/catppuccin/highlightjs)
 - [Home Manager Options Search](https://github.com/catppuccin/userstyles/tree/main/styles/home-manager-options-search)
+- [Hoogle](https://github.com/catppuccin/userstyles/tree/main/styles/hoogle)
 - [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
 - [ImHex](https://github.com/catppuccin/imhex)
 - [Insomnia](https://github.com/catppuccin/insomnia)
@@ -979,6 +981,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [Prism.js](https://github.com/catppuccin/prismjs)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
+- [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
 - [Stack Overflow](https://github.com/catppuccin/userstyles/tree/main/styles/stack-overflow)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
@@ -1002,6 +1005,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Nim](https://github.com/catppuccin/nim)
 - [Pantone](https://github.com/catppuccin/pantone)
 - [Python](https://github.com/catppuccin/python)
+- [Ruby](https://github.com/catppuccin/ruby)
 - [Rust](https://github.com/catppuccin/rust)
 - [Typst](https://github.com/catppuccin/typst)
 - [UI](https://github.com/catppuccin/ui)
@@ -1011,6 +1015,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🐚 CLI Tools</summary>
 
+- [Asciinema](https://github.com/catppuccin/asciinema)
 - [bat](https://github.com/catppuccin/bat)
 - [bottom](https://github.com/catppuccin/bottom)
 - [btop++](https://github.com/catppuccin/btop)
@@ -1022,6 +1027,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [k9s](https://github.com/catppuccin/k9s)
 - [lazygit](https://github.com/catppuccin/lazygit)
 - [Newsboat](https://github.com/catppuccin/newsboat)
+- [OhMyREPL](https://github.com/catppuccin/ohmyrepl)
 - [PowerShell](https://github.com/catppuccin/powershell)
 - [Process Compose](https://github.com/catppuccin/process-compose)
 - [sc-im](https://github.com/catppuccin/sc-im)
@@ -1166,6 +1172,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Opera GX](https://github.com/catppuccin/opera-gx)
 - [qutebrowser](https://github.com/catppuccin/qutebrowser)
 - [Vivaldi](https://github.com/catppuccin/vivaldi)
+- [Zen Browser](https://github.com/catppuccin/zen-browser)
 
 </details>
 <details open>
@@ -1173,6 +1180,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
 - [GitHub File Explorer Icons](https://github.com/catppuccin/github-file-explorer-icons)
+- [Indie Wiki Buddy](https://github.com/catppuccin/userstyles/tree/main/styles/indie-wiki-buddy)
 - [nightTab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
 - [Shinigami Eyes](https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes)
@@ -1209,7 +1217,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Arch Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki)
 - [mdBook](https://github.com/catppuccin/userstyles/tree/main/styles/mdbook)
-- [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/nixos.wiki)
+- [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/wiki.nixos.org)
 - [Wikipedia](https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia)
 - [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
 
@@ -1260,6 +1268,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [homepage](https://github.com/catppuccin/userstyles/tree/main/styles/homepage)
 - [inoreader](https://github.com/catppuccin/userstyles/tree/main/styles/inoreader)
+- [keybr.com](https://github.com/catppuccin/userstyles/tree/main/styles/keybr.com)
 - [Linear](https://github.com/catppuccin/linear)
 - [Microsoft PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
 - [Microsoft Word](https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word)
@@ -1471,6 +1480,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Career Vault](https://careervault.io) - A remote job board that shows hundreds of new opportunities every day.
 - [Loungy](https://loungy.app) - An open-source application launcher in the vein of Raycast and Alfred.
 - [Reciper](https://github.com/judemont/reciper) - A simple, open-source recipe management app.
+- [Catbbrew](https://catbbrew.com/) - Easily create your own Catppuccin flavors.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
