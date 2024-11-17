@@ -1647,6 +1647,14 @@ ports:
     icon: replit
     current-maintainers: []
     past-maintainers: [*Gingeh]
+  revenge:
+    name: Revenge
+    categories: [social_networking]
+    platform: [android, ios]
+    color: blue
+    icon: discord
+    alias: vendetta
+    current-maintainers: [*112cxyz, *Covkie, *Moodzz1, *riichi67]
   revolt:
     name: Revolt
     categories: [social_networking]
