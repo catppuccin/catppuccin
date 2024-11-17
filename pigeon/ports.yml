@@ -29,6 +29,8 @@ collaborators:
 - username: AwA-VR
   name: AwA
   url: https://github.com/AwA-VR
+- username: acm-wq
+  url: https://github.com/acm-wq
 - username: asrvd
   url: https://github.com/asrvd
 - username: aszecsei
@@ -61,6 +63,8 @@ collaborators:
   url: https://github.com/CallMeEchoCodes
 - username: catb00mer
   url: https://github.com/catb00mer
+- username: Covkie
+  url: https://github.com/Covkie
 - username: mbekkomo
   url: https://github.com/mbekkomo
 - username: Cristhyano
@@ -529,6 +533,9 @@ repositories:
   url: https://github.com/catppuccin/anki
   current-maintainers: [AnubisNekhet]
   past-maintainers: [BlueFalconHD]
+- name: asciinema
+  url: https://github.com/catppuccin/asciinema
+  current-maintainers: [mbekkomo]
 - name: aseprite
   url: https://github.com/catppuccin/aseprite
   current-maintainers: [sofycat]
@@ -661,9 +668,6 @@ repositories:
   url: https://github.com/catppuccin/emacs
   current-maintainers: [nyxkrage, jtbx]
   past-maintainers: [pspiagicw, NamesCode]
-- name: enmity
-  url: https://github.com/catppuccin/enmity
-  current-maintainers: [112cxyz]
 - name: fcitx5
   url: https://github.com/catppuccin/fcitx5
   current-maintainers: []
@@ -682,7 +686,7 @@ repositories:
   current-maintainers: [kkrypt0nn, davfsa]
 - name: florisboard
   url: https://github.com/catppuccin/florisboard
-  current-maintainers: [skinatro]
+  current-maintainers: [skinatro, sgoudham]
 - name: flow-launcher
   url: https://github.com/catppuccin/flow-launcher
   current-maintainers: [uncenter]
@@ -744,7 +748,7 @@ repositories:
   current-maintainers: [uncenter]
 - name: gitea
   url: https://github.com/catppuccin/gitea
-  current-maintainers: []
+  current-maintainers: [sgoudham]
   past-maintainers: [nekowinston]
 - name: github-file-explorer-icons
   url: https://github.com/catppuccin/github-file-explorer-icons
@@ -781,7 +785,7 @@ repositories:
   past-maintainers: [nekowinston]
 - name: go
   url: https://github.com/catppuccin/go
-  current-maintainers: [caarlos0]
+  current-maintainers: [caarlos0, jolheiser]
 - name: godot
   url: https://github.com/catppuccin/godot
   current-maintainers: [backwardspy]
@@ -1011,6 +1015,9 @@ repositories:
 - name: obsidian
   url: https://github.com/catppuccin/obsidian
   current-maintainers: [mbeckrich]
+- name: ohmyrepl
+  url: https://github.com/catppuccin/ohmyrepl
+  current-maintainers: [Anomalocaridid]
 - name: openbox
   url: https://github.com/catppuccin/openbox
   current-maintainers: []
@@ -1117,6 +1124,9 @@ repositories:
   url: https://github.com/catppuccin/rstudio
   current-maintainers: []
   past-maintainers: [AngelBerihuete]
+- name: ruby
+  url: https://github.com/catppuccin/ruby
+  current-maintainers: [acm-wq]
 - name: rust
   url: https://github.com/catppuccin/rust
   current-maintainers: [backwardspy]
@@ -1295,7 +1305,7 @@ repositories:
   current-maintainers: [Delta456]
 - name: vendetta
   url: https://github.com/catppuccin/vendetta
-  current-maintainers: [riichi67, Moodzz1]
+  current-maintainers: [112cxyz, Covkie, Moodzz1, riichi67]
 - name: vim
   url: https://github.com/catppuccin/vim
   current-maintainers: [M3nny]
@@ -1305,7 +1315,8 @@ repositories:
   past-maintainers: [elkrien]
 - name: visual-studio
   url: https://github.com/catppuccin/visual-studio
-  current-maintainers: [djflan]
+  current-maintainers: []
+  past-maintainers: [djflan]
 - name: vitepress
   url: https://github.com/catppuccin/vitepress
   current-maintainers: [42Willow]
@@ -1314,7 +1325,7 @@ repositories:
   current-maintainers: [sakkke]
 - name: vscode
   url: https://github.com/catppuccin/vscode
-  current-maintainers: [backwardspy]
+  current-maintainers: [backwardspy, sgoudham]
   past-maintainers: [ghostx31, VictorTennekes, nekowinston]
 - name: vscode-icons
   url: https://github.com/catppuccin/vscode-icons
@@ -1399,6 +1410,9 @@ repositories:
 - name: chrome-devtools
   url: https://github.com/catppuccin/chrome-devtools
   current-maintainers: []
+- name: enmity
+  url: https://github.com/catppuccin/enmity
+  current-maintainers: []
 - name: gtk
   url: https://github.com/catppuccin/gtk
   current-maintainers: []
@@ -1455,6 +1469,12 @@ ports:
   color: blue
   key: anki
   repository: anki
+- name: Asciinema
+  categories: [cli, productivity, development]
+  color: text
+  platform: [linux, macos, windows]
+  key: asciinema
+  repository: asciinema
 - name: Aseprite
   categories: [productivity]
   icon: aseprite
@@ -1539,6 +1559,14 @@ ports:
   color: red
   key: btop
   repository: btop
+- name: Bunny
+  categories: [social_networking]
+  platform: [android, ios]
+  color: blue
+  icon: discord
+  alias: vendetta
+  key: bunny
+  repository: vendetta
 - name: calibre
   categories: [document_viewer, productivity]
   platform: [linux, macos, windows]
@@ -1723,8 +1751,9 @@ ports:
   platform: [ios]
   color: blue
   icon: discord
+  alias: vendetta
   key: enmity
-  repository: enmity
+  repository: vendetta
 - name: fcitx5
   categories: [system]
   platform: [linux]
@@ -2451,6 +2480,12 @@ ports:
   icon: obsidian
   key: obsidian
   repository: obsidian
+- name: OhMyREPL
+  categories: [cli, development]
+  platform: [linux, macos, windows]
+  color: mauve
+  key: ohmyrepl
+  repository: ohmyrepl
 - name: Openbox
   categories: [window_manager, system]
   platform: [linux]
@@ -2619,6 +2654,14 @@ ports:
   icon: replit
   key: replit
   repository: replit
+- name: Revenge
+  categories: [social_networking]
+  platform: [android, ios]
+  color: blue
+  icon: discord
+  alias: vendetta
+  key: revenge
+  repository: vendetta
 - name: Revolt
   categories: [social_networking]
   platform: [linux, macos, windows]
@@ -2645,6 +2688,13 @@ ports:
   icon: rstudioide
   key: rstudio
   repository: rstudio
+- name: Ruby
+  categories: [library]
+  platform: agnostic
+  color: red
+  icon: ruby
+  key: ruby
+  repository: ruby
 - name: Rust
   categories: [library]
   platform: agnostic
@@ -3261,6 +3311,9 @@ showcases:
 - title: Reciper
   description: A simple, open-source recipe management app.
   link: https://github.com/judemont/reciper
+- title: Catbbrew
+  description: Easily create your own Catppuccin flavors.
+  link: https://catbbrew.com/
 archived-ports:
 - name: Google Chrome DevTools
   reason: Chrome has removed the experimental API required for the Catppuccin theme
@@ -3271,6 +3324,15 @@ archived-ports:
   color: yellow
   key: chrome-devtools
   repository: chrome-devtools
+- name: Enmity
+  reason: This theme is now included within catppuccin/vendetta, therefore the catppuccin/enmity
+    repository has been archived.
+  categories: [social_networking]
+  platform: [ios]
+  color: blue
+  icon: discord
+  key: enmity
+  repository: enmity
 - name: GTK
   reason: Incredibly difficult to theme and maintain, this port could be revived if
     better theming methods arise. (highly unlikely)
