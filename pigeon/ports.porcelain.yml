@@ -133,6 +133,32 @@ ports:
     past-maintainers:
     - username: BlueFalconHD
       url: https://github.com/BlueFalconHD
+- name: Asciinema
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  color: text
+  platform: [linux, macos, windows]
+  key: asciinema
+  repository:
+    name: asciinema
+    url: https://github.com/catppuccin/asciinema
+    current-maintainers:
+    - username: mbekkomo
+      url: https://github.com/mbekkomo
+    past-maintainers: []
 - name: Aseprite
   categories:
   - key: productivity
@@ -170,6 +196,9 @@ ports:
     - username: backwardspy
       name: pigeon
       url: https://github.com/backwardspy
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
     past-maintainers:
     - username: ghostx31
       url: https://github.com/ghostx31
@@ -384,6 +413,31 @@ ports:
     current-maintainers:
     - username: lokesh-krishna
       url: https://github.com/lokesh-krishna
+    past-maintainers: []
+- name: Bunny
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [android, ios]
+  color: blue
+  icon: discord
+  alias: vendetta
+  key: bunny
+  repository:
+    name: vendetta
+    url: https://github.com/catppuccin/vendetta
+    current-maintainers:
+    - username: 112cxyz
+      url: https://github.com/112cxyz
+    - username: Covkie
+      url: https://github.com/Covkie
+    - username: Moodzz1
+      url: https://github.com/Moodzz1
+    - username: riichi67
+      url: https://github.com/riichi67
     past-maintainers: []
 - name: calibre
   categories:
@@ -919,13 +973,20 @@ ports:
   platform: [ios]
   color: blue
   icon: discord
+  alias: vendetta
   key: enmity
   repository:
-    name: enmity
-    url: https://github.com/catppuccin/enmity
+    name: vendetta
+    url: https://github.com/catppuccin/vendetta
     current-maintainers:
     - username: 112cxyz
       url: https://github.com/112cxyz
+    - username: Covkie
+      url: https://github.com/Covkie
+    - username: Moodzz1
+      url: https://github.com/Moodzz1
+    - username: riichi67
+      url: https://github.com/riichi67
     past-maintainers: []
 - name: fcitx5
   categories:
@@ -1036,6 +1097,9 @@ ports:
     current-maintainers:
     - username: skinatro
       url: https://github.com/skinatro
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
     past-maintainers: []
 - name: Flow Launcher
   categories:
@@ -1389,7 +1453,10 @@ ports:
   repository:
     name: gitea
     url: https://github.com/catppuccin/gitea
-    current-maintainers: []
+    current-maintainers:
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
     past-maintainers:
     - username: nekowinston
       name: winston
@@ -1604,6 +1671,8 @@ ports:
     current-maintainers:
     - username: caarlos0
       url: https://github.com/caarlos0
+    - username: jolheiser
+      url: https://github.com/jolheiser
     past-maintainers: []
 - name: Godot
   categories:
@@ -3009,6 +3078,27 @@ ports:
     - username: mbeckrich
       url: https://github.com/mbeckrich
     past-maintainers: []
+- name: OhMyREPL
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [linux, macos, windows]
+  color: mauve
+  key: ohmyrepl
+  repository:
+    name: ohmyrepl
+    url: https://github.com/catppuccin/ohmyrepl
+    current-maintainers:
+    - username: Anomalocaridid
+      url: https://github.com/Anomalocaridid
+    past-maintainers: []
 - name: Openbox
   categories:
   - key: window_manager
@@ -3493,6 +3583,31 @@ ports:
     past-maintainers:
     - username: Gingeh
       url: https://github.com/Gingeh
+- name: Revenge
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [android, ios]
+  color: blue
+  icon: discord
+  alias: vendetta
+  key: revenge
+  repository:
+    name: vendetta
+    url: https://github.com/catppuccin/vendetta
+    current-maintainers:
+    - username: 112cxyz
+      url: https://github.com/112cxyz
+    - username: Covkie
+      url: https://github.com/Covkie
+    - username: Moodzz1
+      url: https://github.com/Moodzz1
+    - username: riichi67
+      url: https://github.com/riichi67
+    past-maintainers: []
 - name: Revolt
   categories:
   - key: social_networking
@@ -3572,6 +3687,24 @@ ports:
     past-maintainers:
     - username: AngelBerihuete
       url: https://github.com/AngelBerihuete
+- name: Ruby
+  categories:
+  - key: library
+    name: Libraries
+    description: Software libraries that implement and expose the Catppuccin palette
+      in a programming language.
+    emoji: 📚
+  platform: agnostic
+  color: red
+  icon: ruby
+  key: ruby
+  repository:
+    name: ruby
+    url: https://github.com/catppuccin/ruby
+    current-maintainers:
+    - username: acm-wq
+      url: https://github.com/acm-wq
+    past-maintainers: []
 - name: Rust
   categories:
   - key: library
@@ -4601,10 +4734,14 @@ ports:
     name: vendetta
     url: https://github.com/catppuccin/vendetta
     current-maintainers:
-    - username: riichi67
-      url: https://github.com/riichi67
+    - username: 112cxyz
+      url: https://github.com/112cxyz
+    - username: Covkie
+      url: https://github.com/Covkie
     - username: Moodzz1
       url: https://github.com/Moodzz1
+    - username: riichi67
+      url: https://github.com/riichi67
     past-maintainers: []
 - name: Vim
   categories:
@@ -4668,10 +4805,10 @@ ports:
   repository:
     name: visual-studio
     url: https://github.com/catppuccin/visual-studio
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: djflan
       url: https://github.com/djflan
-    past-maintainers: []
 - name: VitePress
   categories:
   - key: development
@@ -4733,6 +4870,9 @@ ports:
     - username: backwardspy
       name: pigeon
       url: https://github.com/backwardspy
+    - username: sgoudham
+      name: Hammy
+      url: https://github.com/sgoudham
     past-maintainers:
     - username: ghostx31
       url: https://github.com/ghostx31
@@ -5903,9 +6043,7 @@ ports:
   repository:
     name: google
     url: https://github.com/catppuccin/userstyles/tree/main/styles/google
-    current-maintainers:
-    - username: GitMuslim
-      url: https://github.com/GitMuslim
+    current-maintainers: []
     past-maintainers: []
   categories:
   - key: search_engine
@@ -5963,6 +6101,30 @@ ports:
     emoji: 🖌️
   icon: googlephotos
   color: sapphire
+- name: Grabify
+  key: grabify
+  repository:
+    name: grabify
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/grabify
+    current-maintainers:
+    - username: trinkey
+      url: https://github.com/trinkey
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: teal
 - name: Graphite
   key: graphite
   repository:
@@ -6162,6 +6324,32 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: sky
+- name: Hoogle
+  key: hoogle
+  repository:
+    name: hoogle
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/hoogle
+    current-maintainers:
+    - username: jn-sena
+      name: Sena
+      url: https://github.com/jn-sena
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: haskell
+  color: mauve
 - name: Hoppscotch
   key: hoppscotch
   repository:
@@ -6278,6 +6466,26 @@ ports:
     emoji: 🖌️
   icon: inoreader
   color: blue
+- name: Indie Wiki Buddy
+  key: indie-wiki-buddy
+  repository:
+    name: indie-wiki-buddy
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/indie-wiki-buddy
+    current-maintainers:
+    - username: thismoon
+      url: https://github.com/thismoon
+    past-maintainers: []
+  categories:
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
 - name: Instagram
   key: instagram
   repository:
@@ -6385,6 +6593,27 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: green
+- name: keybr.com
+  key: keybr.com
+  repository:
+    name: keybr.com
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/keybr.com
+    current-maintainers:
+    - username: TadoTheMiner
+      name: jan Tatesa
+      url: https://github.com/TadoTheMiner
+    past-maintainers: []
+  categories:
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: text
 - name: Keyoxide
   key: keyoxide
   repository:
@@ -6716,9 +6945,7 @@ ports:
   repository:
     name: microsoft-word
     url: https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word
-    current-maintainers:
-    - username: GitMuslim
-      url: https://github.com/GitMuslim
+    current-maintainers: []
     past-maintainers: []
   categories:
   - key: productivity
@@ -6762,9 +6989,7 @@ ports:
   repository:
     name: minesweeper
     url: https://github.com/catppuccin/userstyles/tree/main/styles/minesweeper
-    current-maintainers:
-    - username: GitMuslim
-      url: https://github.com/GitMuslim
+    current-maintainers: []
     past-maintainers: []
   categories:
   - key: game
@@ -6866,9 +7091,9 @@ ports:
     name: wiki.nixos.org
     url: https://github.com/catppuccin/userstyles/tree/main/styles/wiki.nixos.org
     current-maintainers:
-    - username: orxngc
+    - username: orangci
       name: orangc
-      url: https://github.com/orxngc
+      url: https://github.com/orangci
     past-maintainers:
     - username: nekowinston
       name: winston
@@ -7190,6 +7415,25 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: sapphire
+- name: PythonAnywhere
+  key: pythonanywhere
+  repository:
+    name: pythonanywhere
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere
+    current-maintainers:
+    - username: trinkey
+      url: https://github.com/trinkey
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: sapphire
 - name: Quizlet
   key: quizlet
   repository:
@@ -7435,9 +7679,7 @@ ports:
   repository:
     name: stylus
     url: https://github.com/catppuccin/userstyles/tree/main/styles/stylus
-    current-maintainers:
-    - username: GitMuslim
-      url: https://github.com/GitMuslim
+    current-maintainers: []
     past-maintainers: []
   categories:
   - key: browser_extension
@@ -7455,7 +7697,9 @@ ports:
   repository:
     name: substack
     url: https://github.com/catppuccin/userstyles/tree/main/styles/substack
-    current-maintainers: []
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
     past-maintainers:
     - username: nekowinston
       name: winston
@@ -7603,10 +7847,10 @@ ports:
     name: twitch
     url: https://github.com/catppuccin/userstyles/tree/main/styles/twitch
     current-maintainers:
-    - username: GitMuslim
-      url: https://github.com/GitMuslim
     - username: uncenter
       url: https://github.com/uncenter
+    - username: mxgic1337
+      url: https://github.com/mxgic1337
     past-maintainers: []
   categories:
   - key: entertainment
@@ -7779,9 +8023,7 @@ ports:
   repository:
     name: wikipedia
     url: https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia
-    current-maintainers:
-    - username: GitMuslim
-      url: https://github.com/GitMuslim
+    current-maintainers: []
     past-maintainers: []
   categories:
   - key: wiki
@@ -7894,6 +8136,8 @@ collaborators:
 - username: AwA-VR
   name: AwA
   url: https://github.com/AwA-VR
+- username: acm-wq
+  url: https://github.com/acm-wq
 - username: asrvd
   url: https://github.com/asrvd
 - username: aszecsei
@@ -7926,6 +8170,8 @@ collaborators:
   url: https://github.com/CallMeEchoCodes
 - username: catb00mer
   url: https://github.com/catb00mer
+- username: Covkie
+  url: https://github.com/Covkie
 - username: mbekkomo
   url: https://github.com/mbekkomo
 - username: Cristhyano
@@ -8245,8 +8491,6 @@ collaborators:
 - username: soya-daizu
   name: soya_daizu
   url: https://github.com/soya-daizu
-- username: GitMuslim
-  url: https://github.com/GitMuslim
 - username: TheMemeSniper
   name: TheMemeSniper
   url: https://github.com/TheMemeSniper
@@ -8310,11 +8554,16 @@ collaborators:
 - username: jh-devv
   name: jh-devv
   url: https://github.com/jh-devv
-- username: orxngc
+- username: orangci
   name: orangc
-  url: https://github.com/orxngc
+  url: https://github.com/orangci
 - username: comfysage
   url: https://github.com/comfysage
+- username: TadoTheMiner
+  name: jan Tatesa
+  url: https://github.com/TadoTheMiner
+- username: mxgic1337
+  url: https://github.com/mxgic1337
 categories:
 - key: code_editor
   name: Code Editors & IDEs
@@ -8508,6 +8757,9 @@ showcases:
 - title: Reciper
   description: A simple, open-source recipe management app.
   link: https://github.com/judemont/reciper
+- title: Catbbrew
+  description: Easily create your own Catppuccin flavors.
+  link: https://catbbrew.com/
 archived-ports:
 - name: Google Chrome DevTools
   reason: Chrome has removed the experimental API required for the Catppuccin theme
@@ -8525,6 +8777,24 @@ archived-ports:
   repository:
     name: chrome-devtools
     url: https://github.com/catppuccin/chrome-devtools
+    current-maintainers: []
+    past-maintainers: []
+- name: Enmity
+  reason: This theme is now included within catppuccin/vendetta, therefore the catppuccin/enmity
+    repository has been archived.
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  platform: [ios]
+  color: blue
+  icon: discord
+  key: enmity
+  repository:
+    name: enmity
+    url: https://github.com/catppuccin/enmity
     current-maintainers: []
     past-maintainers: []
 - name: GTK
