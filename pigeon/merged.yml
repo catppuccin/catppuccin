@@ -444,9 +444,9 @@ collaborators:
   name: NK308
 - username: 00dani
   url: https://github.com/00dani
-- username: jh-devv
-  name: jh-devv
-  url: https://github.com/jh-devv
+- username: sofiedotcafe
+  name: Sofie
+  url: https://github.com/sofiedotcafe
 - username: orangci
   name: orangc
   url: https://github.com/orangci
@@ -1791,6 +1791,10 @@ repositories:
 - name: porkbun
   url: https://github.com/catppuccin/userstyles/tree/main/styles/porkbun
   current-maintainers: [uncenter]
+- name: pronouns.cc
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.cc
+  current-maintainers: [comfysage]
+  past-maintainers: [NeonGamerBot-QK]
 - name: pronouns.page
   url: https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.page
   current-maintainers: [uncenter]
@@ -1821,7 +1825,7 @@ repositories:
   current-maintainers: [Sekki21956, ryanccn]
 - name: shinigami-eyes
   url: https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes
-  current-maintainers: [jh-devv]
+  current-maintainers: [sofiedotcafe]
 - name: snapchat-web
   url: https://github.com/catppuccin/userstyles/tree/main/styles/snapchat-web
   current-maintainers: [itzTheMeow]
@@ -4201,6 +4205,11 @@ ports:
   categories: [productivity, userstyle]
   icon: porkbun
   color: pink
+- name: pronouns.cc
+  key: pronouns.cc
+  repository: pronouns.cc
+  categories: [social_networking, userstyle]
+  color: mauve
 - name: Pronouns.page
   key: pronouns.page
   repository: pronouns.page
@@ -4222,6 +4231,7 @@ ports:
   key: pythonanywhere
   repository: pythonanywhere
   categories: [development, userstyle]
+  icon: pythonanywhere
   color: sapphire
 - name: Quizlet
   key: quizlet
