@@ -7349,6 +7349,29 @@ ports:
     emoji: 🖌️
   icon: porkbun
   color: pink
+- name: pronouns.cc
+  key: pronouns.cc
+  repository:
+    name: pronouns.cc
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.cc
+    current-maintainers:
+    - username: comfysage
+      url: https://github.com/comfysage
+    past-maintainers:
+    - username: NeonGamerBot-QK
+      name: Neon
+      url: https://github.com/NeonGamerBot-QK
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: mauve
 - name: Pronouns.page
   key: pronouns.page
   repository:
@@ -7433,6 +7456,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  icon: pythonanywhere
   color: sapphire
 - name: Quizlet
   key: quizlet
@@ -7562,9 +7586,9 @@ ports:
     name: shinigami-eyes
     url: https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes
     current-maintainers:
-    - username: jh-devv
-      name: jh-devv
-      url: https://github.com/jh-devv
+    - username: sofiedotcafe
+      name: Sofie
+      url: https://github.com/sofiedotcafe
     past-maintainers: []
   categories:
   - key: browser_extension
@@ -8551,9 +8575,9 @@ collaborators:
   name: NK308
 - username: 00dani
   url: https://github.com/00dani
-- username: jh-devv
-  name: jh-devv
-  url: https://github.com/jh-devv
+- username: sofiedotcafe
+  name: Sofie
+  url: https://github.com/sofiedotcafe
 - username: orangci
   name: orangc
   url: https://github.com/orangci
