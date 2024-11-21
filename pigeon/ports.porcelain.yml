@@ -6842,6 +6842,36 @@ ports:
     emoji: 🖌️
   icon: musicbrainz
   color: peach
+- name: Lobsters
+  key: lobste.rs
+  repository:
+    name: lobste.rs
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/lobste.rs
+    current-maintainers:
+    - username: steinuil
+      url: https://github.com/steinuil
+    past-maintainers: []
+  categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: lobsters
+  color: red
 - name: Mastodon
   key: mastodon
   repository:
@@ -7062,6 +7092,54 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   icon: twitter
+  color: blue
+- name: NixOS Manual
+  key: nixos manual
+  repository:
+    name: nixos-manual
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual
+    current-maintainers:
+    - username: husjon
+      url: https://github.com/husjon
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: nixos
+  color: blue
+- name: Nixpkgs Manual
+  key: nixpkgs manual
+  repository:
+    name: nixos-manual
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual
+    current-maintainers:
+    - username: husjon
+      url: https://github.com/husjon
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: nixos
   color: blue
 - name: NixOS Search
   key: nixos-search
@@ -8588,6 +8666,10 @@ collaborators:
   url: https://github.com/TadoTheMiner
 - username: mxgic1337
   url: https://github.com/mxgic1337
+- username: steinuil
+  url: https://github.com/steinuil
+- username: husjon
+  url: https://github.com/husjon
 categories:
 - key: code_editor
   name: Code Editors & IDEs
