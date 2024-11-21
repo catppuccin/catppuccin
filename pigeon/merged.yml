@@ -457,6 +457,10 @@ collaborators:
   url: https://github.com/TadoTheMiner
 - username: mxgic1337
   url: https://github.com/mxgic1337
+- username: steinuil
+  url: https://github.com/steinuil
+- username: husjon
+  url: https://github.com/husjon
 categories:
 - key: code_editor
   name: Code Editors & IDEs
@@ -1723,6 +1727,9 @@ repositories:
 - name: listenbrainz
   url: https://github.com/catppuccin/userstyles/tree/main/styles/listenbrainz
   current-maintainers: [00dani]
+- name: lobste.rs
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/lobste.rs
+  current-maintainers: [steinuil]
 - name: mastodon
   url: https://github.com/catppuccin/userstyles/tree/main/styles/mastodon
   current-maintainers: [comfysage]
@@ -1751,6 +1758,9 @@ repositories:
 - name: nitter
   url: https://github.com/catppuccin/userstyles/tree/main/styles/nitter
   current-maintainers: [AnubisNekhet]
+- name: nixos-manual
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual
+  current-maintainers: [husjon]
 - name: nixos-search
   url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search
   current-maintainers: [cecelot]
@@ -4083,6 +4093,12 @@ ports:
   categories: [music, entertainment, userstyle]
   icon: musicbrainz
   color: peach
+- name: Lobsters
+  key: lobste.rs
+  repository: lobste.rs
+  categories: [discussion_forum, development, social_networking, userstyle]
+  icon: lobsters
+  color: red
 - name: Mastodon
   key: mastodon
   repository: mastodon
@@ -4135,6 +4151,18 @@ ports:
   repository: nitter
   categories: [social_networking, discussion_forum, entertainment, userstyle]
   icon: twitter
+  color: blue
+- name: NixOS Manual
+  key: nixos manual
+  repository: nixos-manual
+  categories: [development, wiki, userstyle]
+  icon: nixos
+  color: blue
+- name: Nixpkgs Manual
+  key: nixpkgs manual
+  repository: nixos-manual
+  categories: [development, wiki, userstyle]
+  icon: nixos
   color: blue
 - name: NixOS Search
   key: nixos-search
