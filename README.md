@@ -976,6 +976,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Matplotlib](https://github.com/catppuccin/python)
 - [mdBook](https://github.com/catppuccin/mdBook)
 - [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
+- [NixOS Manual, Nixpkgs Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [Ollama](https://github.com/catppuccin/userstyles/tree/main/styles/ollama)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
@@ -1247,6 +1248,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Spotify TUI](https://github.com/catppuccin/spotify-tui)
 - [Spotify Web](https://github.com/catppuccin/userstyles/tree/main/styles/spotify-web)
 - [spotify-player](https://github.com/catppuccin/spotify-player)
+- [Symfonium](https://github.com/catppuccin/symfonium)
 - [YouTube Music](https://github.com/catppuccin/youtubemusic)
 
 </details>
@@ -1371,6 +1373,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Misskey](https://github.com/catppuccin/misskey)
 - [Nitter](https://github.com/catppuccin/userstyles/tree/main/styles/nitter)
 - [Phanpy](https://github.com/catppuccin/userstyles/tree/main/styles/phanpy)
+- [pronouns.cc](https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.cc)
 - [Pronouns.page](https://github.com/catppuccin/userstyles/tree/main/styles/pronouns.page)
 - [Revenge](https://github.com/catppuccin/vendetta)
 - [Revolt](https://github.com/catppuccin/revolt)
@@ -1392,6 +1395,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Infinity For Reddit](https://github.com/catppuccin/infinity)
 - [Lemmy](https://github.com/catppuccin/userstyles/tree/main/styles/lemmy)
 - [Libreddit, Redlib](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
+- [Lobsters](https://github.com/catppuccin/userstyles/tree/main/styles/lobste.rs)
 - [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
 - [TabNews](https://github.com/catppuccin/userstyles/tree/main/styles/tabnews)
 
