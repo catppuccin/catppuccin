@@ -49,6 +49,8 @@ collaborators:
     url: https://github.com/backwardspy
   - &bagelwaffle
     url: https://github.com/bagelwaffle
+  - &BANanaD3V
+    url: https://github.com/BANanaD3V
   - &beacon6
     url: https://github.com/beacon6
   - &BlueFalconHD
@@ -1878,6 +1880,12 @@ ports:
     icon: wayland
     current-maintainers: []
     past-maintainers: [*isabelroses]
+  symfonium:
+    name: Symfonium
+    categories: [music]
+    platform: [android]
+    color: red
+    current-maintainers: [*BANanaD3V]
   tabby:
     name: Tabby
     categories: [terminal]
