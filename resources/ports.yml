@@ -2210,6 +2210,12 @@ ports:
     platform: [windows]
     color: teal
     current-maintainers: [*backwardspy]
+  wlogout:
+    name: wlogout
+    categories: [system]
+    platform: [linux]
+    color: mauve
+    current-maintainers: [*Anomalocaridid]
   xcode:
     name: Xcode
     categories: [code_editor]
