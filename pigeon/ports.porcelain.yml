@@ -2454,6 +2454,23 @@ ports:
     - username: griimick
       url: https://github.com/griimick
     past-maintainers: []
+- name: LSD
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  color: text
+  key: lsd
+  repository:
+    name: lsd
+    url: https://github.com/catppuccin/lsd
+    current-maintainers:
+    - username: ruiiiijiiiiang
+      url: https://github.com/ruiiiijiiiiang
+    past-maintainers: []
 - name: Lua
   categories:
   - key: library
@@ -4229,6 +4246,22 @@ ports:
     past-maintainers:
     - username: isabelroses
       url: https://github.com/isabelroses
+- name: Symfonium
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  platform: [android]
+  color: red
+  key: symfonium
+  repository:
+    name: symfonium
+    url: https://github.com/catppuccin/symfonium
+    current-maintainers:
+    - username: BANanaD3V
+      url: https://github.com/BANanaD3V
+    past-maintainers: []
 - name: Tabby
   categories:
   - key: terminal
@@ -5070,6 +5103,39 @@ ports:
     - username: backwardspy
       name: pigeon
       url: https://github.com/backwardspy
+    past-maintainers: []
+- name: wleave
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: mauve
+  alias: wlogout
+  key: wleave
+  repository:
+    name: wlogout
+    url: https://github.com/catppuccin/wlogout
+    current-maintainers:
+    - username: Anomalocaridid
+      url: https://github.com/Anomalocaridid
+    past-maintainers: []
+- name: wlogout
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  platform: [linux]
+  color: mauve
+  key: wlogout
+  repository:
+    name: wlogout
+    url: https://github.com/catppuccin/wlogout
+    current-maintainers:
+    - username: Anomalocaridid
+      url: https://github.com/Anomalocaridid
     past-maintainers: []
 - name: Xcode
   categories:
@@ -8258,6 +8324,8 @@ collaborators:
   url: https://github.com/backwardspy
 - username: bagelwaffle
   url: https://github.com/bagelwaffle
+- username: BANanaD3V
+  url: https://github.com/BANanaD3V
 - username: beacon6
   url: https://github.com/beacon6
 - username: BlueFalconHD
@@ -8482,6 +8550,8 @@ collaborators:
   url: https://github.com/rithikasilva
 - username: rubyowo
   url: https://github.com/rubyowo
+- username: ruiiiijiiiiang
+  url: https://github.com/ruiiiijiiiiang
 - username: sacerd-OS
   url: https://github.com/sacerd-OS
 - username: SadAlexa

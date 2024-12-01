@@ -49,6 +49,8 @@ collaborators:
   url: https://github.com/backwardspy
 - username: bagelwaffle
   url: https://github.com/bagelwaffle
+- username: BANanaD3V
+  url: https://github.com/BANanaD3V
 - username: beacon6
   url: https://github.com/beacon6
 - username: BlueFalconHD
@@ -273,6 +275,8 @@ collaborators:
   url: https://github.com/rithikasilva
 - username: rubyowo
   url: https://github.com/rubyowo
+- username: ruiiiijiiiiang
+  url: https://github.com/ruiiiijiiiiang
 - username: sacerd-OS
   url: https://github.com/sacerd-OS
 - username: SadAlexa
@@ -911,6 +915,9 @@ repositories:
 - name: logseq
   url: https://github.com/catppuccin/logseq
   current-maintainers: [griimick]
+- name: lsd
+  url: https://github.com/catppuccin/lsd
+  current-maintainers: [ruiiiijiiiiang]
 - name: lua
   url: https://github.com/catppuccin/lua
   current-maintainers: [mbekkomo]
@@ -1217,6 +1224,9 @@ repositories:
   url: https://github.com/catppuccin/swaync
   current-maintainers: []
   past-maintainers: [isabelroses]
+- name: symfonium
+  url: https://github.com/catppuccin/symfonium
+  current-maintainers: [BANanaD3V]
 - name: tabby
   url: https://github.com/catppuccin/tabby
   current-maintainers: [sakkke]
@@ -1360,6 +1370,9 @@ repositories:
 - name: windows9x
   url: https://github.com/catppuccin/windows9x
   current-maintainers: [backwardspy]
+- name: wlogout
+  url: https://github.com/catppuccin/wlogout
+  current-maintainers: [Anomalocaridid]
 - name: xcode
   url: https://github.com/catppuccin/xcode
   current-maintainers: [quentinguidee]
@@ -2267,6 +2280,12 @@ ports:
   icon: logseq
   key: logseq
   repository: logseq
+- name: LSD
+  categories: [cli]
+  platform: [linux, macos, windows]
+  color: text
+  key: lsd
+  repository: lsd
 - name: Lua
   categories: [library]
   platform: agnostic
@@ -2872,6 +2891,12 @@ ports:
   icon: wayland
   key: swaync
   repository: swaync
+- name: Symfonium
+  categories: [music]
+  platform: [android]
+  color: red
+  key: symfonium
+  repository: symfonium
 - name: Tabby
   categories: [terminal]
   platform: [linux, macos, windows]
@@ -3179,6 +3204,19 @@ ports:
   color: teal
   key: windows9x
   repository: windows9x
+- name: wleave
+  categories: [system]
+  platform: [linux]
+  color: mauve
+  alias: wlogout
+  key: wleave
+  repository: wlogout
+- name: wlogout
+  categories: [system]
+  platform: [linux]
+  color: mauve
+  key: wlogout
+  repository: wlogout
 - name: Xcode
   categories: [code_editor]
   platform: [macos]
