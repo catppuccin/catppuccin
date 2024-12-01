@@ -1099,6 +1099,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [waybar](https://github.com/catppuccin/waybar)
 - [Where is my SDDM theme?](https://github.com/catppuccin/where-is-my-sddm-theme)
 - [Windows 9x](https://github.com/catppuccin/windows9x)
+- [wleave](https://github.com/catppuccin/wlogout)
+- [wlogout](https://github.com/catppuccin/wlogout)
 - [Xresources](https://github.com/catppuccin/xresources)
 
 </details>
