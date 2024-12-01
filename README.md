@@ -1027,6 +1027,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Glamour](https://github.com/catppuccin/glamour)
 - [k9s](https://github.com/catppuccin/k9s)
 - [lazygit](https://github.com/catppuccin/lazygit)
+- [LSD](https://github.com/catppuccin/lsd)
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [OhMyREPL](https://github.com/catppuccin/ohmyrepl)
 - [PowerShell](https://github.com/catppuccin/powershell)
