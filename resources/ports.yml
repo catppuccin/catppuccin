@@ -275,6 +275,8 @@ collaborators:
     url: https://github.com/rithikasilva
   - &rubyowo
     url: https://github.com/rubyowo
+  - &ruiiiijiiiiang
+    url: https://github.com/ruiiiijiiiiang
   - &sacerd-OS
     url: https://github.com/sacerd-OS
   - &SadAlexa
@@ -1238,6 +1240,12 @@ ports:
     color: teal
     icon: logseq
     current-maintainers: [*griimick]
+  lsd:
+    name: LSD
+    categories: [cli]
+    platform: [linux, macos, windows]
+    color: text
+    current-maintainers: [*ruiiiijiiiiang]
   lua:
     name: Lua
     categories: [library]
