@@ -2210,6 +2210,13 @@ ports:
     platform: [windows]
     color: teal
     current-maintainers: [*backwardspy]
+  wleave:
+    name: wleave
+    categories: [system]
+    platform: [linux]
+    color: mauve
+    alias: wlogout
+    current-maintainers: [*Anomalocaridid]
   wlogout:
     name: wlogout
     categories: [system]
