@@ -1874,6 +1874,7 @@ ports:
     emoji: 🔧
   platform: [linux]
   color: sapphire
+  icon: hyprland
   key: hyprland
   repository:
     name: hyprland
@@ -1890,6 +1891,7 @@ ports:
     emoji: 🔧
   platform: [linux]
   color: sapphire
+  icon: hyprland
   key: hyprlock
   repository:
     name: hyprlock

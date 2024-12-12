@@ -2071,12 +2071,14 @@ ports:
   categories: [window_manager, system]
   platform: [linux]
   color: sapphire
+  icon: hyprland
   key: hyprland
   repository: hyprland
 - name: Hyprlock
   categories: [system]
   platform: [linux]
   color: sapphire
+  icon: hyprland
   key: hyprlock
   repository: hyprlock
 - name: i3/sway
