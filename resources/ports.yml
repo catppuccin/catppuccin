@@ -1216,12 +1216,12 @@ ports:
     color: green
     current-maintainers: [*nullishamy]
   libreoffice:
-      name: Libre Office
-      categories: [document_viewer]
-      platform: [linux, macos, windows]
-      color: green
-      icon: libreoffice
-      current-maintainers: [*neongamerbot]
+    name: Libre Office
+    categories: [document_viewer]
+    platform: [linux, macos, windows]
+    color: green
+    icon: libreoffice
+    current-maintainers: [*neongamerbot]
   limine:
     name: Limine
     categories: [boot_loader, system]
@@ -2554,4 +2554,7 @@ showcases:
   - title: Catbbrew
     description: Easily create your own Catppuccin flavors.
     link: https://catbbrew.com/
+  - title: Tomatillo Timer
+    description: A modern pomodoro timer that syncs to your music
+    link: https://timer.flotes.app/?theme=mocha
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
