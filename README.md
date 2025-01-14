@@ -984,7 +984,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
-- [Stack Overflow](https://github.com/catppuccin/userstyles/tree/main/styles/stack-overflow)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
 - [Vercel, Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
@@ -1052,6 +1051,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Fluent Terminal](https://github.com/catppuccin/fluentterminal)
 - [foot](https://github.com/catppuccin/foot)
 - [Ghostty](https://github.com/catppuccin/ghostty)
+- [Ghostty.org](https://github.com/catppuccin/userstyles/tree/main/styles/ghostty.org)
 - [GNOME Terminal](https://github.com/catppuccin/gnome-terminal)
 - [Hyper](https://github.com/catppuccin/hyper)
 - [iTerm2](https://github.com/catppuccin/iterm)
@@ -1200,6 +1200,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [DuckDuckGo](https://github.com/catppuccin/userstyles/tree/main/styles/duckduckgo)
 - [Ecosia](https://github.com/catppuccin/userstyles/tree/main/styles/ecosia)
 - [Google](https://github.com/catppuccin/userstyles/tree/main/styles/google)
+- [Mullvad Leta](https://github.com/catppuccin/userstyles/tree/main/styles/mullvad-leta)
 - [NixOS Search](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search)
 - [SearXNG](https://github.com/catppuccin/userstyles/tree/main/styles/searxng)
 - [Startpage](https://github.com/catppuccin/userstyles/tree/main/styles/startpage)
@@ -1383,6 +1384,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SimpleX](https://github.com/catppuccin/simplex)
 - [Slack](https://github.com/catppuccin/slack)
 - [Snapchat Web](https://github.com/catppuccin/userstyles/tree/main/styles/snapchat-web)
+- [status.cafe](https://github.com/catppuccin/userstyles/tree/main/styles/status.cafe)
 - [Telegram](https://github.com/catppuccin/telegram)
 - [The Lounge](https://github.com/catppuccin/thelounge)
 - [Twitter](https://github.com/catppuccin/userstyles/tree/main/styles/twitter)
@@ -1400,12 +1402,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Libreddit, Redlib](https://github.com/catppuccin/userstyles/tree/main/styles/libreddit)
 - [Lobsters](https://github.com/catppuccin/userstyles/tree/main/styles/lobste.rs)
 - [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
+- [Stack Overflow](https://github.com/catppuccin/userstyles/tree/main/styles/stack-overflow)
 - [TabNews](https://github.com/catppuccin/userstyles/tree/main/styles/tabnews)
 
 </details>
 <details open>
 <summary>🌈 Entertainment</summary>
 
+- [7TV](https://github.com/catppuccin/userstyles/tree/main/styles/seventv)
 - [Amfora](https://github.com/catppuccin/amfora)
 - [AniList, AniChart](https://github.com/catppuccin/userstyles/tree/main/styles/anilist)
 - [ChatReplay](https://github.com/catppuccin/userstyles/tree/main/styles/chatreplay)
@@ -1490,6 +1494,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Loungy](https://loungy.app) - An open-source application launcher in the vein of Raycast and Alfred.
 - [Reciper](https://github.com/judemont/reciper) - A simple, open-source recipe management app.
 - [Catbbrew](https://catbbrew.com/) - Easily create your own Catppuccin flavors.
+- [Tomatillo Timer](https://timer.flotes.app/?theme=mocha) - A modern pomodoro timer that syncs to your music
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
