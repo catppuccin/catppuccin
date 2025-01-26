@@ -2557,4 +2557,7 @@ showcases:
   - title: Tomatillo Timer
     description: A modern pomodoro timer that syncs to your music
     link: https://timer.flotes.app/?theme=mocha
+  - title: Catppuccin Startpage
+    description: Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages
+    link: https://github.com/pivoshenko/catppuccin-startpage
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
