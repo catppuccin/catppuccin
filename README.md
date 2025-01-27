@@ -33,7 +33,7 @@
 &nbsp;
 
 <p align="center">
-Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/main/docs"><b>the project's documentation</b></a>, organization-wide assets, resources and code samples for maintainers/developers.
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high-contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/main/docs"><b>the project's documentation</b></a>, organization-wide assets, resources and code samples for maintainers/developers.
 </p>
 
 <p align="center">
@@ -895,7 +895,7 @@ our [showcase](#-showcase) section below!
 ### 👐 Contributing
 
 > [!NOTE]<br>
-> if you would like to submit a port or learn how to port Catppuccin to a program, please refer to
+> If you would like to submit a port or learn how to port Catppuccin to a program, please refer to
 > the [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md)
 
 See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md)
