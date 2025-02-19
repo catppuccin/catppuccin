@@ -1496,6 +1496,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Catbbrew](https://catbbrew.com/) - Easily create your own Catppuccin flavors.
 - [Tomatillo Timer](https://timer.flotes.app/?theme=mocha) - A modern pomodoro timer that syncs to your music
 - [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages
+- [Flow](https://github.com/flow-mn/flow) - A free and open-source expense tracker
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
