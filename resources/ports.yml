@@ -75,6 +75,8 @@ collaborators:
     url: https://github.com/coldenate
   - &Daeraxa
     url: https://github.com/Daeraxa
+  - &daveedmee
+    url: https://github.com/daveedmee
   - &daveyholler
     url: https://github.com/daveyholler
   - &davfsa
@@ -1360,6 +1362,12 @@ ports:
     platform: [windows]
     color: blue
     current-maintainers: [*likendev]
+  mod-organizer-2:
+    name: ModOrganizer 2
+    categories: [game]
+    platform: [windows]
+    color: peach
+    current-maintainers: [*daveedmee]
   monkeytype:
     name: Monkeytype
     categories: [entertainment]
