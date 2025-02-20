@@ -2305,6 +2305,19 @@ ports:
     color: blue
     current-maintainers: [*tecandrew]
     icon: zedindustries
+  zed-icons:
+    name: Zed Icons
+    categories: [code_editor]
+    platform: [macos, linux]
+    upstreamed: true
+    color: blue
+    current-maintainers: [*tecandrew]
+    icon: zedindustries
+    links:
+      - name: Zed Extensions
+        icon: zedindustries
+        color: blue
+        url: https://zed.dev/extensions?query=catppuccin+icons
   zellij:
     name: Zellij
     categories: [cli]
