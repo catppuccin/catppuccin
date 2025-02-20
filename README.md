@@ -944,6 +944,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Xcode](https://github.com/catppuccin/xcode)
 - [Xed](https://github.com/catppuccin/xed)
 - [Zed](https://github.com/catppuccin/zed)
+- [Zed Icons](https://github.com/catppuccin/zed-icons)
 
 </details>
 <details open>
