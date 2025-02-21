@@ -2787,6 +2787,22 @@ ports:
     - username: likendev
       url: https://github.com/likendev
     past-maintainers: []
+- name: ModOrganizer 2
+  categories:
+  - key: game
+    name: Games
+    description: Applications related to gaming and the idea of game-ification.
+    emoji: 🎮
+  platform: [windows]
+  color: peach
+  key: mod-organizer-2
+  repository:
+    name: mod-organizer-2
+    url: https://github.com/catppuccin/mod-organizer-2
+    current-maintainers:
+    - username: daveedmee
+      url: https://github.com/daveedmee
+    past-maintainers: []
 - name: Monkeytype
   categories:
   - key: entertainment
@@ -3003,6 +3019,8 @@ ports:
     current-maintainers:
     - username: InvitedToHell
       url: https://github.com/InvitedToHell
+    - username: jack-mil
+      url: https://github.com/jack-mil
     past-maintainers: []
 - name: Nova
   categories:
@@ -5309,6 +5327,30 @@ ports:
     - username: tecandrew
       url: https://github.com/tecandrew
     past-maintainers: []
+- name: Zed Icons
+  categories:
+  - key: code_editor
+    name: Code Editors & IDEs
+    description: Tools for writing and editing code, offering syntax highlighting,
+      debugging, etc.
+    emoji: 👾
+  platform: [macos, linux]
+  upstreamed: true
+  color: blue
+  icon: zedindustries
+  links:
+  - name: Zed Extensions
+    icon: zedindustries
+    color: blue
+    url: https://zed.dev/extensions?query=catppuccin+icons
+  key: zed-icons
+  repository:
+    name: zed-icons
+    url: https://github.com/catppuccin/zed-icons
+    current-maintainers:
+    - username: tecandrew
+      url: https://github.com/tecandrew
+    past-maintainers: []
 - name: Zellij
   categories:
   - key: cli
@@ -5721,7 +5763,9 @@ ports:
   repository:
     name: chess.com
     url: https://github.com/catppuccin/userstyles/tree/main/styles/chess.com
-    current-maintainers: []
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
     past-maintainers:
     - username: skelebro1
       name: skele
@@ -6023,6 +6067,30 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: blue
+- name: Ghostty.org
+  key: ghostty.org
+  repository:
+    name: ghostty.org
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/ghostty.org
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: terminal
+    name: Terminals
+    description: Programs providing text-based interfaces to interact with the operating
+      system.
+    emoji: 🌱
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: blue
 - name: GitHub
   key: github
   repository:
@@ -6055,6 +6123,25 @@ ports:
     emoji: 🖌️
   icon: github
   color: text
+- name: gleam.run
+  key: gleam.run
+  repository:
+    name: gleam.run
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/gleam.run
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: pink
 - name: Gmail
   key: gmail
   repository:
@@ -6449,8 +6536,8 @@ ports:
     name: learn-x-in-y-minutes
     url: https://github.com/catppuccin/userstyles/tree/main/styles/learn-x-in-y-minutes
     current-maintainers:
-    - username: nikitarevenco
-      url: https://github.com/nikitarevenco
+    - username: nik-rev
+      url: https://github.com/nik-rev
     past-maintainers: []
   categories:
   - key: development
@@ -7099,15 +7186,36 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: text
+- name: Mullvad Leta
+  key: mullvad-leta
+  repository:
+    name: mullvad-leta
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/mullvad-leta
+    current-maintainers:
+    - username: jn-sena
+      name: Sena
+      url: https://github.com/jn-sena
+    past-maintainers: []
+  categories:
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: yellow
 - name: NameMC
   key: namemc
   repository:
     name: namemc
     url: https://github.com/catppuccin/userstyles/tree/main/styles/namemc
     current-maintainers:
-    - username: Nyatalieeee
-      name: Natalie Raine
-      url: https://github.com/Nyatalieeee
+    - username: Meowcelinee
+      name: Marceline
+      url: https://github.com/Meowcelinee
     past-maintainers: []
   categories:
   - key: game_development
@@ -7403,9 +7511,9 @@ ports:
     name: picrew
     url: https://github.com/catppuccin/userstyles/tree/main/styles/picrew
     current-maintainers:
-    - username: Nyatalieeee
-      name: Natalie Raine
-      url: https://github.com/Nyatalieeee
+    - username: Meowcelinee
+      name: Marceline
+      url: https://github.com/Meowcelinee
     past-maintainers: []
   categories:
   - key: entertainment
@@ -7726,6 +7834,30 @@ ports:
     emoji: 🖌️
   icon: searxng
   color: blue
+- name: 7TV
+  key: seventv
+  repository:
+    name: seventv
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/seventv
+    current-maintainers:
+    - username: mxgic1337
+      url: https://github.com/mxgic1337
+    past-maintainers: []
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: browser_extension
+    name: Browser Extensions
+    description: Add-ons which extend the functionality of web browsers, enhancing
+      the browsing experience.
+    emoji: 🧩
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: sapphire
 - name: Shinigami Eyes
   key: shinigami-eyes
   repository:
@@ -7813,10 +7945,19 @@ ports:
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
+  - key: discussion_forum
+    name: Discussion Forums
+    description: Platforms that allow people to engage in conversation, share information,
+      and discuss various topics.
+    emoji: 🗣️
   - key: development
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
+  - key: wiki
+    name: Wikis
+    description: Websites that hold information edited by multiple users.
+    emoji: 🧠
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7844,12 +7985,35 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: lavender
+- name: status.cafe
+  key: status.cafe
+  repository:
+    name: status.cafe
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/status.cafe
+    current-maintainers:
+    - username: bunfluff
+      name: elly
+      url: https://github.com/bunfluff
+    past-maintainers: []
+  categories:
+  - key: social_networking
+    name: Social Networking
+    description: Applications that bring people together through text, voice, photo
+      and/or video.
+    emoji: ✨
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  color: sapphire
 - name: Stylus
   key: stylus
   repository:
     name: stylus
     url: https://github.com/catppuccin/userstyles/tree/main/styles/stylus
-    current-maintainers: []
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
     past-maintainers: []
   categories:
   - key: browser_extension
@@ -8193,7 +8357,9 @@ ports:
   repository:
     name: wikipedia
     url: https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia
-    current-maintainers: []
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
     past-maintainers: []
   categories:
   - key: wiki
@@ -8352,6 +8518,8 @@ collaborators:
   url: https://github.com/coldenate
 - username: Daeraxa
   url: https://github.com/Daeraxa
+- username: daveedmee
+  url: https://github.com/daveedmee
 - username: daveyholler
   url: https://github.com/daveyholler
 - username: davfsa
@@ -8420,6 +8588,8 @@ collaborators:
   url: https://github.com/isabelroses
 - username: autumn-mck
   url: https://github.com/autumn-mck
+- username: jack-mil
+  url: https://github.com/jack-mil
 - username: jayylmao
   url: https://github.com/jayylmao
 - username: JK-Flip-Flop96
@@ -8638,8 +8808,8 @@ collaborators:
   url: https://github.com/xzi
 - username: Zazucki
   url: https://github.com/Zazucki
-- username: nikitarevenco
-  url: https://github.com/nikitarevenco
+- username: nik-rev
+  url: https://github.com/nik-rev
 - username: jn-sena
   name: Sena
   url: https://github.com/jn-sena
@@ -8688,9 +8858,9 @@ collaborators:
 - username: Nyameliaaaa
   name: Amelia Rose
   url: https://github.com/Nyameliaaaa
-- username: Nyatalieeee
-  name: Natalie Raine
-  url: https://github.com/Nyatalieeee
+- username: Meowcelinee
+  name: Marceline
+  url: https://github.com/Meowcelinee
 - username: bartlibert
   name: Bart Libert
   url: https://github.com/bartlibert
@@ -8728,6 +8898,9 @@ collaborators:
 - username: sofiedotcafe
   name: Sofie
   url: https://github.com/sofiedotcafe
+- username: bunfluff
+  name: elly
+  url: https://github.com/bunfluff
 - username: orangci
   name: orangc
   url: https://github.com/orangci
@@ -8938,6 +9111,13 @@ showcases:
 - title: Catbbrew
   description: Easily create your own Catppuccin flavors.
   link: https://catbbrew.com/
+- title: Tomatillo Timer
+  description: A modern pomodoro timer that syncs to your music
+  link: https://timer.flotes.app/?theme=mocha
+- title: Catppuccin Startpage
+  description: Aesthetic and clean startpage in Catppuccin style, hosted on GitHub
+    Pages
+  link: https://github.com/pivoshenko/catppuccin-startpage
 archived-ports:
 - name: Google Chrome DevTools
   reason: Chrome has removed the experimental API required for the Catppuccin theme
