@@ -145,6 +145,8 @@ collaborators:
     url: https://github.com/isabelroses
   - &autumn-mck
     url: https://github.com/autumn-mck
+  - &jack-mil
+    url: https://github.com/jack-mil
   - &jayylmao
     url: https://github.com/jayylmao
   - &JK-Flip-Flop96
@@ -1447,7 +1449,7 @@ ports:
     platform: [windows]
     icon: notepadplusplus
     color: green
-    current-maintainers: [*InvitedToHell]
+    current-maintainers: [*InvitedToHell, *jack-mil]
   nova:
     name: Nova
     categories: [code_editor]
