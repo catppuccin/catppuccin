@@ -75,6 +75,8 @@ collaborators:
   url: https://github.com/coldenate
 - username: Daeraxa
   url: https://github.com/Daeraxa
+- username: daveedmee
+  url: https://github.com/daveedmee
 - username: daveyholler
   url: https://github.com/daveyholler
 - username: davfsa
@@ -143,6 +145,8 @@ collaborators:
   url: https://github.com/isabelroses
 - username: autumn-mck
   url: https://github.com/autumn-mck
+- username: jack-mil
+  url: https://github.com/jack-mil
 - username: jayylmao
   url: https://github.com/jayylmao
 - username: JK-Flip-Flop96
@@ -968,6 +972,9 @@ repositories:
 - name: mobaxterm
   url: https://github.com/catppuccin/mobaxterm
   current-maintainers: [likendev]
+- name: mod-organizer-2
+  url: https://github.com/catppuccin/mod-organizer-2
+  current-maintainers: [daveedmee]
 - name: monkeytype
   url: https://github.com/catppuccin/monkeytype
   current-maintainers: []
@@ -1007,7 +1014,7 @@ repositories:
   past-maintainers: [nekowinston]
 - name: notepad-plus-plus
   url: https://github.com/catppuccin/notepad-plus-plus
-  current-maintainers: [InvitedToHell]
+  current-maintainers: [InvitedToHell, jack-mil]
 - name: nova
   url: https://github.com/catppuccin/nova
   current-maintainers: [daveyholler]
@@ -1402,6 +1409,9 @@ repositories:
   current-maintainers: [lokesh-krishna]
 - name: zed
   url: https://github.com/catppuccin/zed
+  current-maintainers: [tecandrew]
+- name: zed-icons
+  url: https://github.com/catppuccin/zed-icons
   current-maintainers: [tecandrew]
 - name: zellij
   url: https://github.com/catppuccin/zellij
@@ -2395,6 +2405,12 @@ ports:
   color: blue
   key: mobaxterm
   repository: mobaxterm
+- name: ModOrganizer 2
+  categories: [game]
+  platform: [windows]
+  color: peach
+  key: mod-organizer-2
+  repository: mod-organizer-2
 - name: Monkeytype
   categories: [entertainment]
   platform: agnostic
@@ -3280,6 +3296,19 @@ ports:
   icon: zedindustries
   key: zed
   repository: zed
+- name: Zed Icons
+  categories: [code_editor]
+  platform: [macos, linux]
+  upstreamed: true
+  color: blue
+  icon: zedindustries
+  links:
+  - name: Zed Extensions
+    icon: zedindustries
+    color: blue
+    url: https://zed.dev/extensions?query=catppuccin+icons
+  key: zed-icons
+  repository: zed-icons
 - name: Zellij
   categories: [cli]
   platform: [linux, macos]
@@ -3354,6 +3383,13 @@ showcases:
 - title: Catbbrew
   description: Easily create your own Catppuccin flavors.
   link: https://catbbrew.com/
+- title: Tomatillo Timer
+  description: A modern pomodoro timer that syncs to your music
+  link: https://timer.flotes.app/?theme=mocha
+- title: Catppuccin Startpage
+  description: Aesthetic and clean startpage in Catppuccin style, hosted on GitHub
+    Pages
+  link: https://github.com/pivoshenko/catppuccin-startpage
 archived-ports:
 - name: Google Chrome DevTools
   reason: Chrome has removed the experimental API required for the Catppuccin theme
