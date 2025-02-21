@@ -75,6 +75,8 @@ collaborators:
   url: https://github.com/coldenate
 - username: Daeraxa
   url: https://github.com/Daeraxa
+- username: daveedmee
+  url: https://github.com/daveedmee
 - username: daveyholler
   url: https://github.com/daveyholler
 - username: davfsa
@@ -143,6 +145,8 @@ collaborators:
   url: https://github.com/isabelroses
 - username: autumn-mck
   url: https://github.com/autumn-mck
+- username: jack-mil
+  url: https://github.com/jack-mil
 - username: jayylmao
   url: https://github.com/jayylmao
 - username: JK-Flip-Flop96
@@ -361,8 +365,8 @@ collaborators:
   url: https://github.com/xzi
 - username: Zazucki
   url: https://github.com/Zazucki
-- username: nikitarevenco
-  url: https://github.com/nikitarevenco
+- username: nik-rev
+  url: https://github.com/nik-rev
 - username: jn-sena
   name: Sena
   url: https://github.com/jn-sena
@@ -411,9 +415,9 @@ collaborators:
 - username: Nyameliaaaa
   name: Amelia Rose
   url: https://github.com/Nyameliaaaa
-- username: Nyatalieeee
-  name: Natalie Raine
-  url: https://github.com/Nyatalieeee
+- username: Meowcelinee
+  name: Marceline
+  url: https://github.com/Meowcelinee
 - username: bartlibert
   name: Bart Libert
   url: https://github.com/bartlibert
@@ -451,6 +455,9 @@ collaborators:
 - username: sofiedotcafe
   name: Sofie
   url: https://github.com/sofiedotcafe
+- username: bunfluff
+  name: elly
+  url: https://github.com/bunfluff
 - username: orangci
   name: orangc
   url: https://github.com/orangci
@@ -1076,6 +1083,9 @@ repositories:
 - name: mobaxterm
   url: https://github.com/catppuccin/mobaxterm
   current-maintainers: [likendev]
+- name: mod-organizer-2
+  url: https://github.com/catppuccin/mod-organizer-2
+  current-maintainers: [daveedmee]
 - name: monkeytype
   url: https://github.com/catppuccin/monkeytype
   current-maintainers: []
@@ -1115,7 +1125,7 @@ repositories:
   past-maintainers: [nekowinston]
 - name: notepad-plus-plus
   url: https://github.com/catppuccin/notepad-plus-plus
-  current-maintainers: [InvitedToHell]
+  current-maintainers: [InvitedToHell, jack-mil]
 - name: nova
   url: https://github.com/catppuccin/nova
   current-maintainers: [daveyholler]
@@ -1511,6 +1521,9 @@ repositories:
 - name: zed
   url: https://github.com/catppuccin/zed
   current-maintainers: [tecandrew]
+- name: zed-icons
+  url: https://github.com/catppuccin/zed-icons
+  current-maintainers: [tecandrew]
 - name: zellij
   url: https://github.com/catppuccin/zellij
   current-maintainers: [mainrs]
@@ -1590,7 +1603,7 @@ repositories:
   current-maintainers: [AnubisNekhet]
 - name: chess.com
   url: https://github.com/catppuccin/userstyles/tree/main/styles/chess.com
-  current-maintainers: []
+  current-maintainers: [uncenter]
   past-maintainers: [skelebro1, isabelroses, coldenate]
 - name: cinny
   url: https://github.com/catppuccin/userstyles/tree/main/styles/cinny
@@ -1629,10 +1642,16 @@ repositories:
 - name: formative
   url: https://github.com/catppuccin/userstyles/tree/main/styles/formative
   current-maintainers: [r58Playz]
+- name: ghostty.org
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/ghostty.org
+  current-maintainers: [uncenter]
 - name: github
   url: https://github.com/catppuccin/userstyles/tree/main/styles/github
   current-maintainers: [uncenter]
   past-maintainers: [unseen-ninja, Pocco81, GlowingUmbreon]
+- name: gleam.run
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/gleam.run
+  current-maintainers: [uncenter]
 - name: gmail
   url: https://github.com/catppuccin/userstyles/tree/main/styles/gmail
   current-maintainers: [uncenter]
@@ -1684,7 +1703,7 @@ repositories:
   current-maintainers: [justTOBBI]
 - name: learn-x-in-y-minutes
   url: https://github.com/catppuccin/userstyles/tree/main/styles/learn-x-in-y-minutes
-  current-maintainers: [nikitarevenco]
+  current-maintainers: [nik-rev]
 - name: hyperpipe
   url: https://github.com/catppuccin/userstyles/tree/main/styles/hyperpipe
   current-maintainers: [jn-sena]
@@ -1765,9 +1784,12 @@ repositories:
 - name: minesweeper
   url: https://github.com/catppuccin/userstyles/tree/main/styles/minesweeper
   current-maintainers: []
+- name: mullvad-leta
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/mullvad-leta
+  current-maintainers: [jn-sena]
 - name: namemc
   url: https://github.com/catppuccin/userstyles/tree/main/styles/namemc
-  current-maintainers: [Nyatalieeee]
+  current-maintainers: [Meowcelinee]
 - name: nitter
   url: https://github.com/catppuccin/userstyles/tree/main/styles/nitter
   current-maintainers: [AnubisNekhet]
@@ -1803,7 +1825,7 @@ repositories:
   current-maintainers: [Guaxinim5573]
 - name: picrew
   url: https://github.com/catppuccin/userstyles/tree/main/styles/picrew
-  current-maintainers: [Nyatalieeee]
+  current-maintainers: [Meowcelinee]
 - name: pinterest
   url: https://github.com/catppuccin/userstyles/tree/main/styles/pinterest
   current-maintainers: []
@@ -1846,6 +1868,9 @@ repositories:
 - name: searxng
   url: https://github.com/catppuccin/userstyles/tree/main/styles/searxng
   current-maintainers: [Sekki21956, ryanccn]
+- name: seventv
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/seventv
+  current-maintainers: [mxgic1337]
 - name: shinigami-eyes
   url: https://github.com/catppuccin/userstyles/tree/main/styles/shinigami-eyes
   current-maintainers: [sofiedotcafe]
@@ -1862,9 +1887,12 @@ repositories:
   url: https://github.com/catppuccin/userstyles/tree/main/styles/startpage
   current-maintainers: []
   past-maintainers: [bartlibert]
+- name: status.cafe
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/status.cafe
+  current-maintainers: [bunfluff]
 - name: stylus
   url: https://github.com/catppuccin/userstyles/tree/main/styles/stylus
-  current-maintainers: []
+  current-maintainers: [uncenter]
 - name: substack
   url: https://github.com/catppuccin/userstyles/tree/main/styles/substack
   current-maintainers: [uncenter]
@@ -1904,7 +1932,7 @@ repositories:
   current-maintainers: [FrancoRav]
 - name: wikipedia
   url: https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia
-  current-maintainers: []
+  current-maintainers: [uncenter]
 - name: wikiwand
   url: https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand
   current-maintainers: [Tnixc]
@@ -2866,6 +2894,12 @@ ports:
   color: blue
   key: mobaxterm
   repository: mobaxterm
+- name: ModOrganizer 2
+  categories: [game]
+  platform: [windows]
+  color: peach
+  key: mod-organizer-2
+  repository: mod-organizer-2
 - name: Monkeytype
   categories: [entertainment]
   platform: agnostic
@@ -3751,6 +3785,19 @@ ports:
   icon: zedindustries
   key: zed
   repository: zed
+- name: Zed Icons
+  categories: [code_editor]
+  platform: [macos, linux]
+  upstreamed: true
+  color: blue
+  icon: zedindustries
+  links:
+  - name: Zed Extensions
+    icon: zedindustries
+    color: blue
+    url: https://zed.dev/extensions?query=catppuccin+icons
+  key: zed-icons
+  repository: zed-icons
 - name: Zellij
   categories: [cli]
   platform: [linux, macos]
@@ -3931,12 +3978,22 @@ ports:
   repository: formative
   categories: [education, productivity, userstyle]
   color: blue
+- name: Ghostty.org
+  key: ghostty.org
+  repository: ghostty.org
+  categories: [terminal, wiki, userstyle]
+  color: blue
 - name: GitHub
   key: github
   repository: github
   categories: [development, productivity, userstyle]
   icon: github
   color: text
+- name: gleam.run
+  key: gleam.run
+  repository: gleam.run
+  categories: [development, userstyle]
+  color: pink
 - name: Gmail
   key: gmail
   repository: gmail
@@ -4180,6 +4237,11 @@ ports:
   repository: minesweeper
   categories: [game, userstyle]
   color: text
+- name: Mullvad Leta
+  key: mullvad-leta
+  repository: mullvad-leta
+  categories: [search_engine, userstyle]
+  color: yellow
 - name: NameMC
   key: namemc
   repository: namemc
@@ -4329,6 +4391,11 @@ ports:
   categories: [search_engine, userstyle]
   icon: searxng
   color: blue
+- name: 7TV
+  key: seventv
+  repository: seventv
+  categories: [entertainment, browser_extension, userstyle]
+  color: sapphire
 - name: Shinigami Eyes
   key: shinigami-eyes
   repository: shinigami-eyes
@@ -4349,7 +4416,7 @@ ports:
 - name: Stack Overflow
   key: stack-overflow
   repository: stack-overflow
-  categories: [development, userstyle]
+  categories: [discussion_forum, development, wiki, userstyle]
   icon: stackoverflow
   color: peach
 - name: Startpage
@@ -4357,6 +4424,11 @@ ports:
   repository: startpage
   categories: [search_engine, userstyle]
   color: lavender
+- name: status.cafe
+  key: status.cafe
+  repository: status.cafe
+  categories: [social_networking, userstyle]
+  color: sapphire
 - name: Stylus
   key: stylus
   repository: stylus
@@ -4494,6 +4566,13 @@ showcases:
 - title: Catbbrew
   description: Easily create your own Catppuccin flavors.
   link: https://catbbrew.com/
+- title: Tomatillo Timer
+  description: A modern pomodoro timer that syncs to your music
+  link: https://timer.flotes.app/?theme=mocha
+- title: Catppuccin Startpage
+  description: Aesthetic and clean startpage in Catppuccin style, hosted on GitHub
+    Pages
+  link: https://github.com/pivoshenko/catppuccin-startpage
 archived-ports:
 - name: Google Chrome DevTools
   reason: Chrome has removed the experimental API required for the Catppuccin theme
