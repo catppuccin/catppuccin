@@ -1355,6 +1355,9 @@ repositories:
 - name: telegram
   url: https://github.com/catppuccin/telegram
   current-maintainers: [isabelincorp]
+- name: television
+  url: https://github.com/catppuccin/television
+  current-maintainers: [uncenter]
 - name: terminator
   url: https://github.com/catppuccin/terminator
   current-maintainers: []
@@ -3429,6 +3432,12 @@ ports:
   icon: telegram
   key: telegram
   repository: telegram
+- name: television
+  categories: [cli, productivity]
+  platform: [linux, macos, windows]
+  color: text
+  key: television
+  repository: television
 - name: Terminator
   categories: [terminal]
   platform: [linux]
