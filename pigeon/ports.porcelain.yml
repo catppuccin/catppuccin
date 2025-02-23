@@ -4340,6 +4340,28 @@ ports:
     - username: isabelincorp
       url: https://github.com/isabelincorp
     past-maintainers: []
+- name: television
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
+  platform: [linux, macos, windows]
+  color: text
+  key: television
+  repository:
+    name: television
+    url: https://github.com/catppuccin/television
+    current-maintainers:
+    - username: uncenter
+      url: https://github.com/uncenter
+    past-maintainers: []
 - name: Terminator
   categories:
   - key: terminal
