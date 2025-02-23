@@ -1036,6 +1036,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [sc-im](https://github.com/catppuccin/sc-im)
 - [skim](https://github.com/catppuccin/skim)
 - [Starship](https://github.com/catppuccin/starship)
+- [television](https://github.com/catppuccin/television)
 - [tmux](https://github.com/catppuccin/tmux)
 - [Zellij](https://github.com/catppuccin/zellij)
 - [ZSH Fast Syntax Highlighting](https://github.com/catppuccin/zsh-fsh)
