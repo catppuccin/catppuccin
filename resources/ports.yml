@@ -1932,6 +1932,12 @@ ports:
     color: blue
     icon: telegram
     current-maintainers: [*isabelincorp]
+  television:
+    name: television
+    categories: [cli, productivity]
+    platform: [linux, macos, windows]
+    color: text
+    current-maintainers: [*uncenter]
   terminator:
     name: Terminator
     categories: [terminal]
