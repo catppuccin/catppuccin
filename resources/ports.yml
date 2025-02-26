@@ -2370,7 +2370,7 @@ ports:
     color: green
     icon: nushell
     platform: [linux, macos, windows]
-    current-maintainers: [*nik-rev*]
+    current-maintainers: [*nik-rev]
     past-maintainers: []
 
 archived:
