@@ -365,6 +365,8 @@ collaborators:
     url: https://github.com/xzi
   - &Zazucki
     url: https://github.com/Zazucki
+  - &nik-rev
+    url: https://github.com/nik-rev
 
 ports:
   aerc:
@@ -2362,6 +2364,14 @@ ports:
     platform: [linux]
     color: text
     current-maintainers: [*sakkke]
+  nushell:
+    name: Nushell
+    categories: [terminal]
+    color: green
+    icon: nushell
+    platform: [linux, macos, windows]
+    current-maintainers: [*nik-rev*]
+    past-maintainers: []
 
 archived:
   chrome-devtools:
