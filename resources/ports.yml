@@ -231,6 +231,8 @@ collaborators:
   - &NickSquiggles
     name: Nick
     url: https://github.com/NickSquiggles
+  - &nik-rev
+    url: https://github.com/nik-rev
   - &NikSneMC
     name: NikSne
     url: https://github.com/NikSneMC
@@ -365,8 +367,6 @@ collaborators:
     url: https://github.com/xzi
   - &Zazucki
     url: https://github.com/Zazucki
-  - &nik-rev
-    url: https://github.com/nik-rev
 
 ports:
   aerc:
