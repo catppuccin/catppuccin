@@ -2371,7 +2371,6 @@ ports:
     icon: nushell
     platform: [linux, macos, windows]
     current-maintainers: [*nik-rev]
-    past-maintainers: []
 
 archived:
   chrome-devtools:
