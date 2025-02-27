@@ -1463,7 +1463,7 @@ ports:
     current-maintainers: [*daveyholler]
   nushell:
     name: Nushell
-    categories: [terminal]
+    categories: [cli]
     color: green
     icon: nushell
     platform: [linux, macos, windows]
