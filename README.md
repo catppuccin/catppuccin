@@ -1030,6 +1030,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [lazygit](https://github.com/catppuccin/lazygit)
 - [LSD](https://github.com/catppuccin/lsd)
 - [Newsboat](https://github.com/catppuccin/newsboat)
+- [Nushell](https://github.com/catppuccin/nushell)
 - [OhMyREPL](https://github.com/catppuccin/ohmyrepl)
 - [PowerShell](https://github.com/catppuccin/powershell)
 - [Process Compose](https://github.com/catppuccin/process-compose)
