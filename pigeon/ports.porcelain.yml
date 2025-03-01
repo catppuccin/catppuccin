@@ -3042,6 +3042,24 @@ ports:
     - username: daveyholler
       url: https://github.com/daveyholler
     past-maintainers: []
+- name: Nushell
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  color: green
+  icon: nushell
+  platform: [linux, macos, windows]
+  key: nushell
+  repository:
+    name: nushell
+    url: https://github.com/catppuccin/nushell
+    current-maintainers:
+    - username: nik-rev
+      url: https://github.com/nik-rev
+    past-maintainers: []
 - name: Neovim
   categories:
   - key: code_editor
@@ -8696,6 +8714,8 @@ collaborators:
 - username: NickSquiggles
   name: Nick
   url: https://github.com/NickSquiggles
+- username: nik-rev
+  url: https://github.com/nik-rev
 - username: NikSneMC
   name: NikSne
   url: https://github.com/NikSneMC
@@ -8830,8 +8850,6 @@ collaborators:
   url: https://github.com/xzi
 - username: Zazucki
   url: https://github.com/Zazucki
-- username: nik-rev
-  url: https://github.com/nik-rev
 - username: jn-sena
   name: Sena
   url: https://github.com/jn-sena
