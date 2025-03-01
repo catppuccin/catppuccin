@@ -526,7 +526,7 @@ ports:
     color: peach
     current-maintainers: [*42Willow]
   canva:
-    name: canva
+    name: Canva
     categories: [photo_and_video]
     platform: agnostic
     color: blue
