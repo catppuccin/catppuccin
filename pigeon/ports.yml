@@ -231,6 +231,8 @@ collaborators:
 - username: NickSquiggles
   name: Nick
   url: https://github.com/NickSquiggles
+- username: nik-rev
+  url: https://github.com/nik-rev
 - username: NikSneMC
   name: NikSne
   url: https://github.com/NikSneMC
@@ -1018,6 +1020,9 @@ repositories:
 - name: nova
   url: https://github.com/catppuccin/nova
   current-maintainers: [daveyholler]
+- name: nushell
+  url: https://github.com/catppuccin/nushell
+  current-maintainers: [nik-rev]
 - name: nvim
   url: https://github.com/catppuccin/nvim
   current-maintainers: [vollowx]
@@ -2499,6 +2504,13 @@ ports:
     url: https://extensions.panic.com/extensions/holler/holler.CatppuccinTheme/
   key: nova
   repository: nova
+- name: Nushell
+  categories: [cli]
+  color: green
+  icon: nushell
+  platform: [linux, macos, windows]
+  key: nushell
+  repository: nushell
 - name: Neovim
   categories: [code_editor, cli]
   platform: [linux, macos, windows]
