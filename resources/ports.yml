@@ -291,6 +291,8 @@ collaborators:
     url: https://github.com/sakkke
   - &Sebagabones
     url: https://github.com/Sebagabones
+  - &Sebaguardian
+    url: https://github.com/Sebaguardian
   - &Sekki21956
     url: https://github.com/Sekki21956
   - &schoblaska
@@ -523,6 +525,13 @@ ports:
     platform: [linux, macos, windows]
     color: peach
     current-maintainers: [*42Willow]
+  canva:
+    name: canva
+    categories: [photo_and_video]
+    platform: agnostic
+    color: blue
+    icon: canva
+    current-maintainers: [*Sebaguardian]
   cava:
     name: Cava
     categories: [music, cli]
