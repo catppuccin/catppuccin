@@ -1234,7 +1234,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>📸 Photo & Video</summary>
 
-- [canva](https://github.com/catppuccin/canva)
+- [Canva](https://github.com/catppuccin/canva)
 - [Google Photos](https://github.com/catppuccin/userstyles/tree/main/styles/google-photos)
 - [imv](https://github.com/catppuccin/imv)
 - [mpv](https://github.com/catppuccin/mpv)
