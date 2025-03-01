@@ -291,6 +291,8 @@ collaborators:
   url: https://github.com/sakkke
 - username: Sebagabones
   url: https://github.com/Sebagabones
+- username: Sebaguardian
+  url: https://github.com/Sebaguardian
 - username: Sekki21956
   url: https://github.com/Sekki21956
 - username: schoblaska
@@ -698,6 +700,9 @@ repositories:
 - name: calibre
   url: https://github.com/catppuccin/calibre
   current-maintainers: [42Willow]
+- name: canva
+  url: https://github.com/catppuccin/canva
+  current-maintainers: [Sebaguardian]
 - name: cava
   url: https://github.com/catppuccin/cava
   current-maintainers: [sgoudham]
@@ -2091,6 +2096,13 @@ ports:
   color: peach
   key: calibre
   repository: calibre
+- name: Canva
+  categories: [photo_and_video]
+  platform: agnostic
+  color: blue
+  icon: canva
+  key: canva
+  repository: canva
 - name: Cava
   categories: [music, cli]
   platform: [linux, macos]
