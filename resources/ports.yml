@@ -1024,7 +1024,8 @@ ports:
     platform: agnostic
     icon: homeassistant
     color: blue
-    current-maintainers: [*fapfaff]
+    current-maintainers: []
+    past-maintainers: [*fapfaff]
   hyper:
     name: Hyper
     categories: [terminal]
@@ -1665,7 +1666,8 @@ ports:
     categories: [boot_loader, system]
     platform: [linux]
     color: text
-    current-maintainers: [*fapfaff]
+    current-maintainers: []
+    past-maintainers: [*fapfaff]
   regolith:
     name: Regolith
     categories: [desktop_environment, system]
