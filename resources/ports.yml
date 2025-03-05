@@ -1036,8 +1036,9 @@ ports:
       - name: npm
         icon: npm
         color: red
-        url: https://www.npmjs.com/package/hypurr
-    current-maintainers: [*asrvd]
+        url: https://www.npmjs.com/package/@catppuccin/hyper
+    current-maintainers: []
+    past-maintainers: [*asrvd]
   hyprland:
     name: Hyprland
     categories: [window_manager, system]
@@ -1904,7 +1905,8 @@ ports:
     categories: [document_viewer, productivity]
     platform: [windows]
     color: yellow
-    current-maintainers: [*asrvd]
+    current-maintainers: []
+    past-maintainers: [*asrvd]
   swaylock:
     name: swaylock
     categories: [system]
