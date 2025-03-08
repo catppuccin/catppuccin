@@ -11,6 +11,8 @@ collaborators:
   url: https://github.com/abhishekmj303
 - username: AdalZanabria
   url: https://github.com/AdalZanabria
+- username: adamperkowski
+  url: https://github.com/adamperkowski
 - username: AlphaTechnolog
   url: https://github.com/AlphaTechnolog
 - username: Askerad
@@ -936,10 +938,12 @@ repositories:
   past-maintainers: [nekowinston]
 - name: home-assistant
   url: https://github.com/catppuccin/home-assistant
-  current-maintainers: [fapfaff]
+  current-maintainers: []
+  past-maintainers: [fapfaff]
 - name: hyper
   url: https://github.com/catppuccin/hyper
-  current-maintainers: [asrvd]
+  current-maintainers: []
+  past-maintainers: [asrvd]
 - name: hyprland
   url: https://github.com/catppuccin/hyprland
   current-maintainers: [rubyowo]
@@ -974,6 +978,9 @@ repositories:
 - name: java
   url: https://github.com/catppuccin/java
   current-maintainers: [sgoudham, nullishamy]
+- name: jellyfin
+  url: https://github.com/catppuccin/jellyfin
+  current-maintainers: [adamperkowski]
 - name: jetbrains
   url: https://github.com/catppuccin/jetbrains
   current-maintainers: [sgoudham, quentinguidee]
@@ -1230,7 +1237,8 @@ repositories:
   current-maintainers: [Moodzz1]
 - name: refind
   url: https://github.com/catppuccin/refind
-  current-maintainers: [fapfaff]
+  current-maintainers: []
+  past-maintainers: [fapfaff]
 - name: regolith
   url: https://github.com/catppuccin/regolith
   current-maintainers: [taka0o]
@@ -1342,7 +1350,8 @@ repositories:
   past-maintainers: [ghostx31]
 - name: sumatra-pdf
   url: https://github.com/catppuccin/sumatra-pdf
-  current-maintainers: [asrvd]
+  current-maintainers: []
+  past-maintainers: [asrvd]
 - name: swaylock
   url: https://github.com/catppuccin/swaylock
   current-maintainers: [remiposo]
@@ -2581,7 +2590,7 @@ ports:
   - name: npm
     icon: npm
     color: red
-    url: https://www.npmjs.com/package/hypurr
+    url: https://www.npmjs.com/package/@catppuccin/hyper
   key: hyper
   repository: hyper
 - name: Hyprland
@@ -2661,6 +2670,13 @@ ports:
   color: maroon
   key: java
   repository: java
+- name: Jellyfin
+  categories: [entertainment, music]
+  platform: agnostic
+  color: sky
+  icon: jellyfin
+  key: jellyfin
+  repository: jellyfin
 - name: JetBrains
   categories: [code_editor]
   platform: [linux, macos, windows]
