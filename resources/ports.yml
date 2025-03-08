@@ -1123,7 +1123,7 @@ ports:
     name: Jellyfin
     categories: [entertainment, music, self_hosted]
     platform: agnostic
-    color: mauve
+    color: sky
     icon: jellyfin
     current-maintainers: [*adamperkowski]
   jetbrains:
