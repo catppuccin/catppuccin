@@ -1420,6 +1420,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [ChatReplay](https://github.com/catppuccin/userstyles/tree/main/styles/chatreplay)
 - [Holodex](https://github.com/catppuccin/userstyles/tree/main/styles/holodex)
 - [Invidious](https://github.com/catppuccin/userstyles/tree/main/styles/invidious)
+- [Jellyfin](https://github.com/catppuccin/jellyfin)
 - [Monkeytype](https://github.com/catppuccin/monkeytype)
 - [Picrew](https://github.com/catppuccin/userstyles/tree/main/styles/picrew)
 - [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
