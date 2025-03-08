@@ -1852,10 +1852,10 @@ ports:
   repository:
     name: home-assistant
     url: https://github.com/catppuccin/home-assistant
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: fapfaff
       url: https://github.com/fapfaff
-    past-maintainers: []
 - name: Hyper
   categories:
   - key: terminal
@@ -1870,15 +1870,15 @@ ports:
   - name: npm
     icon: npm
     color: red
-    url: https://www.npmjs.com/package/hypurr
+    url: https://www.npmjs.com/package/@catppuccin/hyper
   key: hyper
   repository:
     name: hyper
     url: https://github.com/catppuccin/hyper
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: asrvd
       url: https://github.com/asrvd
-    past-maintainers: []
 - name: Hyprland
   categories:
   - key: window_manager
@@ -2101,6 +2101,27 @@ ports:
       url: https://github.com/sgoudham
     - username: nullishamy
       url: https://github.com/nullishamy
+    past-maintainers: []
+- name: Jellyfin
+  categories:
+  - key: entertainment
+    name: Entertainment
+    description: Applications designed to entertain the user.
+    emoji: 🌈
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  platform: agnostic
+  color: sky
+  icon: jellyfin
+  key: jellyfin
+  repository:
+    name: jellyfin
+    url: https://github.com/catppuccin/jellyfin
+    current-maintainers:
+    - username: adamperkowski
+      url: https://github.com/adamperkowski
     past-maintainers: []
 - name: JetBrains
   categories:
@@ -3595,10 +3616,10 @@ ports:
   repository:
     name: refind
     url: https://github.com/catppuccin/refind
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: fapfaff
       url: https://github.com/fapfaff
-    past-maintainers: []
 - name: Regolith
   categories:
   - key: desktop_environment
@@ -4259,10 +4280,10 @@ ports:
   repository:
     name: sumatra-pdf
     url: https://github.com/catppuccin/sumatra-pdf
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: asrvd
       url: https://github.com/asrvd
-    past-maintainers: []
 - name: swaylock
   categories:
   - key: system
@@ -8512,6 +8533,8 @@ collaborators:
   url: https://github.com/abhishekmj303
 - username: AdalZanabria
   url: https://github.com/AdalZanabria
+- username: adamperkowski
+  url: https://github.com/adamperkowski
 - username: AlphaTechnolog
   url: https://github.com/AlphaTechnolog
 - username: Askerad
