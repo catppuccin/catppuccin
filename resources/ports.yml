@@ -1121,7 +1121,7 @@ ports:
     current-maintainers: [*sgoudham, *nullishamy]
   jellyfin:
     name: Jellyfin
-    categories: [entertainment, music, self_hosted]
+    categories: [entertainment, music]
     platform: agnostic
     color: sky
     icon: jellyfin
