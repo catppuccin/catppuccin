@@ -11,6 +11,8 @@ collaborators:
     url: https://github.com/abhishekmj303
   - &AdalZanabria
     url: https://github.com/AdalZanabria
+  - &adamperkowski
+    url: https://github.com/adamperkowski
   - &AlphaTechnolog
     url: https://github.com/AlphaTechnolog
   - &Askerad
@@ -1117,6 +1119,13 @@ ports:
     platform: agnostic
     color: maroon
     current-maintainers: [*sgoudham, *nullishamy]
+  jellyfin:
+    name: Jellyfin
+    categories: [entertainment, music, self_hosted]
+    platform: agnostic
+    color: sky
+    icon: jellyfin
+    current-maintainers: [*adamperkowski]
   jetbrains:
     name: JetBrains
     categories: [code_editor]
