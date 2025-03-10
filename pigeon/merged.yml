@@ -2006,7 +2006,7 @@ ports:
   repository: amfora
 - name: Anki
   categories: [education, productivity]
-  platform: agnostic
+  platform: [agnostic]
   icon: anki
   color: blue
   key: anki
@@ -2034,7 +2034,7 @@ ports:
   repository: vscode
 - name: Base16
   categories: [system]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   key: base16
   repository: base16
@@ -2055,7 +2055,7 @@ ports:
   categories: [productivity]
   icon: bento
   color: lavender
-  platform: agnostic
+  platform: [agnostic]
   key: bento
   repository: bento
 - name: Binary Ninja
@@ -2117,7 +2117,7 @@ ports:
   repository: calibre
 - name: Canva
   categories: [photo_and_video]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   icon: canva
   key: canva
@@ -2156,9 +2156,9 @@ ports:
   repository: cider
 - name: CodeMirror
   categories: [code_editor]
+  platform: [agnostic]
   color: red
   icon: codemirror
-  platform: agnostic
   key: codemirror
   repository: codemirror
 - name: Conky
@@ -2200,7 +2200,7 @@ ports:
   repository: cutter
 - name: daisyUI
   categories: [development]
-  platform: agnostic
+  platform: [agnostic]
   color: mauve
   icon: daisyui
   links:
@@ -2212,7 +2212,7 @@ ports:
   repository: daisyui
 - name: Dark Reader
   categories: [browser_extension]
-  platform: agnostic
+  platform: [agnostic]
   icon: darkreader
   color: teal
   key: dark-reader
@@ -2283,7 +2283,7 @@ ports:
   repository: element
 - name: Elixir
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: lavender
   icon: elixir
   key: elixir
@@ -2325,7 +2325,7 @@ ports:
   repository: fish
 - name: Fitbit
   categories: [health_and_fitness]
-  platform: agnostic
+  platform: [agnostic]
   color: teal
   icon: fitbit
   key: fitbit
@@ -2357,7 +2357,7 @@ ports:
   repository: fluentterminal
 - name: Flutter
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   icon: flutter
   key: flutter
@@ -2449,41 +2449,41 @@ ports:
   repository: ghidra
 - name: Giscus
   categories: [discussion_forum]
-  platform: agnostic
+  platform: [agnostic]
   color: sky
   key: giscus
   repository: giscus
 - name: Gitea
   categories: [productivity]
-  platform: agnostic
+  platform: [agnostic]
   color: green
   icon: gitea
   key: gitea
   repository: gitea
 - name: GitHub File Explorer Icons
   categories: [browser_extension]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   icon: github
   key: github-file-explorer-icons
   repository: github-file-explorer-icons
 - name: GitHub Readme Stats
   categories: [analytics]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   icon: github
   key: github-readme-stats
   repository: github-readme-stats
 - name: GitHub Readme Streak Stats
   categories: [analytics]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   icon: github
   key: github-readme-streak-stats
   repository: github-readme-streak-stats
 - name: GitHub Readme Tech Stack
   categories: [analytics]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   icon: github
   key: github-readme-tech-stack
@@ -2516,7 +2516,7 @@ ports:
   repository: glazewm
 - name: Gleam
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: pink
   key: gleam
   repository: gleam
@@ -2529,7 +2529,7 @@ ports:
   repository: gnome-terminal
 - name: Go
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: sapphire
   icon: go
   key: go
@@ -2575,7 +2575,7 @@ ports:
   repository: hexchat
 - name: highlight.js
   categories: [development]
-  platform: agnostic
+  platform: [agnostic]
   color: maroon
   links:
   - name: npm
@@ -2586,7 +2586,7 @@ ports:
   repository: highlightjs
 - name: Home Assistant
   categories: [productivity]
-  platform: agnostic
+  platform: [agnostic]
   icon: homeassistant
   color: blue
   key: home-assistant
@@ -2676,13 +2676,13 @@ ports:
   repository: iterm
 - name: Java
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: maroon
   key: java
   repository: java
 - name: Jellyfin
   categories: [entertainment, music]
-  platform: agnostic
+  platform: [agnostic]
   color: sky
   icon: jellyfin
   key: jellyfin
@@ -2720,7 +2720,7 @@ ports:
   repository: joplin
 - name: JupyterLab
   categories: [development, analytics]
-  platform: agnostic
+  platform: [agnostic]
   color: peach
   icon: jupyter
   key: jupyterlab
@@ -2786,7 +2786,7 @@ ports:
   repository: kvaesitso
 - name: LaTeX
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   icon: latex
   color: teal
   key: latex
@@ -2819,7 +2819,7 @@ ports:
   repository: limine
 - name: Linear
   categories: [productivity]
-  platform: agnostic
+  platform: [agnostic]
   color: lavender
   icon: linear
   key: linear
@@ -2839,7 +2839,7 @@ ports:
   repository: lsd
 - name: Lua
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   icon: lua
   key: lua
@@ -2873,14 +2873,14 @@ ports:
   repository: mako
 - name: Matplotlib
   categories: [development, analytics]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   alias: python
   key: matplotlib
   repository: python
 - name: Mattermost
   categories: [social_networking]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   icon: mattermost
   key: mattermost
@@ -2893,7 +2893,7 @@ ports:
   repository: mc
 - name: mdBook
   categories: [development]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   icon: mdbook
   key: mdBook
@@ -2926,7 +2926,7 @@ ports:
   repository: mirc
 - name: Misskey
   categories: [social_networking]
-  platform: agnostic
+  platform: [agnostic]
   color: green
   icon: misskey
   upstreamed: true
@@ -2952,7 +2952,7 @@ ports:
   repository: mod-organizer-2
 - name: Monkeytype
   categories: [entertainment]
-  platform: agnostic
+  platform: [agnostic]
   color: yellow
   icon: monkeytype
   key: monkeytype
@@ -2989,13 +2989,13 @@ ports:
   repository: newsboat
 - name: nightTab
   categories: [browser_extension]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   key: nighttab
   repository: nighttab
 - name: Nim
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: yellow
   icon: nim
   key: nim
@@ -3084,7 +3084,7 @@ ports:
   repository: opera-gx
 - name: Pantone
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   key: pantone
   repository: pantone
@@ -3128,14 +3128,14 @@ ports:
   repository: powerpoint-slides
 - name: PowerShell
   categories: [cli]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   icon: powershell
   key: powershell
   repository: powershell
 - name: Prism.js
   categories: [development]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   key: prismjs
   repository: prismjs
@@ -3159,7 +3159,7 @@ ports:
   repository: pyradio
 - name: Python
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   icon: python
   key: python
@@ -3226,13 +3226,13 @@ ports:
   repository: regolith
 - name: RemNote
   categories: [note_taking]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   key: remnote
   repository: remnote
 - name: Replit
   categories: [code_editor]
-  platform: agnostic
+  platform: [agnostic]
   color: peach
   icon: replit
   key: replit
@@ -3273,14 +3273,14 @@ ports:
   repository: rstudio
 - name: Ruby
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: red
   icon: ruby
   key: ruby
   repository: ruby
 - name: Rust
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   icon: rust
   key: rust
@@ -3312,7 +3312,7 @@ ports:
   repository: sent
 - name: SerenityOS
   categories: [system]
-  platform: agnostic
+  platform: [agnostic]
   color: red
   key: serenity-os
   repository: serenity-os
@@ -3325,7 +3325,7 @@ ports:
   repository: sharex
 - name: Shiki
   categories: [development]
-  platform: agnostic
+  platform: [agnostic]
   color: sapphire
   key: shiki
   repository: shiki
@@ -3343,7 +3343,7 @@ ports:
   repository: skim
 - name: Slack
   categories: [social_networking]
-  platform: agnostic
+  platform: [agnostic]
   color: mauve
   icon: slack
   key: slack
@@ -3410,7 +3410,7 @@ ports:
   repository: st
 - name: Stable Diffusion WebUI
   categories: [artificial_intelligence, entertainment]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   key: stable-diffusion-web-ui
   repository: stable-diffusion-web-ui
@@ -3469,7 +3469,7 @@ ports:
   repository: tabby
 - name: Tailwind CSS
   categories: [development]
-  platform: agnostic
+  platform: [agnostic]
   color: sky
   icon: tailwindcss
   links:
@@ -3481,7 +3481,7 @@ ports:
   repository: tailwindcss
 - name: Telegram
   categories: [social_networking]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   icon: telegram
   key: telegram
@@ -3519,14 +3519,14 @@ ports:
   repository: the-archive
 - name: The Lounge
   categories: [social_networking]
-  platform: agnostic
+  platform: [agnostic]
   color: peach
   key: thelounge
   repository: thelounge
 - name: theme.park
   categories: [entertainment]
   upstreamed: true
-  platform: agnostic
+  platform: [agnostic]
   color: teal
   key: theme.park
   repository: theme.park
@@ -3571,7 +3571,7 @@ ports:
   repository: tty
 - name: Tumblr
   categories: [browser_extension, social_networking, photo_and_video]
-  platform: agnostic
+  platform: [agnostic]
   icon: tumblr
   color: blue
   key: tumblr
@@ -3584,7 +3584,7 @@ ports:
   repository: tym
 - name: Typst
   categories: [library, note_taking]
-  platform: agnostic
+  platform: [agnostic]
   icon: typst
   color: teal
   key: typst
@@ -3597,7 +3597,7 @@ ports:
   repository: ueli
 - name: UI
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   icon: react
   color: sky
   links:
@@ -3634,7 +3634,7 @@ ports:
   repository: urxvt
 - name: V
   categories: [library]
-  platform: agnostic
+  platform: [agnostic]
   color: lavender
   icon: v
   key: v
@@ -3655,7 +3655,7 @@ ports:
   repository: vim
 - name: Vimium
   categories: [browser_extension]
-  platform: agnostic
+  platform: [agnostic]
   color: green
   icon: vim
   key: vimium
@@ -3674,7 +3674,7 @@ ports:
   repository: visual-studio
 - name: VitePress
   categories: [development]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   icon: vitepress
   key: vitepress
@@ -3716,7 +3716,7 @@ ports:
   repository: vscode-icons
 - name: VSCord
   categories: [development, analytics]
-  platform: agnostic
+  platform: [agnostic]
   color: lavender
   key: vscord
   repository: vscord
@@ -3750,7 +3750,7 @@ ports:
   repository: where-is-my-sddm-theme
 - name: Whoogle
   categories: [search_engine]
-  platform: agnostic
+  platform: [agnostic]
   color: lavender
   key: whoogle
   repository: whoogle
@@ -3828,7 +3828,7 @@ ports:
   repository: yazi
 - name: YouTube Music
   categories: [music]
-  platform: agnostic
+  platform: [agnostic]
   color: red
   icon: youtubemusic
   key: youtubemusic
@@ -4674,7 +4674,7 @@ archived-ports:
   reason: The package is now included within catppuccin/python, therefore the catppuccin/matplotlib
     repository has been archived.
   categories: [development, analytics]
-  platform: agnostic
+  platform: [agnostic]
   color: blue
   key: matplotlib
   repository: matplotlib
@@ -4682,7 +4682,7 @@ archived-ports:
   reason: Extension is unusable due to X/Twitter's extensive measures to limit third
     party modifications, this port could be revived.
   categories: [browser_extension, social_networking]
-  platform: agnostic
+  platform: [agnostic]
   icon: twitter
   color: blue
   key: oldtwitter
@@ -4691,7 +4691,7 @@ archived-ports:
   reason: Sidebery automatically takes in colours from the Firefox theme, this port
     is now redundant.
   categories: [browser_extension]
-  platform: agnostic
+  platform: [agnostic]
   color: text
   key: sidebery
   repository: sidebery
