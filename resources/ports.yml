@@ -73,6 +73,8 @@ collaborators:
     url: https://github.com/mbekkomo
   - &Cristhyano
     url: https://github.com/Cristhyano
+  - &claymorwan
+    url: https://github.com/claymorwan
   - &coldenate
     url: https://github.com/coldenate
   - &Daeraxa
@@ -1221,6 +1223,12 @@ ports:
     icon: kde
     color: blue
     current-maintainers: [*Sourcastic]
+  kvaesitso:
+    name: Kvaesitso
+    categories: [system, application_launcher]
+    platform: [android]
+    color: blue
+    current-maintainers: [*claymorwan]
   latex:
     name: LaTeX
     categories: [library]
