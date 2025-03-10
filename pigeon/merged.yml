@@ -73,6 +73,8 @@ collaborators:
   url: https://github.com/mbekkomo
 - username: Cristhyano
   url: https://github.com/Cristhyano
+- username: claymorwan
+  url: https://github.com/claymorwan
 - username: coldenate
   url: https://github.com/coldenate
 - username: Daeraxa
@@ -1021,6 +1023,9 @@ repositories:
 - name: ksyntaxhighlighting
   url: https://github.com/catppuccin/ksyntaxhighlighting
   current-maintainers: [Sourcastic]
+- name: kvaesitso
+  url: https://github.com/catppuccin/kvaesitso
+  current-maintainers: [claymorwan]
 - name: latex
   url: https://github.com/catppuccin/latex
   current-maintainers: [walshyb, atticus-sullivan]
@@ -2768,6 +2773,12 @@ ports:
   color: blue
   key: ksyntaxhighlighting
   repository: ksyntaxhighlighting
+- name: Kvaesitso
+  categories: [system, application_launcher]
+  platform: [android]
+  color: blue
+  key: kvaesitso
+  repository: kvaesitso
 - name: LaTeX
   categories: [library]
   platform: agnostic
