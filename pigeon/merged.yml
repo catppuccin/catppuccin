@@ -478,6 +478,8 @@ collaborators:
   url: https://github.com/steinuil
 - username: husjon
   url: https://github.com/husjon
+- username: RaiderHCPlay
+  url: https://github.com/RaiderHCPlay
 categories:
 - key: code_editor
   name: Code Editors & IDEs
@@ -1883,6 +1885,9 @@ repositories:
 - name: raindrop
   url: https://github.com/catppuccin/userstyles/tree/main/styles/raindrop
   current-maintainers: [thismoon]
+- name: react.dev
+  url: https://github.com/catppuccin/userstyles/tree/main/styles/react.dev
+  current-maintainers: [RaiderHCPlay]
 - name: reddit
   url: https://github.com/catppuccin/userstyles/tree/main/styles/reddit
   current-maintainers: []
@@ -4432,6 +4437,12 @@ ports:
   repository: raindrop
   categories: [productivity, userstyle]
   color: blue
+- name: React.dev
+  key: react.dev
+  repository: react.dev
+  categories: [development, userstyle]
+  icon: react
+  color: sapphire
 - name: Reddit
   key: reddit
   repository: reddit
