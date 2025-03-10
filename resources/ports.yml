@@ -11,6 +11,8 @@ collaborators:
     url: https://github.com/abhishekmj303
   - &AdalZanabria
     url: https://github.com/AdalZanabria
+  - &adamperkowski
+    url: https://github.com/adamperkowski
   - &AlphaTechnolog
     url: https://github.com/AlphaTechnolog
   - &Askerad
@@ -19,6 +21,8 @@ collaborators:
     url: https://github.com/unseen-ninja
   - &AngelBerihuete
     url: https://github.com/AngelBerihuete
+  - &AnicJov
+    url: https://github.com/AnicJov
   - &Anomalocaridid
     url: https://github.com/Anomalocaridid
   - &AnubisNekhet
@@ -27,6 +31,8 @@ collaborators:
   - &AwA-VR
     name: AwA
     url: https://github.com/AwA-VR
+  - &acm-wq
+    url: https://github.com/acm-wq
   - &asrvd
     url: https://github.com/asrvd
   - &aszecsei
@@ -45,6 +51,8 @@ collaborators:
     url: https://github.com/backwardspy
   - &bagelwaffle
     url: https://github.com/bagelwaffle
+  - &BANanaD3V
+    url: https://github.com/BANanaD3V
   - &beacon6
     url: https://github.com/beacon6
   - &BlueFalconHD
@@ -59,14 +67,20 @@ collaborators:
     url: https://github.com/CallMeEchoCodes
   - &catb00mer
     url: https://github.com/catb00mer
-  - &cattokomo
-    url: https://github.com/cattokomo
+  - &Covkie
+    url: https://github.com/Covkie
+  - &mbekkomo
+    url: https://github.com/mbekkomo
   - &Cristhyano
     url: https://github.com/Cristhyano
+  - &claymorwan
+    url: https://github.com/claymorwan
   - &coldenate
     url: https://github.com/coldenate
   - &Daeraxa
     url: https://github.com/Daeraxa
+  - &daveedmee
+    url: https://github.com/daveedmee
   - &daveyholler
     url: https://github.com/daveyholler
   - &davfsa
@@ -115,8 +129,12 @@ collaborators:
     url: https://github.com/Gingeh
   - &griimick
     url: https://github.com/griimick
+  - &HeitorAugustoLN
+    url: https://github.com/HeitorAugustoLN
   - &hyperreal64
     url: https://github.com/hyperreal64
+  - &IAmJafeth
+    url: https://github.com/IAmJafeth
   - &icy-comet
     url: https://github.com/icy-comet
   - &ignamartinoli
@@ -131,6 +149,8 @@ collaborators:
     url: https://github.com/isabelroses
   - &autumn-mck
     url: https://github.com/autumn-mck
+  - &jack-mil
+    url: https://github.com/jack-mil
   - &jayylmao
     url: https://github.com/jayylmao
   - &JK-Flip-Flop96
@@ -151,6 +171,8 @@ collaborators:
     url: https://github.com/kerichdev
   - &Kettukaa
     url: https://github.com/Kettukaa
+  - &kjnsn
+    url: https://github.com/kjnsn
   - &kkrypt0nn
     url: https://github.com/kkrypt0nn
   - &lemon-sh
@@ -207,9 +229,14 @@ collaborators:
   - &nekowinston
     name: winston
     url: https://github.com/nekowinston
+  - &neongamerbot
+    name: Neon
+    url: https://github.com/NeonGamerBot-QK
   - &NickSquiggles
     name: Nick
     url: https://github.com/NickSquiggles
+  - &nik-rev
+    url: https://github.com/nik-rev
   - &NikSneMC
     name: NikSne
     url: https://github.com/NikSneMC
@@ -244,8 +271,6 @@ collaborators:
   - &quentinguidee
     name: Quentin
     url: https://github.com/quentinguidee
-  - &r58Playz
-    url: https://github.com/r58Playz
   - &rayhanadev
     url: https://github.com/rayhanadev
   - &remiposo
@@ -260,6 +285,8 @@ collaborators:
     url: https://github.com/rithikasilva
   - &rubyowo
     url: https://github.com/rubyowo
+  - &ruiiiijiiiiang
+    url: https://github.com/ruiiiijiiiiang
   - &sacerd-OS
     url: https://github.com/sacerd-OS
   - &SadAlexa
@@ -268,6 +295,8 @@ collaborators:
     url: https://github.com/sakkke
   - &Sebagabones
     url: https://github.com/Sebagabones
+  - &Sebaguardian
+    url: https://github.com/Sebaguardian
   - &Sekki21956
     url: https://github.com/Sekki21956
   - &schoblaska
@@ -285,6 +314,8 @@ collaborators:
     url: https://github.com/southqaw
   - &Sourcastic
     url: https://github.com/Sourcastic
+  - &stellophiliac
+    url: https://github.com/stellophiliac
   - &Stonks3141
     url: https://github.com/Stonks3141
   - &Syndrizzle
@@ -332,6 +363,8 @@ collaborators:
     url: https://github.com/Waxxx333
   - &WitherCubes
     url: https://github.com/WitherCubes
+  - &waterlilly-lilly
+    url: https://github.com/waterlilly-lilly
   - &xhayper
     url: https://github.com/xhayper
   - &Xurdejl
@@ -387,6 +420,12 @@ ports:
     color: blue
     current-maintainers: [*AnubisNekhet]
     past-maintainers: [*BlueFalconHD]
+  asciinema:
+    name: Asciinema
+    categories: [cli, productivity, development]
+    color: text
+    platform: [linux, macos, windows]
+    current-maintainers: [*mbekkomo]
   aseprite:
     name: Aseprite
     categories: [productivity]
@@ -476,12 +515,27 @@ ports:
     platform: [linux, macos]
     color: red
     current-maintainers: [*lokesh-krishna]
+  bunny:
+    name: Bunny
+    categories: [social_networking]
+    platform: [android, ios]
+    color: blue
+    icon: discord
+    alias: vendetta
+    current-maintainers: [*112cxyz, *Covkie, *Moodzz1, *riichi67]
   calibre:
     name: calibre
     categories: [document_viewer, productivity]
     platform: [linux, macos, windows]
     color: peach
     current-maintainers: [*42Willow]
+  canva:
+    name: Canva
+    categories: [photo_and_video]
+    platform: agnostic
+    color: blue
+    icon: canva
+    current-maintainers: [*Sebaguardian]
   cava:
     name: Cava
     categories: [music, cli]
@@ -510,13 +564,6 @@ ports:
     color: yellow
     current-maintainers: []
     past-maintainers: [*elkrien]
-  chrome-devtools:
-    name: Google Chrome DevTools
-    categories: [browser_extension]
-    platform: [linux, macos, windows]
-    icon: googlechrome
-    color: yellow
-    current-maintainers: [*r58Playz]
   cider:
     name: Cider
     categories: [music]
@@ -527,10 +574,10 @@ ports:
   codemirror:
     name: CodeMirror
     categories: [code_editor]
+    platform: [agnostic]
     color: red
     icon: codemirror
-    platform: [agnostic]
-    current-maintainers: [*uncenter]
+    current-maintainers: []
     past-maintainers: [*griimick]
   conky:
     name: Conky
@@ -610,7 +657,7 @@ ports:
     categories: [productivity]
     platform: [android]
     color: text
-    current-maintainers: [*cattokomo]
+    current-maintainers: [*mbekkomo]
   dmenu:
     name: dmenu
     categories: [application_launcher, system]
@@ -679,7 +726,8 @@ ports:
     platform: [ios]
     color: blue
     icon: discord
-    current-maintainers: [*112cxyz]
+    alias: vendetta
+    current-maintainers: [*112cxyz, *Covkie, *riichi67, *Moodzz1]
   fcitx5:
     name: fcitx5
     categories: [system]
@@ -720,7 +768,7 @@ ports:
     categories: [system]
     platform: [android]
     color: green
-    current-maintainers: [*skinatro]
+    current-maintainers: [*skinatro, *sgoudham]
   flow-launcher:
     name: Flow Launcher
     categories: [application_launcher, system]
@@ -824,6 +872,12 @@ ports:
     platform: [linux, macos, windows]
     color: red
     current-maintainers: [*bagelwaffle]
+  ghidra:
+    name: Ghidra
+    categories: [code_editor]
+    platform: [linux, macos, windows]
+    color: mauve
+    current-maintainers: [*AnicJov]
   giscus:
     name: Giscus
     categories: [discussion_forum]
@@ -836,7 +890,7 @@ ports:
     platform: [agnostic]
     color: green
     icon: gitea
-    current-maintainers: []
+    current-maintainers: [*sgoudham]
     past-maintainers: [*nekowinston]
   github-file-explorer-icons:
     name: GitHub File Explorer Icons
@@ -914,7 +968,7 @@ ports:
     platform: [agnostic]
     color: sapphire
     icon: go
-    current-maintainers: [*caarlos0]
+    current-maintainers: [*caarlos0, *jolheiser]
   godot:
     name: Godot
     categories: [game_development]
@@ -966,7 +1020,7 @@ ports:
         icon: npm
         color: red
         url: https://www.npmjs.com/package/@catppuccin/highlightjs
-    current-maintainers: []
+    current-maintainers: [*uncenter]
     past-maintainers: [*nekowinston]
   home-assistant:
     name: Home Assistant
@@ -974,7 +1028,8 @@ ports:
     platform: [agnostic]
     icon: homeassistant
     color: blue
-    current-maintainers: [*fapfaff]
+    current-maintainers: []
+    past-maintainers: [*fapfaff]
   hyper:
     name: Hyper
     categories: [terminal]
@@ -985,19 +1040,22 @@ ports:
       - name: npm
         icon: npm
         color: red
-        url: https://www.npmjs.com/package/hypurr
-    current-maintainers: [*asrvd]
+        url: https://www.npmjs.com/package/@catppuccin/hyper
+    current-maintainers: []
+    past-maintainers: [*asrvd]
   hyprland:
     name: Hyprland
     categories: [window_manager, system]
     platform: [linux]
     color: sapphire
+    icon: hyprland
     current-maintainers: [*rubyowo]
   hyprlock:
     name: Hyprlock
     categories: [system]
     platform: [linux]
     color: sapphire
+    icon: hyprland
     current-maintainers: [*NikSneMC]
   i3:
     name: i3/sway
@@ -1063,6 +1121,13 @@ ports:
     platform: [agnostic]
     color: maroon
     current-maintainers: [*sgoudham, *nullishamy]
+  jellyfin:
+    name: Jellyfin
+    categories: [entertainment, music]
+    platform: agnostic
+    color: sky
+    icon: jellyfin
+    current-maintainers: [*adamperkowski]
   jetbrains:
     name: JetBrains
     categories: [code_editor]
@@ -1131,6 +1196,13 @@ ports:
     icon: kde
     current-maintainers: [*Sourcastic]
     past-maintainers: [*Prayag2]
+  kicad:
+    name: KiCad
+    platform: [linux, macos, windows]
+    categories: [development]
+    color: blue
+    icon: kicad
+    current-maintainers: [*waterlilly-lilly]
   kitty:
     name: kitty
     categories: [terminal]
@@ -1151,6 +1223,12 @@ ports:
     icon: kde
     color: blue
     current-maintainers: [*Sourcastic]
+  kvaesitso:
+    name: Kvaesitso
+    categories: [system, application_launcher]
+    platform: [android]
+    color: blue
+    current-maintainers: [*claymorwan]
   latex:
     name: LaTeX
     categories: [library]
@@ -1171,6 +1249,13 @@ ports:
     platform: [linux, macos]
     color: green
     current-maintainers: [*nullishamy]
+  libreoffice:
+    name: Libre Office
+    categories: [document_viewer]
+    platform: [linux, macos, windows]
+    color: green
+    icon: libreoffice
+    current-maintainers: [*neongamerbot]
   limine:
     name: Limine
     categories: [boot_loader, system]
@@ -1191,13 +1276,19 @@ ports:
     color: teal
     icon: logseq
     current-maintainers: [*griimick]
+  lsd:
+    name: LSD
+    categories: [cli]
+    platform: [linux, macos, windows]
+    color: text
+    current-maintainers: [*ruiiiijiiiiang]
   lua:
     name: Lua
     categories: [library]
     platform: [agnostic]
     color: blue
     icon: lua
-    current-maintainers: [*cattokomo]
+    current-maintainers: [*mbekkomo]
   lxqt:
     name: LXQt
     categories: [desktop_environment, system]
@@ -1303,6 +1394,12 @@ ports:
     platform: [windows]
     color: blue
     current-maintainers: [*likendev]
+  mod-organizer-2:
+    name: ModOrganizer 2
+    categories: [game]
+    platform: [windows]
+    color: peach
+    current-maintainers: [*daveedmee]
   monkeytype:
     name: Monkeytype
     categories: [entertainment]
@@ -1368,7 +1465,7 @@ ports:
     platform: [linux, macos]
     color: blue
     icon: nixos
-    current-maintainers: [*Stonks3141, *getchoo]
+    current-maintainers: [*Stonks3141, *getchoo, *isabelroses]
   noir:
     name: Noir
     categories: [browser_extension]
@@ -1382,7 +1479,7 @@ ports:
     platform: [windows]
     icon: notepadplusplus
     color: green
-    current-maintainers: [*InvitedToHell]
+    current-maintainers: [*InvitedToHell, *jack-mil]
   nova:
     name: Nova
     categories: [code_editor]
@@ -1392,21 +1489,29 @@ ports:
       - name: Nova Extensions
         url: https://extensions.panic.com/extensions/holler/holler.CatppuccinTheme/
     current-maintainers: [*daveyholler]
+  nushell:
+    name: Nushell
+    categories: [cli]
+    color: green
+    icon: nushell
+    platform: [linux, macos, windows]
+    current-maintainers: [*nik-rev]
   nvim:
     name: Neovim
     categories: [code_editor, cli]
     platform: [linux, macos, windows]
     icon: neovim
     color: green
-    current-maintainers: [*mrtnvgr, *vollowx]
-    past-maintainers: [*pocco81, *nullchilly]
+    current-maintainers: [*vollowx]
+    past-maintainers: [*pocco81, *nullchilly, *mrtnvgr]
   obs:
     name: OBS Studio
     categories: [productivity, photo_and_video]
     platform: [linux, macos, windows]
     color: text
     icon: obsstudio
-    current-maintainers: [*Xurdejl]
+    current-maintainers: [*sgoudham]
+    past-maintainers: [*Xurdejl]
   obsidian:
     name: Obsidian
     categories: [note_taking]
@@ -1414,6 +1519,12 @@ ports:
     color: mauve
     icon: obsidian
     current-maintainers: [*mbeckrich]
+  ohmyrepl:
+    name: OhMyREPL
+    categories: [cli, development]
+    platform: [linux, macos, windows]
+    color: mauve
+    current-maintainers: [*Anomalocaridid]
   openbox:
     name: Openbox
     categories: [window_manager, system]
@@ -1523,7 +1634,8 @@ ports:
     platform: [linux, macos, windows]
     color: blue
     icon: qbittorrent
-    current-maintainers: [*Xurdejl]
+    current-maintainers: [*sgoudham]
+    past-maintainers: [*Xurdejl]
   qt5ct:
     name: qt5ct
     categories: [system]
@@ -1572,7 +1684,8 @@ ports:
     categories: [boot_loader, system]
     platform: [linux]
     color: text
-    current-maintainers: [*fapfaff]
+    current-maintainers: []
+    past-maintainers: [*fapfaff]
   regolith:
     name: Regolith
     categories: [desktop_environment, system]
@@ -1594,6 +1707,14 @@ ports:
     icon: replit
     current-maintainers: []
     past-maintainers: [*Gingeh]
+  revenge:
+    name: Revenge
+    categories: [social_networking]
+    platform: [android, ios]
+    color: blue
+    icon: discord
+    alias: vendetta
+    current-maintainers: [*112cxyz, *Covkie, *Moodzz1, *riichi67]
   revolt:
     name: Revolt
     categories: [social_networking]
@@ -1621,7 +1742,15 @@ ports:
     platform: [linux, macos, windows]
     color: sky
     icon: rstudioide
-    current-maintainers: [*AngelBerihuete]
+    current-maintainers: []
+    past-maintainers: [*AngelBerihuete]
+  ruby:
+    name: Ruby
+    categories: [library]
+    platform: agnostic
+    color: red
+    icon: ruby
+    current-maintainers: [*acm-wq]
   rust:
     name: Rust
     categories: [library]
@@ -1793,7 +1922,8 @@ ports:
     categories: [document_viewer, productivity]
     platform: [windows]
     color: yellow
-    current-maintainers: [*asrvd]
+    current-maintainers: []
+    past-maintainers: [*asrvd]
   swaylock:
     name: swaylock
     categories: [system]
@@ -1809,6 +1939,12 @@ ports:
     icon: wayland
     current-maintainers: []
     past-maintainers: [*isabelroses]
+  symfonium:
+    name: Symfonium
+    categories: [music]
+    platform: [android]
+    color: red
+    current-maintainers: [*BANanaD3V]
   tabby:
     name: Tabby
     categories: [terminal]
@@ -1835,6 +1971,12 @@ ports:
     color: blue
     icon: telegram
     current-maintainers: [*isabelincorp]
+  television:
+    name: television
+    categories: [cli, productivity]
+    platform: [linux, macos, windows]
+    color: text
+    current-maintainers: [*uncenter]
   terminator:
     name: Terminator
     categories: [terminal]
@@ -1898,7 +2040,8 @@ ports:
     platform: [linux, macos]
     color: green
     icon: tmux
-    current-maintainers: [*rogeruiz, *89iuv, *vdbe]
+    current-maintainers: [*rogeruiz, *89iuv, *kjnsn]
+    past-maintainers: [*vdbe]
   tofi:
     name: Tofi
     categories: [application_launcher, system]
@@ -1918,6 +2061,13 @@ ports:
     platform: [linux]
     color: text
     current-maintainers: [*CallMeEchoCodes]
+  tumblr:
+    name: Tumblr
+    categories: [browser_extension, social_networking, photo_and_video]
+    platform: agnostic
+    icon: tumblr
+    color: blue
+    current-maintainers: [*stellophiliac]
   tym:
     name: tym
     categories: [terminal]
@@ -1990,7 +2140,7 @@ ports:
     platform: [android, ios]
     color: blue
     icon: discord
-    current-maintainers: [*riichi67, *Moodzz1]
+    current-maintainers: [*112cxyz, *Covkie, *Moodzz1, *riichi67]
   vim:
     name: Vim
     categories: [code_editor, cli]
@@ -2017,7 +2167,8 @@ ports:
         icon: visualstudio
         color: blue
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.CatppuccinVS
-    current-maintainers: [*djflan]
+    current-maintainers: []
+    past-maintainers: [*djflan]
   vitepress:
     name: VitePress
     categories: [development]
@@ -2047,7 +2198,7 @@ ports:
         icon: vscodium
         color: blue
         url: https://open-vsx.org/extension/Catppuccin/catppuccin-vsc
-    current-maintainers: [*backwardspy]
+    current-maintainers: [*backwardspy, *sgoudham]
     past-maintainers: [*ghostx31, *VictorTennekes, *nekowinston]
   vscode-icons:
     name: Visual Studio Code Icons
@@ -2091,6 +2242,12 @@ ports:
     upstreamed: true
     current-maintainers: []
     past-maintainers: [*nekowinston]
+  where-is-my-sddm-theme:
+    name: Where is my SDDM theme?
+    categories: [system]
+    platform: [linux]
+    color: text
+    current-maintainers: [*HeitorAugustoLN]
   whoogle:
     name: Whoogle
     categories: [search_engine]
@@ -2118,6 +2275,19 @@ ports:
     platform: [windows]
     color: teal
     current-maintainers: [*backwardspy]
+  wleave:
+    name: wleave
+    categories: [system]
+    platform: [linux]
+    color: mauve
+    alias: wlogout
+    current-maintainers: [*Anomalocaridid]
+  wlogout:
+    name: wlogout
+    categories: [system]
+    platform: [linux]
+    color: mauve
+    current-maintainers: [*Anomalocaridid]
   xcode:
     name: Xcode
     categories: [code_editor]
@@ -2182,6 +2352,19 @@ ports:
     color: blue
     current-maintainers: [*tecandrew]
     icon: zedindustries
+  zed-icons:
+    name: Zed Icons
+    categories: [code_editor]
+    platform: [macos, linux]
+    upstreamed: true
+    color: blue
+    current-maintainers: [*tecandrew]
+    icon: zedindustries
+    links:
+      - name: Zed Extensions
+        icon: zedindustries
+        color: blue
+        url: https://zed.dev/extensions?query=catppuccin+icons
   zellij:
     name: Zellij
     categories: [cli]
@@ -2190,6 +2373,12 @@ ports:
     icon: zellij.svg
     color: green
     current-maintainers: [*mainrs]
+  zen-browser:
+    name: Zen Browser
+    categories: [browser]
+    platform: [linux, macos, windows]
+    color: text
+    current-maintainers: [*IAmJafeth]
   zsh-fsh:
     name: ZSH Fast Syntax Highlighting
     categories: [cli]
@@ -2214,6 +2403,20 @@ ports:
     current-maintainers: [*sakkke]
 
 archived:
+  chrome-devtools:
+    name: Google Chrome DevTools
+    reason: "Chrome has removed the experimental API required for the Catppuccin theme to be loaded."
+    categories: [browser_extension]
+    platform: [linux, macos, windows]
+    icon: googlechrome
+    color: yellow
+  enmity:
+    name: Enmity
+    reason: "This theme is now included within catppuccin/vendetta, therefore the catppuccin/enmity repository has been archived."
+    categories: [social_networking]
+    platform: [ios]
+    color: blue
+    icon: discord
   gtk:
     name: GTK
     reason: "Incredibly difficult to theme and maintain, this port could be revived if better theming methods arise. (highly unlikely)"
@@ -2416,4 +2619,13 @@ showcases:
   - title: Reciper
     description: A simple, open-source recipe management app.
     link: https://github.com/judemont/reciper
+  - title: Catbbrew
+    description: Easily create your own Catppuccin flavors.
+    link: https://catbbrew.com/
+  - title: Tomatillo Timer
+    description: A modern pomodoro timer that syncs to your music
+    link: https://timer.flotes.app/?theme=mocha
+  - title: Catppuccin Startpage
+    description: Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages
+    link: https://github.com/pivoshenko/catppuccin-startpage
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
