@@ -1091,6 +1091,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [fcitx5](https://github.com/catppuccin/fcitx5)
 - [FlorisBoard](https://github.com/catppuccin/florisboard)
 - [Hyprlock](https://github.com/catppuccin/hyprlock)
+- [Kvaesitso](https://github.com/catppuccin/kvaesitso)
 - [Kvantum](https://github.com/catppuccin/Kvantum)
 - [Nilesoft Shell](https://github.com/catppuccin/nilesoft-shell)
 - [Nix](https://github.com/catppuccin/nix)
