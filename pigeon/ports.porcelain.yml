@@ -2367,6 +2367,26 @@ ports:
     - username: Sourcastic
       url: https://github.com/Sourcastic
     past-maintainers: []
+- name: Kvaesitso
+  categories:
+  - key: system
+    name: System
+    description: Applications that are close to the operating system.
+    emoji: 🔧
+  - key: application_launcher
+    name: Application Launchers
+    description: Tools that provide a quick and easy way for users to launch applications.
+    emoji: 🗃️
+  platform: [android]
+  color: blue
+  key: kvaesitso
+  repository:
+    name: kvaesitso
+    url: https://github.com/catppuccin/kvaesitso
+    current-maintainers:
+    - username: claymorwan
+      url: https://github.com/claymorwan
+    past-maintainers: []
 - name: LaTeX
   categories:
   - key: library
@@ -8595,6 +8615,8 @@ collaborators:
   url: https://github.com/mbekkomo
 - username: Cristhyano
   url: https://github.com/Cristhyano
+- username: claymorwan
+  url: https://github.com/claymorwan
 - username: coldenate
   url: https://github.com/coldenate
 - username: Daeraxa
