@@ -7857,6 +7857,26 @@ ports:
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
   color: blue
+- name: React.dev
+  key: react.dev
+  repository:
+    name: react.dev
+    url: https://github.com/catppuccin/userstyles/tree/main/styles/react.dev
+    current-maintainers:
+    - username: RaiderHCPlay
+      url: https://github.com/RaiderHCPlay
+    past-maintainers: []
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  - key: userstyle
+    name: Userstyles
+    description: Modified CSS files that can be applied to a website.
+    emoji: 🖌️
+  icon: react
+  color: sapphire
 - name: Reddit
   key: reddit
   repository:
@@ -9020,6 +9040,8 @@ collaborators:
   url: https://github.com/steinuil
 - username: husjon
   url: https://github.com/husjon
+- username: RaiderHCPlay
+  url: https://github.com/RaiderHCPlay
 categories:
 - key: code_editor
   name: Code Editors & IDEs
