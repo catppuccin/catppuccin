@@ -292,6 +292,7 @@
       "oneOf": [
         {
           "type": "array",
+          "minItems": 1,
           "items": {
             "$id": "#ports/port/platform/os",
             "title": "Operating Systems",
@@ -317,10 +318,13 @@
           }
         },
         {
-          "type": "string",
-          "enum": [
-            "agnostic"
-          ]
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["agnostic"]
+          },
+          "minItems": 1,
+          "maxItems": 1
         }
       ]
     },
