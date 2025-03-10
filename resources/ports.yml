@@ -532,7 +532,7 @@ ports:
   canva:
     name: Canva
     categories: [photo_and_video]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     icon: canva
     current-maintainers: [*Sebaguardian]
@@ -1124,7 +1124,7 @@ ports:
   jellyfin:
     name: Jellyfin
     categories: [entertainment, music]
-    platform: agnostic
+    platform: [agnostic]
     color: sky
     icon: jellyfin
     current-maintainers: [*adamperkowski]
@@ -1747,7 +1747,7 @@ ports:
   ruby:
     name: Ruby
     categories: [library]
-    platform: agnostic
+    platform: [agnostic]
     color: red
     icon: ruby
     current-maintainers: [*acm-wq]
@@ -2064,7 +2064,7 @@ ports:
   tumblr:
     name: Tumblr
     categories: [browser_extension, social_networking, photo_and_video]
-    platform: agnostic
+    platform: [agnostic]
     icon: tumblr
     color: blue
     current-maintainers: [*stellophiliac]
@@ -2172,7 +2172,7 @@ ports:
   vitepress:
     name: VitePress
     categories: [development]
-    platform: agnostic
+    platform: [agnostic]
     color: blue
     icon: vitepress
     current-maintainers: [*42Willow]
