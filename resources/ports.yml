@@ -26,10 +26,8 @@ collaborators:
   - &Anomalocaridid
     url: https://github.com/Anomalocaridid
   - &AnubisNekhet
-    name: Anubis
     url: https://github.com/AnubisNekhet
   - &AwA-VR
-    name: AwA
     url: https://github.com/AwA-VR
   - &acm-wq
     url: https://github.com/acm-wq
@@ -40,14 +38,12 @@ collaborators:
   - &atticus-sullivan
     url: https://github.com/atticus-sullivan
   - &auriafoxgirl
-    name: Auria
     url: https://github.com/auriafoxgirl
   - &Aurn1ox
     url: https://github.com/Aurn1ox
   - &ayamir
     url: https://github.com/ayamir
   - &backwardspy
-    name: pigeon
     url: https://github.com/backwardspy
   - &bagelwaffle
     url: https://github.com/bagelwaffle
@@ -190,7 +186,6 @@ collaborators:
   - &Lichthagel
     url: https://github.com/Lichthagel
   - &Liumingxun
-    name: Lime
     url: https://github.com/Liumingxun
   - &M3nny
     url: https://github.com/M3nny
@@ -227,18 +222,14 @@ collaborators:
   - &ndsboy
     url: https://github.com/ndsboy
   - &nekowinston
-    name: winston
     url: https://github.com/nekowinston
   - &neongamerbot
-    name: Neon
     url: https://github.com/NeonGamerBot-QK
   - &NickSquiggles
-    name: Nick
     url: https://github.com/NickSquiggles
   - &nik-rev
     url: https://github.com/nik-rev
   - &NikSneMC
-    name: NikSne
     url: https://github.com/NikSneMC
   - &nullchilly
     url: https://github.com/nullchilly
@@ -269,7 +260,6 @@ collaborators:
   - &pspiagicw
     url: https://github.com/pspiagicw
   - &quentinguidee
-    name: Quentin
     url: https://github.com/quentinguidee
   - &rayhanadev
     url: https://github.com/rayhanadev
@@ -302,7 +292,6 @@ collaborators:
   - &schoblaska
     url: https://github.com/schoblaska
   - &sgoudham
-    name: Hammy
     url: https://github.com/sgoudham
   - &skinatro
     url: https://github.com/skinatro
@@ -355,7 +344,6 @@ collaborators:
   - &VictorTennekes
     url: https://github.com/VictorTennekes
   - &vollowx
-    name: Vollow
     url: https://github.com/vollowx
   - &walshyb
     url: https://github.com/walshyb

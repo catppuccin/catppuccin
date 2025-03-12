@@ -12,20 +12,14 @@
  */
 export type AllCollaborators = [
   {
-    name?: DisplayName;
     url: GitHubProfile;
     [k: string]: unknown;
   },
   ...{
-    name?: DisplayName;
     url: GitHubProfile;
     [k: string]: unknown;
   }[]
 ];
-/**
- * The display name of the collaborator.
- */
-export type DisplayName = string;
 /**
  * The GitHub profile link of the collaborator.
  */
@@ -127,7 +121,6 @@ export type Upstreamed = boolean;
  * List of all active maintainers for this port.
  */
 export type CurrentMaintainers = {
-  name?: DisplayName;
   url: GitHubProfile;
   [k: string]: unknown;
 }[];
@@ -138,12 +131,10 @@ export type CurrentMaintainers = {
  */
 export type PastMaintainers = [
   {
-    name?: DisplayName;
     url: GitHubProfile;
     [k: string]: unknown;
   },
   ...{
-    name?: DisplayName;
     url: GitHubProfile;
     [k: string]: unknown;
   }[]
