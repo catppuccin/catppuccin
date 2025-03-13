@@ -254,11 +254,6 @@
       "items": {
         "type": "object",
         "properties": {
-          "name": {
-            "type": "string",
-            "title": "Display Name",
-            "description": "The display name of the collaborator."
-          },
           "url": {
             "type": "string",
             "title": "GitHub Profile",
