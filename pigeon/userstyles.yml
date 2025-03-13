@@ -6,150 +6,110 @@ collaborators:
 - username: ndsboy
   url: https://github.com/ndsboy
 - username: jn-sena
-  name: Sena
   url: https://github.com/jn-sena
 - username: watatomo
-  name: Ren
   url: https://github.com/watatomo
 - username: ryanccn
-  name: Ryan Cao
   url: https://github.com/ryanccn
 - username: Pocco81
   url: https://github.com/Pocco81
 - username: GlowingUmbreon
-  name: Umbreon
   url: https://github.com/GlowingUmbreon
 - username: justTOBBI
   url: https://github.com/justTOBBI
 - username: unseen-ninja
-  name: Lemon
   url: https://github.com/unseen-ninja
 - username: lucasmelin
-  name: Lucas Melin
   url: https://github.com/lucasmelin
 - username: Gingeh
   url: https://github.com/Gingeh
 - username: isabelroses
-  name: Isabel
   url: https://github.com/isabelroses
 - username: thismoon
   url: https://github.com/thismoon
 - username: cecelot
-  name: Sydney Newmark
   url: https://github.com/cecelot
 - username: soya-daizu
-  name: soya_daizu
   url: https://github.com/soya-daizu
 - username: jayylmao
   url: https://github.com/jayylmao
 - username: Sekki21956
-  name: Sekki
   url: https://github.com/Sekki21956
 - username: nekowinston
-  name: winston
   url: https://github.com/nekowinston
 - username: Tnixc
-  name: Tnixc
   url: https://github.com/Tnixc
 - username: elkrien
-  name: Elkrien
   url: https://github.com/elkrien
 - username: TheMemeSniper
-  name: TheMemeSniper
   url: https://github.com/TheMemeSniper
 - username: spaghettiosareyummy
   url: https://github.com/spaghettiosareyummy
 - username: Stonks3141
-  name: Stonks3141
   url: https://github.com/Stonks3141
 - username: rubyowo
   url: https://github.com/rubyowo
 - username: Gandalf-the-Blue
-  name: Gandalf the Blue
   url: https://github.com/Gandalf-the-Blue
 - username: FrancoRav
-  name: FrancoRav
   url: https://github.com/FrancoRav
 - username: coldenate
-  name: coldenate
   url: https://github.com/coldenate
 - username: skelebro1
-  name: skele
   url: https://github.com/skelebro1
 - username: r58Playz
-  name: r58Playz
   url: https://github.com/r58Playz
 - username: rockquiet
-  name: rockquiet
   url: https://github.com/rockquiet
 - username: Nyameliaaaa
-  name: Amelia Rose
   url: https://github.com/Nyameliaaaa
 - username: Meowcelinee
-  name: Marceline
   url: https://github.com/Meowcelinee
 - username: bartlibert
-  name: Bart Libert
   url: https://github.com/bartlibert
 - username: BlankParticle
-  name: BlankParticle
   url: https://github.com/BlankParticle
 - username: GenShibe
-  name: GenShibe
   url: https://github.com/GenShibe
 - username: coopw1
-  name: coopw
   url: https://github.com/coopw1
 - username: RoootTheFox
-  name: rooot
   url: https://github.com/RoootTheFox
 - username: itzTheMeow
-  name: Meow
   url: https://github.com/itzTheMeow
 - username: Dandraghas
-  name: Dandraghas
   url: https://github.com/Dandraghas
 - username: uncenter
-  name: uncenter
   url: https://github.com/uncenter
 - username: thomas-philippot
-  name: Thomas Philippot
   url: https://github.com/thomas-philippot
 - username: Guaxinim5573
-  name: Guaxinim5573
   url: https://github.com/Guaxinim5573
 - username: trinkey
   url: https://github.com/trinkey
 - username: NK308
   url: https://github.com/NK308
-  name: NK308
 - username: 00dani
   url: https://github.com/00dani
 - username: kerichdev
-  name: keri
   url: https://github.com/kerichdev
 - username: Flapperoo
-  name: Eli
   url: https://github.com/Flapperoo
 - username: sofiedotcafe
-  name: Sofie
   url: https://github.com/sofiedotcafe
 - username: stellophiliac
   url: https://github.com/stellophiliac
 - username: bunfluff
-  name: elly
   url: https://github.com/bunfluff
 - username: NeonGamerBot-QK
   url: https://github.com/NeonGamerBot-QK
 - username: orangci
-  name: orangc
   url: https://github.com/orangci
 - username: Lichthagel
   url: https://github.com/Lichthagel
 - username: comfysage
   url: https://github.com/comfysage
 - username: TadoTheMiner
-  name: jan Tatesa
   url: https://github.com/TadoTheMiner
 - username: mxgic1337
   url: https://github.com/mxgic1337
@@ -159,6 +119,10 @@ collaborators:
   url: https://github.com/husjon
 - username: RaiderHCPlay
   url: https://github.com/RaiderHCPlay
+- username: pynappo
+  url: https://github.com/pynappo
+- username: nuexq
+  url: https://github.com/nuexq
 categories:
 - key: userstyle
   name: Userstyles
@@ -195,7 +159,7 @@ repositories:
   current-maintainers: [rockquiet]
 - name: canvas-lms
   url: https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms
-  current-maintainers: []
+  current-maintainers: [pynappo]
   past-maintainers: [TheMemeSniper]
 - name: chatgpt
   url: https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt
@@ -431,7 +395,7 @@ repositories:
   current-maintainers: [Meowcelinee]
 - name: pinterest
   url: https://github.com/catppuccin/userstyles/tree/main/styles/pinterest
-  current-maintainers: []
+  current-maintainers: [nuexq]
   past-maintainers: [jn-sena]
 - name: planet-minecraft
   url: https://github.com/catppuccin/userstyles/tree/main/styles/planet-minecraft
