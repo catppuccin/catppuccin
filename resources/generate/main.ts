@@ -2,7 +2,7 @@
 
 import { join } from "@std/path";
 import { updateReadme, validateYaml } from "catppuccin-deno-lib";
-import { MergeExclusive, SetOptional } from "type-fest";
+import { MergeExclusive } from "type-fest";
 import portsSchema from "@/ports.schema.json" with { type: "json" };
 import categoriesSchema from "@/categories.schema.json" with { type: "json" };
 import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.json" with {
@@ -14,14 +14,13 @@ import type {
   UserStylesSchema,
 } from "@/types/mod.ts";
 
-const userstylesYaml = await fetch(
-  "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml",
-).then((res) => res.text());
-
 const root = new URL(".", import.meta.url).pathname;
 
 const portsYaml = await Deno.readTextFile(join(root, "../ports.yml"));
 const categoriesYaml = await Deno.readTextFile(join(root, "../categories.yml"));
+const userstylesYaml = await fetch(
+  "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml",
+).then((res) => res.text());
 
 const [portsData, categoriesData, userstylesData] = await Promise.all([
   await validateYaml<PortsSchema.PortsSchema>(
@@ -109,7 +108,7 @@ const categorized = Object.entries(ports)
       );
       return acc;
     },
-    {} as Record<string, SetOptional<MappedPort, "readme" | "platform">[]>,
+    {} as Record<string, Omit<MappedPort, "readme" | "platform">[]>,
   );
 
 const portListData = categoriesData.map((category) => {
