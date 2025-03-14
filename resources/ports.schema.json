@@ -241,7 +241,7 @@
       "minItems": 1,
       "maxItems": 3,
       "items": {
-        "$ref": "categories.schema.json#/$defs/category"
+        "$ref": "https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/refactor/split-out-categories/resources/categories.schema.json#/$defs/category"
       }
     },
     "port-platform": {

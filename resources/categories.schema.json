@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "categories.schema.json",
+  "$id": "https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/refactor/split-out-categories/resources/categories.schema.json",
   "title": "Category Definitions",
   "description": "The categories listed in the README.",
   "type": "array",
