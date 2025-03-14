@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "categories.schema.json",
+  "title": "Category Definitions",
+  "description": "The categories listed in the README.",
+  "type": "array",
+  "items": {
+    "$id": "#category-definitions/item",
+    "title": "Category Item",
+    "type": "object",
+    "required": [
+      "key",
+      "name",
+      "description",
+      "emoji"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "key": {
+        "$id": "#category-definitions/category/key",
+        "title": "key",
+        "type": "string",
+        "$ref": "#/$defs/category"
+      },
+      "name": {
+        "$id": "#category-definitions/category/name",
+        "title": "Name",
+        "type": "string"
+      },
+      "description": {
+        "$id": "#category-definitions/category/description",
+        "title": "Description",
+        "type": "string"
+      },
+      "emoji": {
+        "$id": "#category-definitions/category/emoji",
+        "title": "Emoji",
+        "type": "string"
+      }
+    }
+  },
+  "$defs": {
+    "category": {
+      "$id": "#category",
+      "type": "string",
+      "enum": [
+        "3d_modelling",
+        "analytics",
+        "application_launcher",
+        "artificial_intelligence",
+        "boot_loader",
+        "browser",
+        "browser_extension",
+        "cli",
+        "code_editor",
+        "desktop_environment",
+        "development",
+        "discussion_forum",
+        "document_viewer",
+        "education",
+        "email_client",
+        "entertainment",
+        "file_manager",
+        "game",
+        "game_development",
+        "health_and_fitness",
+        "library",
+        "music",
+        "note_taking",
+        "notification_daemon",
+        "photo_and_video",
+        "productivity",
+        "search_engine",
+        "self_hosted",
+        "social_networking",
+        "system",
+        "terminal",
+        "translation_tool",
+        "userstyle",
+        "wiki",
+        "window_manager"
+      ]
+    }
+  }
+}

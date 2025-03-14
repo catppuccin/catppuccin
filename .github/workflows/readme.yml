@@ -9,18 +9,16 @@ on:
     paths: ["resources/**"]
 
 jobs:
-  readme:
+  README:
     runs-on: ubuntu-latest
-    name: Re-generate README sections
+    name: re-generate
 
     steps:
       - uses: actions/checkout@v4
 
       - name: Setup Deno
-        uses: nekowinston/setup-deno@v1
+        uses: nekowinston/setup-deno@v2.0.0
         with:
-          deno-json-path: resources/deno.json
-          deno-lock-path: resources/deno.lock
           directory: resources
 
       - name: Update READMEs
@@ -32,7 +30,7 @@ jobs:
         # only push once upstreamed
         if: ${{ github.repository == 'catppuccin/catppuccin' && github.ref == 'refs/heads/main' }}
         with:
-          commit_message: "chore: re-generate README sections"
+          commit_message: "docs(README): re-generate sections"
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           branch: ${{ github.head_ref }}
 

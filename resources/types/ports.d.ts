@@ -143,49 +143,6 @@ export type PastMaintainers = [
  * A short summary of why the port was archived.
  */
 export type ArchiveReason = string;
-export type Key =
-  | "3d_modelling"
-  | "analytics"
-  | "application_launcher"
-  | "artificial_intelligence"
-  | "boot_loader"
-  | "browser"
-  | "browser_extension"
-  | "cli"
-  | "code_editor"
-  | "desktop_environment"
-  | "development"
-  | "discussion_forum"
-  | "document_viewer"
-  | "education"
-  | "email_client"
-  | "entertainment"
-  | "file_manager"
-  | "game"
-  | "game_development"
-  | "health_and_fitness"
-  | "library"
-  | "music"
-  | "note_taking"
-  | "notification_daemon"
-  | "photo_and_video"
-  | "productivity"
-  | "search_engine"
-  | "self_hosted"
-  | "social_networking"
-  | "system"
-  | "terminal"
-  | "translation_tool"
-  | "userstyle"
-  | "wiki"
-  | "window_manager";
-export type Name2 = string;
-export type Description = string;
-export type Emoji = string;
-/**
- * The categories listed in the README.
- */
-export type CategoryDefinitions = CategoryItem[];
 export type Title = string;
 export type Link1 = string;
 export type Link2 = string;
@@ -198,7 +155,6 @@ export interface PortsSchema {
   collaborators?: AllCollaborators;
   ports?: Ports;
   archived?: ArchivedPorts;
-  categories?: CategoryDefinitions;
   showcases?: Showcases;
 }
 /**
@@ -251,12 +207,6 @@ export interface Port1 {
   platform: Platform;
   color: Color;
   icon?: Icon;
-}
-export interface CategoryItem {
-  key: Key;
-  name: Name2;
-  description: Description;
-  emoji: Emoji;
 }
 export interface ShowcaseItem {
   title: Title;

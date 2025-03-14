@@ -1,34 +1,44 @@
 #!/usr/bin/env -S deno run --allow-env --allow-read --allow-write --allow-net
 
-import { join } from "std/path/mod.ts";
+import { join } from "@std/path";
 import { updateReadme, validateYaml } from "catppuccin-deno-lib";
 import { MergeExclusive, SetOptional } from "type-fest";
-
-import portsSchema from "@/ports.schema.json" assert { type: "json" };
-import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.json" assert {
+import portsSchema from "@/ports.schema.json" with { type: "json" };
+import categoriesSchema from "@/categories.schema.json" with { type: "json" };
+import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.json" with {
   type: "json",
 };
+import type {
+  CategoriesSchema,
+  PortsSchema,
+  UserStylesSchema,
+} from "@/types/mod.ts";
+
 const userstylesYaml = await fetch(
   "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml",
 ).then((res) => res.text());
 
-import type { PortsSchema, UserStylesSchema } from "@/types/mod.ts";
-
 const root = new URL(".", import.meta.url).pathname;
 
 const portsYaml = await Deno.readTextFile(join(root, "../ports.yml"));
+const categoriesYaml = await Deno.readTextFile(join(root, "../categories.yml"));
 
-const [portsData, userstylesData] = await Promise.all([
+const [portsData, categoriesData, userstylesData] = await Promise.all([
   await validateYaml<PortsSchema.PortsSchema>(
     portsYaml,
     portsSchema,
+    { schemas: [categoriesSchema] },
+  ),
+  await validateYaml<CategoriesSchema.CategoryDefinitions>(
+    categoriesYaml,
+    categoriesSchema,
   ),
   await validateYaml<UserStylesSchema.UserstylesSchema>(
     userstylesYaml,
     userstylesSchema,
   ),
 ]);
-if (!portsData.ports || !portsData.categories || !userstylesData.userstyles) {
+if (!portsData.ports || !categoriesData || !userstylesData.userstyles) {
   throw new Error("ports.yml is empty");
 }
 
@@ -102,7 +112,7 @@ const categorized = Object.entries(ports)
     {} as Record<string, SetOptional<MappedPort, "readme" | "platform">[]>,
   );
 
-const portListData = portsData.categories.map((category) => {
+const portListData = categoriesData.map((category) => {
   return {
     meta: category,
     ports: categorized[category.key] ?? [],
