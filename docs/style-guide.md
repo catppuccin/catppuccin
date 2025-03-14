@@ -599,7 +599,7 @@
 > [!NOTE]<br>
 > These bright colors are not necessarily "brighter" than the normal colors, but rather more bold and saturated.
 
-The ANSI brights, excluding `black` and `white`,  are automatically generated based on the following formulas:
+The ANSI brights, excluding `black` and `white`, are automatically generated based on the following formulas:
 
 <table>
   <tr>
@@ -825,6 +825,18 @@ The color values for `black` and `white` are mapped as shown below:
             <img src="../assets/palette/circles/frappe_yellow.png" height="16" width="16"/>
             <img src="../assets/palette/circles/macchiato_yellow.png" height="16" width="16"/>
             <img src="../assets/palette/circles/mocha_yellow.png" height="16" width="16"/>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Macros
+          </td>
+          <td>Rosewater</td>
+          <td>
+            <img src="../assets/palette/circles/latte_rosewater.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/frappe_rosewater.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/macchiato_rosewater.png" height="16" width="16"/>
+            <img src="../assets/palette/circles/mocha_rosewater.png" height="16" width="16"/>
           </td>
         </tr>
       </table>
@@ -1143,6 +1155,62 @@ The color values for `black` and `white` are mapped as shown below:
   <tr>
     <th>Function</th>
     <th colspan="2">Color</th>
+  </tr>
+  <tr>
+    <td>
+      Diff Header
+    </td>
+    <td>
+      Blue
+    </td>
+    <td>
+      <img src="../assets/palette/circles/latte_blue.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/frappe_blue.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/macchiato_blue.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/mocha_blue.png" height="16" width="16"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Index Metadata
+    </td>
+    <td>
+      Overlay2
+    </td>
+    <td>
+      <img src="../assets/palette/circles/latte_overlay2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/frappe_overlay2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/macchiato_overlay2.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/mocha_overlay2.png" height="16" width="16"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      File Path Markers
+    </td>
+    <td>
+      Pink
+    </td>
+    <td>
+      <img src="../assets/palette/circles/latte_pink.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/frappe_pink.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/macchiato_pink.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/mocha_pink.png" height="16" width="16"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Hunk Header
+    </td>
+    <td>
+      Peach
+    </td>
+    <td>
+      <img src="../assets/palette/circles/latte_peach.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/frappe_peach.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/macchiato_peach.png" height="16" width="16"/>
+      <img src="../assets/palette/circles/mocha_peach.png" height="16" width="16"/>
+    </td>
   </tr>
   <tr>
     <td>
