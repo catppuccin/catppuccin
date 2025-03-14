@@ -1,4 +1,4 @@
-name: Generate READMEs
+name: Update README
 
 on:
   workflow_dispatch:
@@ -9,9 +9,8 @@ on:
     paths: ["resources/**"]
 
 jobs:
-  README:
+  update:
     runs-on: ubuntu-latest
-    name: re-generate
 
     steps:
       - uses: actions/checkout@v4
@@ -19,6 +18,8 @@ jobs:
       - name: Setup Deno
         uses: nekowinston/setup-deno@v2.0.0
         with:
+          deno-json-path: resources/deno.json
+          deno-lock-path: resources/deno.lock
           directory: resources
 
       - name: Update READMEs
