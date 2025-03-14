@@ -1,12 +1,14 @@
 {
   "imports": {
     "@/": "./",
-    "std/": "https://deno.land/std@0.207.0/",
-    "catppuccin-deno-lib": "https://deno.land/x/catppuccin_toolbox@deno-lib-v1.0.0/deno-lib/mod.ts",
+    "@std/path": "jsr:@std/path@^1.0.8",
+    "catppuccin-deno-lib": "https://raw.githubusercontent.com/catppuccin/toolbox/refs/heads/feat/deno-lib-multiple-schemas/deno-lib/mod.ts",
     "catppuccin-userstyles/": "https://raw.githubusercontent.com/catppuccin/userstyles/6ca6c437362af2b221c1af30e3c88119020a8ac3/",
-    "type-fest": "https://esm.sh/v135/type-fest@4.8.3"
+    "type-fest": "npm:type-fest@4.37.0"
   },
   "tasks": {
-    "update-types": "deno run --no-lock -A npm:json-schema-to-typescript ./ports.schema.json ./types/ports.d.ts"
+    "types:ports": "deno run --no-lock -A npm:json-schema-to-typescript ./ports.schema.json ./types/ports.d.ts",
+    "types:categories": "deno run --no-lock -A npm:json-schema-to-typescript ./categories.schema.json ./types/categories.d.ts",
+    "types": "deno task types:ports && deno task types:categories"
   }
 }
