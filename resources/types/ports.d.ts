@@ -58,6 +58,7 @@ export type Category =
   | "health_and_fitness"
   | "library"
   | "music"
+  | "news_and_journalism"
   | "note_taking"
   | "notification_daemon"
   | "photo_and_video"

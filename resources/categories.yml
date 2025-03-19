@@ -130,4 +130,8 @@
   name: Health & Fitness
   description: Applications related to healthy living, fitness, and managing stress.
   emoji: 🏃
+- key: news_and_journalism
+  name: News & Journalism
+  description: Applications related to creating and distributing information about recent events.
+  emoji: 📰
 # yaml-language-server: $schema=./categories.schema.json
