@@ -958,6 +958,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [docs.rs](https://github.com/catppuccin/userstyles/tree/main/styles/docs.rs)
 - [egui](https://github.com/catppuccin/egui)
 - [freedesktop.org](https://github.com/catppuccin/userstyles/tree/main/styles/freedesktop)
+- [Fyne](https://github.com/catppuccin/fyne)
 - [GitHub](https://github.com/catppuccin/userstyles/tree/main/styles/github)
 - [gleam.run](https://github.com/catppuccin/userstyles/tree/main/styles/gleam.run)
 - [go.dev](https://github.com/catppuccin/userstyles/tree/main/styles/go.dev)
