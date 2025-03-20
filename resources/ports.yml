@@ -197,6 +197,8 @@ collaborators:
     url: https://github.com/mark-pitblado
   - &MatthiasPortzel
     url: https://github.com/MatthiasPortzel
+  - &mbaklor
+    url: https://github.com/mbaklor
   - &mbeckrich
     url: https://github.com/mbeckrich
   - &mekb-turtle
@@ -824,6 +826,12 @@ ports:
     platform: [linux]
     color: text
     current-maintainers: [*tetov]
+  fyne:
+    name: Fyne
+    categories: [development]
+    platform: [agnostic]
+    color: blue
+    current-maintainers: [*mbaklor]
   fzf:
     name: fzf
     categories: [cli]
