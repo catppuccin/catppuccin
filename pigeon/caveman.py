@@ -1,5 +1,11 @@
 import yaml
 
+USERSTYLES_CATEGORY = {
+    "key": "userstyle",
+    "name": "Userstyles",
+    "description": "Modified CSS files that can be applied to a website.",
+    "emoji": "🖌️",
+}
 
 class DumpyMcDumpface(yaml.SafeDumper):
     """

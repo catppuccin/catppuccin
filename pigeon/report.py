@@ -73,7 +73,6 @@ archived_ports = [
 
 ports_data = {
     "collaborators": collaborators,
-    "categories": og_ports["categories"],
     "repositories": repositories,
     "ports": ports,
     "showcases": og_ports["showcases"],

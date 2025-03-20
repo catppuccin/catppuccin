@@ -15,10 +15,10 @@ class Index:
 
 
 class Indices:
-    def __init__(self, data: dict):
-        self.collaborators = Index(data["collaborators"], "username")
-        self.repositories = Index(data["repositories"], "name")
-        self.categories = Index(data["categories"], "key")
+    def __init__(self, ports: dict, categories: list):
+        self.collaborators = Index(ports["collaborators"], "username")
+        self.repositories = Index(ports["repositories"], "name")
+        self.categories = Index(categories, "key")
 
 
 def inflate_repo(name: str, indices: Indices) -> dict:
@@ -65,13 +65,15 @@ def make_archived_ports(data: dict, indices: Indices) -> list:
 def main():
     with Path("pigeon/merged.yml").open("r", encoding="utf-8") as f:
         ports = yaml.safe_load(f)
+    with Path("pigeon/categories.yml").open("r", encoding="utf-8") as f:
+        categories = yaml.safe_load(f)
 
-    indices = Indices(ports)
+    indices = Indices(ports, categories)
 
     porcelain = {
         "ports": make_ports(ports, indices),
         "collaborators": ports["collaborators"],
-        "categories": ports["categories"],
+        "categories": categories,
         "showcases": ports["showcases"],
         "archived-ports": make_archived_ports(ports, indices),
     }
