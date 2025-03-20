@@ -525,7 +525,7 @@ ports:
 - name: Amplenote
   key: amplenote
   repository: amplenote
-  categories: [productivity, userstyle]
+  categories: [note_taking, userstyle]
   color: blue
 - name: AniList
   key: anilist
@@ -542,7 +542,7 @@ ports:
 - name: Arch Wiki
   key: arch-wiki
   repository: arch-wiki
-  categories: [wiki, productivity, userstyle]
+  categories: [wiki, userstyle]
   icon: archlinux
   color: blue
 - name: boringproxy
@@ -559,24 +559,24 @@ ports:
 - name: Bluesky Social
   key: bsky
   repository: bsky
-  categories: [social_networking, entertainment, userstyle]
+  categories: [social_networking, userstyle]
   icon: bluesky
   color: blue
 - name: bStats
   key: bstats
   repository: bstats
-  categories: [game, entertainment, userstyle]
+  categories: [analytics, game_development, userstyle]
   color: green
 - name: Canvas LMS
   key: canvas-lms
   repository: canvas-lms
-  categories: [education, productivity, userstyle]
+  categories: [education, userstyle]
   icon: canvas
   color: red
 - name: ChatGPT
   key: chatgpt
   repository: chatgpt
-  categories: [artificial_intelligence, productivity, userstyle]
+  categories: [artificial_intelligence, userstyle]
   icon: openai
   color: green
 - name: ChatReplay
@@ -587,7 +587,7 @@ ports:
 - name: Chess.com
   key: chess.com
   repository: chess.com
-  categories: [game, education, userstyle]
+  categories: [game, userstyle]
   icon: chessdotcom
   color: green
 - name: Cinny
@@ -598,7 +598,7 @@ ports:
 - name: Codeberg
   key: codeberg
   repository: codeberg
-  categories: [development, productivity, userstyle]
+  categories: [development, userstyle]
   icon: codeberg
   color: blue
 - name: cobalt
@@ -615,13 +615,13 @@ ports:
 - name: Crowdin
   key: crowdin
   repository: crowdin
-  categories: [translation_tool, productivity, userstyle]
+  categories: [translation_tool, userstyle]
   icon: crowdin
   color: text
 - name: DeepL
   key: deepl
   repository: deepl
-  categories: [translation_tool, productivity, userstyle]
+  categories: [translation_tool, userstyle]
   icon: deepl
   color: blue
 - name: docs.rs
@@ -655,12 +655,12 @@ ports:
 - name: Formative
   key: formative
   repository: formative
-  categories: [education, productivity, userstyle]
+  categories: [education, userstyle]
   color: blue
 - name: Ghostty.org
   key: ghostty.org
   repository: ghostty.org
-  categories: [terminal, wiki, userstyle]
+  categories: [terminal, userstyle]
   color: blue
 - name: GitHub
   key: github
@@ -676,7 +676,7 @@ ports:
 - name: Gmail
   key: gmail
   repository: gmail
-  categories: [email_client, productivity, userstyle]
+  categories: [email_client, userstyle]
   icon: gmail
   color: peach
 - name: go.dev
@@ -717,19 +717,19 @@ ports:
 - name: Google Gemini
   key: google-gemini
   repository: google-gemini
-  categories: [artificial_intelligence, productivity, userstyle]
+  categories: [artificial_intelligence, userstyle]
   icon: googlegemini
   color: mauve
 - name: Hackage
   key: hackage
   repository: hackage
-  categories: [development, productivity, userstyle]
+  categories: [development, userstyle]
   icon: haskell
   color: mauve
 - name: Hacker News
   key: hacker-news
   repository: hacker-news
-  categories: [discussion_forum, entertainment, social_networking, userstyle]
+  categories: [discussion_forum, userstyle]
   icon: ycombinator
   color: peach
 - name: Have I Been Pwned
@@ -755,7 +755,7 @@ ports:
 - name: Hoogle
   key: hoogle
   repository: hoogle
-  categories: [development, productivity, userstyle]
+  categories: [development, search_engine, userstyle]
   icon: haskell
   color: mauve
 - name: Hoppscotch
@@ -777,7 +777,7 @@ ports:
 - name: ichi.moe
   key: ichi.moe
   repository: ichi.moe
-  categories: [translation_tool, productivity, userstyle]
+  categories: [translation_tool, userstyle]
   color: pink
 - name: inoreader
   key: inoreader
@@ -793,13 +793,13 @@ ports:
 - name: Instagram
   key: instagram
   repository: instagram
-  categories: [social_networking, photo_and_video, entertainment, userstyle]
+  categories: [social_networking, photo_and_video, userstyle]
   icon: instagram
   color: pink
 - name: Invidious
   key: invidious
   repository: invidious
-  categories: [entertainment, social_networking, userstyle]
+  categories: [entertainment, userstyle]
   icon: youtube
   color: red
 - name: InvokeAI
@@ -825,25 +825,25 @@ ports:
 - name: Last.fm
   key: lastfm
   repository: lastfm
-  categories: [music, entertainment, userstyle]
+  categories: [music, analytics, userstyle]
   icon: lastdotfm
   color: red
 - name: Lemmy
   key: lemmy
   repository: lemmy
-  categories: [discussion_forum, entertainment, social_networking, userstyle]
+  categories: [discussion_forum, social_networking, userstyle]
   icon: lemmy
   color: green
 - name: Libreddit
   key: libreddit
   repository: libreddit
-  categories: [discussion_forum, entertainment, social_networking, userstyle]
+  categories: [discussion_forum, social_networking, userstyle]
   icon: reddit
   color: peach
 - name: Redlib
   key: redlib
   repository: libreddit
-  categories: [discussion_forum, entertainment, social_networking, userstyle]
+  categories: [discussion_forum, social_networking, userstyle]
   icon: reddit
   color: peach
 - name: Lichess
@@ -855,30 +855,30 @@ ports:
 - name: Lingva
   key: lingva
   repository: lingva
-  categories: [translation_tool, productivity, userstyle]
+  categories: [translation_tool, userstyle]
   color: green
 - name: LinkedIn
   key: linkedin
   repository: linkedin
-  categories: [social_networking, userstyle]
+  categories: [social_networking, productivity, userstyle]
   icon: linkedin
   color: blue
 - name: ListenBrainz
   key: listenbrainz
   repository: listenbrainz
-  categories: [music, entertainment, userstyle]
+  categories: [music, userstyle]
   icon: musicbrainz
   color: peach
 - name: Lobsters
   key: lobste.rs
   repository: lobste.rs
-  categories: [discussion_forum, development, social_networking, userstyle]
+  categories: [discussion_forum, social_networking, userstyle]
   icon: lobsters
   color: red
 - name: Mastodon
   key: mastodon
   repository: mastodon
-  categories: [social_networking, entertainment, userstyle]
+  categories: [social_networking, userstyle]
   icon: mastodon
   color: lavender
 - name: mdBook
@@ -908,7 +908,7 @@ ports:
 - name: Migadu Webmail
   key: migadu-webmail
   repository: migadu-webmail
-  categories: [email_client, productivity, userstyle]
+  categories: [email_client, userstyle]
   icon: migadu
   color: blue
 - name: Minesweeper Online
@@ -924,13 +924,13 @@ ports:
 - name: NameMC
   key: namemc
   repository: namemc
-  categories: [game_development, analytics, discussion_forum, userstyle]
+  categories: [game_development, analytics, userstyle]
   icon: namemc
   color: blue
 - name: Nitter
   key: nitter
   repository: nitter
-  categories: [social_networking, discussion_forum, entertainment, userstyle]
+  categories: [social_networking, discussion_forum, userstyle]
   icon: twitter
   color: blue
 - name: NixOS Manual
@@ -966,12 +966,12 @@ ports:
 - name: Ollama
   key: ollama
   repository: ollama
-  categories: [development, userstyle]
+  categories: [artificial_intelligence, development, userstyle]
   color: text
 - name: openmediavault
   key: openmediavault
   repository: openmediavault
-  categories: [productivity, userstyle]
+  categories: [file_manager, productivity, userstyle]
   icon: openmediavault
   color: sky
 - name: paste.rs
@@ -989,12 +989,12 @@ ports:
 - name: Phanpy
   key: phanpy
   repository: phanpy
-  categories: [social_networking, entertainment, userstyle]
+  categories: [social_networking, userstyle]
   color: blue
 - name: Picrew
   key: picrew
   repository: picrew
-  categories: [entertainment, photo_and_video, userstyle]
+  categories: [entertainment, productivity, userstyle]
   icon: picrew
   color: yellow
 - name: Pinterest
@@ -1062,7 +1062,7 @@ ports:
 - name: Reddit
   key: reddit
   repository: reddit
-  categories: [discussion_forum, social_networking, entertainment, userstyle]
+  categories: [discussion_forum, social_networking, userstyle]
   color: red
   icon: reddit
 - name: Rentry.co
@@ -1089,7 +1089,7 @@ ports:
 - name: Snapchat Web
   key: snapchat-web
   repository: snapchat-web
-  categories: [social_networking, photo_and_video, entertainment, userstyle]
+  categories: [social_networking, photo_and_video, userstyle]
   icon: snapchat
   color: yellow
 - name: Spotify Web
@@ -1101,7 +1101,7 @@ ports:
 - name: Stack Overflow
   key: stack-overflow
   repository: stack-overflow
-  categories: [discussion_forum, development, wiki, userstyle]
+  categories: [discussion_forum, wiki, userstyle]
   icon: stackoverflow
   color: peach
 - name: Startpage
@@ -1122,19 +1122,19 @@ ports:
 - name: Substack
   key: substack
   repository: substack
-  categories: [entertainment, social_networking, userstyle]
+  categories: [news_and_journalism, userstyle]
   icon: substack
   color: peach
 - name: Syncthing
   key: syncthing
   repository: syncthing
-  categories: [productivity, userstyle]
+  categories: [file_manager, productivity, userstyle]
   icon: syncthing
   color: sapphire
 - name: TabNews
   key: tabnews
   repository: tabnews
-  categories: [discussion_forum, entertainment, social_networking, userstyle]
+  categories: [discussion_forum, social_networking, userstyle]
   color: text
 - name: tldraw
   key: tldraw
@@ -1150,19 +1150,19 @@ ports:
 - name: Tuta
   key: tuta
   repository: tuta
-  categories: [email_client, productivity, userstyle]
+  categories: [email_client, userstyle]
   icon: tutanota
   color: maroon
 - name: Twitch
   key: twitch
   repository: twitch
-  categories: [entertainment, social_networking, photo_and_video, userstyle]
+  categories: [entertainment, social_networking, userstyle]
   icon: twitch
   color: mauve
 - name: Twitter
   key: twitter
   repository: twitter
-  categories: [social_networking, discussion_forum, entertainment, userstyle]
+  categories: [social_networking, discussion_forum, userstyle]
   color: blue
   icon: twitter
 - name: Vercel

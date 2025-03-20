@@ -5552,11 +5552,10 @@ ports:
       url: https://github.com/stellophiliac
     past-maintainers: []
   categories:
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
+  - key: note_taking
+    name: Note Taking
+    description: Tools for creating, organizing, and managing digital notes.
+    emoji: 📝
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -5626,11 +5625,6 @@ ports:
     name: Wikis
     description: Websites that hold information edited by multiple users.
     emoji: 🧠
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -5692,10 +5686,6 @@ ports:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -5712,14 +5702,15 @@ ports:
       url: https://github.com/rockquiet
     past-maintainers: []
   categories:
-  - key: game
-    name: Games
-    description: Applications related to gaming and the idea of game-ification.
-    emoji: 🎮
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
+  - key: game_development
+    name: Game Development
+    description: Applications that are designed for creating, designing and building
+      video games.
+    emoji: 🕹️
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -5742,11 +5733,6 @@ ports:
     description: Applications that faciliate learning, knowledge acquisition and skill
       development.
     emoji: 🎓
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -5770,11 +5756,6 @@ ports:
     description: Applications related to machine learning, large language models,
       and neural networks.
     emoji: 🤖
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -5825,11 +5806,6 @@ ports:
     name: Games
     description: Applications related to gaming and the idea of game-ification.
     emoji: 🎮
-  - key: education
-    name: Education
-    description: Applications that faciliate learning, knowledge acquisition and skill
-      development.
-    emoji: 🎓
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -5872,11 +5848,6 @@ ports:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -5943,11 +5914,6 @@ ports:
     description: Applications that help bridge language gaps by translating one language
       to another.
     emoji: 🗺️
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -5969,11 +5935,6 @@ ports:
     description: Applications that help bridge language gaps by translating one language
       to another.
     emoji: 🗺️
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6096,11 +6057,6 @@ ports:
     description: Applications that faciliate learning, knowledge acquisition and skill
       development.
     emoji: 🎓
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6121,10 +6077,6 @@ ports:
     description: Programs providing text-based interfaces to interact with the operating
       system.
     emoji: 🌱
-  - key: wiki
-    name: Wikis
-    description: Websites that hold information edited by multiple users.
-    emoji: 🧠
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6196,11 +6148,6 @@ ports:
     name: Email Clients
     description: Applications related to sending and receiving email.
     emoji: 💌
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6356,11 +6303,6 @@ ports:
     description: Applications related to machine learning, large language models,
       and neural networks.
     emoji: 🤖
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6381,11 +6323,6 @@ ports:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6407,15 +6344,6 @@ ports:
     description: Platforms that allow people to engage in conversation, share information,
       and discuss various topics.
     emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6524,11 +6452,11 @@ ports:
     name: Development Tools
     description: Tools aiding software development, management and distribution.
     emoji: 💭
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
+  - key: search_engine
+    name: Search Engines
+    description: Websites that enable users to search and retrieve information from
+      the World Wide Web.
+    emoji: 🔎
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6617,11 +6545,6 @@ ports:
     description: Applications that help bridge language gaps by translating one language
       to another.
     emoji: 🗺️
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6690,10 +6613,6 @@ ports:
     description: Applications that help in capturing, editing, managing, storing,
       or sharing photos and videos.
     emoji: 📸
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6716,11 +6635,6 @@ ports:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6827,10 +6741,10 @@ ports:
     name: Music
     description: Applications related to discovering, listening to and playing music.
     emoji: 🎵
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
+  - key: analytics
+    name: Analytics
+    description: Applications related to visualizations and analytics of data.
+    emoji: 📊
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6852,10 +6766,6 @@ ports:
     description: Platforms that allow people to engage in conversation, share information,
       and discuss various topics.
     emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: social_networking
     name: Social Networking
     description: Applications that bring people together through text, voice, photo
@@ -6882,10 +6792,6 @@ ports:
     description: Platforms that allow people to engage in conversation, share information,
       and discuss various topics.
     emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: social_networking
     name: Social Networking
     description: Applications that bring people together through text, voice, photo
@@ -6912,10 +6818,6 @@ ports:
     description: Platforms that allow people to engage in conversation, share information,
       and discuss various topics.
     emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: social_networking
     name: Social Networking
     description: Applications that bring people together through text, voice, photo
@@ -6962,11 +6864,6 @@ ports:
     description: Applications that help bridge language gaps by translating one language
       to another.
     emoji: 🗺️
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6987,6 +6884,11 @@ ports:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7007,10 +6909,6 @@ ports:
     name: Music
     description: Applications related to discovering, listening to and playing music.
     emoji: 🎵
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7032,10 +6930,6 @@ ports:
     description: Platforms that allow people to engage in conversation, share information,
       and discuss various topics.
     emoji: 🗣️
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
   - key: social_networking
     name: Social Networking
     description: Applications that bring people together through text, voice, photo
@@ -7066,10 +6960,6 @@ ports:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7177,11 +7067,6 @@ ports:
     name: Email Clients
     description: Applications related to sending and receiving email.
     emoji: 💌
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7244,11 +7129,6 @@ ports:
     name: Analytics
     description: Applications related to visualizations and analytics of data.
     emoji: 📊
-  - key: discussion_forum
-    name: Discussion Forums
-    description: Platforms that allow people to engage in conversation, share information,
-      and discuss various topics.
-    emoji: 🗣️
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7275,10 +7155,6 @@ ports:
     description: Platforms that allow people to engage in conversation, share information,
       and discuss various topics.
     emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7410,6 +7286,11 @@ ports:
       url: https://github.com/NeonGamerBot-QK
     past-maintainers: []
   categories:
+  - key: artificial_intelligence
+    name: Artificial Intelligence
+    description: Applications related to machine learning, large language models,
+      and neural networks.
+    emoji: 🤖
   - key: development
     name: Development Tools
     description: Tools aiding software development, management and distribution.
@@ -7429,6 +7310,11 @@ ports:
       url: https://github.com/Gandalf-the-Blue
     past-maintainers: []
   categories:
+  - key: file_manager
+    name: File Managers
+    description: Applications that help users navigate, organize and edit files/directories
+      on a computer.
+    emoji: 🗂️
   - key: productivity
     name: Productivity
     description: Applications that make certain tasks or activities more organised
@@ -7505,10 +7391,6 @@ ports:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7528,11 +7410,11 @@ ports:
     name: Entertainment
     description: Applications designed to entertain the user.
     emoji: 🌈
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
+  - key: productivity
+    name: Productivity
+    description: Applications that make certain tasks or activities more organised
+      and efficient.
+    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7806,10 +7688,6 @@ ports:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7928,10 +7806,6 @@ ports:
     description: Applications that help in capturing, editing, managing, storing,
       or sharing photos and videos.
     emoji: 📸
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7973,10 +7847,6 @@ ports:
     description: Platforms that allow people to engage in conversation, share information,
       and discuss various topics.
     emoji: 🗣️
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
   - key: wiki
     name: Wikis
     description: Websites that hold information edited by multiple users.
@@ -8059,15 +7929,11 @@ ports:
     - username: nekowinston
       url: https://github.com/nekowinston
   categories:
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
-  - key: social_networking
-    name: Social Networking
-    description: Applications that bring people together through text, voice, photo
-      and/or video.
-    emoji: ✨
+  - key: news_and_journalism
+    name: News & Journalism
+    description: Applications related to creating and distributing information about
+      recent events.
+    emoji: 📰
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -8084,6 +7950,11 @@ ports:
       url: https://github.com/BlankParticle
     past-maintainers: []
   categories:
+  - key: file_manager
+    name: File Managers
+    description: Applications that help users navigate, organize and edit files/directories
+      on a computer.
+    emoji: 🗂️
   - key: productivity
     name: Productivity
     description: Applications that make certain tasks or activities more organised
@@ -8110,10 +7981,6 @@ ports:
     description: Platforms that allow people to engage in conversation, share information,
       and discuss various topics.
     emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: social_networking
     name: Social Networking
     description: Applications that bring people together through text, voice, photo
@@ -8180,11 +8047,6 @@ ports:
     name: Email Clients
     description: Applications related to sending and receiving email.
     emoji: 💌
-  - key: productivity
-    name: Productivity
-    description: Applications that make certain tasks or activities more organised
-      and efficient.
-    emoji: 📖
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -8212,11 +8074,6 @@ ports:
     description: Applications that bring people together through text, voice, photo
       and/or video.
     emoji: ✨
-  - key: photo_and_video
-    name: Photo & Video
-    description: Applications that help in capturing, editing, managing, storing,
-      or sharing photos and videos.
-    emoji: 📸
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -8243,10 +8100,6 @@ ports:
     description: Platforms that allow people to engage in conversation, share information,
       and discuss various topics.
     emoji: 🗣️
-  - key: entertainment
-    name: Entertainment
-    description: Applications designed to entertain the user.
-    emoji: 🌈
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
