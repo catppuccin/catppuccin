@@ -197,6 +197,8 @@ collaborators:
   url: https://github.com/mark-pitblado
 - username: MatthiasPortzel
   url: https://github.com/MatthiasPortzel
+- username: mbaklor
+  url: https://github.com/mbaklor
 - username: mbeckrich
   url: https://github.com/mbeckrich
 - username: mekb-turtle
@@ -729,6 +731,9 @@ repositories:
 - name: fuzzel
   url: https://github.com/catppuccin/fuzzel
   current-maintainers: [tetov]
+- name: fyne
+  url: https://github.com/catppuccin/fyne
+  current-maintainers: [mbaklor]
 - name: fzf
   url: https://github.com/catppuccin/fzf
   current-maintainers: [sgoudham]
@@ -1903,6 +1908,12 @@ ports:
   color: text
   key: fuzzel
   repository: fuzzel
+- name: Fyne
+  categories: [development]
+  platform: [agnostic]
+  color: blue
+  key: fyne
+  repository: fyne
 - name: fzf
   categories: [cli]
   platform: [linux, macos]

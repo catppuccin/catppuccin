@@ -1298,6 +1298,22 @@ ports:
     - username: tetov
       url: https://github.com/tetov
     past-maintainers: []
+- name: Fyne
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [agnostic]
+  color: blue
+  key: fyne
+  repository:
+    name: fyne
+    url: https://github.com/catppuccin/fyne
+    current-maintainers:
+    - username: mbaklor
+      url: https://github.com/mbaklor
+    past-maintainers: []
 - name: fzf
   categories:
   - key: cli
@@ -8633,6 +8649,8 @@ collaborators:
   url: https://github.com/mark-pitblado
 - username: MatthiasPortzel
   url: https://github.com/MatthiasPortzel
+- username: mbaklor
+  url: https://github.com/mbaklor
 - username: mbeckrich
   url: https://github.com/mbeckrich
 - username: mekb-turtle
