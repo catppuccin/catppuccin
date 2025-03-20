@@ -69,7 +69,7 @@ def make_userstyle(key: str, userstyle: dict) -> List[dict]:
     return userstyles
 
 
-userstyles_url = "https://raw.githubusercontent.com/catppuccin/userstyles/d5cc7fa574d0f20b44183b8435e07723589f1abe/scripts/userstyles.yml"
+userstyles_url = "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml"
 userstyles_yml = yaml.safe_load(requests.get(userstyles_url).text)
 userstyles_yml |= {"categories": [USERSTYLES_CATEGORY]}
 
