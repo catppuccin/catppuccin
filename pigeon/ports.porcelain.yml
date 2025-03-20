@@ -9016,6 +9016,11 @@ categories:
   description: Applications that faciliate learning, knowledge acquisition and skill
     development.
   emoji: 🎓
+- key: news_and_journalism
+  name: News & Journalism
+  description: Applications related to creating and distributing information about
+    recent events.
+  emoji: 📰
 - key: document_viewer
   name: Document Viewers
   description: Applications that allow users to open, view and interact with documents.

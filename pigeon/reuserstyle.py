@@ -5,15 +5,9 @@ from typing import List
 import yaml
 import requests
 
-from pigeon.caveman import DumpyMcDumpface
+from pigeon.caveman import USERSTYLES_CATEGORY, DumpyMcDumpface
 
 USERNAME_PAT = re.compile(r"^https://github.com/([^/]+)")
-USERSTYLES_CATEGORY = {
-    "key": "userstyle",
-    "name": "Userstyles",
-    "description": "Modified CSS files that can be applied to a website.",
-    "emoji": "🖌️",
-}
 
 
 def extract_username(github_url: str) -> str:
@@ -75,7 +69,7 @@ def make_userstyle(key: str, userstyle: dict) -> List[dict]:
     return userstyles
 
 
-userstyles_url = "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml"
+userstyles_url = "https://raw.githubusercontent.com/catppuccin/userstyles/d5cc7fa574d0f20b44183b8435e07723589f1abe/scripts/userstyles.yml"
 userstyles_yml = yaml.safe_load(requests.get(userstyles_url).text)
 userstyles_yml |= {"categories": [USERSTYLES_CATEGORY]}
 
