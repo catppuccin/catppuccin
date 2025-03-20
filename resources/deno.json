@@ -7,7 +7,9 @@
     "type-fest": "npm:type-fest@4.37.0"
   },
   "tasks": {
-    "types:ports": "deno run --no-lock -A npm:json-schema-to-typescript ./ports.schema.json ./types/ports.d.ts",
+    "schema:local": "sed -i '' 's|https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/main/resources/categories.schema.json|categories.schema.json|g' ports.schema.json",
+    "schema:remote": "sed -i '' 's|categories.schema.json|https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/main/resources/categories.schema.json|g' ports.schema.json",
+    "types:ports": "deno task schema:local && deno run --no-lock -A npm:json-schema-to-typescript ./ports.schema.json ./types/ports.d.ts && deno task schema:remote",
     "types:categories": "deno run --no-lock -A npm:json-schema-to-typescript ./categories.schema.json ./types/categories.d.ts",
     "types": "deno task types:ports && deno task types:categories"
   }
