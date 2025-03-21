@@ -1154,6 +1154,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Midnight Commander](https://github.com/catppuccin/mc)
 - [MiXplorer](https://github.com/catppuccin/mixplorer)
 - [openmediavault](https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault)
+- [Superfile](https://github.com/catppuccin/superfile)
 - [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [Windows Files](https://github.com/catppuccin/windows-files)
 - [Yazi](https://github.com/catppuccin/yazi)
