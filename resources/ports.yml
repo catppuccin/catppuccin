@@ -217,6 +217,8 @@ collaborators:
     url: https://github.com/mrdoge515
   - &mrtnvgr
     url: https://github.com/mrtnvgr
+  - &MuntasirSZN
+    url: https://github.com/MuntasirSZN
   - &myumichi
     url: https://github.com/myumichi
   - &NamesCode
@@ -1886,6 +1888,12 @@ ports:
     icon: suckless
     current-maintainers: []
     past-maintainers: [*tsjazil]
+  superfile:
+    name: Superfile
+    categories: [file_manager, cli]
+    platform: [android, linux, macos, windows]
+    color: blue
+    current-maintainers: [*MuntasirSZN]
   stable-diffusion-web-ui:
     name: Stable Diffusion WebUI
     categories: [artificial_intelligence, entertainment]
