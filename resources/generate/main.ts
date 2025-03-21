@@ -35,6 +35,7 @@ const [portsData, categoriesData, userstylesData] = await Promise.all([
   await validateYaml<UserStylesSchema.UserstylesSchema>(
     userstylesYaml,
     userstylesSchema,
+    { schemas: [categoriesSchema] },
   ),
 ]);
 if (!portsData.ports || !categoriesData || !userstylesData.userstyles) {
