@@ -1886,6 +1886,12 @@ ports:
     icon: suckless
     current-maintainers: []
     past-maintainers: [*tsjazil]
+  superfile:
+    name: Superfile
+    categories: [file_manager, cli]
+    platform: [android, linux, macos, windows]
+    color: blue
+    current-maintainers: [*MuntasirSZN]
   stable-diffusion-web-ui:
     name: Stable Diffusion WebUI
     categories: [artificial_intelligence, entertainment]
