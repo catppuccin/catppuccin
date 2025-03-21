@@ -217,6 +217,8 @@ collaborators:
     url: https://github.com/mrdoge515
   - &mrtnvgr
     url: https://github.com/mrtnvgr
+  - &mxgic1337
+    url: https://github.com/mxgic1337
   - &myumichi
     url: https://github.com/myumichi
   - &NamesCode
@@ -1125,7 +1127,7 @@ ports:
     platform: [agnostic]
     color: sky
     icon: jellyfin
-    current-maintainers: [*adamperkowski]
+    current-maintainers: [*adamperkowski, *mxgic1337]
   jetbrains:
     name: JetBrains
     categories: [code_editor]
