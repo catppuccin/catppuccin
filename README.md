@@ -981,7 +981,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
 - [NixOS Manual, Nixpkgs Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
-- [Ollama](https://github.com/catppuccin/userstyles/tree/main/styles/ollama)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [Prism.js](https://github.com/catppuccin/prismjs)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
@@ -1154,6 +1153,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Forklift 4](https://github.com/catppuccin/forklift-4)
 - [Midnight Commander](https://github.com/catppuccin/mc)
 - [MiXplorer](https://github.com/catppuccin/mixplorer)
+- [openmediavault](https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault)
+- [Superfile](https://github.com/catppuccin/superfile)
+- [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [Windows Files](https://github.com/catppuccin/windows-files)
 - [Yazi](https://github.com/catppuccin/yazi)
 
@@ -1255,6 +1257,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Last.fm](https://github.com/catppuccin/userstyles/tree/main/styles/lastfm)
 - [ListenBrainz](https://github.com/catppuccin/userstyles/tree/main/styles/listenbrainz)
 - [MusicBee](https://github.com/catppuccin/musicbee)
+- [ncspot](https://github.com/catppuccin/ncspot)
 - [PyRadio](https://github.com/catppuccin/pyradio)
 - [Spicetify](https://github.com/catppuccin/spicetify)
 - [Spotify TUI](https://github.com/catppuccin/spotify-tui)
@@ -1268,7 +1271,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>📖 Productivity</summary>
 
 - [AlternativeTo](https://github.com/catppuccin/userstyles/tree/main/styles/alternativeto)
-- [Amplenote](https://github.com/catppuccin/userstyles/tree/main/styles/amplenote)
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
 - [cobalt](https://github.com/catppuccin/userstyles/tree/main/styles/cobalt)
@@ -1288,7 +1290,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Microsoft Word](https://github.com/catppuccin/userstyles/tree/main/styles/microsoft-word)
 - [Miniflux](https://github.com/catppuccin/miniflux)
 - [OBS Studio](https://github.com/catppuccin/obs)
-- [openmediavault](https://github.com/catppuccin/userstyles/tree/main/styles/openmediavault)
 - [Pomotroid](https://github.com/catppuccin/pomotroid)
 - [Porkbun](https://github.com/catppuccin/userstyles/tree/main/styles/porkbun)
 - [Proton](https://github.com/catppuccin/userstyles/tree/main/styles/proton)
@@ -1298,7 +1299,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Scrivener](https://github.com/catppuccin/scrivener)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
 - [Squirrel (Rime for macOS)](https://github.com/catppuccin/squirrel)
-- [Syncthing](https://github.com/catppuccin/userstyles/tree/main/styles/syncthing)
 - [tldraw](https://github.com/catppuccin/userstyles/tree/main/styles/tldraw)
 - [Vikunja](https://github.com/catppuccin/userstyles/tree/main/styles/vikunja)
 
@@ -1333,6 +1333,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>📝 Note Taking</summary>
 
+- [Amplenote](https://github.com/catppuccin/userstyles/tree/main/styles/amplenote)
 - [ghostwriter](https://github.com/catppuccin/ghostwriter)
 - [Joplin](https://github.com/catppuccin/joplin)
 - [Logseq](https://github.com/catppuccin/logseq)
@@ -1349,6 +1350,12 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Canvas LMS](https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms)
 - [Formative](https://github.com/catppuccin/userstyles/tree/main/styles/formative)
 - [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)
+
+</details>
+<details open>
+<summary>📰 News & Journalism</summary>
+
+- [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
 
 </details>
 <details open>
@@ -1426,7 +1433,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Jellyfin](https://github.com/catppuccin/jellyfin)
 - [Monkeytype](https://github.com/catppuccin/monkeytype)
 - [Picrew](https://github.com/catppuccin/userstyles/tree/main/styles/picrew)
-- [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
 - [theme.park](https://github.com/catppuccin/theme.park)
 - [Twitch](https://github.com/catppuccin/userstyles/tree/main/styles/twitch)
 - [YouTube](https://github.com/catppuccin/userstyles/tree/main/styles/youtube)
@@ -1437,7 +1443,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Advent Of Code](https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code)
 - [Bitburner](https://github.com/catppuccin/bitburner)
-- [bStats](https://github.com/catppuccin/userstyles/tree/main/styles/bstats)
 - [Chess.com](https://github.com/catppuccin/userstyles/tree/main/styles/chess.com)
 - [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
 - [Heroic](https://github.com/catppuccin/heroic)
@@ -1456,6 +1461,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>📊 Analytics</summary>
 
+- [bStats](https://github.com/catppuccin/userstyles/tree/main/styles/bstats)
 - [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
 - [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
@@ -1467,6 +1473,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [ChatGPT](https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt)
 - [Google Gemini](https://github.com/catppuccin/userstyles/tree/main/styles/google-gemini)
 - [InvokeAI](https://github.com/catppuccin/userstyles/tree/main/styles/invokeai)
+- [Ollama](https://github.com/catppuccin/userstyles/tree/main/styles/ollama)
 - [Perplexity](https://github.com/catppuccin/userstyles/tree/main/styles/perplexity)
 - [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
 

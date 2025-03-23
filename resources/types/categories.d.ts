@@ -34,7 +34,6 @@ export type Key =
   | "photo_and_video"
   | "productivity"
   | "search_engine"
-  | "self_hosted"
   | "social_networking"
   | "system"
   | "terminal"
