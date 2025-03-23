@@ -2912,6 +2912,28 @@ ports:
     - username: autumn-mck
       url: https://github.com/autumn-mck
     past-maintainers: []
+- name: ncspot
+  categories:
+  - key: music
+    name: Music
+    description: Applications related to discovering, listening to and playing music.
+    emoji: 🎵
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos, windows]
+  color: green
+  icon: spotify
+  key: ncspot
+  repository:
+    name: ncspot
+    url: https://github.com/catppuccin/ncspot
+    current-maintainers:
+    - username: typedrat
+      url: https://github.com/typedrat
+    past-maintainers: []
 - name: NeoMutt
   categories:
   - key: email_client
@@ -4167,6 +4189,28 @@ ports:
     past-maintainers:
     - username: tsjazil
       url: https://github.com/tsjazil
+- name: Superfile
+  categories:
+  - key: file_manager
+    name: File Managers
+    description: Applications that help users navigate, organize and edit files/directories
+      on a computer.
+    emoji: 🗂️
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [android, linux, macos, windows]
+  color: blue
+  key: superfile
+  repository:
+    name: superfile
+    url: https://github.com/catppuccin/superfile
+    current-maintainers:
+    - username: MuntasirSZN
+      url: https://github.com/MuntasirSZN
+    past-maintainers: []
 - name: Stable Diffusion WebUI
   categories:
   - key: artificial_intelligence
@@ -8522,6 +8566,8 @@ collaborators:
   url: https://github.com/mrdoge515
 - username: mrtnvgr
   url: https://github.com/mrtnvgr
+- username: MuntasirSZN
+  url: https://github.com/MuntasirSZN
 - username: myumichi
   url: https://github.com/myumichi
 - username: NamesCode
@@ -8640,6 +8686,8 @@ collaborators:
   url: https://github.com/tranzystorekk
 - username: tsjazil
   url: https://github.com/tsjazil
+- username: typedrat
+  url: https://github.com/typedrat
 - username: uncenter
   url: https://github.com/uncenter
 - username: useEffects
