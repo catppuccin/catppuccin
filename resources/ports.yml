@@ -337,6 +337,8 @@ collaborators:
     url: https://github.com/tranzystorekk
   - &tsjazil
     url: https://github.com/tsjazil
+  - &typedrat
+    url: https://github.com/typedrat
   - &uncenter
     url: https://github.com/uncenter
   - &useEffects
@@ -1426,6 +1428,13 @@ ports:
     platform: [windows]
     color: yellow
     current-maintainers: [*autumn-mck]
+  ncspot:
+    name: ncspot
+    categories: [music, cli]
+    platform: [linux, macos, windows]
+    color: green
+    icon: spotify
+    current-maintainers: [*typedrat]
   neomutt:
     name: NeoMutt
     categories: [email_client, cli]
