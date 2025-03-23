@@ -1257,6 +1257,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Last.fm](https://github.com/catppuccin/userstyles/tree/main/styles/lastfm)
 - [ListenBrainz](https://github.com/catppuccin/userstyles/tree/main/styles/listenbrainz)
 - [MusicBee](https://github.com/catppuccin/musicbee)
+- [ncspot](https://github.com/catppuccin/ncspot)
 - [PyRadio](https://github.com/catppuccin/pyradio)
 - [Spicetify](https://github.com/catppuccin/spicetify)
 - [Spotify TUI](https://github.com/catppuccin/spotify-tui)
