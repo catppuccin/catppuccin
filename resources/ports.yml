@@ -1433,6 +1433,7 @@ ports:
     categories: [music, cli]
     platform: [linux, macos, windows]
     color: green
+    icon: spotify
     current-maintainers: [*typedrat]
   neomutt:
     name: NeoMutt
