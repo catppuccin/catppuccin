@@ -515,699 +515,823 @@ ports:
   key: advent-of-code
   repository: advent-of-code
   categories: [game, entertainment, userstyle]
+  platform: [agnostic]
   icon: adventofcode
   color: yellow
 - name: AlternativeTo
   key: alternativeto
   repository: alternativeto
   categories: [productivity, discussion_forum, userstyle]
+  platform: [agnostic]
   color: sapphire
 - name: Amplenote
   key: amplenote
   repository: amplenote
   categories: [note_taking, userstyle]
+  platform: [agnostic]
   color: blue
 - name: AniList
   key: anilist
   repository: anilist
   categories: [entertainment, social_networking, userstyle]
+  platform: [agnostic]
   icon: anilist
   color: sky
 - name: AniChart
   key: anichart
   repository: anilist
   categories: [entertainment, social_networking, userstyle]
+  platform: [agnostic]
   icon: anilist
   color: sky
 - name: Arch Wiki
   key: arch-wiki
   repository: arch-wiki
   categories: [wiki, userstyle]
+  platform: [agnostic]
   icon: archlinux
   color: blue
 - name: boringproxy
   key: boringproxy
   repository: boringproxy
   categories: [development, userstyle]
+  platform: [agnostic]
   color: text
 - name: Brave Search
   key: brave-search
   repository: brave-search
   categories: [search_engine, userstyle]
+  platform: [agnostic]
   icon: brave
   color: peach
 - name: Bluesky Social
   key: bsky
   repository: bsky
   categories: [social_networking, userstyle]
+  platform: [agnostic]
   icon: bluesky
   color: blue
 - name: bStats
   key: bstats
   repository: bstats
   categories: [analytics, game_development, userstyle]
+  platform: [agnostic]
   color: green
 - name: Canvas LMS
   key: canvas-lms
   repository: canvas-lms
   categories: [education, userstyle]
+  platform: [agnostic]
   icon: canvas
   color: red
 - name: ChatGPT
   key: chatgpt
   repository: chatgpt
   categories: [artificial_intelligence, userstyle]
+  platform: [agnostic]
   icon: openai
   color: green
 - name: ChatReplay
   key: chatreplay
   repository: chatreplay
   categories: [entertainment, social_networking, userstyle]
+  platform: [agnostic]
   color: peach
 - name: Chess.com
   key: chess.com
   repository: chess.com
   categories: [game, userstyle]
+  platform: [agnostic]
   icon: chessdotcom
   color: green
 - name: Cinny
   key: cinny
   repository: cinny
   categories: [social_networking, userstyle]
+  platform: [agnostic]
   color: text
 - name: Codeberg
   key: codeberg
   repository: codeberg
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: codeberg
   color: blue
 - name: cobalt
   key: cobalt
   repository: cobalt
   categories: [productivity, photo_and_video, userstyle]
+  platform: [agnostic]
   color: text
 - name: crates.io
   key: crates.io
   repository: crates.io
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: rust
   color: yellow
 - name: Crowdin
   key: crowdin
   repository: crowdin
   categories: [translation_tool, userstyle]
+  platform: [agnostic]
   icon: crowdin
   color: text
 - name: DeepL
   key: deepl
   repository: deepl
   categories: [translation_tool, userstyle]
+  platform: [agnostic]
   icon: deepl
   color: blue
 - name: docs.rs
   key: docs.rs
   repository: docs.rs
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: docsdotrs
   color: yellow
 - name: DuckDuckGo
   key: duckduckgo
   repository: duckduckgo
   categories: [search_engine, userstyle]
+  platform: [agnostic]
   icon: duckduckgo
   color: peach
 - name: Ecosia
   key: ecosia
   repository: ecosia
   categories: [search_engine, userstyle]
+  platform: [agnostic]
   color: green
 - name: Elk
   key: elk
   repository: elk
   categories: [social_networking, userstyle]
+  platform: [agnostic]
   color: peach
 - name: freedesktop.org
   key: freedesktop
   repository: freedesktop
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: freedesktopdotorg
   color: blue
 - name: Formative
   key: formative
   repository: formative
   categories: [education, userstyle]
+  platform: [agnostic]
   color: blue
 - name: Ghostty.org
   key: ghostty.org
   repository: ghostty.org
   categories: [terminal, userstyle]
+  platform: [agnostic]
   color: blue
 - name: GitHub
   key: github
   repository: github
   categories: [development, productivity, userstyle]
+  platform: [agnostic]
   icon: github
   color: text
 - name: gleam.run
   key: gleam.run
   repository: gleam.run
   categories: [development, userstyle]
+  platform: [agnostic]
   color: pink
 - name: Gmail
   key: gmail
   repository: gmail
   categories: [email_client, userstyle]
+  platform: [agnostic]
   icon: gmail
   color: peach
 - name: go.dev
   key: go.dev
   repository: go.dev
   categories: [development, wiki, userstyle]
+  platform: [agnostic]
   icon: go
   color: sapphire
 - name: Google
   key: google
   repository: google
   categories: [search_engine, userstyle]
+  platform: [agnostic]
   icon: google
   color: sapphire
 - name: Google Drive
   key: google-drive
   repository: google-drive
   categories: [productivity, userstyle]
+  platform: [agnostic]
   icon: googledrive
   color: blue
 - name: Google Photos
   key: google-photos
   repository: google-photos
   categories: [photo_and_video, userstyle]
+  platform: [agnostic]
   icon: googlephotos
   color: sapphire
 - name: Grabify
   key: grabify
   repository: grabify
   categories: [development, productivity, userstyle]
+  platform: [agnostic]
   color: teal
 - name: Graphite
   key: graphite
   repository: graphite
   categories: [development, productivity, userstyle]
+  platform: [agnostic]
   icon: graphite
   color: text
 - name: Google Gemini
   key: google-gemini
   repository: google-gemini
   categories: [artificial_intelligence, userstyle]
+  platform: [agnostic]
   icon: googlegemini
   color: mauve
 - name: Hackage
   key: hackage
   repository: hackage
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: haskell
   color: mauve
 - name: Hacker News
   key: hacker-news
   repository: hacker-news
   categories: [discussion_forum, userstyle]
+  platform: [agnostic]
   icon: ycombinator
   color: peach
 - name: Have I Been Pwned
   key: have-i-been-pwned
   repository: have-i-been-pwned
   categories: [productivity, userstyle]
+  platform: [agnostic]
   color: blue
 - name: Holodex
   key: holodex
   repository: holodex
   categories: [entertainment, social_networking, photo_and_video, userstyle]
+  platform: [agnostic]
   color: pink
 - name: Home Manager Options Search
   key: home-manager-options-search
   repository: home-manager-options-search
   categories: [development, userstyle]
+  platform: [agnostic]
   color: blue
 - name: homepage
   key: homepage
   repository: homepage
   categories: [productivity, userstyle]
+  platform: [agnostic]
   color: sky
 - name: Hoogle
   key: hoogle
   repository: hoogle
   categories: [development, search_engine, userstyle]
+  platform: [agnostic]
   icon: haskell
   color: mauve
 - name: Hoppscotch
   key: hoppscotch
   repository: hoppscotch
   categories: [development, productivity, userstyle]
+  platform: [agnostic]
   icon: hoppscotch
   color: green
 - name: Learn X in Y Minutes
   key: learn-x-in-y-minutes
   repository: learn-x-in-y-minutes
   categories: [development, wiki, userstyle]
+  platform: [agnostic]
   color: blue
 - name: Hyperpipe
   key: hyperpipe
   repository: hyperpipe
   categories: [music, userstyle]
+  platform: [agnostic]
   color: teal
 - name: ichi.moe
   key: ichi.moe
   repository: ichi.moe
   categories: [translation_tool, userstyle]
+  platform: [agnostic]
   color: pink
 - name: inoreader
   key: inoreader
   repository: inoreader
   categories: [productivity, userstyle]
+  platform: [agnostic]
   icon: inoreader
   color: blue
 - name: Indie Wiki Buddy
   key: indie-wiki-buddy
   repository: indie-wiki-buddy
   categories: [browser_extension, userstyle]
+  platform: [agnostic]
   color: blue
 - name: Instagram
   key: instagram
   repository: instagram
   categories: [social_networking, photo_and_video, userstyle]
+  platform: [agnostic]
   icon: instagram
   color: pink
 - name: Invidious
   key: invidious
   repository: invidious
   categories: [entertainment, userstyle]
+  platform: [agnostic]
   icon: youtube
   color: red
 - name: InvokeAI
   key: invokeai
   repository: invokeai
   categories: [artificial_intelligence, productivity, userstyle]
+  platform: [agnostic]
   color: yellow
 - name: Jisho
   key: jisho
   repository: jisho
   categories: [translation_tool, userstyle]
+  platform: [agnostic]
   color: green
 - name: keybr.com
   key: keybr.com
   repository: keybr.com
   categories: [productivity, userstyle]
+  platform: [agnostic]
   color: text
 - name: Keyoxide
   key: keyoxide
   repository: keyoxide
   categories: [development, userstyle]
+  platform: [agnostic]
   color: mauve
 - name: Last.fm
   key: lastfm
   repository: lastfm
   categories: [music, analytics, userstyle]
+  platform: [agnostic]
   icon: lastdotfm
   color: red
 - name: Lemmy
   key: lemmy
   repository: lemmy
   categories: [discussion_forum, social_networking, userstyle]
+  platform: [agnostic]
   icon: lemmy
   color: green
 - name: Libreddit
   key: libreddit
   repository: libreddit
   categories: [discussion_forum, social_networking, userstyle]
+  platform: [agnostic]
   icon: reddit
   color: peach
 - name: Redlib
   key: redlib
   repository: libreddit
   categories: [discussion_forum, social_networking, userstyle]
+  platform: [agnostic]
   icon: reddit
   color: peach
 - name: Lichess
   key: lichess
   repository: lichess
   categories: [game, userstyle]
+  platform: [agnostic]
   icon: lichess
   color: text
 - name: Lingva
   key: lingva
   repository: lingva
   categories: [translation_tool, userstyle]
+  platform: [agnostic]
   color: green
 - name: LinkedIn
   key: linkedin
   repository: linkedin
   categories: [social_networking, productivity, userstyle]
+  platform: [agnostic]
   icon: linkedin
   color: blue
 - name: ListenBrainz
   key: listenbrainz
   repository: listenbrainz
   categories: [music, userstyle]
+  platform: [agnostic]
   icon: musicbrainz
   color: peach
 - name: Lobsters
   key: lobste.rs
   repository: lobste.rs
   categories: [discussion_forum, social_networking, userstyle]
+  platform: [agnostic]
   icon: lobsters
   color: red
 - name: Mastodon
   key: mastodon
   repository: mastodon
   categories: [social_networking, userstyle]
+  platform: [agnostic]
   icon: mastodon
   color: lavender
 - name: mdBook
   key: mdbook
   repository: mdbook
   categories: [wiki, development, userstyle]
+  platform: [agnostic]
   icon: mdbook
   color: text
 - name: MDN
   key: mdn
   repository: mdn
   categories: [development, wiki, userstyle]
+  platform: [agnostic]
   icon: mdnwebdocs
   color: text
 - name: Modrinth
   key: modrinth
   repository: modrinth
   categories: [game, userstyle]
+  platform: [agnostic]
   icon: modrinth
   color: green
 - name: Microsoft Word
   key: microsoft-word
   repository: microsoft-word
   categories: [productivity, userstyle]
+  platform: [agnostic]
   icon: microsoftword
   color: blue
 - name: Migadu Webmail
   key: migadu-webmail
   repository: migadu-webmail
   categories: [email_client, userstyle]
+  platform: [agnostic]
   icon: migadu
   color: blue
 - name: Minesweeper Online
   key: minesweeper
   repository: minesweeper
   categories: [game, userstyle]
+  platform: [agnostic]
   color: text
 - name: Mullvad Leta
   key: mullvad-leta
   repository: mullvad-leta
   categories: [search_engine, userstyle]
+  platform: [agnostic]
   color: yellow
 - name: NameMC
   key: namemc
   repository: namemc
   categories: [game_development, analytics, userstyle]
+  platform: [agnostic]
   icon: namemc
   color: blue
 - name: Nitter
   key: nitter
   repository: nitter
   categories: [social_networking, discussion_forum, userstyle]
+  platform: [agnostic]
   icon: twitter
   color: blue
 - name: NixOS Manual
   key: nixos manual
   repository: nixos-manual
   categories: [development, wiki, userstyle]
+  platform: [agnostic]
   icon: nixos
   color: blue
 - name: Nixpkgs Manual
   key: nixpkgs manual
   repository: nixos-manual
   categories: [development, wiki, userstyle]
+  platform: [agnostic]
   icon: nixos
   color: blue
 - name: NixOS Search
   key: nixos-search
   repository: nixos-search
   categories: [search_engine, userstyle]
+  platform: [agnostic]
   icon: nixos
   color: blue
 - name: NixOS Wiki
   key: wiki.nixos.org
   repository: wiki.nixos.org
   categories: [wiki, development, userstyle]
+  platform: [agnostic]
   icon: nixos
   color: blue
 - name: npm
   key: npm
   repository: npm
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: npm
   color: red
 - name: Ollama
   key: ollama
   repository: ollama
   categories: [artificial_intelligence, development, userstyle]
+  platform: [agnostic]
   color: text
 - name: openmediavault
   key: openmediavault
   repository: openmediavault
   categories: [file_manager, productivity, userstyle]
+  platform: [agnostic]
   icon: openmediavault
   color: sky
 - name: paste.rs
   key: paste.rs
   repository: paste.rs
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: pastebin
   color: peach
 - name: Perplexity
   key: perplexity
   repository: perplexity
   categories: [artificial_intelligence, search_engine, userstyle]
+  platform: [agnostic]
   icon: perplexity
   color: teal
 - name: Phanpy
   key: phanpy
   repository: phanpy
   categories: [social_networking, userstyle]
+  platform: [agnostic]
   color: blue
 - name: Picrew
   key: picrew
   repository: picrew
   categories: [entertainment, productivity, userstyle]
+  platform: [agnostic]
   icon: picrew
   color: yellow
 - name: Pinterest
   key: pinterest
   repository: pinterest
   categories: [photo_and_video, entertainment, social_networking, userstyle]
+  platform: [agnostic]
   icon: pinterest
   color: red
 - name: Planet Minecraft
   key: planet-minecraft
   repository: planet-minecraft
   categories: [game, userstyle]
+  platform: [agnostic]
   color: green
 - name: Porkbun
   key: porkbun
   repository: porkbun
   categories: [productivity, userstyle]
+  platform: [agnostic]
   icon: porkbun
   color: pink
 - name: pronouns.cc
   key: pronouns.cc
   repository: pronouns.cc
   categories: [social_networking, userstyle]
+  platform: [agnostic]
   color: mauve
 - name: Pronouns.page
   key: pronouns.page
   repository: pronouns.page
   categories: [social_networking, userstyle]
+  platform: [agnostic]
   icon: pronounsdotpage
   color: pink
 - name: Proton
   key: proton
   repository: proton
   categories: [productivity, email_client, userstyle]
+  platform: [agnostic]
   icon: protonmail
   color: mauve
 - name: PyPI
   key: pypi
   repository: pypi
   categories: [development, userstyle]
+  platform: [agnostic]
   color: sapphire
 - name: PythonAnywhere
   key: pythonanywhere
   repository: pythonanywhere
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: pythonanywhere
   color: sapphire
 - name: Quizlet
   key: quizlet
   repository: quizlet
   categories: [education, productivity, userstyle]
+  platform: [agnostic]
   icon: quizlet
   color: mauve
 - name: Raindrop
   key: raindrop
   repository: raindrop
   categories: [productivity, userstyle]
+  platform: [agnostic]
   color: blue
 - name: React.dev
   key: react.dev
   repository: react.dev
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: react
   color: sapphire
 - name: Reddit
   key: reddit
   repository: reddit
   categories: [discussion_forum, social_networking, userstyle]
+  platform: [agnostic]
   color: red
   icon: reddit
 - name: Rentry.co
   key: rentry.co
   repository: rentry.co
   categories: [productivity, userstyle]
+  platform: [agnostic]
   color: text
 - name: SearXNG
   key: searxng
   repository: searxng
   categories: [search_engine, userstyle]
+  platform: [agnostic]
   icon: searxng
   color: blue
 - name: 7TV
   key: seventv
   repository: seventv
   categories: [entertainment, browser_extension, userstyle]
+  platform: [agnostic]
   color: sapphire
 - name: Shinigami Eyes
   key: shinigami-eyes
   repository: shinigami-eyes
   categories: [browser_extension, social_networking, userstyle]
+  platform: [agnostic]
   color: mauve
 - name: Snapchat Web
   key: snapchat-web
   repository: snapchat-web
   categories: [social_networking, photo_and_video, userstyle]
+  platform: [agnostic]
   icon: snapchat
   color: yellow
 - name: Spotify Web
   key: spotify-web
   repository: spotify-web
   categories: [music, userstyle]
+  platform: [agnostic]
   icon: spotify
   color: green
 - name: Stack Overflow
   key: stack-overflow
   repository: stack-overflow
   categories: [discussion_forum, wiki, userstyle]
+  platform: [agnostic]
   icon: stackoverflow
   color: peach
 - name: Startpage
   key: startpage
   repository: startpage
   categories: [search_engine, userstyle]
+  platform: [agnostic]
   color: lavender
 - name: status.cafe
   key: status.cafe
   repository: status.cafe
   categories: [social_networking, userstyle]
+  platform: [agnostic]
   color: sapphire
 - name: Stylus
   key: stylus
   repository: stylus
   categories: [browser_extension, userstyle]
+  platform: [agnostic]
   color: teal
 - name: Substack
   key: substack
   repository: substack
   categories: [news_and_journalism, userstyle]
+  platform: [agnostic]
   icon: substack
   color: peach
 - name: Syncthing
   key: syncthing
   repository: syncthing
   categories: [file_manager, productivity, userstyle]
+  platform: [agnostic]
   icon: syncthing
   color: sapphire
 - name: TabNews
   key: tabnews
   repository: tabnews
   categories: [discussion_forum, social_networking, userstyle]
+  platform: [agnostic]
   color: text
 - name: tldraw
   key: tldraw
   repository: tldraw
   categories: [productivity, userstyle]
+  platform: [agnostic]
   icon: tldraw
   color: text
 - name: Trinket
   key: trinket
   repository: trinket
   categories: [development, userstyle]
+  platform: [agnostic]
   color: blue
 - name: Tuta
   key: tuta
   repository: tuta
   categories: [email_client, userstyle]
+  platform: [agnostic]
   icon: tutanota
   color: maroon
 - name: Twitch
   key: twitch
   repository: twitch
   categories: [entertainment, social_networking, userstyle]
+  platform: [agnostic]
   icon: twitch
   color: mauve
 - name: Twitter
   key: twitter
   repository: twitter
   categories: [social_networking, discussion_forum, userstyle]
+  platform: [agnostic]
   color: blue
   icon: twitter
 - name: Vercel
   key: vercel
   repository: vercel
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: vercel
   color: text
 - name: Next.js
   key: next.js
   repository: vercel
   categories: [development, userstyle]
+  platform: [agnostic]
   icon: vercel
   color: text
 - name: Vikunja
   key: vikunja
   repository: vikunja
   categories: [productivity, note_taking, userstyle]
+  platform: [agnostic]
   color: blue
 - name: web.dev
   key: web.dev
   repository: web.dev
   categories: [development, userstyle]
+  platform: [agnostic]
   color: blue
 - name: WhatsApp Web
   key: whatsapp-web
   repository: whatsapp-web
   categories: [social_networking, userstyle]
+  platform: [agnostic]
   icon: whatsapp
   color: green
 - name: Wikipedia
   key: wikipedia
   repository: wikipedia
   categories: [wiki, search_engine, productivity, userstyle]
+  platform: [agnostic]
   icon: wikipedia
   color: text
 - name: Wikiwand
   key: wikiwand
   repository: wikiwand
   categories: [wiki, productivity, userstyle]
+  platform: [agnostic]
   icon: wikipedia
   color: text
 - name: YouTube
   key: youtube
   repository: youtube
   categories: [entertainment, social_networking, photo_and_video, userstyle]
+  platform: [agnostic]
   icon: youtube
   color: red

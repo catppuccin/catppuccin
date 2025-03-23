@@ -5559,6 +5559,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: adventofcode
   color: yellow
 - name: AlternativeTo
@@ -5585,6 +5586,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: sapphire
 - name: Amplenote
   key: amplenote
@@ -5604,6 +5606,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: AniList
   key: anilist
@@ -5628,6 +5631,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: anilist
   color: sky
 - name: AniChart
@@ -5653,6 +5657,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: anilist
   color: sky
 - name: Arch Wiki
@@ -5673,6 +5678,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: archlinux
   color: blue
 - name: boringproxy
@@ -5693,6 +5699,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: text
 - name: Brave Search
   key: brave-search
@@ -5713,6 +5720,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: brave
   color: peach
 - name: Bluesky Social
@@ -5734,6 +5742,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: bluesky
   color: blue
 - name: bStats
@@ -5759,6 +5768,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: green
 - name: Canvas LMS
   key: canvas-lms
@@ -5781,6 +5791,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: canvas
   color: red
 - name: ChatGPT
@@ -5804,6 +5815,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: openai
   color: green
 - name: ChatReplay
@@ -5829,6 +5841,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: peach
 - name: Chess.com
   key: chess.com
@@ -5854,6 +5867,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: chessdotcom
   color: green
 - name: Cinny
@@ -5875,6 +5889,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: text
 - name: Codeberg
   key: codeberg
@@ -5896,6 +5911,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: codeberg
   color: blue
 - name: cobalt
@@ -5922,6 +5938,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: text
 - name: crates.io
   key: crates.io
@@ -5941,6 +5958,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: rust
   color: yellow
 - name: Crowdin
@@ -5962,6 +5980,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: crowdin
   color: text
 - name: DeepL
@@ -5983,6 +6002,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: deepl
   color: blue
 - name: docs.rs
@@ -6003,6 +6023,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: docsdotrs
   color: yellow
 - name: DuckDuckGo
@@ -6024,6 +6045,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: duckduckgo
   color: peach
 - name: Ecosia
@@ -6045,6 +6067,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: green
 - name: Elk
   key: elk
@@ -6065,6 +6088,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: peach
 - name: freedesktop.org
   key: freedesktop
@@ -6084,6 +6108,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: freedesktopdotorg
   color: blue
 - name: Formative
@@ -6105,6 +6130,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: Ghostty.org
   key: ghostty.org
@@ -6125,6 +6151,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: GitHub
   key: github
@@ -6155,6 +6182,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: github
   color: text
 - name: gleam.run
@@ -6175,6 +6203,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: pink
 - name: Gmail
   key: gmail
@@ -6196,6 +6225,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: gmail
   color: peach
 - name: go.dev
@@ -6220,6 +6250,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: go
   color: sapphire
 - name: Google
@@ -6239,6 +6270,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: google
   color: sapphire
 - name: Google Drive
@@ -6260,6 +6292,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: googledrive
   color: blue
 - name: Google Photos
@@ -6281,6 +6314,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: googlephotos
   color: sapphire
 - name: Grabify
@@ -6306,6 +6340,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: teal
 - name: Graphite
   key: graphite
@@ -6330,6 +6365,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: graphite
   color: text
 - name: Google Gemini
@@ -6351,6 +6387,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: googlegemini
   color: mauve
 - name: Hackage
@@ -6371,6 +6408,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: haskell
   color: mauve
 - name: Hacker News
@@ -6392,6 +6430,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: ycombinator
   color: peach
 - name: Have I Been Pwned
@@ -6413,6 +6452,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: Holodex
   key: holodex
@@ -6442,6 +6482,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: pink
 - name: Home Manager Options Search
   key: home-manager-options-search
@@ -6461,6 +6502,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: homepage
   key: homepage
@@ -6481,6 +6523,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: sky
 - name: Hoogle
   key: hoogle
@@ -6505,6 +6548,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: haskell
   color: mauve
 - name: Hoppscotch
@@ -6530,6 +6574,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: hoppscotch
   color: green
 - name: Learn X in Y Minutes
@@ -6554,6 +6599,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: Hyperpipe
   key: hyperpipe
@@ -6573,6 +6619,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: teal
 - name: ichi.moe
   key: ichi.moe
@@ -6593,6 +6640,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: pink
 - name: inoreader
   key: inoreader
@@ -6613,6 +6661,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: inoreader
   color: blue
 - name: Indie Wiki Buddy
@@ -6634,6 +6683,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: Instagram
   key: instagram
@@ -6661,6 +6711,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: instagram
   color: pink
 - name: Invidious
@@ -6683,6 +6734,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: youtube
   color: red
 - name: InvokeAI
@@ -6709,6 +6761,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: yellow
 - name: Jisho
   key: jisho
@@ -6729,6 +6782,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: green
 - name: keybr.com
   key: keybr.com
@@ -6749,6 +6803,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: text
 - name: Keyoxide
   key: keyoxide
@@ -6768,6 +6823,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: mauve
 - name: Last.fm
   key: lastfm
@@ -6793,6 +6849,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: lastdotfm
   color: red
 - name: Lemmy
@@ -6819,6 +6876,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: lemmy
   color: green
 - name: Libreddit
@@ -6845,6 +6903,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: reddit
   color: peach
 - name: Redlib
@@ -6871,6 +6930,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: reddit
   color: peach
 - name: Lichess
@@ -6891,6 +6951,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: lichess
   color: text
 - name: Lingva
@@ -6912,6 +6973,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: green
 - name: LinkedIn
   key: linkedin
@@ -6937,6 +6999,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: linkedin
   color: blue
 - name: ListenBrainz
@@ -6957,6 +7020,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: musicbrainz
   color: peach
 - name: Lobsters
@@ -6983,6 +7047,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: lobsters
   color: red
 - name: Mastodon
@@ -7008,6 +7073,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: mastodon
   color: lavender
 - name: mdBook
@@ -7032,6 +7098,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: mdbook
   color: text
 - name: MDN
@@ -7056,6 +7123,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: mdnwebdocs
   color: text
 - name: Modrinth
@@ -7076,6 +7144,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: modrinth
   color: green
 - name: Microsoft Word
@@ -7095,6 +7164,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: microsoftword
   color: blue
 - name: Migadu Webmail
@@ -7115,6 +7185,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: migadu
   color: blue
 - name: Minesweeper Online
@@ -7133,6 +7204,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: text
 - name: Mullvad Leta
   key: mullvad-leta
@@ -7153,6 +7225,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: yellow
 - name: NameMC
   key: namemc
@@ -7177,6 +7250,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: namemc
   color: blue
 - name: Nitter
@@ -7203,6 +7277,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: twitter
   color: blue
 - name: NixOS Manual
@@ -7227,6 +7302,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: nixos
   color: blue
 - name: Nixpkgs Manual
@@ -7251,6 +7327,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: nixos
   color: blue
 - name: NixOS Search
@@ -7272,6 +7349,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: nixos
   color: blue
 - name: NixOS Wiki
@@ -7298,6 +7376,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: nixos
   color: blue
 - name: npm
@@ -7318,6 +7397,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: npm
   color: red
 - name: Ollama
@@ -7343,6 +7423,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: text
 - name: openmediavault
   key: openmediavault
@@ -7368,6 +7449,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: openmediavault
   color: sky
 - name: paste.rs
@@ -7390,6 +7472,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: pastebin
   color: peach
 - name: Perplexity
@@ -7418,6 +7501,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: perplexity
   color: teal
 - name: Phanpy
@@ -7439,6 +7523,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: Picrew
   key: picrew
@@ -7463,6 +7548,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: picrew
   color: yellow
 - name: Pinterest
@@ -7495,6 +7581,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: pinterest
   color: red
 - name: Planet Minecraft
@@ -7515,6 +7602,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: green
 - name: Porkbun
   key: porkbun
@@ -7535,6 +7623,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: porkbun
   color: pink
 - name: pronouns.cc
@@ -7558,6 +7647,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: mauve
 - name: Pronouns.page
   key: pronouns.page
@@ -7578,6 +7668,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: pronounsdotpage
   color: pink
 - name: Proton
@@ -7603,6 +7694,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: protonmail
   color: mauve
 - name: PyPI
@@ -7623,6 +7715,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: sapphire
 - name: PythonAnywhere
   key: pythonanywhere
@@ -7642,6 +7735,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: pythonanywhere
   color: sapphire
 - name: Quizlet
@@ -7668,6 +7762,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: quizlet
   color: mauve
 - name: Raindrop
@@ -7689,6 +7784,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: React.dev
   key: react.dev
@@ -7708,6 +7804,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: react
   color: sapphire
 - name: Reddit
@@ -7736,6 +7833,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: red
   icon: reddit
 - name: Rentry.co
@@ -7757,6 +7855,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: text
 - name: SearXNG
   key: searxng
@@ -7779,6 +7878,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: searxng
   color: blue
 - name: 7TV
@@ -7804,6 +7904,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: sapphire
 - name: Shinigami Eyes
   key: shinigami-eyes
@@ -7829,6 +7930,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: mauve
 - name: Snapchat Web
   key: snapchat-web
@@ -7854,6 +7956,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: snapchat
   color: yellow
 - name: Spotify Web
@@ -7874,6 +7977,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: spotify
   color: green
 - name: Stack Overflow
@@ -7899,6 +8003,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: stackoverflow
   color: peach
 - name: Startpage
@@ -7920,6 +8025,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: lavender
 - name: status.cafe
   key: status.cafe
@@ -7940,6 +8046,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: sapphire
 - name: Stylus
   key: stylus
@@ -7960,6 +8067,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: teal
 - name: Substack
   key: substack
@@ -7982,6 +8090,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: substack
   color: peach
 - name: Syncthing
@@ -8008,6 +8117,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: syncthing
   color: sapphire
 - name: TabNews
@@ -8034,6 +8144,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: text
 - name: tldraw
   key: tldraw
@@ -8056,6 +8167,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: tldraw
   color: text
 - name: Trinket
@@ -8076,6 +8188,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: Tuta
   key: tuta
@@ -8095,6 +8208,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: tutanota
   color: maroon
 - name: Twitch
@@ -8122,6 +8236,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: twitch
   color: mauve
 - name: Twitter
@@ -8148,6 +8263,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
   icon: twitter
 - name: Vercel
@@ -8170,6 +8286,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: vercel
   color: text
 - name: Next.js
@@ -8192,6 +8309,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: vercel
   color: text
 - name: Vikunja
@@ -8217,6 +8335,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: web.dev
   key: web.dev
@@ -8236,6 +8355,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   color: blue
 - name: WhatsApp Web
   key: whatsapp-web
@@ -8256,6 +8376,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: whatsapp
   color: green
 - name: Wikipedia
@@ -8286,6 +8407,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: wikipedia
   color: text
 - name: Wikiwand
@@ -8311,6 +8433,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: wikipedia
   color: text
 - name: YouTube
@@ -8345,6 +8468,7 @@ ports:
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
     emoji: 🖌️
+  platform: [agnostic]
   icon: youtube
   color: red
 collaborators:
