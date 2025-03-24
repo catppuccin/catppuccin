@@ -51,6 +51,7 @@ def make_userstyle(key: str, userstyle: dict) -> List[dict]:
                 "key": name.lower() if isinstance(userstyle["name"], list) else key,
                 "repository": key,
                 "categories": userstyle["categories"] + ["userstyle"],
+                "platform": ["agnostic"],
                 **{
                     k: v
                     for k, v in userstyle.items()
