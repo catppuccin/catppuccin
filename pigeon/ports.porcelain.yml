@@ -1476,7 +1476,7 @@ ports:
     past-maintainers:
     - username: nekowinston
       url: https://github.com/nekowinston
-- name: GitHub File Explorer Icons
+- name: Web File Explorer Icons
   categories:
   - key: browser_extension
     name: Browser Extensions
@@ -1485,11 +1485,10 @@ ports:
     emoji: 🧩
   platform: [agnostic]
   color: text
-  icon: github
-  key: github-file-explorer-icons
+  key: web-file-explorer-icons
   repository:
-    name: github-file-explorer-icons
-    url: https://github.com/catppuccin/github-file-explorer-icons
+    name: web-file-explorer-icons
+    url: https://github.com/catppuccin/web-file-explorer-icons
     current-maintainers:
     - username: uncenter
       url: https://github.com/uncenter
@@ -2110,6 +2109,8 @@ ports:
     current-maintainers:
     - username: adamperkowski
       url: https://github.com/adamperkowski
+    - username: mxgic1337
+      url: https://github.com/mxgic1337
     past-maintainers: []
 - name: JetBrains
   categories:
@@ -8690,6 +8691,8 @@ collaborators:
   url: https://github.com/mrdoge515
 - username: mrtnvgr
   url: https://github.com/mrtnvgr
+- username: mxgic1337
+  url: https://github.com/mxgic1337
 - username: MuntasirSZN
   url: https://github.com/MuntasirSZN
 - username: myumichi
@@ -8912,8 +8915,6 @@ collaborators:
   url: https://github.com/comfysage
 - username: TadoTheMiner
   url: https://github.com/TadoTheMiner
-- username: mxgic1337
-  url: https://github.com/mxgic1337
 - username: steinuil
   url: https://github.com/steinuil
 - username: husjon
