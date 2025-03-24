@@ -896,12 +896,11 @@ ports:
     icon: gitea
     current-maintainers: [*sgoudham]
     past-maintainers: [*nekowinston]
-  github-file-explorer-icons:
-    name: GitHub File Explorer Icons
+  web-file-explorer-icons:
+    name: Web File Explorer Icons
     categories: [browser_extension]
     platform: [agnostic]
     color: text
-    icon: github
     current-maintainers: [*uncenter]
   github-readme-stats:
     name: GitHub Readme Stats
