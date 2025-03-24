@@ -217,6 +217,8 @@ collaborators:
   url: https://github.com/mrdoge515
 - username: mrtnvgr
   url: https://github.com/mrtnvgr
+- username: mxgic1337
+  url: https://github.com/mxgic1337
 - username: MuntasirSZN
   url: https://github.com/MuntasirSZN
 - username: myumichi
@@ -439,8 +441,6 @@ collaborators:
   url: https://github.com/comfysage
 - username: TadoTheMiner
   url: https://github.com/TadoTheMiner
-- username: mxgic1337
-  url: https://github.com/mxgic1337
 - username: steinuil
   url: https://github.com/steinuil
 - username: husjon
@@ -698,8 +698,8 @@ repositories:
   url: https://github.com/catppuccin/gitea
   current-maintainers: [sgoudham]
   past-maintainers: [nekowinston]
-- name: github-file-explorer-icons
-  url: https://github.com/catppuccin/github-file-explorer-icons
+- name: web-file-explorer-icons
+  url: https://github.com/catppuccin/web-file-explorer-icons
   current-maintainers: [uncenter]
 - name: github-readme-stats
   url: https://github.com/catppuccin/github-readme-stats
@@ -802,7 +802,7 @@ repositories:
   current-maintainers: [sgoudham, nullishamy]
 - name: jellyfin
   url: https://github.com/catppuccin/jellyfin
-  current-maintainers: [adamperkowski]
+  current-maintainers: [adamperkowski, mxgic1337]
 - name: jetbrains
   url: https://github.com/catppuccin/jetbrains
   current-maintainers: [sgoudham, quentinguidee]
@@ -2290,13 +2290,12 @@ ports:
   icon: gitea
   key: gitea
   repository: gitea
-- name: GitHub File Explorer Icons
+- name: Web File Explorer Icons
   categories: [browser_extension]
   platform: [agnostic]
   color: text
-  icon: github
-  key: github-file-explorer-icons
-  repository: github-file-explorer-icons
+  key: web-file-explorer-icons
+  repository: web-file-explorer-icons
 - name: GitHub Readme Stats
   categories: [analytics]
   platform: [agnostic]
