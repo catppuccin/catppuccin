@@ -1192,7 +1192,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🧩 Browser Extensions</summary>
 
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
-- [GitHub File Explorer Icons](https://github.com/catppuccin/github-file-explorer-icons)
 - [Indie Wiki Buddy](https://github.com/catppuccin/userstyles/tree/main/styles/indie-wiki-buddy)
 - [nightTab](https://github.com/catppuccin/nighttab)
 - [Noir](https://github.com/catppuccin/noir)
@@ -1200,6 +1199,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Stylus](https://github.com/catppuccin/userstyles/tree/main/styles/stylus)
 - [Tumblr](https://github.com/catppuccin/tumblr)
 - [Vimium](https://github.com/catppuccin/vimium)
+- [Web File Explorer Icons](https://github.com/catppuccin/web-file-explorer-icons)
 
 </details>
 <details open>
