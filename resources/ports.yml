@@ -171,6 +171,8 @@ collaborators:
     url: https://github.com/kjnsn
   - &kkrypt0nn
     url: https://github.com/kkrypt0nn
+  - &kuromedayo
+    url: https://github.com/kuromedayo
   - &lemon-sh
     url: https://github.com/lemon-sh
   - &lewisakura
@@ -731,7 +733,7 @@ ports:
     categories: [system]
     platform: [linux]
     color: text
-    current-maintainers: []
+    current-maintainers: [*kuromedayo]
     past-maintainers: [*ayamir]
   firefox:
     name: Firefox
