@@ -1197,8 +1197,8 @@ ports:
     platform: [linux]
     color: blue
     icon: kde
-    current-maintainers: [*Sourcastic]
-    past-maintainers: [*Prayag2]
+    current-maintainers: []
+    past-maintainers: [*Prayag2, *Sourcastic]
   kicad:
     name: KiCad
     platform: [linux, macos, windows]
