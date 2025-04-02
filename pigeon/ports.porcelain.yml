@@ -2739,8 +2739,8 @@ ports:
     - username: JustLetterV
       url: https://github.com/JustLetterV
     past-maintainers:
-    - username: Aurn1ox
-      url: https://github.com/Aurn1ox
+    - username: madhavarun
+      url: https://github.com/madhavarun
 - name: Miniflux
   categories:
   - key: productivity
@@ -5478,7 +5478,8 @@ ports:
     description: Applications for accessing and navigating the World Wide Web.
     emoji: 🏄
   platform: [linux, macos, windows]
-  color: text
+  color: peach
+  icon: zenbrowser
   key: zen-browser
   repository:
     name: zen-browser
@@ -8517,8 +8518,8 @@ collaborators:
   url: https://github.com/atticus-sullivan
 - username: auriafoxgirl
   url: https://github.com/auriafoxgirl
-- username: Aurn1ox
-  url: https://github.com/Aurn1ox
+- username: madhavarun
+  url: https://github.com/madhavarun
 - username: ayamir
   url: https://github.com/ayamir
 - username: backwardspy
