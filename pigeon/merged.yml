@@ -367,8 +367,6 @@ collaborators:
   url: https://github.com/xhayper
 - username: Xurdejl
   url: https://github.com/Xurdejl
-- username: xzi
-  url: https://github.com/xzi
 - username: Zazucki
   url: https://github.com/Zazucki
 - username: zspher
@@ -1117,7 +1115,7 @@ repositories:
   past-maintainers: [isabelroses]
 - name: sent
   url: https://github.com/catppuccin/sent
-  current-maintainers: [xzi]
+  current-maintainers: []
 - name: serenity-os
   url: https://github.com/catppuccin/serenity-os
   current-maintainers: [nullishamy]
