@@ -39,8 +39,8 @@ collaborators:
     url: https://github.com/atticus-sullivan
   - &auriafoxgirl
     url: https://github.com/auriafoxgirl
-  - &Aurn1ox
-    url: https://github.com/Aurn1ox
+  - &madhavarun
+    url: https://github.com/madhavarun
   - &ayamir
     url: https://github.com/ayamir
   - &backwardspy
@@ -1367,7 +1367,7 @@ ports:
     color: green
     icon: minecraft.svg
     current-maintainers: [*JustLetterV]
-    past-maintainers: [*Aurn1ox]
+    past-maintainers: [*madhavarun]
   miniflux:
     name: Miniflux
     categories: [productivity]
