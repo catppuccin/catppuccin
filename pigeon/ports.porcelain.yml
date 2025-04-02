@@ -1005,7 +1005,9 @@ ports:
   repository:
     name: fcitx5
     url: https://github.com/catppuccin/fcitx5
-    current-maintainers: []
+    current-maintainers:
+    - username: kuromedayo
+      url: https://github.com/kuromedayo
     past-maintainers:
     - username: ayamir
       url: https://github.com/ayamir
@@ -1963,10 +1965,10 @@ ports:
   repository:
     name: imhex
     url: https://github.com/catppuccin/imhex
-    current-maintainers:
+    current-maintainers: []
+    past-maintainers:
     - username: DorielRivalet
       url: https://github.com/DorielRivalet
-    past-maintainers: []
 - name: imv
   categories:
   - key: photo_and_video
@@ -2276,12 +2278,12 @@ ports:
   repository:
     name: kde
     url: https://github.com/catppuccin/kde
-    current-maintainers:
-    - username: Sourcastic
-      url: https://github.com/Sourcastic
+    current-maintainers: []
     past-maintainers:
     - username: Prayag2
       url: https://github.com/Prayag2
+    - username: Sourcastic
+      url: https://github.com/Sourcastic
 - name: KiCad
   platform: [linux, macos, windows]
   categories:
@@ -6282,6 +6284,8 @@ ports:
     current-maintainers:
     - username: r58Playz
       url: https://github.com/r58Playz
+    - username: WalkQuackBack
+      url: https://github.com/WalkQuackBack
     past-maintainers: []
   categories:
   - key: productivity
@@ -8645,6 +8649,8 @@ collaborators:
   url: https://github.com/kjnsn
 - username: kkrypt0nn
   url: https://github.com/kkrypt0nn
+- username: kuromedayo
+  url: https://github.com/kuromedayo
 - username: lemon-sh
   url: https://github.com/lemon-sh
 - username: lewisakura
@@ -8925,6 +8931,8 @@ collaborators:
   url: https://github.com/pynappo
 - username: nuexq
   url: https://github.com/nuexq
+- username: WalkQuackBack
+  url: https://github.com/WalkQuackBack
 categories:
 - key: code_editor
   name: Code Editors & IDEs
