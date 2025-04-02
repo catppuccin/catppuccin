@@ -2396,7 +2396,8 @@ ports:
     name: Zen Browser
     categories: [browser]
     platform: [linux, macos, windows]
-    color: text
+    color: peach
+    icon: zenbrowser
     current-maintainers: [*IAmJafeth]
   zsh-fsh:
     name: ZSH Fast Syntax Highlighting
