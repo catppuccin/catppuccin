@@ -1080,7 +1080,8 @@ ports:
     categories: [development]
     platform: [linux, macos, windows]
     color: text
-    current-maintainers: [*DorielRivalet]
+    current-maintainers: []
+    past-maintainers: [*DorielRivalet]
   imv:
     name: imv
     categories: [photo_and_video, cli]
