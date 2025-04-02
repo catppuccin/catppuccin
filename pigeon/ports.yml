@@ -171,6 +171,8 @@ collaborators:
   url: https://github.com/kjnsn
 - username: kkrypt0nn
   url: https://github.com/kkrypt0nn
+- username: kuromedayo
+  url: https://github.com/kuromedayo
 - username: lemon-sh
   url: https://github.com/lemon-sh
 - username: lewisakura
@@ -535,7 +537,7 @@ repositories:
   past-maintainers: [pspiagicw, NamesCode]
 - name: fcitx5
   url: https://github.com/catppuccin/fcitx5
-  current-maintainers: []
+  current-maintainers: [kuromedayo]
   past-maintainers: [ayamir]
 - name: firefox
   url: https://github.com/catppuccin/firefox
@@ -700,7 +702,8 @@ repositories:
   current-maintainers: [ValentinTT]
 - name: imhex
   url: https://github.com/catppuccin/imhex
-  current-maintainers: [DorielRivalet]
+  current-maintainers: []
+  past-maintainers: [DorielRivalet]
 - name: imv
   url: https://github.com/catppuccin/imv
   current-maintainers: [Anomalocaridid]
@@ -749,8 +752,8 @@ repositories:
   current-maintainers: [bagelwaffle]
 - name: kde
   url: https://github.com/catppuccin/kde
-  current-maintainers: [Sourcastic]
-  past-maintainers: [Prayag2]
+  current-maintainers: []
+  past-maintainers: [Prayag2, Sourcastic]
 - name: kicad
   url: https://github.com/catppuccin/kicad
   current-maintainers: [waterlilly-lilly]

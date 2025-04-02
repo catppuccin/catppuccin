@@ -123,6 +123,8 @@ collaborators:
   url: https://github.com/pynappo
 - username: nuexq
   url: https://github.com/nuexq
+- username: WalkQuackBack
+  url: https://github.com/WalkQuackBack
 categories:
 - key: userstyle
   name: Userstyles
@@ -231,7 +233,7 @@ repositories:
   current-maintainers: []
 - name: google-drive
   url: https://github.com/catppuccin/userstyles/tree/main/styles/google-drive
-  current-maintainers: [r58Playz]
+  current-maintainers: [r58Playz, WalkQuackBack]
 - name: google-photos
   url: https://github.com/catppuccin/userstyles/tree/main/styles/google-photos
   current-maintainers: [GenShibe]
