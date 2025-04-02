@@ -367,8 +367,6 @@ collaborators:
     url: https://github.com/xhayper
   - &Xurdejl
     url: https://github.com/Xurdejl
-  - &xzi
-    url: https://github.com/xzi
   - &Zazucki
     url: https://github.com/Zazucki
   - &zspher
@@ -1797,7 +1795,7 @@ ports:
     platform: [linux]
     color: blue
     icon: suckless
-    current-maintainers: [*xzi]
+    current-maintainers: []
   serenity-os:
     name: SerenityOS
     categories: [system]
