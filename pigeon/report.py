@@ -1,30 +1,23 @@
-import re
 from pathlib import Path
 
 import yaml
 
 from pigeon.caveman import DumpyMcDumpface
 
-USERNAME_PAT = re.compile(r"^https://github.com/([^/]+)")
 
-
-def extract_username(github_url: str) -> str:
-    return next(USERNAME_PAT.finditer(github_url)).group(1)
+def github_profile_link(username: str) -> str:
+    return f"https://github.com/{username}"
 
 
 def make_repo(name: str, port: dict) -> dict:
     repo = {
         "name": name,
         "url": port.get("url", f"https://github.com/catppuccin/{name}"),
-        "current-maintainers": [
-            extract_username(m["url"]) for m in port.get("current-maintainers", [])
-        ],
+        "current-maintainers": [m for m in port.get("current-maintainers", [])],
     }
 
     if port.get("past-maintainers"):
-        repo["past-maintainers"] = [
-            extract_username(m["url"]) for m in port["past-maintainers"]
-        ]
+        repo["past-maintainers"] = [m for m in port["past-maintainers"]]
 
     return repo
 
@@ -34,7 +27,7 @@ with Path("resources/ports.yml").open("r", encoding="utf-8") as f:
 
 # we have to rehydrate collaborator's usernames (this is known as a "yaml anchor moment")
 collaborators = [
-    {"username": extract_username(collaborator["url"]), **collaborator}
+    {"username": collaborator, "url": github_profile_link(collaborator)}
     for collaborator in og_ports["collaborators"]
 ]
 
