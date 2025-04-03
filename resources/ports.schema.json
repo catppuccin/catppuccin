@@ -22,9 +22,7 @@
           "title": "Port",
           "type": "object",
           "description": "The GitHub repository name of the port.",
-          "examples": [
-            "nvim"
-          ],
+          "examples": ["nvim"],
           "required": [
             "categories",
             "name",
@@ -73,10 +71,7 @@
                 "$id": "#ports/port/links/item",
                 "title": "Link",
                 "type": "object",
-                "required": [
-                  "name",
-                  "url"
-                ],
+                "required": ["name", "url"],
                 "additionalProperties": false,
                 "properties": {
                   "name": {
@@ -114,9 +109,9 @@
             "past-maintainers": {
               "$id": "#ports/port/past-maintainers",
               "title": "Past Maintainers",
+              "description": "List of all maintainers that have previously maintained this port.",
               "type": "array",
               "minItems": 1,
-              "description": "List of all maintainers that have previously maintained this port.",
               "$ref": "#/$defs/collaborators"
             }
           }
@@ -134,16 +129,8 @@
           "title": "Port",
           "type": "object",
           "description": "The GitHub repository name of the archived port.",
-          "examples": [
-            "steam"
-          ],
-          "required": [
-            "name",
-            "reason",
-            "categories",
-            "platform",
-            "color"
-          ],
+          "examples": ["steam"],
+          "required": ["name", "reason", "categories", "platform", "color"],
           "additionalProperties": false,
           "properties": {
             "name": {
@@ -180,11 +167,7 @@
         "$id": "#showcase/item",
         "title": "Showcase item",
         "type": "object",
-        "required": [
-          "title",
-          "link",
-          "description"
-        ],
+        "required": ["title", "link", "description"],
         "additionalProperties": false,
         "properties": {
           "title": {
@@ -209,19 +192,10 @@
   "$defs": {
     "collaborators": {
       "$id": "#collaborators",
+      "description": "The GitHub username of the collaborator.",
       "type": "array",
       "items": {
-        "type": "object",
-        "properties": {
-          "url": {
-            "type": "string",
-            "title": "GitHub Profile",
-            "description": "The GitHub profile link of the collaborator."
-          }
-        },
-        "required": [
-          "url"
-        ]
+        "type": "string"
       }
     },
     "port-display-name": {
@@ -229,9 +203,7 @@
       "title": "Name",
       "description": "The name of the software the port is for.",
       "type": "string",
-      "examples": [
-        "Neovim"
-      ]
+      "examples": ["Neovim"]
     },
     "port-categories": {
       "$id": "#port-categories",
@@ -256,23 +228,10 @@
             "$id": "#ports/port/platform/os",
             "title": "Operating Systems",
             "type": "string",
-            "enum": [
-              "android",
-              "ios",
-              "linux",
-              "macos",
-              "windows"
-            ],
+            "enum": ["android", "ios", "linux", "macos", "windows"],
             "examples": [
-              [
-                "linux",
-                "macos",
-                "windows"
-              ],
-              [
-                "android",
-                "ios"
-              ]
+              ["linux", "macos", "windows"],
+              ["android", "ios"]
             ]
           }
         },
@@ -280,9 +239,7 @@
           "type": "array",
           "items": {
             "type": "string",
-            "enum": [
-              "agnostic"
-            ]
+            "enum": ["agnostic"]
           },
           "minItems": 1,
           "maxItems": 1
@@ -294,10 +251,7 @@
       "title": "Icon",
       "description": "The icon to use on the Catppuccin website. This should be the same name as the SVG file on https://simpleicons.org/. If a `.svg` suffix is present, it's taken from the local website repository resources.",
       "type": "string",
-      "examples": [
-        "neovim",
-        "neovim.svg"
-      ]
+      "examples": ["neovim", "neovim.svg"]
     },
     "color": {
       "$id": "#color",
@@ -321,9 +275,7 @@
         "lavender",
         "text"
       ],
-      "examples": [
-        "pink"
-      ]
+      "examples": ["pink"]
     }
   }
 }
