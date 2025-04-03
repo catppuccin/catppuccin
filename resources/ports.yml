@@ -1,376 +1,190 @@
 collaborators:
-  - &112cxyz
-    url: https://github.com/112cxyz
-  - &21st-centuryman
-    url: https://github.com/21st-centuryman
-  - &42Willow
-    url: https://github.com/42Willow
-  - &89iuv
-    url: https://github.com/89iuv
-  - &abhishekmj303
-    url: https://github.com/abhishekmj303
-  - &AdalZanabria
-    url: https://github.com/AdalZanabria
-  - &adamperkowski
-    url: https://github.com/adamperkowski
-  - &AlphaTechnolog
-    url: https://github.com/AlphaTechnolog
-  - &Askerad
-    url: https://github.com/Askerad
-  - &unseen-ninja
-    url: https://github.com/unseen-ninja
-  - &AngelBerihuete
-    url: https://github.com/AngelBerihuete
-  - &AnicJov
-    url: https://github.com/AnicJov
-  - &Anomalocaridid
-    url: https://github.com/Anomalocaridid
-  - &AnubisNekhet
-    url: https://github.com/AnubisNekhet
-  - &AwA-VR
-    url: https://github.com/AwA-VR
-  - &acm-wq
-    url: https://github.com/acm-wq
-  - &asrvd
-    url: https://github.com/asrvd
-  - &aszecsei
-    url: https://github.com/aszecsei
-  - &atticus-sullivan
-    url: https://github.com/atticus-sullivan
-  - &auriafoxgirl
-    url: https://github.com/auriafoxgirl
-  - &madhavarun
-    url: https://github.com/madhavarun
-  - &ayamir
-    url: https://github.com/ayamir
-  - &backwardspy
-    url: https://github.com/backwardspy
-  - &bagelwaffle
-    url: https://github.com/bagelwaffle
-  - &BANanaD3V
-    url: https://github.com/BANanaD3V
-  - &beacon6
-    url: https://github.com/beacon6
-  - &BlueFalconHD
-    url: https://github.com/BlueFalconHD
-  - &brambozz
-    url: https://github.com/brambozz
-  - &Brianalmeida
-    url: https://github.com/Brianalmeida
-  - &caarlos0
-    url: https://github.com/caarlos0
-  - &CallMeEchoCodes
-    url: https://github.com/CallMeEchoCodes
-  - &catb00mer
-    url: https://github.com/catb00mer
-  - &Covkie
-    url: https://github.com/Covkie
-  - &mbekkomo
-    url: https://github.com/mbekkomo
-  - &Cristhyano
-    url: https://github.com/Cristhyano
-  - &claymorwan
-    url: https://github.com/claymorwan
-  - &coldenate
-    url: https://github.com/coldenate
-  - &Daeraxa
-    url: https://github.com/Daeraxa
-  - &daveedmee
-    url: https://github.com/daveedmee
-  - &daveyholler
-    url: https://github.com/daveyholler
-  - &davfsa
-    url: https://github.com/davfsa
-  - &davidbgonz
-    url: https://github.com/davidbgonz
-  - &daylinmorgan
-    url: https://github.com/daylinmorgan
-  - &Delta456
-    url: https://github.com/Delta456
-  - &denis-g
-    url: https://github.com/denis-g
-  - &didair
-    url: https://github.com/didair
-  - &djflan
-    url: https://github.com/djflan
-  - &DonutDev
-    url: https://github.com/DonutDev
-  - &DorielRivalet
-    url: https://github.com/DorielRivalet
-  - &Dukeatron
-    url: https://github.com/Dukeatron
-  - &EdenQwQ
-    url: https://github.com/EdenQwQ
-  - &elkrien
-    url: https://github.com/elkrien
-  - &fapfaff
-    url: https://github.com/fapfaff
-  - &fathulfahmy
-    url: https://github.com/fathulfahmy
-  - &Flapperoo
-    url: https://github.com/Flapperoo
-  - &fruzitent
-    url: https://github.com/fruzitent
-  - &g3rhard
-    url: https://github.com/g3rhard
-  - &gabrielmagno
-    url: https://github.com/gabrielmagno
-  - &getchoo
-    url: https://github.com/getchoo
-  - &ghishadow
-    url: https://github.com/ghishadow
-  - &ghostx31
-    url: https://github.com/ghostx31
-  - &Gingeh
-    url: https://github.com/Gingeh
-  - &griimick
-    url: https://github.com/griimick
-  - &HeitorAugustoLN
-    url: https://github.com/HeitorAugustoLN
-  - &hyperreal64
-    url: https://github.com/hyperreal64
-  - &IAmJafeth
-    url: https://github.com/IAmJafeth
-  - &icy-comet
-    url: https://github.com/icy-comet
-  - &ignamartinoli
-    url: https://github.com/ignamartinoli
-  - &InvitedToHell
-    url: https://github.com/InvitedToHell
-  - &iruzo
-    url: https://github.com/iruzo
-  - &isabelincorp
-    url: https://github.com/isabelincorp
-  - &isabelroses
-    url: https://github.com/isabelroses
-  - &autumn-mck
-    url: https://github.com/autumn-mck
-  - &jack-mil
-    url: https://github.com/jack-mil
-  - &jayylmao
-    url: https://github.com/jayylmao
-  - &JK-Flip-Flop96
-    url: https://github.com/JK-Flip-Flop96
-  - &jolheiser
-    url: https://github.com/jolheiser
-  - &JoshPaulie
-    url: https://github.com/JoshPaulie
-  - &justleoo
-    url: https://github.com/justleoo
-  - &jtbx
-    url: https://github.com/jtbx
-  - &JustLetterV
-    url: https://github.com/JustLetterV
-  - &justTOBBI
-    url: https://github.com/justTOBBI
-  - &kerichdev
-    url: https://github.com/kerichdev
-  - &Kettukaa
-    url: https://github.com/Kettukaa
-  - &kjnsn
-    url: https://github.com/kjnsn
-  - &kkrypt0nn
-    url: https://github.com/kkrypt0nn
-  - &kuromedayo
-    url: https://github.com/kuromedayo
-  - &lemon-sh
-    url: https://github.com/lemon-sh
-  - &lewisakura
-    url: https://github.com/lewisakura
-  - &likendev
-    url: https://github.com/likendev
-  - &lighttigerXIV
-    url: https://github.com/lighttigerXIV
-  - &lokesh-krishna
-    url: https://github.com/lokesh-krishna
-  - &LudoPinelli
-    url: https://github.com/LudoPinelli
-  - &Lichthagel
-    url: https://github.com/Lichthagel
-  - &Liumingxun
-    url: https://github.com/Liumingxun
-  - &M3nny
-    url: https://github.com/M3nny
-  - &MAHcodes
-    url: https://github.com/MAHcodes
-  - &mainrs
-    url: https://github.com/mainrs
-  - &mark-pitblado
-    url: https://github.com/mark-pitblado
-  - &MatthiasPortzel
-    url: https://github.com/MatthiasPortzel
-  - &mbaklor
-    url: https://github.com/mbaklor
-  - &mbeckrich
-    url: https://github.com/mbeckrich
-  - &mekb-turtle
-    url: https://github.com/mekb-turtle
-  - &meme8383
-    url: https://github.com/meme8383
-  - &MikaelFangel
-    url: https://github.com/MikaelFangel
-  - &Moodzz1
-    url: https://github.com/Moodzz1
-  - &moseeking
-    url: https://github.com/moseeking
-  - &Mqisty
-    url: https://github.com/Mqisty
-  - &mrdoge515
-    url: https://github.com/mrdoge515
-  - &mrtnvgr
-    url: https://github.com/mrtnvgr
-  - &mxgic1337
-    url: https://github.com/mxgic1337
-  - &MuntasirSZN
-    url: https://github.com/MuntasirSZN
-  - &myumichi
-    url: https://github.com/myumichi
-  - &NamesCode
-    url: https://github.com/NamesCode
-  - &ndsboy
-    url: https://github.com/ndsboy
-  - &nekowinston
-    url: https://github.com/nekowinston
-  - &neongamerbot
-    url: https://github.com/NeonGamerBot-QK
-  - &NickSquiggles
-    url: https://github.com/NickSquiggles
-  - &nik-rev
-    url: https://github.com/nik-rev
-  - &NikSneMC
-    url: https://github.com/NikSneMC
-  - &nullchilly
-    url: https://github.com/nullchilly
-  - &nullishamy
-    url: https://github.com/nullishamy
-  - &nyxkrage
-    url: https://github.com/nyxkrage
-  - &ohitstom
-    url: https://github.com/ohitstom
-  - &ohxxm
-    url: https://github.com/ohxxm
-  - &opakholis
-    url: https://github.com/opakholis
-  - &ozwaldorf
-    url: https://github.com/ozwaldorf
-  - &PanAeon
-    url: https://github.com/PanAeon
-  - &Paracetamol56
-    url: https://github.com/Paracetamol56
-  - &pocco81
-    url: https://github.com/pocco81
-  - &prateektade
-    url: https://github.com/prateektade
-  - &Prayag2
-    url: https://github.com/Prayag2
-  - &prazdevs
-    url: https://github.com/prazdevs
-  - &pspiagicw
-    url: https://github.com/pspiagicw
-  - &quentinguidee
-    url: https://github.com/quentinguidee
-  - &rayhanadev
-    url: https://github.com/rayhanadev
-  - &remiposo
-    url: https://github.com/remiposo
-  - &reniivali
-    url: https://github.com/reniivali
-  - &rogeruiz
-    url: https://github.com/rogeruiz
-  - &riichi67
-    url: https://github.com/riichi67
-  - &rithikasilva
-    url: https://github.com/rithikasilva
-  - &rubyowo
-    url: https://github.com/rubyowo
-  - &ruiiiijiiiiang
-    url: https://github.com/ruiiiijiiiiang
-  - &sacerd-OS
-    url: https://github.com/sacerd-OS
-  - &SadAlexa
-    url: https://github.com/SadAlexa
-  - &sakkke
-    url: https://github.com/sakkke
-  - &Sebagabones
-    url: https://github.com/Sebagabones
-  - &Sebaguardian
-    url: https://github.com/Sebaguardian
-  - &Sekki21956
-    url: https://github.com/Sekki21956
-  - &schoblaska
-    url: https://github.com/schoblaska
-  - &sgoudham
-    url: https://github.com/sgoudham
-  - &skinatro
-    url: https://github.com/skinatro
-  - &sofycat
-    url: https://github.com/sofycat
-  - &soradotwav
-    url: https://github.com/soradotwav
-  - &southqaw
-    url: https://github.com/southqaw
-  - &Sourcastic
-    url: https://github.com/Sourcastic
-  - &stellophiliac
-    url: https://github.com/stellophiliac
-  - &Stonks3141
-    url: https://github.com/Stonks3141
-  - &Syndrizzle
-    url: https://github.com/Syndrizzle
-  - &taka0o
-    url: https://github.com/taka0o
-  - &TarunDaCoder
-    url: https://github.com/TarunDaCoder
-  - &tecandrew
-    url: https://github.com/tecandrew
-  - &tetov
-    url: https://github.com/tetov
-  - &TheExistingOne
-    url: https://github.com/TheExistingOne
-  - &thelooter
-    url: https://github.com/thelooter
-  - &tiepp
-    url: https://github.com/tiepp
-  - &TimeTravelPenguin
-    url: https://github.com/TimeTravelPenguin
-  - &Tnixc
-    url: https://github.com/Tnixc
-  - &ToxicAven
-    url: https://github.com/ToxicAven
-  - &tranzystorekk
-    url: https://github.com/tranzystorekk
-  - &tsjazil
-    url: https://github.com/tsjazil
-  - &typedrat
-    url: https://github.com/typedrat
-  - &uncenter
-    url: https://github.com/uncenter
-  - &useEffects
-    url: https://github.com/useEffects
-  - &ValentinTT
-    url: https://github.com/ValentinTT
-  - &vdbe
-    url: https://github.com/vdbe
-  - &VictorTennekes
-    url: https://github.com/VictorTennekes
-  - &vollowx
-    url: https://github.com/vollowx
-  - &walshyb
-    url: https://github.com/walshyb
-  - &Waxxx333
-    url: https://github.com/Waxxx333
-  - &WitherCubes
-    url: https://github.com/WitherCubes
-  - &waterlilly-lilly
-    url: https://github.com/waterlilly-lilly
-  - &xhayper
-    url: https://github.com/xhayper
-  - &Xurdejl
-    url: https://github.com/Xurdejl
-  - &Zazucki
-    url: https://github.com/Zazucki
-  - &zspher
-    url: https://github.com/zspher
+  - &112cxyz 112cxyz
+  - &21st-centuryman 21st-centuryman
+  - &42Willow 42Willow
+  - &89iuv 89iuv
+  - &abhishekmj303 abhishekmj303
+  - &AdalZanabria AdalZanabria
+  - &adamperkowski adamperkowski
+  - &AlphaTechnolog AlphaTechnolog
+  - &Askerad Askerad
+  - &unseen-ninja unseen-ninja
+  - &AngelBerihuete AngelBerihuete
+  - &AnicJov AnicJov
+  - &Anomalocaridid Anomalocaridid
+  - &AnubisNekhet AnubisNekhet
+  - &AwA-VR AwA-VR
+  - &acm-wq acm-wq
+  - &asrvd asrvd
+  - &aszecsei aszecsei
+  - &atticus-sullivan atticus-sullivan
+  - &auriafoxgirl auriafoxgirl
+  - &madhavarun madhavarun
+  - &ayamir ayamir
+  - &backwardspy backwardspy
+  - &bagelwaffle bagelwaffle
+  - &BANanaD3V BANanaD3V
+  - &beacon6 beacon6
+  - &BlueFalconHD BlueFalconHD
+  - &brambozz brambozz
+  - &Brianalmeida Brianalmeida
+  - &caarlos0 caarlos0
+  - &CallMeEchoCodes CallMeEchoCodes
+  - &catb00mer catb00mer
+  - &Covkie Covkie
+  - &mbekkomo mbekkomo
+  - &Cristhyano Cristhyano
+  - &claymorwan claymorwan
+  - &coldenate coldenate
+  - &Daeraxa Daeraxa
+  - &daveedmee daveedmee
+  - &daveyholler daveyholler
+  - &davfsa davfsa
+  - &davidbgonz davidbgonz
+  - &daylinmorgan daylinmorgan
+  - &Delta456 Delta456
+  - &denis-g denis-g
+  - &didair didair
+  - &djflan djflan
+  - &DonutDev DonutDev
+  - &DorielRivalet DorielRivalet
+  - &Dukeatron Dukeatron
+  - &EdenQwQ EdenQwQ
+  - &elkrien elkrien
+  - &fapfaff fapfaff
+  - &fathulfahmy fathulfahmy
+  - &Flapperoo Flapperoo
+  - &fruzitent fruzitent
+  - &g3rhard g3rhard
+  - &gabrielmagno gabrielmagno
+  - &getchoo getchoo
+  - &ghishadow ghishadow
+  - &ghostx31 ghostx31
+  - &Gingeh Gingeh
+  - &griimick griimick
+  - &HeitorAugustoLN HeitorAugustoLN
+  - &hyperreal64 hyperreal64
+  - &IAmJafeth IAmJafeth
+  - &icy-comet icy-comet
+  - &ignamartinoli ignamartinoli
+  - &InvitedToHell InvitedToHell
+  - &iruzo iruzo
+  - &isabelincorp isabelincorp
+  - &isabelroses isabelroses
+  - &autumn-mck autumn-mck
+  - &jack-mil jack-mil
+  - &jayylmao jayylmao
+  - &JK-Flip-Flop96 JK-Flip-Flop96
+  - &jolheiser jolheiser
+  - &JoshPaulie JoshPaulie
+  - &justleoo justleoo
+  - &jtbx jtbx
+  - &JustLetterV JustLetterV
+  - &justTOBBI justTOBBI
+  - &kerichdev kerichdev
+  - &Kettukaa Kettukaa
+  - &kjnsn kjnsn
+  - &kkrypt0nn kkrypt0nn
+  - &kuromedayo kuromedayo
+  - &lemon-sh lemon-sh
+  - &lewisakura lewisakura
+  - &likendev likendev
+  - &lighttigerXIV lighttigerXIV
+  - &lokesh-krishna lokesh-krishna
+  - &LudoPinelli LudoPinelli
+  - &Lichthagel Lichthagel
+  - &Liumingxun Liumingxun
+  - &M3nny M3nny
+  - &MAHcodes MAHcodes
+  - &mainrs mainrs
+  - &mark-pitblado mark-pitblado
+  - &MatthiasPortzel MatthiasPortzel
+  - &mbaklor mbaklor
+  - &mbeckrich mbeckrich
+  - &mekb-turtle mekb-turtle
+  - &meme8383 meme8383
+  - &MikaelFangel MikaelFangel
+  - &Moodzz1 Moodzz1
+  - &moseeking moseeking
+  - &Mqisty Mqisty
+  - &mrdoge515 mrdoge515
+  - &mrtnvgr mrtnvgr
+  - &mxgic1337 mxgic1337
+  - &MuntasirSZN MuntasirSZN
+  - &myumichi myumichi
+  - &NamesCode NamesCode
+  - &ndsboy ndsboy
+  - &nekowinston nekowinston
+  - &NeonGamerBot-QK NeonGamerBot-QK
+  - &NickSquiggles NickSquiggles
+  - &nik-rev nik-rev
+  - &NikSneMC NikSneMC
+  - &nullchilly nullchilly
+  - &nullishamy nullishamy
+  - &nyxkrage nyxkrage
+  - &ohitstom ohitstom
+  - &ohxxm ohxxm
+  - &opakholis opakholis
+  - &ozwaldorf ozwaldorf
+  - &PanAeon PanAeon
+  - &Paracetamol56 Paracetamol56
+  - &pocco81 pocco81
+  - &prateektade prateektade
+  - &Prayag2 Prayag2
+  - &prazdevs prazdevs
+  - &pspiagicw pspiagicw
+  - &quentinguidee quentinguidee
+  - &rayhanadev rayhanadev
+  - &remiposo remiposo
+  - &reniivali reniivali
+  - &rogeruiz rogeruiz
+  - &riichi67 riichi67
+  - &rithikasilva rithikasilva
+  - &rubyowo rubyowo
+  - &ruiiiijiiiiang ruiiiijiiiiang
+  - &sacerd-OS sacerd-OS
+  - &SadAlexa SadAlexa
+  - &sakkke sakkke
+  - &Sebagabones Sebagabones
+  - &Sebaguardian Sebaguardian
+  - &Sekki21956 Sekki21956
+  - &schoblaska schoblaska
+  - &sgoudham sgoudham
+  - &skinatro skinatro
+  - &sofycat sofycat
+  - &soradotwav soradotwav
+  - &southqaw southqaw
+  - &Sourcastic Sourcastic
+  - &stellophiliac stellophiliac
+  - &Stonks3141 Stonks3141
+  - &Syndrizzle Syndrizzle
+  - &taka0o taka0o
+  - &TarunDaCoder TarunDaCoder
+  - &tecandrew tecandrew
+  - &tetov tetov
+  - &TheExistingOne TheExistingOne
+  - &thelooter thelooter
+  - &tiepp tiepp
+  - &TimeTravelPenguin TimeTravelPenguin
+  - &Tnixc Tnixc
+  - &ToxicAven ToxicAven
+  - &tranzystorekk tranzystorekk
+  - &tsjazil tsjazil
+  - &typedrat typedrat
+  - &uncenter uncenter
+  - &useEffects useEffects
+  - &ValentinTT ValentinTT
+  - &vdbe vdbe
+  - &VictorTennekes VictorTennekes
+  - &vollowx vollowx
+  - &walshyb walshyb
+  - &Waxxx333 Waxxx333
+  - &WitherCubes WitherCubes
+  - &waterlilly-lilly waterlilly-lilly
+  - &xhayper xhayper
+  - &Xurdejl Xurdejl
+  - &Zazucki Zazucki
+  - &zspher zspher
 
 ports:
   aerc:
@@ -1259,7 +1073,7 @@ ports:
     platform: [linux, macos, windows]
     color: green
     icon: libreoffice
-    current-maintainers: [*neongamerbot]
+    current-maintainers: [*NeonGamerBot-QK]
   limine:
     name: Limine
     categories: [boot_loader, system]

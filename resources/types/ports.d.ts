@@ -10,20 +10,7 @@
  *
  * @minItems 1
  */
-export type AllCollaborators = [
-  {
-    url: GitHubProfile;
-    [k: string]: unknown;
-  },
-  ...{
-    url: GitHubProfile;
-    [k: string]: unknown;
-  }[]
-];
-/**
- * The GitHub profile link of the collaborator.
- */
-export type GitHubProfile = string;
+export type AllCollaborators = [string, ...string[]];
 /**
  * The name of the software the port is for.
  */
@@ -120,25 +107,13 @@ export type Upstreamed = boolean;
 /**
  * List of all active maintainers for this port.
  */
-export type CurrentMaintainers = {
-  url: GitHubProfile;
-  [k: string]: unknown;
-}[];
+export type CurrentMaintainers = string[];
 /**
  * List of all maintainers that have previously maintained this port.
  *
  * @minItems 1
  */
-export type PastMaintainers = [
-  {
-    url: GitHubProfile;
-    [k: string]: unknown;
-  },
-  ...{
-    url: GitHubProfile;
-    [k: string]: unknown;
-  }[]
-];
+export type PastMaintainers = [string, ...string[]];
 /**
  * A short summary of why the port was archived.
  */
