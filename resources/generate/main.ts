@@ -19,7 +19,7 @@ const root = new URL(".", import.meta.url).pathname;
 const portsYaml = await Deno.readTextFile(join(root, "../ports.yml"));
 const categoriesYaml = await Deno.readTextFile(join(root, "../categories.yml"));
 const userstylesYaml = await fetch(
-  "https://raw.githubusercontent.com/catppuccin/userstyles/refs/heads/chore/remove-name-array/scripts/userstyles.yml",
+  "https://raw.githubusercontent.com/catppuccin/userstyles/refs/heads/main/scripts/userstyles.yml",
 ).then((res) => res.text());
 
 const portsData = await validateYaml<PortsSchema.PortsSchema>(
