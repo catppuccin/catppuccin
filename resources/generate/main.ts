@@ -19,25 +19,24 @@ const root = new URL(".", import.meta.url).pathname;
 const portsYaml = await Deno.readTextFile(join(root, "../ports.yml"));
 const categoriesYaml = await Deno.readTextFile(join(root, "../categories.yml"));
 const userstylesYaml = await fetch(
-  "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml",
+  "https://raw.githubusercontent.com/catppuccin/userstyles/refs/heads/main/scripts/userstyles.yml",
 ).then((res) => res.text());
 
-const [portsData, categoriesData, userstylesData] = await Promise.all([
-  await validateYaml<PortsSchema.PortsSchema>(
-    portsYaml,
-    portsSchema,
-    { schemas: [categoriesSchema] },
-  ),
-  await validateYaml<CategoriesSchema.CategoryDefinitions>(
-    categoriesYaml,
-    categoriesSchema,
-  ),
-  await validateYaml<UserStylesSchema.UserstylesSchema>(
-    userstylesYaml,
-    userstylesSchema,
-    { schemas: [categoriesSchema] },
-  ),
-]);
+const portsData = await validateYaml<PortsSchema.PortsSchema>(
+  portsYaml,
+  portsSchema,
+  { schemas: [categoriesSchema] },
+);
+const categoriesData = await validateYaml<CategoriesSchema.CategoryDefinitions>(
+  categoriesYaml,
+  categoriesSchema,
+);
+const userstylesData = await validateYaml<UserStylesSchema.UserstylesSchema>(
+  userstylesYaml,
+  userstylesSchema,
+  { schemas: [categoriesSchema] },
+);
+
 if (!portsData.ports || !categoriesData || !userstylesData.userstyles) {
   throw new Error("ports.yml is empty");
 }
@@ -99,14 +98,22 @@ const categorized = Object.entries(ports)
         }
       }
 
-      acc[port.categories[0]].push({
-        ...port,
-        url,
-        name: [port.name].flat().join(", "),
-      });
-      acc[port.categories[0]].sort((a, b) =>
-        [a.name].flat()[0].localeCompare([b.name].flat()[0])
+      acc[port.categories[0]].push(
+        {
+          ...port,
+          url,
+        },
+        ...Object.values(port.supports ?? {}).map(({ name }) => {
+          return {
+            ...port,
+            url,
+            name,
+          };
+        }),
       );
+
+      acc[port.categories[0]].sort((a, b) => a.name.localeCompare(b.name));
+
       return acc;
     },
     {} as Record<string, Omit<MappedPort, "readme" | "platform">[]>,
