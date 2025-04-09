@@ -7285,7 +7285,7 @@ ports:
   icon: twitter
   color: blue
 - name: NixOS Manual
-  key: nixos manual
+  key: nixos-manual
   repository:
     name: nixos-manual
     url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual
@@ -7310,7 +7310,7 @@ ports:
   icon: nixos
   color: blue
 - name: Nixpkgs Manual
-  key: nixpkgs manual
+  key: nixpkgs-manual
   repository:
     name: nixos-manual
     url: https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual

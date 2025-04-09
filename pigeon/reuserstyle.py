@@ -25,42 +25,33 @@ def make_repo(name: str, port: dict) -> dict:
 
 
 def make_userstyle(key: str, userstyle: dict) -> List[dict]:
-    userstyles = []
-
-    # TODO: handle the readme.app_link field
-    #
-    # userstyle names can be a list for the alias behaviour (I, hammy, regret this design decision)
-    # so the key has to be populated by lowercasing the name array, otherwise we just use the name
-    names = (
-        userstyle["name"]
-        if isinstance(userstyle["name"], list)
-        else [userstyle["name"]]
-    )
-
-    for name in names:
-        userstyles.append(
-            {
-                "name": name,
-                "key": name.lower() if isinstance(userstyle["name"], list) else key,
-                "repository": key,
-                "categories": userstyle["categories"] + ["userstyle"],
-                "platform": ["agnostic"],
-                **{
-                    k: v
-                    for k, v in userstyle.items()
-                    if k
-                    not in {
-                        "current-maintainers",
-                        "past-maintainers",
-                        "name",
-                        "categories",
-                        "readme",
-                    }
-                },
+    base_userstyle = {
+        "name": userstyle["name"],
+        "key": key,
+        "repository": key,
+        "categories": userstyle["categories"] + ["userstyle"],
+        "platform": ["agnostic"],
+        **{
+            k: v
+            for k, v in userstyle.items()
+            if k
+            not in {
+                "current-maintainers",
+                "past-maintainers",
+                "categories",
+                "note",
+                "link",
+                "supports",
             }
-        )
+        },
+    }
 
-    return userstyles
+    supported_websites = [
+        {**base_userstyle, "name": v["name"], "key": k}
+        for k, v in userstyle.get("supports", {}).items()
+    ]
+
+    return [base_userstyle, *supported_websites]
 
 
 userstyles_url = "https://raw.githubusercontent.com/catppuccin/userstyles/main/scripts/userstyles.yml"
@@ -83,7 +74,8 @@ repositories = [
 userstyles = [
     make_userstyle(key, port) for key, port in userstyles_yml["userstyles"].items()
 ]
-# flatten the list of lists because of logic above to handle multiple names
+
+# flatten the list of lists because of logic above to handle multiple entries from one userstyle
 userstyles = [userstyle for sublist in userstyles for userstyle in sublist]
 
 userstyles_data = {
