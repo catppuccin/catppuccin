@@ -478,6 +478,13 @@ ports:
     icon: suckless
     current-maintainers: []
     past-maintainers: [*ohxxm]
+  docsify:
+    name: Docsify
+    categories: [development]
+    color: green
+    icon: docsify
+    platform: [agnostic]
+    current-maintainers: [*nik-rev]
   dopamine:
     name: Dopamine
     categories: [music]
