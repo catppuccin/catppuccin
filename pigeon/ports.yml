@@ -507,6 +507,9 @@ repositories:
   url: https://github.com/catppuccin/dmenu
   current-maintainers: []
   past-maintainers: [ohxxm]
+- name: docsify
+  url: https://github.com/catppuccin/docsify
+  current-maintainers: [nik-rev]
 - name: dopamine
   url: https://github.com/catppuccin/dopamine
   current-maintainers: [jayylmao]
@@ -1607,6 +1610,13 @@ ports:
   icon: suckless
   key: dmenu
   repository: dmenu
+- name: Docsify
+  categories: [development]
+  color: green
+  icon: docsify
+  platform: [agnostic]
+  key: docsify
+  repository: docsify
 - name: Dopamine
   categories: [music]
   platform: [linux, macos, windows]

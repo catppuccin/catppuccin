@@ -817,6 +817,23 @@ ports:
     past-maintainers:
     - username: ohxxm
       url: https://github.com/ohxxm
+- name: Docsify
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  color: green
+  icon: docsify
+  platform: [agnostic]
+  key: docsify
+  repository:
+    name: docsify
+    url: https://github.com/catppuccin/docsify
+    current-maintainers:
+    - username: nik-rev
+      url: https://github.com/nik-rev
+    past-maintainers: []
 - name: Dopamine
   categories:
   - key: music
