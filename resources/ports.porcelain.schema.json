@@ -1,0 +1,299 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "ports",
+    "collaborators",
+    "categories",
+    "showcases",
+    "archived-ports"
+  ],
+  "properties": {
+    "ports": {
+      "$id": "#ports",
+      "type": "array",
+      "description": "All ports in the Catppuccin organisation.",
+      "items": {
+        "$ref": "#/$defs/port-base"
+      }
+    },
+    "collaborators": {
+      "$ref": "#/$defs/collaborators"
+    },
+    "categories": {
+      "$ref": "#/$defs/categories"
+    },
+    "showcases": {
+      "$id": "#showcases",
+      "type": "array",
+      "description": "Featured projects using Catppuccin.",
+      "items": {
+        "type": "object",
+        "required": ["title", "description", "link"],
+        "properties": {
+          "title": {
+            "$id": "#showcases/showcase/title",
+            "type": "string",
+            "description": "Name of the project."
+          },
+          "description": {
+            "$id": "#showcases/showcase/description",
+            "type": "string",
+            "description": "Brief description of the project."
+          },
+          "link": {
+            "$id": "#showcases/showcase/link",
+            "type": "string",
+            "description": "URL of the project.",
+            "format": "uri"
+          }
+        }
+      }
+    },
+    "archived-ports": {
+      "$id": "#/archived-ports",
+      "type": "array",
+      "description": "All archived ports in the Catppuccin organisation.",
+      "items": {
+        "allOf": [
+          {
+            "$ref": "#/$defs/port-base"
+          },
+          {
+            "type": "object",
+            "required": ["reason"],
+            "properties": {
+              "reason": {
+                "$id": "#/archived-ports/achived-port/reason",
+                "type": "string",
+                "description": "A short summary explaining why the port was archived."
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "$defs": {
+    "port-base": {
+      "type": "object",
+      "required": [
+        "name",
+        "categories",
+        "platform",
+        "color",
+        "key",
+        "repository"
+      ],
+      "properties": {
+        "name": {
+          "$id": "#port-base/name",
+          "type": "string",
+          "description": "Display name of the port."
+        },
+        "categories": {
+          "$ref": "#/$defs/categories"
+        },
+        "platform": {
+          "$ref": "#/$defs/platform"
+        },
+        "color": {
+          "$ref": "#/$defs/color"
+        },
+        "icon": {
+          "$id": "#port-base/icon",
+          "type": "string",
+          "description": "The icon to use on the Catppuccin website."
+        },
+        "key": {
+          "$ref": "#/$defs/key"
+        },
+        "repository": {
+          "$id": "#port-base/repository",
+          "type": "object",
+          "description": "Repository information for the port.",
+          "properties": {
+            "name": {
+              "$ref": "#/$defs/key"
+            },
+            "url": {
+              "$id": "#ports/repository/url",
+              "type": "string",
+              "description": "URL to the repository.",
+              "format": "uri"
+            },
+            "current-maintainers": {
+              "$id": "#port-base/repository/current-maintainers",
+              "type": "array",
+              "description": "List of all active maintainers for this port.",
+              "$ref": "#/$defs/collaborators"
+            },
+            "past-maintainers": {
+              "$id": "#port-base/repository/past-maintainers",
+              "type": "array",
+              "description": "List of all maintainers that have previously maintained this port.",
+              "$ref": "#/$defs/collaborators"
+            }
+          }
+        }
+      }
+    },
+    "categories": {
+      "$id": "#categories",
+      "type": "array",
+      "description": "Categories that the port belongs to.",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["key", "name", "description", "emoji"],
+        "properties": {
+          "key": {
+            "$id": "#categories/category/key",
+            "title": "key",
+            "description": "Unique identifier for the category.",
+            "type": "string",
+            "$ref": "#/$defs/category-keys"
+          },
+          "name": {
+            "$id": "#categories/category/name",
+            "title": "Name",
+            "description": "Display name of the category.",
+            "type": "string"
+          },
+          "description": {
+            "$id": "#categories/category/description",
+            "title": "Description",
+            "description": "Detailed description of what the category is.",
+            "type": "string"
+          },
+          "emoji": {
+            "$id": "#categories/category/emoji",
+            "title": "Emoji",
+            "description": "Emoji representing the category.",
+            "type": "string"
+          }
+        }
+      }
+    },
+    "collaborators": {
+      "$id": "#collaborators",
+      "type": "array",
+      "description": "List of all collaborators across all Catppuccin ports.",
+      "items": {
+        "type": "object",
+        "required": ["username", "url"],
+        "properties": {
+          "username": {
+            "type": "string",
+            "description": "GitHub username of the collaborator."
+          },
+          "url": {
+            "type": "string",
+            "description": "GitHub profile URL of the collaborator.",
+            "format": "uri"
+          }
+        }
+      }
+    },
+    "platform": {
+      "$id": "#platform",
+      "title": "Platform",
+      "description": "The platforms the port supports. Either an array of supported operating systems or \"agnostic\" (indicating support for all platforms).",
+      "oneOf": [
+        {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$id": "#platform/os",
+            "title": "Operating Systems",
+            "type": "string",
+            "enum": ["android", "ios", "linux", "macos", "windows"],
+            "examples": [
+              ["linux", "macos", "windows"],
+              ["android", "ios"]
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["agnostic"]
+          },
+          "minItems": 1,
+          "maxItems": 1
+        }
+      ]
+    },
+    "category-keys": {
+      "$id": "#category-keys",
+      "type": "string",
+      "enum": [
+        "3d_modelling",
+        "analytics",
+        "application_launcher",
+        "artificial_intelligence",
+        "boot_loader",
+        "browser",
+        "browser_extension",
+        "cli",
+        "code_editor",
+        "desktop_environment",
+        "development",
+        "discussion_forum",
+        "document_viewer",
+        "education",
+        "email_client",
+        "entertainment",
+        "file_manager",
+        "game",
+        "game_development",
+        "health_and_fitness",
+        "library",
+        "music",
+        "news_and_journalism",
+        "note_taking",
+        "notification_daemon",
+        "photo_and_video",
+        "productivity",
+        "search_engine",
+        "social_networking",
+        "system",
+        "terminal",
+        "translation_tool",
+        "userstyle",
+        "wiki",
+        "window_manager"
+      ]
+    },
+    "color": {
+      "$id": "#color",
+      "title": "Color",
+      "description": "The fill color for the icon on the Catppuccin website.",
+      "type": "string",
+      "enum": [
+        "rosewater",
+        "flamingo",
+        "pink",
+        "mauve",
+        "red",
+        "maroon",
+        "peach",
+        "yellow",
+        "green",
+        "teal",
+        "sky",
+        "sapphire",
+        "blue",
+        "lavender",
+        "text"
+      ],
+      "examples": ["pink"]
+    },
+    "key": {
+      "$id": "#key",
+      "type": "string",
+      "description": "Unique identifier for the port."
+    }
+  }
+}
