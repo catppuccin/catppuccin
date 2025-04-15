@@ -156,6 +156,7 @@ collaborators:
   - &southqaw southqaw
   - &Sourcastic Sourcastic
   - &stellophiliac stellophiliac
+  - &stevin-wilson stevin-wilson
   - &Stonks3141 Stonks3141
   - &Syndrizzle Syndrizzle
   - &taka0o taka0o
@@ -1021,6 +1022,13 @@ ports:
     icon: kde
     current-maintainers: []
     past-maintainers: [*Prayag2, *Sourcastic]
+  keynote-slides:
+    name: Apple Keynote Slides
+    categories: [productivity]
+    icon: apple
+    color: text
+    platform: [macos]
+    current-maintainers: [*stevin-wilson]
   kicad:
     name: KiCad
     platform: [linux, macos, windows]
