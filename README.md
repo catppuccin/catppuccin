@@ -1274,6 +1274,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>📖 Productivity</summary>
 
 - [AlternativeTo](https://github.com/catppuccin/userstyles/tree/main/styles/alternativeto)
+- [Apple Keynote Slides](https://github.com/catppuccin/keynote-slides)
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
 - [cobalt](https://github.com/catppuccin/userstyles/tree/main/styles/cobalt)
