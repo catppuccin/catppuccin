@@ -109,7 +109,7 @@
 - key: social_networking
   name: Social Networking
   description: Applications that bring people together through text, voice, photo and/or video.
-  emoji: ✨
+  emoji: ✨️
 - key: discussion_forum
   name: Discussion Forums
   description: Platforms that allow people to engage in conversation, share information, and discuss various topics.
@@ -117,7 +117,7 @@
 - key: entertainment
   name: Entertainment
   description: Applications designed to entertain the user.
-  emoji: 🌈
+  emoji: 🌈️
 - key: game
   name: Games
   description: Applications related to gaming and the idea of game-ification.
