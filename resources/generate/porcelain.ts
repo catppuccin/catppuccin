@@ -101,9 +101,7 @@ categoriesData.push({
 });
 
 const mergedPorts: Record<string, PorcelainSchema.MergedPort> = {
-  ...Object.fromEntries(
-    Object.entries(portsData.ports).map(([slug, port]) => [slug, { ...port }]),
-  ),
+  ...portsData.ports,
   ...Object.fromEntries(
     Object.entries(userstylesData.userstyles ?? {}).map((
       [slug, userstyle],

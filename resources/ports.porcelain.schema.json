@@ -8,13 +8,14 @@
     "showcases",
     "archived-ports"
   ],
+  "additionalProperties": false,
   "properties": {
     "ports": {
       "$id": "#ports",
       "type": "array",
       "description": "All ports in the Catppuccin organisation.",
       "items": {
-        "$ref": "#/$defs/port-base"
+        "$ref": "#/$defs/ports"
       }
     },
     "collaborators": {
@@ -30,6 +31,7 @@
       "items": {
         "type": "object",
         "required": ["title", "description", "link"],
+        "additionalProperties": false,
         "properties": {
           "title": {
             "$id": "#showcases/showcase/title",
@@ -55,27 +57,12 @@
       "type": "array",
       "description": "All archived ports in the Catppuccin organisation.",
       "items": {
-        "allOf": [
-          {
-            "$ref": "#/$defs/port-base"
-          },
-          {
-            "type": "object",
-            "required": ["reason"],
-            "properties": {
-              "reason": {
-                "$id": "#/archived-ports/achived-port/reason",
-                "type": "string",
-                "description": "A short summary explaining why the port was archived."
-              }
-            }
-          }
-        ]
+        "$ref": "#/$defs/archived-ports"
       }
     }
   },
   "$defs": {
-    "port-base": {
+    "ports": {
       "type": "object",
       "required": [
         "name",
@@ -85,11 +72,10 @@
         "key",
         "repository"
       ],
+      "additionalProperties": false,
       "properties": {
         "name": {
-          "$id": "#port-base/name",
-          "type": "string",
-          "description": "Display name of the port."
+          "$ref": "#/$defs/name"
         },
         "categories": {
           "$ref": "#/$defs/categories"
@@ -101,40 +87,54 @@
           "$ref": "#/$defs/color"
         },
         "icon": {
-          "$id": "#port-base/icon",
-          "type": "string",
-          "description": "The icon to use on the Catppuccin website."
+          "$ref": "#/$defs/icon"
         },
         "key": {
           "$ref": "#/$defs/key"
         },
         "repository": {
-          "$id": "#port-base/repository",
-          "type": "object",
-          "description": "Repository information for the port.",
-          "properties": {
-            "name": {
-              "$ref": "#/$defs/key"
-            },
-            "url": {
-              "$id": "#ports/repository/url",
-              "type": "string",
-              "description": "URL to the repository.",
-              "format": "uri"
-            },
-            "current-maintainers": {
-              "$id": "#port-base/repository/current-maintainers",
-              "type": "array",
-              "description": "List of all active maintainers for this port.",
-              "$ref": "#/$defs/collaborators"
-            },
-            "past-maintainers": {
-              "$id": "#port-base/repository/past-maintainers",
-              "type": "array",
-              "description": "List of all maintainers that have previously maintained this port.",
-              "$ref": "#/$defs/collaborators"
-            }
-          }
+          "$ref": "#/$defs/repository"
+        }
+      }
+    },
+    "archived-ports": {
+      "type": "object",
+      "required": [
+        "name",
+        "categories",
+        "platform",
+        "color",
+        "key",
+        "repository",
+        "reason"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/name"
+        },
+        "categories": {
+          "$ref": "#/$defs/categories"
+        },
+        "platform": {
+          "$ref": "#/$defs/platform"
+        },
+        "color": {
+          "$ref": "#/$defs/color"
+        },
+        "icon": {
+          "$ref": "#/$defs/icon"
+        },
+        "key": {
+          "$ref": "#/$defs/key"
+        },
+        "repository": {
+          "$ref": "#/$defs/repository"
+        },
+        "reason": {
+          "$id": "#/archived-ports/achived-port/reason",
+          "type": "string",
+          "description": "A short summary explaining why the port was archived."
         }
       }
     },
@@ -146,6 +146,7 @@
       "items": {
         "type": "object",
         "required": ["key", "name", "description", "emoji"],
+        "additionalProperties": false,
         "properties": {
           "key": {
             "$id": "#categories/category/key",
@@ -175,6 +176,35 @@
         }
       }
     },
+    "repository": {
+      "$id": "#repository",
+      "type": "object",
+      "description": "Repository information for the port.",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/key"
+        },
+        "url": {
+          "$id": "#repository/url",
+          "type": "string",
+          "description": "URL to the repository.",
+          "format": "uri"
+        },
+        "current-maintainers": {
+          "$id": "#repository/current-maintainers",
+          "type": "array",
+          "description": "List of all active maintainers for this port.",
+          "$ref": "#/$defs/collaborators"
+        },
+        "past-maintainers": {
+          "$id": "#repository/past-maintainers",
+          "type": "array",
+          "description": "List of all maintainers that have previously maintained this port.",
+          "$ref": "#/$defs/collaborators"
+        }
+      }
+    },
     "collaborators": {
       "$id": "#collaborators",
       "type": "array",
@@ -182,6 +212,7 @@
       "items": {
         "type": "object",
         "required": ["username", "url"],
+        "additionalProperties": false,
         "properties": {
           "username": {
             "type": "string",
@@ -290,10 +321,20 @@
       ],
       "examples": ["pink"]
     },
+    "name": {
+      "$id": "#name",
+      "type": "string",
+      "description": "Display name of the port."
+    },
     "key": {
       "$id": "#key",
       "type": "string",
       "description": "Unique identifier for the port."
+    },
+    "icon": {
+      "$id": "#/icon",
+      "type": "string",
+      "description": "The icon to use on the Catppuccin website."
     }
   }
 }
