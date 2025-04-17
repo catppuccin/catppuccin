@@ -11,7 +11,7 @@ import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.js
 import type {
   CategoriesSchema,
   PortsSchema,
-  UserStylesSchema,
+  UserstylesSchema,
 } from "@/types/mod.ts";
 
 const root = new URL(".", import.meta.url).pathname;
@@ -31,7 +31,7 @@ const categoriesData = await validateYaml<CategoriesSchema.CategoryDefinitions>(
   categoriesYaml,
   categoriesSchema,
 );
-const userstylesData = await validateYaml<UserStylesSchema.UserstylesSchema>(
+const userstylesData = await validateYaml<UserstylesSchema.UserstylesSchema>(
   userstylesYaml,
   userstylesSchema,
   { schemas: [categoriesSchema] },
@@ -42,7 +42,7 @@ if (!portsData.ports || !categoriesData || !userstylesData.userstyles) {
 }
 
 export type MappedPort =
-  & MergeExclusive<PortsSchema.Port, UserStylesSchema.Userstyle>
+  & MergeExclusive<PortsSchema.Port, UserstylesSchema.Userstyle>
   & {
     type: "port" | "userstyle";
   };
