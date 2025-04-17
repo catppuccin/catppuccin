@@ -127,10 +127,10 @@ export type Link2 = string;
 export type Showcases = ShowcaseItem[];
 
 export interface PortsSchema {
-  collaborators?: AllCollaborators;
-  ports?: Ports;
-  archived?: ArchivedPorts;
-  showcases?: Showcases;
+  collaborators: AllCollaborators;
+  ports: Ports;
+  archived: ArchivedPorts;
+  showcases: Showcases;
 }
 /**
  * All ports in the Catppuccin organisation.
@@ -167,7 +167,7 @@ export interface Link {
  * All archived ports in the Catppuccin organisation.
  */
 export interface ArchivedPorts {
-  [k: string]: Port1;
+  [k: string]: ArchivedPort;
 }
 /**
  * The GitHub repository name of the archived port.
@@ -175,7 +175,7 @@ export interface ArchivedPorts {
  * This interface was referenced by `ArchivedPorts`'s JSON-Schema definition
  * via the `patternProperty` "[A-Za-z0-9_\-]".
  */
-export interface Port1 {
+export interface ArchivedPort {
   name: Name;
   reason: ArchiveReason;
   categories: Categories;

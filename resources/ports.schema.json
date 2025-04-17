@@ -2,6 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "additionalProperties": false,
+  "required": ["collaborators", "ports", "archived", "showcases"],
   "properties": {
     "collaborators": {
       "$id": "#all-collaborators",
@@ -126,7 +127,7 @@
       "patternProperties": {
         "[A-Za-z0-9_\\-]": {
           "$id": "#archived/port/name",
-          "title": "Port",
+          "title": "Archived Port",
           "type": "object",
           "description": "The GitHub repository name of the archived port.",
           "examples": ["steam"],
