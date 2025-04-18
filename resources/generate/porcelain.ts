@@ -19,13 +19,33 @@ import type {
 import { stringify } from "@std/yaml";
 import Ajv from "ajv";
 import ajvFormats from "ajv-formats";
-import { CategoryDefinitions } from "@/types/categories.d.ts";
+import { MergeExclusive } from "type-fest";
 
-const profileUrl = (username: string): string =>
+type MergedPort = MergeExclusive<
+  PortsSchema.Port,
+  UserstylesSchema.Userstyle
+>;
+
+const isArchivedPort = (
+  port: MergedPort | PortsSchema.ArchivedPort,
+): port is PortsSchema.ArchivedPort => {
+  return ("reason" in port);
+};
+
+const isUserstyle = (
+  port: MergedPort | PortsSchema.ArchivedPort,
+): port is UserstylesSchema.Userstyle => {
+  return port.categories.includes("userstyle");
+};
+
+const ghProfileUrl = (username: string): string =>
   `https://github.com/${username}`;
 
-const orgUrl = (port: string): string =>
+const ghRepositoryUrl = (port: string): string =>
   `https://github.com/catppuccin/${port}`;
+
+const ghUserstyleUrl = (userstyle: string): string =>
+  `https://github.com/catppuccin/userstyles/tree/main/styles/${userstyle}`;
 
 const inflateCollaborators = (
   collaborators:
@@ -33,42 +53,67 @@ const inflateCollaborators = (
     | PortsSchema.CurrentMaintainers
     | UserstylesSchema.AllCollaborators
     | UserstylesSchema.CurrentMaintainers,
-): PorcelainSchema.Collaborator[] => {
-  return collaborators.map((collaborator) => ({
+): PorcelainSchema.Collaborators => {
+  return Array.from(new Set(collaborators)).map((collaborator) => ({
     username: collaborator,
-    url: profileUrl(collaborator),
+    url: ghProfileUrl(collaborator),
   }));
 };
 
 const inflateRepository = (
-  name: string,
-  port:
-    | PortsSchema.Port
-    | PortsSchema.ArchivedPort
-    | PorcelainSchema.MergedPort,
+  key: string,
+  port: MergedPort | PortsSchema.ArchivedPort,
 ): PorcelainSchema.Repository => {
+  if (isArchivedPort(port)) {
+    return {
+      name: key,
+      url: ghRepositoryUrl(key),
+      "current-maintainers": [],
+      "past-maintainers": [],
+    };
+  }
+
+  const name = port.alias ?? key;
+  let url = ghRepositoryUrl(key);
+  if (port.url) {
+    url = port.url;
+  } else if (port.alias) {
+    url = ghRepositoryUrl(port.alias);
+  } else if (isUserstyle(port)) {
+    url = ghUserstyleUrl(key);
+  }
+  const currentMaintainers = port.alias
+    ? [
+      ...port["current-maintainers"],
+      ...portsData.ports[port.alias]["current-maintainers"],
+    ]
+    : port["current-maintainers"];
+  const pastMaintainers = port.alias
+    ? [
+      ...(port["past-maintainers"] ?? []),
+      ...(portsData.ports[port.alias]["past-maintainers"] ?? []),
+    ]
+    : port["past-maintainers"] ?? [];
+
   return {
     name,
-    url: "url" in port && port.url ? port.url : orgUrl(name),
-    "current-maintainers": "current-maintainers" in port
-      ? inflateCollaborators(port["current-maintainers"])
-      : [],
-    "past-maintainers": "past-maintainers" in port && port["past-maintainers"]
-      ? inflateCollaborators(port["past-maintainers"])
-      : [],
+    url,
+    "current-maintainers": inflateCollaborators(currentMaintainers),
+    "past-maintainers": inflateCollaborators(pastMaintainers),
   };
 };
 
+// TODO: implement test to make sure CategoryDefinitions & PorcelainSchema.Categories are the same
 const inflateCategories = (
   categories: PortsSchema.Categories,
-): CategoryDefinitions =>
+): PorcelainSchema.Categories =>
   categories
     .map((category) =>
       categoriesData.find((categoryDefinition) =>
         category === categoryDefinition.key
       )
-    )
-    .filter((categoryDefinition) => categoryDefinition !== undefined);
+    ) as PorcelainSchema.Categories;
+
 const root = new URL(".", import.meta.url).pathname;
 
 const portsData = await validateYaml<PortsSchema.PortsSchema>(
@@ -100,7 +145,7 @@ categoriesData.push({
   emoji: "🖌️",
 });
 
-const mergedPorts: Record<string, PorcelainSchema.MergedPort> = {
+const mergedPorts: Record<string, MergedPort> = {
   ...portsData.ports,
   ...Object.fromEntries(
     Object.entries(userstylesData.userstyles ?? {}).map((
@@ -129,19 +174,17 @@ const ports = Object.entries(mergedPorts).map(([key, port]) => {
   if (port.icon) {
     porcelainPort.icon = port.icon;
   }
+  if (port.links) {
+    porcelainPort.links = port.links;
+  }
 
   return porcelainPort;
 });
 
-const collaborators = Array.from(
-  new Set([
-    ...portsData.collaborators,
-    ...(userstylesData.collaborators ?? []),
-  ]),
-).map((username) => ({
-  username,
-  url: profileUrl(username),
-}));
+const collaborators = inflateCollaborators([
+  ...portsData.collaborators,
+  ...(userstylesData.collaborators ?? []),
+]);
 
 const archivedPorts = Object.entries(portsData.archived).map((
   [key, port],

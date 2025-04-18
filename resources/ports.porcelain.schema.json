@@ -15,7 +15,7 @@
       "type": "array",
       "description": "All ports in the Catppuccin organisation.",
       "items": {
-        "$ref": "#/$defs/ports"
+        "$ref": "#/$defs/port"
       }
     },
     "collaborators": {
@@ -34,17 +34,17 @@
         "additionalProperties": false,
         "properties": {
           "title": {
-            "$id": "#showcases/showcase/title",
+            "$id": "#showcase/title",
             "type": "string",
             "description": "Name of the project."
           },
           "description": {
-            "$id": "#showcases/showcase/description",
+            "$id": "#showcase/description",
             "type": "string",
             "description": "Brief description of the project."
           },
           "link": {
-            "$id": "#showcases/showcase/link",
+            "$id": "#showcase/link",
             "type": "string",
             "description": "URL of the project.",
             "format": "uri"
@@ -57,12 +57,12 @@
       "type": "array",
       "description": "All archived ports in the Catppuccin organisation.",
       "items": {
-        "$ref": "#/$defs/archived-ports"
+        "$ref": "#/$defs/archived-port"
       }
     }
   },
   "$defs": {
-    "ports": {
+    "port": {
       "type": "object",
       "required": [
         "name",
@@ -94,10 +94,38 @@
         },
         "repository": {
           "$ref": "#/$defs/repository"
+        },
+        "links": {
+          "$id": "#links",
+          "description": "Links to the port on marketplaces, app stores, documentation, preview pages, etc.",
+          "type": "array",
+          "items": {
+            "$id": "#link",
+            "type": "object",
+            "required": ["name", "url"],
+            "additionalProperties": false,
+            "properties": {
+              "name": {
+                "$id": "#link/name",
+                "type": "string"
+              },
+              "color": {
+                "$ref": "#/$defs/color"
+              },
+              "icon": {
+                "$ref": "#/$defs/icon"
+              },
+              "url": {
+                "$id": "#link/url",
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          }
         }
       }
     },
-    "archived-ports": {
+    "archived-port": {
       "type": "object",
       "required": [
         "name",
@@ -132,7 +160,7 @@
           "$ref": "#/$defs/repository"
         },
         "reason": {
-          "$id": "#/archived-ports/achived-port/reason",
+          "$id": "#achived-port/reason",
           "type": "string",
           "description": "A short summary explaining why the port was archived."
         }
@@ -149,27 +177,23 @@
         "additionalProperties": false,
         "properties": {
           "key": {
-            "$id": "#categories/category/key",
-            "title": "key",
+            "$id": "#category/key",
             "description": "Unique identifier for the category.",
             "type": "string",
             "$ref": "#/$defs/category-keys"
           },
           "name": {
-            "$id": "#categories/category/name",
-            "title": "Name",
+            "$id": "#category/name",
             "description": "Display name of the category.",
             "type": "string"
           },
           "description": {
-            "$id": "#categories/category/description",
-            "title": "Description",
+            "$id": "#category/description",
             "description": "Detailed description of what the category is.",
             "type": "string"
           },
           "emoji": {
-            "$id": "#categories/category/emoji",
-            "title": "Emoji",
+            "$id": "#category/emoji",
             "description": "Emoji representing the category.",
             "type": "string"
           }
