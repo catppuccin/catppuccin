@@ -137,7 +137,7 @@ const categoriesData = await validateYaml<
   categoriesSchema,
 );
 
-// Shim userstyles category, maybe move to platform later on
+// Shim userstyles category data, maybe move to platform later on
 categoriesData.push({
   key: "userstyle",
   name: "Userstyles",
@@ -152,7 +152,7 @@ const mergedPorts: Record<string, MergedPort> = {
       [slug, userstyle],
     ) => [slug, {
       ...userstyle,
-      // Pretend "userstyle" is a `Category`
+      // Shim "userstyle" category to all userstyles
       categories: [
         ...userstyle.categories,
         "userstyle",
@@ -161,7 +161,7 @@ const mergedPorts: Record<string, MergedPort> = {
   ),
 };
 
-const ports = Object.entries(mergedPorts).map(([key, port]) => {
+const ports = Object.entries(mergedPorts).flatMap(([key, port]) => {
   const porcelainPort: PorcelainSchema.Port = {
     name: port.name,
     categories: inflateCategories(port.categories),
@@ -170,7 +170,6 @@ const ports = Object.entries(mergedPorts).map(([key, port]) => {
     key,
     repository: inflateRepository(key, port),
   };
-
   if (port.icon) {
     porcelainPort.icon = port.icon;
   }
@@ -178,7 +177,15 @@ const ports = Object.entries(mergedPorts).map(([key, port]) => {
     porcelainPort.links = port.links;
   }
 
-  return porcelainPort;
+  const supportedUserstyles = Object.entries(port.supports ?? {}).map((
+    [k, v],
+  ) => ({
+    ...porcelainPort,
+    name: v.name,
+    key: k,
+  }));
+
+  return [porcelainPort, ...supportedUserstyles];
 });
 
 const collaborators = inflateCollaborators([
