@@ -184,10 +184,10 @@ export interface Category {
  * Repository information for the port.
  */
 export interface Repository {
-  name?: Key;
-  url?: RepositoryUrl;
-  "current-maintainers"?: RepositoryCurrentMaintainers;
-  "past-maintainers"?: RepositoryPastMaintainers;
+  name: Key;
+  url: RepositoryUrl;
+  "current-maintainers": RepositoryCurrentMaintainers;
+  "past-maintainers": RepositoryPastMaintainers;
 }
 export interface Collaborator {
   username: CollaboratorUsername;

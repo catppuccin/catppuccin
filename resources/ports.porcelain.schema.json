@@ -206,6 +206,7 @@
       "$id": "#repository",
       "type": "object",
       "description": "Repository information for the port.",
+      "required": ["name", "url", "current-maintainers", "past-maintainers"],
       "additionalProperties": false,
       "properties": {
         "name": {
