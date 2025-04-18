@@ -29,6 +29,7 @@
       "type": "array",
       "description": "Featured projects using Catppuccin.",
       "items": {
+        "$id": "#showcase",
         "type": "object",
         "required": ["title", "description", "link"],
         "additionalProperties": false,
@@ -172,6 +173,7 @@
       "description": "Categories that the port belongs to.",
       "minItems": 1,
       "items": {
+        "$id": "#category",
         "type": "object",
         "required": ["key", "name", "description", "emoji"],
         "additionalProperties": false,
@@ -234,15 +236,18 @@
       "type": "array",
       "description": "List of all collaborators across all Catppuccin ports.",
       "items": {
+        "$id": "#collaborator",
         "type": "object",
         "required": ["username", "url"],
         "additionalProperties": false,
         "properties": {
           "username": {
+            "$id": "#collaborator/username",
             "type": "string",
             "description": "GitHub username of the collaborator."
           },
           "url": {
+            "$id": "#collaborator/url",
             "type": "string",
             "description": "GitHub profile URL of the collaborator.",
             "format": "uri"

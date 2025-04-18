@@ -14,20 +14,7 @@ export type Name = string;
  *
  * @minItems 1
  */
-export type Categories = [
-  {
-    key: CategoryKey;
-    name: CategoryName;
-    description: CategoryDescription;
-    emoji: CategoryEmoji;
-  },
-  ...{
-    key: CategoryKey;
-    name: CategoryName;
-    description: CategoryDescription;
-    emoji: CategoryEmoji;
-  }[]
-];
+export type Categories = [Category, ...Category[]];
 /**
  * Unique identifier for the category.
  */
@@ -116,31 +103,21 @@ export type Key = string;
  */
 export type RepositoryUrl = string;
 /**
+ * GitHub username of the collaborator.
+ */
+export type CollaboratorUsername = string;
+/**
+ * GitHub profile URL of the collaborator.
+ */
+export type CollaboratorUrl = string;
+/**
  * List of all active maintainers for this port.
  */
-export type RepositoryCurrentMaintainers = {
-  /**
-   * GitHub username of the collaborator.
-   */
-  username: string;
-  /**
-   * GitHub profile URL of the collaborator.
-   */
-  url: string;
-}[];
+export type RepositoryCurrentMaintainers = Collaborator[];
 /**
  * List of all maintainers that have previously maintained this port.
  */
-export type RepositoryPastMaintainers = {
-  /**
-   * GitHub username of the collaborator.
-   */
-  username: string;
-  /**
-   * GitHub profile URL of the collaborator.
-   */
-  url: string;
-}[];
+export type RepositoryPastMaintainers = Collaborator[];
 export type LinkName = string;
 export type LinkUrl = string;
 /**
@@ -154,16 +131,7 @@ export type Ports = Port[];
 /**
  * List of all collaborators across all Catppuccin ports.
  */
-export type Collaborators = {
-  /**
-   * GitHub username of the collaborator.
-   */
-  username: string;
-  /**
-   * GitHub profile URL of the collaborator.
-   */
-  url: string;
-}[];
+export type Collaborators = Collaborator[];
 /**
  * Name of the project.
  */
@@ -179,11 +147,7 @@ export type ShowcaseLink = string;
 /**
  * Featured projects using Catppuccin.
  */
-export type Showcases = {
-  title: ShowcaseTitle;
-  description: ShowcaseDescription;
-  link: ShowcaseLink;
-}[];
+export type Showcases = Showcase[];
 /**
  * A short summary explaining why the port was archived.
  */
@@ -210,6 +174,12 @@ export interface Port {
   repository: Repository;
   links?: Links;
 }
+export interface Category {
+  key: CategoryKey;
+  name: CategoryName;
+  description: CategoryDescription;
+  emoji: CategoryEmoji;
+}
 /**
  * Repository information for the port.
  */
@@ -219,11 +189,20 @@ export interface Repository {
   "current-maintainers"?: RepositoryCurrentMaintainers;
   "past-maintainers"?: RepositoryPastMaintainers;
 }
+export interface Collaborator {
+  username: CollaboratorUsername;
+  url: CollaboratorUrl;
+}
 export interface Link {
   name: LinkName;
   color?: Color;
   icon?: Icon;
   url: LinkUrl;
+}
+export interface Showcase {
+  title: ShowcaseTitle;
+  description: ShowcaseDescription;
+  link: ShowcaseLink;
 }
 export interface ArchivedPort {
   name: Name;
