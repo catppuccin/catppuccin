@@ -94,8 +94,8 @@ export type Alias = string;
  * If the port is hosted on a specific URL, provide it here.
  */
 export type URL = string;
-export type Name1 = string;
-export type URL1 = string;
+export type LinkName = string;
+export type LinkUrl = string;
 /**
  * Links to the port on marketplaces, app stores; documentation, preview pages, etc.
  */
@@ -118,9 +118,9 @@ export type PastMaintainers = [string, ...string[]];
  * A short summary of why the port was archived.
  */
 export type ArchiveReason = string;
-export type Title = string;
-export type Link1 = string;
-export type Link2 = string;
+export type ShowcaseTitle = string;
+export type ShowcaseLink = string;
+export type ShowcaseDescription = string;
 /**
  * Each showcase listed in the README
  */
@@ -158,10 +158,10 @@ export interface Port {
   "past-maintainers"?: PastMaintainers;
 }
 export interface Link {
-  name: Name1;
+  name: LinkName;
   color?: Color;
   icon?: Icon;
-  url: URL1;
+  url: LinkUrl;
 }
 /**
  * All archived ports in the Catppuccin organisation.
@@ -184,7 +184,7 @@ export interface ArchivedPort {
   icon?: Icon;
 }
 export interface ShowcaseItem {
-  title: Title;
-  link: Link1;
-  description: Link2;
+  title: ShowcaseTitle;
+  link: ShowcaseLink;
+  description: ShowcaseDescription;
 }
