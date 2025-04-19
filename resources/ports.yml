@@ -247,6 +247,12 @@ ports:
     color: text
     platform: [linux, macos, windows]
     current-maintainers: [*sofycat]
+  atuin:
+    name: atuin
+    categories: [cli]
+    platform: [linux, macos] 
+    color: green
+    current-maintainers: [*ruiiiijiiiiang]
   azuredatastudio:
     name: Azure Data Studio
     categories: [code_editor]
