@@ -1023,6 +1023,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🐚 CLI Tools</summary>
 
 - [Asciinema](https://github.com/catppuccin/asciinema)
+- [atuin](https://github.com/catppuccin/atuin)
 - [bat](https://github.com/catppuccin/bat)
 - [bottom](https://github.com/catppuccin/bottom)
 - [btop++](https://github.com/catppuccin/btop)
