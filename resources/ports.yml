@@ -1463,7 +1463,7 @@ ports:
     past-maintainers: [*nekowinston]
   pygments:
     name: Pygments
-    categories: [development]
+    categories: [syntax_highlighter]
     platform: [agnostic]
     url: https://python.catppuccin.com/docs/catppuccin/extras/pygments.html
     color: text
