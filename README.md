@@ -926,7 +926,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [JetBrains Fleet](https://github.com/catppuccin/fleet)
 - [JetBrains Icons](https://github.com/catppuccin/jetbrains-icons)
 - [Kakoune](https://github.com/catppuccin/kakoune)
-- [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
 - [Lapce](https://github.com/catppuccin/lapce)
 - [micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
@@ -996,11 +995,12 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>🖍️ Syntax Highlighters</summary>
+<summary>🖍️ Syntax Highlighting</summary>
 
 - [Chroma](https://github.com/catppuccin/chroma)
 - [Glamour](https://github.com/catppuccin/glamour)
 - [highlight.js](https://github.com/catppuccin/highlightjs)
+- [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
 - [Prism.js](https://github.com/catppuccin/prismjs)
 - [Pygments](https://python.catppuccin.com/docs/catppuccin/extras/pygments.html)
 - [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
