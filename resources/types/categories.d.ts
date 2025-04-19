@@ -22,6 +22,7 @@ export type Key =
   | "development"
   | "discussion_forum"
   | "document_viewer"
+  | "documentation_generator"
   | "education"
   | "email_client"
   | "entertainment"
