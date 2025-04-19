@@ -165,6 +165,7 @@ collaborators:
   - &tetov tetov
   - &TheExistingOne TheExistingOne
   - &thelooter thelooter
+  - &TheOtterlord TheOtterlord
   - &tiepp tiepp
   - &TimeTravelPenguin TimeTravelPenguin
   - &Tnixc Tnixc
@@ -1728,6 +1729,13 @@ ports:
     icon: suckless
     current-maintainers: []
     past-maintainers: [*tsjazil]
+  starlight:
+    name: Starlight
+    categories: [development]
+    platform: [agnostic]
+    color: mauve
+    icon: astro
+    current-maintainers: [*TheOtterlord]
   superfile:
     name: Superfile
     categories: [file_manager, cli]
