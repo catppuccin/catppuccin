@@ -331,6 +331,8 @@ collaborators:
   url: https://github.com/TheExistingOne
 - username: thelooter
   url: https://github.com/thelooter
+- username: TheOtterlord
+  url: https://github.com/TheOtterlord
 - username: tiepp
   url: https://github.com/tiepp
 - username: TimeTravelPenguin
@@ -403,6 +405,9 @@ repositories:
 - name: aseprite
   url: https://github.com/catppuccin/aseprite
   current-maintainers: [sofycat]
+- name: atuin
+  url: https://github.com/catppuccin/atuin
+  current-maintainers: [ruiiiijiiiiang]
 - name: base16
   url: https://github.com/catppuccin/base16
   current-maintainers: []
@@ -1091,6 +1096,9 @@ repositories:
   url: https://github.com/catppuccin/st
   current-maintainers: []
   past-maintainers: [tsjazil]
+- name: starlight
+  url: https://github.com/catppuccin/starlight
+  current-maintainers: [TheOtterlord]
 - name: superfile
   url: https://github.com/catppuccin/superfile
   current-maintainers: [MuntasirSZN]
@@ -1396,6 +1404,12 @@ ports:
   platform: [linux, macos, windows]
   key: aseprite
   repository: aseprite
+- name: atuin
+  categories: [cli]
+  platform: [linux, macos]
+  color: green
+  key: atuin
+  repository: atuin
 - name: Azure Data Studio
   categories: [code_editor]
   platform: [linux, macos, windows]
@@ -2806,6 +2820,13 @@ ports:
   icon: suckless
   key: st
   repository: st
+- name: Starlight
+  categories: [development]
+  platform: [agnostic]
+  color: mauve
+  icon: astro
+  key: starlight
+  repository: starlight
 - name: Superfile
   categories: [file_manager, cli]
   platform: [android, linux, macos, windows]

@@ -174,6 +174,23 @@ ports:
     - username: sofycat
       url: https://github.com/sofycat
     past-maintainers: []
+- name: atuin
+  categories:
+  - key: cli
+    name: CLI Tools
+    description: Command-line interface utilities that perform specific tasks, ranging
+      from file management to system monitoring.
+    emoji: 🐚
+  platform: [linux, macos]
+  color: green
+  key: atuin
+  repository:
+    name: atuin
+    url: https://github.com/catppuccin/atuin
+    current-maintainers:
+    - username: ruiiiijiiiiang
+      url: https://github.com/ruiiiijiiiiang
+    past-maintainers: []
 - name: Azure Data Studio
   categories:
   - key: code_editor
@@ -4225,6 +4242,23 @@ ports:
     past-maintainers:
     - username: tsjazil
       url: https://github.com/tsjazil
+- name: Starlight
+  categories:
+  - key: development
+    name: Development Tools
+    description: Tools aiding software development, management and distribution.
+    emoji: 💭
+  platform: [agnostic]
+  color: mauve
+  icon: astro
+  key: starlight
+  repository:
+    name: starlight
+    url: https://github.com/catppuccin/starlight
+    current-maintainers:
+    - username: TheOtterlord
+      url: https://github.com/TheOtterlord
+    past-maintainers: []
 - name: Superfile
   categories:
   - key: file_manager
@@ -8843,6 +8877,8 @@ collaborators:
   url: https://github.com/TheExistingOne
 - username: thelooter
   url: https://github.com/thelooter
+- username: TheOtterlord
+  url: https://github.com/TheOtterlord
 - username: tiepp
   url: https://github.com/tiepp
 - username: TimeTravelPenguin
