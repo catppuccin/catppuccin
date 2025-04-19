@@ -32,6 +32,7 @@ export type Key =
   | "news_and_journalism"
   | "note_taking"
   | "notification_daemon"
+  | "package_registry"
   | "photo_and_video"
   | "productivity"
   | "search_engine"
