@@ -840,10 +840,10 @@ ports:
       url: https://github.com/ohxxm
 - name: Docsify
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: documentation_generator
+    name: Documentation Generators
+    description: Tools that help create, manage and visualise documentation.
+    emoji: 📜
   color: green
   icon: docsify
   platform: [agnostic]
@@ -2743,10 +2743,10 @@ ports:
     past-maintainers: []
 - name: mdBook
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: documentation_generator
+    name: Documentation Generators
+    description: Tools that help create, manage and visualise documentation.
+    emoji: 📜
   platform: [agnostic]
   color: text
   icon: mdbook
@@ -4267,10 +4267,10 @@ ports:
       url: https://github.com/tsjazil
 - name: Starlight
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: documentation_generator
+    name: Documentation Generators
+    description: Tools that help create, manage and visualise documentation.
+    emoji: 📜
   platform: [agnostic]
   color: mauve
   icon: astro
@@ -5063,10 +5063,10 @@ ports:
       url: https://github.com/djflan
 - name: VitePress
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: documentation_generator
+    name: Documentation Generators
+    description: Tools that help create, manage and visualise documentation.
+    emoji: 📜
   platform: [agnostic]
   color: blue
   icon: vitepress
@@ -9044,6 +9044,10 @@ categories:
   name: Development Tools
   description: Tools aiding software development, management and distribution.
   emoji: 💭
+- key: documentation_generator
+  name: Documentation Generators
+  description: Tools that help create, manage and visualise documentation.
+  emoji: 📜
 - key: syntax_highlighting
   name: Syntax Highlighting
   description: Tools designed to improve syntax highlighting.

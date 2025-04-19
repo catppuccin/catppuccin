@@ -2096,7 +2096,7 @@ ports:
   key: dmenu
   repository: dmenu
 - name: Docsify
-  categories: [development]
+  categories: [documentation_generator]
   color: green
   icon: docsify
   platform: [agnostic]
@@ -2763,7 +2763,7 @@ ports:
   key: mc
   repository: mc
 - name: mdBook
-  categories: [development]
+  categories: [documentation_generator]
   platform: [agnostic]
   color: text
   icon: mdbook
@@ -3293,7 +3293,7 @@ ports:
   key: st
   repository: st
 - name: Starlight
-  categories: [development]
+  categories: [documentation_generator]
   platform: [agnostic]
   color: mauve
   icon: astro
@@ -3570,7 +3570,7 @@ ports:
   key: visual-studio
   repository: visual-studio
 - name: VitePress
-  categories: [development]
+  categories: [documentation_generator]
   platform: [agnostic]
   color: blue
   icon: vitepress
