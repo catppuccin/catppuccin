@@ -986,6 +986,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [Prism.js](https://github.com/catppuccin/prismjs)
+- [Pygments](https://python.catppuccin.com/docs/catppuccin/extras/pygments.html)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
