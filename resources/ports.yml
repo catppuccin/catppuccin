@@ -371,7 +371,7 @@ ports:
     current-maintainers: [*fruzitent]
   chroma:
     name: Chroma
-    categories: [development, cli]
+    categories: [syntax_highlighting, cli]
     platform: [linux, macos, windows]
     color: text
     upstreamed: true
@@ -393,7 +393,7 @@ ports:
     past-maintainers: [*nekowinston]
   codemirror:
     name: CodeMirror
-    categories: [code_editor]
+    categories: [code_editor, syntax_highlighting]
     platform: [agnostic]
     color: red
     icon: codemirror
@@ -769,7 +769,7 @@ ports:
     current-maintainers: [*BlueFalconHD]
   glamour:
     name: Glamour
-    categories: [cli]
+    categories: [syntax_highlighting, cli]
     platform: [linux, macos]
     color: pink
     current-maintainers: [*sgoudham]
@@ -844,7 +844,7 @@ ports:
     current-maintainers: [*aszecsei]
   highlightjs:
     name: highlight.js
-    categories: [development]
+    categories: [syntax_highlighting]
     platform: [agnostic]
     color: maroon
     links:
@@ -1058,7 +1058,7 @@ ports:
     current-maintainers: [*TheExistingOne]
   ksyntaxhighlighting:
     name: KSyntaxHighlighting (Kate, Kwrite, etc)
-    categories: [code_editor]
+    categories: [syntax_highlighting]
     platform: [linux, macos, windows]
     icon: kde
     color: blue
@@ -1443,7 +1443,7 @@ ports:
     current-maintainers: [*JK-Flip-Flop96]
   prismjs:
     name: Prism.js
-    categories: [development]
+    categories: [syntax_highlighting]
     platform: [agnostic]
     color: text
     current-maintainers: [*uncenter]
@@ -1463,7 +1463,7 @@ ports:
     past-maintainers: [*nekowinston]
   pygments:
     name: Pygments
-    categories: [development]
+    categories: [syntax_highlighting]
     platform: [agnostic]
     url: https://python.catppuccin.com/docs/catppuccin/extras/pygments.html
     color: text
@@ -1654,7 +1654,7 @@ ports:
     current-maintainers: [*sgoudham]
   shiki:
     name: Shiki
-    categories: [development]
+    categories: [syntax_highlighting]
     platform: [agnostic]
     url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
     color: sapphire
@@ -2249,7 +2249,7 @@ ports:
     current-maintainers: [*IAmJafeth]
   zsh-fsh:
     name: ZSH Fast Syntax Highlighting
-    categories: [cli]
+    categories: [syntax_highlighting, cli]
     platform: [linux, macos]
     color: peach
     icon: zsh
@@ -2257,7 +2257,7 @@ ports:
     past-maintainers: [*nekowinston]
   zsh-syntax-highlighting:
     name: zsh-syntax-highlighting
-    categories: [cli]
+    categories: [syntax_highlighting, cli]
     platform: [linux, macos]
     color: peach
     icon: zsh

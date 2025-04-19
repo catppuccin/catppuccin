@@ -926,7 +926,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [JetBrains Fleet](https://github.com/catppuccin/fleet)
 - [JetBrains Icons](https://github.com/catppuccin/jetbrains-icons)
 - [Kakoune](https://github.com/catppuccin/kakoune)
-- [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
 - [Lapce](https://github.com/catppuccin/lapce)
 - [micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
@@ -951,7 +950,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>💭 Development Tools</summary>
 
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
-- [Chroma](https://github.com/catppuccin/chroma)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
 - [crates.io](https://github.com/catppuccin/userstyles/tree/main/styles/crates.io)
 - [daisyUI](https://github.com/catppuccin/daisyui)
@@ -966,7 +964,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Grabify](https://github.com/catppuccin/userstyles/tree/main/styles/grabify)
 - [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
 - [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
-- [highlight.js](https://github.com/catppuccin/highlightjs)
 - [Home Manager Options Search](https://github.com/catppuccin/userstyles/tree/main/styles/home-manager-options-search)
 - [Hoogle](https://github.com/catppuccin/userstyles/tree/main/styles/hoogle)
 - [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
@@ -985,12 +982,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Nixpkgs Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
-- [Prism.js](https://github.com/catppuccin/prismjs)
-- [Pygments](https://python.catppuccin.com/docs/catppuccin/extras/pygments.html)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
-- [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
 - [Starlight](https://github.com/catppuccin/starlight)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
@@ -998,6 +992,20 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [VitePress](https://github.com/catppuccin/vitepress)
 - [VSCord](https://github.com/catppuccin/vscord)
 - [web.dev](https://github.com/catppuccin/userstyles/tree/main/styles/web.dev)
+
+</details>
+<details open>
+<summary>🖍️ Syntax Highlighting</summary>
+
+- [Chroma](https://github.com/catppuccin/chroma)
+- [Glamour](https://github.com/catppuccin/glamour)
+- [highlight.js](https://github.com/catppuccin/highlightjs)
+- [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
+- [Prism.js](https://github.com/catppuccin/prismjs)
+- [Pygments](https://python.catppuccin.com/docs/catppuccin/extras/pygments.html)
+- [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
+- [ZSH Fast Syntax Highlighting](https://github.com/catppuccin/zsh-fsh)
+- [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
 
 </details>
 <details open>
@@ -1032,7 +1040,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [fish shell](https://github.com/catppuccin/fish)
 - [fzf](https://github.com/catppuccin/fzf)
 - [GitUI](https://github.com/catppuccin/gitui)
-- [Glamour](https://github.com/catppuccin/glamour)
 - [k9s](https://github.com/catppuccin/k9s)
 - [lazygit](https://github.com/catppuccin/lazygit)
 - [LSD](https://github.com/catppuccin/lsd)
@@ -1047,8 +1054,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [television](https://github.com/catppuccin/television)
 - [tmux](https://github.com/catppuccin/tmux)
 - [Zellij](https://github.com/catppuccin/zellij)
-- [ZSH Fast Syntax Highlighting](https://github.com/catppuccin/zsh-fsh)
-- [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
 
 </details>
 <details open>
