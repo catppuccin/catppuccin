@@ -954,7 +954,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [crates.io](https://github.com/catppuccin/userstyles/tree/main/styles/crates.io)
 - [daisyUI](https://github.com/catppuccin/daisyui)
 - [docs.rs](https://github.com/catppuccin/userstyles/tree/main/styles/docs.rs)
-- [Docsify](https://github.com/catppuccin/docsify)
 - [egui](https://github.com/catppuccin/egui)
 - [freedesktop.org](https://github.com/catppuccin/userstyles/tree/main/styles/freedesktop)
 - [Fyne](https://github.com/catppuccin/fyne)
@@ -975,7 +974,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [KiCad](https://github.com/catppuccin/kicad)
 - [Learn X in Y Minutes](https://github.com/catppuccin/userstyles/tree/main/styles/learn-x-in-y-minutes)
 - [Matplotlib](https://github.com/catppuccin/python)
-- [mdBook](https://github.com/catppuccin/mdBook)
 - [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
 - [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
 - [NixOS Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
@@ -985,13 +983,20 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
-- [Starlight](https://github.com/catppuccin/starlight)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
-- [VitePress](https://github.com/catppuccin/vitepress)
 - [VSCord](https://github.com/catppuccin/vscord)
 - [web.dev](https://github.com/catppuccin/userstyles/tree/main/styles/web.dev)
+
+</details>
+<details open>
+<summary>📜 Documentation Platforms</summary>
+
+- [Docsify](https://github.com/catppuccin/docsify)
+- [mdBook](https://github.com/catppuccin/mdBook)
+- [Starlight](https://github.com/catppuccin/starlight)
+- [VitePress](https://github.com/catppuccin/vitepress)
 
 </details>
 <details open>

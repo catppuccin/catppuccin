@@ -488,7 +488,7 @@ ports:
     past-maintainers: [*ohxxm]
   docsify:
     name: Docsify
-    categories: [development]
+    categories: [documentation_platform]
     color: green
     icon: docsify
     platform: [agnostic]
@@ -1181,7 +1181,7 @@ ports:
     current-maintainers: [*AdalZanabria]
   mdBook:
     name: mdBook
-    categories: [development]
+    categories: [documentation_platform]
     platform: [agnostic]
     color: text
     icon: mdbook
@@ -1744,7 +1744,7 @@ ports:
     past-maintainers: [*tsjazil]
   starlight:
     name: Starlight
-    categories: [development]
+    categories: [documentation_platform]
     platform: [agnostic]
     color: mauve
     icon: astro
@@ -2038,7 +2038,7 @@ ports:
     past-maintainers: [*djflan]
   vitepress:
     name: VitePress
-    categories: [development]
+    categories: [documentation_platform]
     platform: [agnostic]
     color: blue
     icon: vitepress
