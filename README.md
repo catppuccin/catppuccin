@@ -991,7 +991,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 </details>
 <details open>
-<summary>📜 Documentation Platforms</summary>
+<summary>📜 Documentation Generators</summary>
 
 - [Docsify](https://github.com/catppuccin/docsify)
 - [mdBook](https://github.com/catppuccin/mdBook)

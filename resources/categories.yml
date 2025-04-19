@@ -6,8 +6,8 @@
   name: Development Tools
   description: Tools aiding software development, management and distribution.
   emoji: 💭
-- key: documentation_platform
-  name: Documentation Platforms
+- key: documentation_generator
+  name: Documentation Generators
   description: Tools that help create, manage and visualise documentation.
   emoji: 📜
 - key: syntax_highlighting
