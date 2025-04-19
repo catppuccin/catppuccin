@@ -529,10 +529,10 @@ ports:
     past-maintainers: []
 - name: Chroma
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
   - key: cli
     name: CLI Tools
     description: Command-line interface utilities that perform specific tasks, ranging
@@ -593,6 +593,10 @@ ports:
     description: Tools for writing and editing code, offering syntax highlighting,
       debugging, etc.
     emoji: 👾
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
   platform: [agnostic]
   color: red
   icon: codemirror
@@ -1626,6 +1630,10 @@ ports:
     past-maintainers: []
 - name: Glamour
   categories:
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
   - key: cli
     name: CLI Tools
     description: Command-line interface utilities that perform specific tasks, ranging
@@ -1843,10 +1851,10 @@ ports:
     past-maintainers: []
 - name: highlight.js
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
   platform: [agnostic]
   color: maroon
   links:
@@ -2390,11 +2398,10 @@ ports:
     past-maintainers: []
 - name: KSyntaxHighlighting (Kate, Kwrite, etc)
   categories:
-  - key: code_editor
-    name: Code Editors & IDEs
-    description: Tools for writing and editing code, offering syntax highlighting,
-      debugging, etc.
-    emoji: 👾
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
   platform: [linux, macos, windows]
   icon: kde
   color: blue
@@ -3451,10 +3458,10 @@ ports:
     past-maintainers: []
 - name: Prism.js
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
   platform: [agnostic]
   color: text
   key: prismjs
@@ -3506,6 +3513,22 @@ ports:
     past-maintainers:
     - username: nekowinston
       url: https://github.com/nekowinston
+- name: Pygments
+  categories:
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
+  platform: [agnostic]
+  color: text
+  key: pygments
+  repository:
+    name: pygments
+    url: https://python.catppuccin.com/docs/catppuccin/extras/pygments.html
+    current-maintainers:
+    - username: backwardspy
+      url: https://github.com/backwardspy
+    past-maintainers: []
 - name: PyRadio
   categories:
   - key: music
@@ -4002,10 +4025,10 @@ ports:
     past-maintainers: []
 - name: Shiki
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
   platform: [agnostic]
   color: sapphire
   key: shiki
@@ -5557,6 +5580,10 @@ ports:
     past-maintainers: []
 - name: ZSH Fast Syntax Highlighting
   categories:
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
   - key: cli
     name: CLI Tools
     description: Command-line interface utilities that perform specific tasks, ranging
@@ -5575,6 +5602,10 @@ ports:
       url: https://github.com/nekowinston
 - name: zsh-syntax-highlighting
   categories:
+  - key: syntax_highlighting
+    name: Syntax Highlighting
+    description: Tools designed to improve syntax highlighting.
+    emoji: 🖍️
   - key: cli
     name: CLI Tools
     description: Command-line interface utilities that perform specific tasks, ranging
@@ -9013,6 +9044,10 @@ categories:
   name: Development Tools
   description: Tools aiding software development, management and distribution.
   emoji: 💭
+- key: syntax_highlighting
+  name: Syntax Highlighting
+  description: Tools designed to improve syntax highlighting.
+  emoji: 🖍️
 - key: library
   name: Libraries
   description: Software libraries that implement and expose the Catppuccin palette

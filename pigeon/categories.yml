@@ -7,6 +7,10 @@
   name: Development Tools
   description: Tools aiding software development, management and distribution.
   emoji: 💭
+- key: syntax_highlighting
+  name: Syntax Highlighting
+  description: Tools designed to improve syntax highlighting.
+  emoji: 🖍️
 - key: library
   name: Libraries
   description: Software libraries that implement and expose the Catppuccin palette

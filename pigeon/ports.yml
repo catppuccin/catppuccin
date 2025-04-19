@@ -966,6 +966,9 @@ repositories:
   url: https://github.com/catppuccin/process-compose
   current-maintainers: []
   past-maintainers: [nekowinston]
+- name: pygments
+  url: https://python.catppuccin.com/docs/catppuccin/extras/pygments.html
+  current-maintainers: [backwardspy]
 - name: pyradio
   url: https://github.com/catppuccin/pyradio
   current-maintainers: []
@@ -1521,7 +1524,7 @@ ports:
   key: chatterino2
   repository: chatterino2
 - name: Chroma
-  categories: [development, cli]
+  categories: [syntax_highlighting, cli]
   platform: [linux, macos, windows]
   color: text
   upstreamed: true
@@ -1541,7 +1544,7 @@ ports:
   key: cider
   repository: cider
 - name: CodeMirror
-  categories: [code_editor]
+  categories: [code_editor, syntax_highlighting]
   platform: [agnostic]
   color: red
   icon: codemirror
@@ -1901,7 +1904,7 @@ ports:
   key: gitui
   repository: gitui
 - name: Glamour
-  categories: [cli]
+  categories: [syntax_highlighting, cli]
   platform: [linux, macos]
   color: pink
   key: glamour
@@ -1972,7 +1975,7 @@ ports:
   key: hexchat
   repository: hexchat
 - name: highlight.js
-  categories: [development]
+  categories: [syntax_highlighting]
   platform: [agnostic]
   color: maroon
   links:
@@ -2177,7 +2180,7 @@ ports:
   key: konsole
   repository: konsole
 - name: KSyntaxHighlighting (Kate, Kwrite, etc)
-  categories: [code_editor]
+  categories: [syntax_highlighting]
   platform: [linux, macos, windows]
   icon: kde
   color: blue
@@ -2546,7 +2549,7 @@ ports:
   key: powershell
   repository: powershell
 - name: Prism.js
-  categories: [development]
+  categories: [syntax_highlighting]
   platform: [agnostic]
   color: text
   key: prismjs
@@ -2563,6 +2566,12 @@ ports:
   color: text
   key: process-compose
   repository: process-compose
+- name: Pygments
+  categories: [syntax_highlighting]
+  platform: [agnostic]
+  color: text
+  key: pygments
+  repository: pygments
 - name: PyRadio
   categories: [music]
   platform: [linux, macos, windows]
@@ -2736,7 +2745,7 @@ ports:
   key: sharex
   repository: sharex
 - name: Shiki
-  categories: [development]
+  categories: [syntax_highlighting]
   platform: [agnostic]
   color: sapphire
   key: shiki
@@ -3302,14 +3311,14 @@ ports:
   key: zen-browser
   repository: zen-browser
 - name: ZSH Fast Syntax Highlighting
-  categories: [cli]
+  categories: [syntax_highlighting, cli]
   platform: [linux, macos]
   color: peach
   icon: zsh
   key: zsh-fsh
   repository: zsh-fsh
 - name: zsh-syntax-highlighting
-  categories: [cli]
+  categories: [syntax_highlighting, cli]
   platform: [linux, macos]
   color: peach
   icon: zsh
