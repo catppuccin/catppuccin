@@ -1,6 +1,7 @@
 - key: code_editor
   name: Code Editors & IDEs
-  description: Tools for writing and editing code, offering syntax highlighting, debugging, etc.
+  description: Tools for writing and editing code, offering syntax highlighting, debugging,
+    etc.
   emoji: 👾
 - key: development
   name: Development Tools
@@ -12,19 +13,22 @@
   emoji: 📜
 - key: syntax_highlighting
   name: Syntax Highlighting
-  description: Tools designed to improve syntax highlighting. 
+  description: Tools designed to improve syntax highlighting.
   emoji: 🖍️
 - key: library
   name: Libraries
-  description: Software libraries that implement and expose the Catppuccin palette in a programming language.
+  description: Software libraries that implement and expose the Catppuccin palette
+    in a programming language.
   emoji: 📚
 - key: cli
   name: CLI Tools
-  description: Command-line interface utilities that perform specific tasks, ranging from file management to system monitoring.
+  description: Command-line interface utilities that perform specific tasks, ranging
+    from file management to system monitoring.
   emoji: 🐚
 - key: terminal
   name: Terminals
-  description: Programs providing text-based interfaces to interact with the operating system.
+  description: Programs providing text-based interfaces to interact with the operating
+    system.
   emoji: 🌱
 - key: system
   name: System
@@ -36,19 +40,23 @@
   emoji: 👢
 - key: notification_daemon
   name: Notification Daemons
-  description: Applications that notify the user of desktop events in an asynchronous manner.
+  description: Applications that notify the user of desktop events in an asynchronous
+    manner.
   emoji: 😈
 - key: desktop_environment
   name: Desktop Environments
-  description: Graphical User Interfaces providing a complete experience for interacting with the operating system.
+  description: Graphical User Interfaces providing a complete experience for interacting
+    with the operating system.
   emoji: 🖥️
 - key: window_manager
   name: Window Managers
-  description: Applications that control the placement and appearance of windows in a GUI.
+  description: Applications that control the placement and appearance of windows in
+    a GUI.
   emoji: 🪟
 - key: file_manager
   name: File Managers
-  description: Applications that help users navigate, organize and edit files/directories on a computer.
+  description: Applications that help users navigate, organize and edit files/directories
+    on a computer.
   emoji: 🗂️
 - key: application_launcher
   name: Application Launchers
@@ -60,19 +68,18 @@
   emoji: 🏄
 - key: browser_extension
   name: Browser Extensions
-  description: Add-ons which extend the functionality of web browsers, enhancing the browsing experience.
+  description: Add-ons which extend the functionality of web browsers, enhancing the
+    browsing experience.
   emoji: 🧩
 - key: search_engine
   name: Search Engines
-  description: Websites that enable users to search and retrieve information from the World Wide Web.
+  description: Websites that enable users to search and retrieve information from
+    the World Wide Web.
   emoji: 🔎
-- key: package_registry
-  name: Package Registries
-  description: Websites that host and distribute software packages.
-  emoji: 📦
 - key: translation_tool
   name: Translation Tools
-  description: Applications that help bridge language gaps by translating one language to another.
+  description: Applications that help bridge language gaps by translating one language
+    to another.
   emoji: 🗺️
 - key: wiki
   name: Wikis
@@ -80,7 +87,8 @@
   emoji: 🧠
 - key: photo_and_video
   name: Photo & Video
-  description: Applications that help in capturing, editing, managing, storing, or sharing photos and videos.
+  description: Applications that help in capturing, editing, managing, storing, or
+    sharing photos and videos.
   emoji: 📸
 - key: music
   name: Music
@@ -88,7 +96,8 @@
   emoji: 🎵
 - key: productivity
   name: Productivity
-  description: Applications that make certain tasks or activities more organised and efficient.
+  description: Applications that make certain tasks or activities more organised and
+    efficient.
   emoji: 📖
 - key: email_client
   name: Email Clients
@@ -96,11 +105,13 @@
   emoji: 💌
 - key: game_development
   name: Game Development
-  description: Applications that are designed for creating, designing and building video games.
+  description: Applications that are designed for creating, designing and building
+    video games.
   emoji: 🕹️
 - key: 3d_modelling
   name: 3D Modelling
-  description: Applications that are designed to create and manipulate objects in three-dimensional space.
+  description: Applications that are designed to create and manipulate objects in
+    three-dimensional space.
   emoji: 🖼️
 - key: note_taking
   name: Note Taking
@@ -108,11 +119,13 @@
   emoji: 📝
 - key: education
   name: Education
-  description: Applications that faciliate learning, knowledge acquisition and skill development.
+  description: Applications that faciliate learning, knowledge acquisition and skill
+    development.
   emoji: 🎓
 - key: news_and_journalism
   name: News & Journalism
-  description: Applications related to creating and distributing information about recent events.
+  description: Applications related to creating and distributing information about
+    recent events.
   emoji: 📰
 - key: document_viewer
   name: Document Viewers
@@ -120,11 +133,13 @@
   emoji: 📃
 - key: social_networking
   name: Social Networking
-  description: Applications that bring people together through text, voice, photo and/or video.
+  description: Applications that bring people together through text, voice, photo
+    and/or video.
   emoji: ✨
 - key: discussion_forum
   name: Discussion Forums
-  description: Platforms that allow people to engage in conversation, share information, and discuss various topics.
+  description: Platforms that allow people to engage in conversation, share information,
+    and discuss various topics.
   emoji: 🗣️
 - key: entertainment
   name: Entertainment
@@ -140,10 +155,14 @@
   emoji: 📊
 - key: artificial_intelligence
   name: Artificial Intelligence
-  description: Applications related to machine learning, large language models, and neural networks.
+  description: Applications related to machine learning, large language models, and
+    neural networks.
   emoji: 🤖
 - key: health_and_fitness
   name: Health & Fitness
   description: Applications related to healthy living, fitness, and managing stress.
   emoji: 🏃
-# yaml-language-server: $schema=./categories.schema.json
+- key: userstyle
+  name: Userstyles
+  description: Modified CSS files that can be applied to a website.
+  emoji: 🖌️

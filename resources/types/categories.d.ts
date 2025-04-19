@@ -5,6 +5,9 @@
  * and run json-schema-to-typescript to regenerate this file.
  */
 
+/**
+ * Unique identifier for the category.
+ */
 export type Key =
   | "3d_modelling"
   | "analytics"
@@ -44,8 +47,17 @@ export type Key =
   | "userstyle"
   | "wiki"
   | "window_manager";
+/**
+ * Display name of the category.
+ */
 export type Name = string;
+/**
+ * Detailed description of what the category is.
+ */
 export type Description = string;
+/**
+ * Emoji representing the category.
+ */
 export type Emoji = string;
 /**
  * The categories listed in the README.
