@@ -990,6 +990,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
 - [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
+- [Starlight](https://github.com/catppuccin/starlight)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
