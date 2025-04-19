@@ -52,6 +52,7 @@ export type Category =
   | "productivity"
   | "search_engine"
   | "social_networking"
+  | "syntax_highlighter"
   | "system"
   | "terminal"
   | "translation_tool"
