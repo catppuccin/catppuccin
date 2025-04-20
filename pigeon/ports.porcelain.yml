@@ -6052,10 +6052,10 @@ ports:
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: package_registry
+    name: Package Registries
+    description: Websites that host and distribute software packages.
+    emoji: 📦
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -6504,10 +6504,10 @@ ports:
       url: https://github.com/jn-sena
     past-maintainers: []
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: package_registry
+    name: Package Registries
+    description: Websites that host and distribute software packages.
+    emoji: 📦
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7493,10 +7493,10 @@ ports:
       url: https://github.com/uncenter
     past-maintainers: []
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: package_registry
+    name: Package Registries
+    description: Websites that host and distribute software packages.
+    emoji: 📦
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -7811,10 +7811,10 @@ ports:
       url: https://github.com/trinkey
     past-maintainers: []
   categories:
-  - key: development
-    name: Development Tools
-    description: Tools aiding software development, management and distribution.
-    emoji: 💭
+  - key: package_registry
+    name: Package Registries
+    description: Websites that host and distribute software packages.
+    emoji: 📦
   - key: userstyle
     name: Userstyles
     description: Modified CSS files that can be applied to a website.
@@ -9113,6 +9113,10 @@ categories:
   description: Websites that enable users to search and retrieve information from
     the World Wide Web.
   emoji: 🔎
+- key: package_registry
+  name: Package Registries
+  description: Websites that host and distribute software packages.
+  emoji: 📦
 - key: translation_tool
   name: Translation Tools
   description: Applications that help bridge language gaps by translating one language

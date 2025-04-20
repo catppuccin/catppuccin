@@ -628,7 +628,7 @@ ports:
 - name: crates.io
   key: crates.io
   repository: crates.io
-  categories: [development, userstyle]
+  categories: [package_registry, userstyle]
   platform: [agnostic]
   icon: rust
   color: yellow
@@ -762,7 +762,7 @@ ports:
 - name: Hackage
   key: hackage
   repository: hackage
-  categories: [development, userstyle]
+  categories: [package_registry, userstyle]
   platform: [agnostic]
   icon: haskell
   color: mauve
@@ -1041,7 +1041,7 @@ ports:
 - name: npm
   key: npm
   repository: npm
-  categories: [development, userstyle]
+  categories: [package_registry, userstyle]
   platform: [agnostic]
   icon: npm
   color: red
@@ -1128,7 +1128,7 @@ ports:
 - name: PyPI
   key: pypi
   repository: pypi
-  categories: [development, userstyle]
+  categories: [package_registry, userstyle]
   platform: [agnostic]
   color: sapphire
 - name: PythonAnywhere
