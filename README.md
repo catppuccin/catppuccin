@@ -951,7 +951,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
-- [crates.io](https://github.com/catppuccin/userstyles/tree/main/styles/crates.io)
 - [daisyUI](https://github.com/catppuccin/daisyui)
 - [docs.rs](https://github.com/catppuccin/userstyles/tree/main/styles/docs.rs)
 - [egui](https://github.com/catppuccin/egui)
@@ -962,7 +961,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [go.dev](https://github.com/catppuccin/userstyles/tree/main/styles/go.dev)
 - [Grabify](https://github.com/catppuccin/userstyles/tree/main/styles/grabify)
 - [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
-- [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
 - [Home Manager Options Search](https://github.com/catppuccin/userstyles/tree/main/styles/home-manager-options-search)
 - [Hoogle](https://github.com/catppuccin/userstyles/tree/main/styles/hoogle)
 - [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
@@ -978,9 +976,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
 - [NixOS Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
 - [Nixpkgs Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
-- [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
-- [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
@@ -1230,6 +1226,15 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SearXNG](https://github.com/catppuccin/userstyles/tree/main/styles/searxng)
 - [Startpage](https://github.com/catppuccin/userstyles/tree/main/styles/startpage)
 - [Whoogle](https://github.com/catppuccin/whoogle)
+
+</details>
+<details open>
+<summary>📦 Package Registries</summary>
+
+- [crates.io](https://github.com/catppuccin/userstyles/tree/main/styles/crates.io)
+- [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
+- [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
+- [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 
 </details>
 <details open>
