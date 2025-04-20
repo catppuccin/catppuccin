@@ -66,6 +66,10 @@
   name: Search Engines
   description: Websites that enable users to search and retrieve information from the World Wide Web.
   emoji: 🔎
+- key: package_registry
+  name: Package Registries
+  description: Websites that host and distribute software packages.
+  emoji: 📦
 - key: translation_tool
   name: Translation Tools
   description: Applications that help bridge language gaps by translating one language to another.
