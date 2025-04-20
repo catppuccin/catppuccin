@@ -44,7 +44,7 @@
     "https://deno.land/x/catppuccin_toolbox@deno-lib-v1.1.0/deno-lib/mod.ts": "c72687f31c7267d121441bb872dab08621a679f6b46e59355391b11f8f9dc160",
     "https://deno.land/x/catppuccin_toolbox@deno-lib-v1.1.0/deno-lib/updateReadme.ts": "e349b1c0b2c1d1fc317bbc5b506f733d3c03d48ef26d0d62eafb7cc5141ed492",
     "https://deno.land/x/catppuccin_toolbox@deno-lib-v1.1.0/deno-lib/validateYaml.ts": "b0059c257e4b1ed2471080fa3ae4579e1c9a8eded8e263c61d91dac92101c420",
-    "https://raw.githubusercontent.com/catppuccin/userstyles/37fd16969aaaa9ebaf2de6d9ecd2647fec48e0bb/scripts/userstyles.schema.json": "b7189a6efb6d343418f00f401d7e0966a04f508269d7c4194f57b6300aab0bd3"
+    "https://raw.githubusercontent.com/catppuccin/userstyles/d068d5d4736ae0581ed22eb01fe530673c706df8/scripts/userstyles.schema.json": "b7189a6efb6d343418f00f401d7e0966a04f508269d7c4194f57b6300aab0bd3"
   },
   "workspace": {
     "dependencies": [
