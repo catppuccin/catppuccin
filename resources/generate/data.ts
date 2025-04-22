@@ -10,7 +10,7 @@ import {
 } from "@/types/mod.ts";
 import { join } from "@std/path/join";
 import { MergeExclusive } from "type-fest";
-import { validateJson, validateYaml } from "@/generate/schema.ts";
+import { validateYaml } from "@/generate/schema.ts";
 
 export type MergedPort = MergeExclusive<
   PortsSchema.Port,
