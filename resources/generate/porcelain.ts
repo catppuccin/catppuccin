@@ -147,6 +147,6 @@ export const generatePorcelain = async (
   const root = new URL(".", import.meta.url).pathname;
   await Deno.writeTextFile(
     join(root, "../ports.porcelain.json"),
-    JSON.stringify(porcelain, null, 2),
+    JSON.stringify(porcelain),
   );
 };
