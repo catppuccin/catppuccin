@@ -32,6 +32,7 @@ export type CategoryKey =
   | "development"
   | "discussion_forum"
   | "document_viewer"
+  | "documentation_generator"
   | "education"
   | "email_client"
   | "entertainment"
@@ -44,10 +45,12 @@ export type CategoryKey =
   | "news_and_journalism"
   | "note_taking"
   | "notification_daemon"
+  | "package_registry"
   | "photo_and_video"
   | "productivity"
   | "search_engine"
   | "social_networking"
+  | "syntax_highlighting"
   | "system"
   | "terminal"
   | "translation_tool"
@@ -94,6 +97,10 @@ export type Color =
  * The icon to use on the Catppuccin website.
  */
 export type Icon = string;
+/**
+ * Boolean indicating whether the port has been upstreamed.
+ */
+export type Upstreamed = boolean;
 /**
  * Unique identifier for the port.
  */
@@ -170,6 +177,7 @@ export interface Port {
   platform: Platform;
   color: Color;
   icon?: Icon;
+  upstreamed?: Upstreamed;
   key: Key;
   repository: Repository;
   links?: Links;

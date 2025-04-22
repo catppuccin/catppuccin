@@ -1,4 +1,4 @@
-name: Update README
+name: generate
 
 on:
   workflow_dispatch:
@@ -9,30 +9,25 @@ on:
     paths: ["resources/**"]
 
 jobs:
-  update:
+  data:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
-
       - name: Setup Deno
         uses: nekowinston/setup-deno@v2.0.0
         with:
           deno-json-path: resources/deno.json
           deno-lock-path: resources/deno.lock
           directory: resources
-
-      - name: Update READMEs
-        working-directory: resources/generate
-        run: ./main.ts
-
-      - name: Push changes
+      - name: Generate Data
+        working-directory: resources
+        run: deno task generate
+      - name: Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         # only push once upstreamed
         if: ${{ github.repository == 'catppuccin/catppuccin' && github.ref == 'refs/heads/main' }}
         with:
-          commit_message: "docs(README): re-generate sections"
+          commit_message: "chore: re-generate data"
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           branch: ${{ github.head_ref }}
-
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
