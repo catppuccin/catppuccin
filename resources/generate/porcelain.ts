@@ -19,7 +19,6 @@ import {
   mergePortsAndUserstyles,
 } from "./data";
 import { validateJson } from "./schema";
-import { PortsPorcelainSchema } from "../types/ports.porcelain";
 
 const inflateCollaborators = (
   collaborators:
@@ -140,7 +139,7 @@ export const generatePorcelain = async (
   };
 
   try {
-    await validateJson<PortsPorcelainSchema>(porcelain, portsPorcelainSchema);
+    await validateJson<PorcelainSchema.PortsPorcelainSchema>(porcelain, portsPorcelainSchema);
   } catch (err) {
     console.error("Validation errors:", err);
     throw new Error("Generated porcelain data does not match schema");
