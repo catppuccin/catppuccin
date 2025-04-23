@@ -32,7 +32,7 @@ collaborators:
   - &CallMeEchoCodes CallMeEchoCodes
   - &catb00mer catb00mer
   - &Covkie Covkie
-  - &mbekkomo mbekkomo
+  - &0komo 0komo
   - &Cristhyano Cristhyano
   - &claymorwan claymorwan
   - &coldenate coldenate
@@ -104,7 +104,7 @@ collaborators:
   - &mekb-turtle mekb-turtle
   - &meme8383 meme8383
   - &MikaelFangel MikaelFangel
-  - &Moodzz1 Moodzz1
+  - &mudaranrhiod mudaranrhiod
   - &moseeking moseeking
   - &Mqisty Mqisty
   - &mrdoge515 mrdoge515
@@ -138,7 +138,7 @@ collaborators:
   - &remiposo remiposo
   - &reniivali reniivali
   - &rogeruiz rogeruiz
-  - &riichi67 riichi67
+  - &mollyvita mollyvita
   - &rithikasilva rithikasilva
   - &rubyowo rubyowo
   - &ruiiiijiiiiang ruiiiijiiiiang
@@ -182,7 +182,7 @@ collaborators:
   - &walshyb walshyb
   - &Waxxx333 Waxxx333
   - &WitherCubes WitherCubes
-  - &waterlilly-lilly waterlilly-lilly
+  - &maemachinebroke maemachinebroke
   - &xhayper xhayper
   - &Xurdejl Xurdejl
   - &Zazucki Zazucki
@@ -239,7 +239,7 @@ ports:
     categories: [cli, productivity, development]
     color: text
     platform: [linux, macos, windows]
-    current-maintainers: [*mbekkomo]
+    current-maintainers: [*0komo]
   aseprite:
     name: Aseprite
     categories: [productivity]
@@ -342,7 +342,7 @@ ports:
     color: blue
     icon: discord
     alias: vendetta
-    current-maintainers: [*112cxyz, *Covkie, *Moodzz1, *riichi67]
+    current-maintainers: [*112cxyz, *Covkie, *mudaranrhiod, *mollyvita]
   calibre:
     name: calibre
     categories: [document_viewer, productivity]
@@ -477,7 +477,7 @@ ports:
     categories: [productivity]
     platform: [android]
     color: text
-    current-maintainers: [*mbekkomo]
+    current-maintainers: [*0komo]
   dmenu:
     name: dmenu
     categories: [application_launcher, system]
@@ -554,7 +554,7 @@ ports:
     color: blue
     icon: discord
     alias: vendetta
-    current-maintainers: [*112cxyz, *Covkie, *riichi67, *Moodzz1]
+    current-maintainers: [*112cxyz, *Covkie, *mollyvita, *mudaranrhiod]
   fcitx5:
     name: fcitx5
     categories: [system]
@@ -1042,7 +1042,7 @@ ports:
     categories: [development]
     color: blue
     icon: kicad
-    current-maintainers: [*waterlilly-lilly]
+    current-maintainers: [*maemachinebroke]
   kitty:
     name: kitty
     categories: [terminal]
@@ -1128,7 +1128,7 @@ ports:
     platform: [agnostic]
     color: blue
     icon: lua
-    current-maintainers: [*mbekkomo]
+    current-maintainers: [*0komo]
   lxqt:
     name: LXQt
     categories: [desktop_environment, system]
@@ -1532,7 +1532,7 @@ ports:
     platform: [android]
     color: blue
     icon: gboard.svg
-    current-maintainers: [*Moodzz1]
+    current-maintainers: [*mudaranrhiod]
   refind:
     name: rEFInd
     categories: [boot_loader, system]
@@ -1568,7 +1568,7 @@ ports:
     color: blue
     icon: discord
     alias: vendetta
-    current-maintainers: [*112cxyz, *Covkie, *Moodzz1, *riichi67]
+    current-maintainers: [*112cxyz, *Covkie, *mudaranrhiod, *mollyvita]
   revolt:
     name: Revolt
     categories: [social_networking]
@@ -2007,7 +2007,7 @@ ports:
     platform: [android, ios]
     color: blue
     icon: discord
-    current-maintainers: [*112cxyz, *Covkie, *Moodzz1, *riichi67]
+    current-maintainers: [*112cxyz, *Covkie, *mudaranrhiod, *mollyvita]
   vim:
     name: Vim
     categories: [code_editor, cli]
