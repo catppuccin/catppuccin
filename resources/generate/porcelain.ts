@@ -19,6 +19,7 @@ import {
   mergePortsAndUserstyles,
 } from "./data.ts";
 import { validateJson } from "./schema.ts";
+import { exit } from "process";
 
 const inflateCollaborators = (
   collaborators:
@@ -141,8 +142,8 @@ export const generatePorcelain = async (
   try {
     await validateJson<PorcelainSchema.PortsPorcelainSchema>(porcelain, portsPorcelainSchema);
   } catch (err) {
-    console.error("Validation errors:", err);
-    throw new Error("Generated porcelain data does not match schema");
+    console.error("Validation Errors:", err);
+    exit(1);
   }
 
   const root = path.dirname(fileURLToPath(import.meta.url));
