@@ -1,4 +1,1 @@
-deno_cache/
 node_modules/
-.venv
-__pycache__
