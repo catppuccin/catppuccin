@@ -11,10 +11,9 @@
     "@types/node": "^22.14.1",
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
+    "js-yaml": "^4.1.0",
     "json-schema-to-typescript": "^15.0.4",
-    "tsx": "^4.19.3",
-    "type-fest": "^4.40.0",
-    "yaml": "^2.7.1"
+    "tsx": "^4.19.3"
   },
   "scripts": {
     "types": "sed -i 's|https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/main/resources/categories.schema.json|resources/categories.schema.json|g' resources/ports.schema.json && json2ts -i './resources/*.schema.json' -o ./resources/types && sed -i 's|resources/categories.schema.json|https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/main/resources/categories.schema.json|g' resources/ports.schema.json",

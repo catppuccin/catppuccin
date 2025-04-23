@@ -1,8 +1,6 @@
-import { parse } from "yaml";
-import Ajv, { type Schema, Options, Plugin } from "ajv";
-// https://github.com/ajv-validator/ajv-formats/issues/85
-import ajvFormats, { type FormatsPluginOptions } from "ajv-formats";
-const addFormats = ajvFormats as unknown as Plugin<FormatsPluginOptions>;
+import { load } from "js-yaml";
+import Ajv, { type Schema, Options } from "ajv";
+import addFormats from "ajv-formats";
 
 const validate = <T>(
   data: unknown,
@@ -26,7 +24,7 @@ export const validateYaml = <T>(
   schema: Schema,
   options?: Options
 ): Promise<T> => {
-  return validate(parse(content), schema, options);
+  return validate(load(content), schema, options);
 };
 
 export const validateJson = <T>(

@@ -1,13 +1,13 @@
 import fs from "fs/promises";
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { PortsSchema, UserstylesSchema } from "../types/mod";
+import { PortsSchema, UserstylesSchema } from "../types/mod.ts";
 import {
   determineUrl,
   getCategories,
   MergedPort,
   mergePortsAndUserstyles,
-} from "./data";
+} from "./data.ts";
 
 const updateReadme = (
   readme: string,

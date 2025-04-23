@@ -1,8 +1,7 @@
 import fs from "fs/promises";
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { MergeExclusive } from "type-fest";
-import { validateYaml } from "./schema";
+import { validateYaml } from "./schema.ts";
 
 import portsSchema from "../ports.schema.json" with { type: "json" };
 import categoriesSchema from "../categories.schema.json" with { type: "json" };
@@ -13,7 +12,15 @@ import {
   CategoriesSchema,
   PortsSchema,
   UserstylesSchema,
-} from "../types/mod";
+} from "../types/mod.ts";
+
+// Imported from https://github.com/sindresorhus/type-fest/blob/e3234d74aa12d12f209d942a43d30b3f88301916/source/merge-exclusive.d.ts
+type Without<FirstType, SecondType> = {[KeyType in Exclude<keyof FirstType, keyof SecondType>]?: never};
+
+export type MergeExclusive<FirstType, SecondType> =
+	(FirstType | SecondType) extends object ?
+		(Without<FirstType, SecondType> & SecondType) | (Without<SecondType, FirstType> & FirstType) :
+		FirstType | SecondType;
 
 export type MergedPort = MergeExclusive<
   PortsSchema.Port,

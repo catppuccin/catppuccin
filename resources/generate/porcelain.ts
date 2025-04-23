@@ -9,7 +9,7 @@ import type {
   PorcelainSchema,
   PortsSchema,
   UserstylesSchema,
-} from "../types/mod";
+} from "../types/mod.ts";
 import {
   determineUrl,
   ghProfileUrl,
@@ -17,8 +17,8 @@ import {
   isArchivedPort,
   MergedPort,
   mergePortsAndUserstyles,
-} from "./data";
-import { validateJson } from "./schema";
+} from "./data.ts";
+import { validateJson } from "./schema.ts";
 
 const inflateCollaborators = (
   collaborators:

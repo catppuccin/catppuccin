@@ -20,18 +20,15 @@ importers:
       ajv-formats:
         specifier: ^3.0.1
         version: 3.0.1(ajv@8.17.1)
+      js-yaml:
+        specifier: ^4.1.0
+        version: 4.1.0
       json-schema-to-typescript:
         specifier: ^15.0.4
         version: 15.0.4
       tsx:
         specifier: ^4.19.3
         version: 4.19.3
-      type-fest:
-        specifier: ^4.40.0
-        version: 4.40.0
-      yaml:
-        specifier: ^2.7.1
-        version: 2.7.1
 
 packages:
 
@@ -293,21 +290,12 @@ packages:
     engines: {node: '>=18.0.0'}
     hasBin: true
 
-  type-fest@4.40.0:
-    resolution: {integrity: sha512-ABHZ2/tS2JkvH1PEjxFDTUWC8dB5OsIGZP4IFLhR293GqT5Y5qB1WwL2kMPYhQW9DVgVD8Hd7I8gjwPIf5GFkw==}
-    engines: {node: '>=16'}
-
   undici-types@6.21.0:
     resolution: {integrity: sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==}
 
   userstyles#d068d5d4736ae0581ed22eb01fe530673c706df8@https://codeload.github.com/catppuccin/userstyles/tar.gz/d068d5d4736ae0581ed22eb01fe530673c706df8:
     resolution: {tarball: https://codeload.github.com/catppuccin/userstyles/tar.gz/d068d5d4736ae0581ed22eb01fe530673c706df8}
     version: 0.0.0
-
-  yaml@2.7.1:
-    resolution: {integrity: sha512-10ULxpnOCQXxJvBgxsn9ptjq6uviG/htZKk9veJGhlqn3w/DxQ631zFF+nlQXLwmImeS5amR2dl2U8sg6U9jsQ==}
-    engines: {node: '>= 14'}
-    hasBin: true
 
 snapshots:
 
@@ -506,10 +494,6 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  type-fest@4.40.0: {}
-
   undici-types@6.21.0: {}
 
   userstyles#d068d5d4736ae0581ed22eb01fe530673c706df8@https://codeload.github.com/catppuccin/userstyles/tar.gz/d068d5d4736ae0581ed22eb01fe530673c706df8: {}
-
-  yaml@2.7.1: {}
