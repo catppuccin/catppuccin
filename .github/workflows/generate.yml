@@ -1,0 +1,30 @@
+name: generate
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths: ["resources/**", "package.json", "pnpm-lock.yaml"]
+  pull_request:
+    paths: ["resources/**", "package.json", "pnpm-lock.yaml"]
+
+jobs:
+  data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          cache: pnpm
+          node-version: 22
+      - run: pnpm i --frozen-lockfile
+      - run: pnpm generate
+      - name: Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        # only push once upstreamed
+        if: ${{ github.repository == 'catppuccin/catppuccin' && github.ref == 'refs/heads/main' }}
+        with:
+          commit_message: "chore: re-generate data"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          branch: ${{ github.head_ref }}

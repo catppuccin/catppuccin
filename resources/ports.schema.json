@@ -2,6 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "additionalProperties": false,
+  "required": ["collaborators", "ports", "archived", "showcases"],
   "properties": {
     "collaborators": {
       "$id": "#all-collaborators",
@@ -68,7 +69,7 @@
               "description": "Links to the port on marketplaces, app stores; documentation, preview pages, etc.",
               "type": "array",
               "items": {
-                "$id": "#ports/port/links/item",
+                "$id": "#links/item",
                 "title": "Link",
                 "type": "object",
                 "required": ["name", "url"],
@@ -76,7 +77,7 @@
                 "properties": {
                   "name": {
                     "$id": "#ports/port/links/link/name",
-                    "title": "Name",
+                    "title": "Link Name",
                     "type": "string"
                   },
                   "color": {
@@ -87,7 +88,7 @@
                   },
                   "url": {
                     "$id": "#ports/port/links/link/url",
-                    "title": "URL",
+                    "title": "Link Url",
                     "type": "string"
                   }
                 }
@@ -126,7 +127,7 @@
       "patternProperties": {
         "[A-Za-z0-9_\\-]": {
           "$id": "#archived/port/name",
-          "title": "Port",
+          "title": "Archived Port",
           "type": "object",
           "description": "The GitHub repository name of the archived port.",
           "examples": ["steam"],
@@ -160,29 +161,27 @@
     },
     "showcases": {
       "$id": "#showcases",
-      "title": "Showcases",
       "type": "array",
       "description": "Each showcase listed in the README",
       "items": {
         "$id": "#showcase/item",
-        "title": "Showcase item",
         "type": "object",
         "required": ["title", "link", "description"],
         "additionalProperties": false,
         "properties": {
           "title": {
             "$id": "#showcase/showcase/title",
-            "title": "title",
+            "title": "Showcase Title",
             "type": "string"
           },
           "link": {
             "$id": "#showcase/showcase/link",
-            "title": "Link",
+            "title": "Showcase Link",
             "type": "string"
           },
           "description": {
             "$id": "#showcase/showcase/description",
-            "title": "Link",
+            "title": "Showcase Description",
             "type": "string"
           }
         }

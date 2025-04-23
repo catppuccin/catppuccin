@@ -1,0 +1,378 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "ports",
+    "collaborators",
+    "categories",
+    "showcases",
+    "archived-ports"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "ports": {
+      "$id": "#ports",
+      "type": "array",
+      "description": "All ports in the Catppuccin organisation.",
+      "items": {
+        "$ref": "#/$defs/port"
+      }
+    },
+    "collaborators": {
+      "$ref": "#/$defs/collaborators"
+    },
+    "categories": {
+      "$ref": "#/$defs/categories"
+    },
+    "showcases": {
+      "$id": "#showcases",
+      "type": "array",
+      "description": "Featured projects using Catppuccin.",
+      "items": {
+        "$id": "#showcase",
+        "type": "object",
+        "required": ["title", "description", "link"],
+        "additionalProperties": false,
+        "properties": {
+          "title": {
+            "$id": "#showcase/title",
+            "type": "string",
+            "description": "Name of the project."
+          },
+          "description": {
+            "$id": "#showcase/description",
+            "type": "string",
+            "description": "Brief description of the project."
+          },
+          "link": {
+            "$id": "#showcase/link",
+            "type": "string",
+            "description": "URL of the project.",
+            "format": "uri"
+          }
+        }
+      }
+    },
+    "archived-ports": {
+      "$id": "#/archived-ports",
+      "type": "array",
+      "description": "All archived ports in the Catppuccin organisation.",
+      "items": {
+        "$ref": "#/$defs/archived-port"
+      }
+    }
+  },
+  "$defs": {
+    "port": {
+      "type": "object",
+      "required": [
+        "name",
+        "categories",
+        "platform",
+        "color",
+        "key",
+        "repository"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/name"
+        },
+        "categories": {
+          "$ref": "#/$defs/categories"
+        },
+        "platform": {
+          "$ref": "#/$defs/platform"
+        },
+        "color": {
+          "$ref": "#/$defs/color"
+        },
+        "icon": {
+          "$ref": "#/$defs/icon"
+        },
+        "upstreamed": {
+          "$id": "#upstreamed",
+          "description": "Boolean indicating whether the port has been upstreamed.",
+          "type": "boolean"
+        },
+        "key": {
+          "$ref": "#/$defs/key"
+        },
+        "repository": {
+          "$ref": "#/$defs/repository"
+        },
+        "links": {
+          "$id": "#links",
+          "description": "Links to the port on marketplaces, app stores, documentation, preview pages, etc.",
+          "type": "array",
+          "items": {
+            "$id": "#link",
+            "type": "object",
+            "required": ["name", "url"],
+            "additionalProperties": false,
+            "properties": {
+              "name": {
+                "$id": "#link/name",
+                "type": "string"
+              },
+              "color": {
+                "$ref": "#/$defs/color"
+              },
+              "icon": {
+                "$ref": "#/$defs/icon"
+              },
+              "url": {
+                "$id": "#link/url",
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          }
+        }
+      }
+    },
+    "archived-port": {
+      "type": "object",
+      "required": [
+        "name",
+        "categories",
+        "platform",
+        "color",
+        "key",
+        "repository",
+        "reason"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/name"
+        },
+        "categories": {
+          "$ref": "#/$defs/categories"
+        },
+        "platform": {
+          "$ref": "#/$defs/platform"
+        },
+        "color": {
+          "$ref": "#/$defs/color"
+        },
+        "icon": {
+          "$ref": "#/$defs/icon"
+        },
+        "key": {
+          "$ref": "#/$defs/key"
+        },
+        "repository": {
+          "$ref": "#/$defs/repository"
+        },
+        "reason": {
+          "$id": "#achived-port/reason",
+          "type": "string",
+          "description": "A short summary explaining why the port was archived."
+        }
+      }
+    },
+    "categories": {
+      "$id": "#categories",
+      "type": "array",
+      "description": "Categories that the port belongs to.",
+      "minItems": 1,
+      "items": {
+        "$id": "#category",
+        "type": "object",
+        "required": ["key", "name", "description", "emoji"],
+        "additionalProperties": false,
+        "properties": {
+          "key": {
+            "$id": "#category/key",
+            "description": "Unique identifier for the category.",
+            "type": "string",
+            "$ref": "#/$defs/category-keys"
+          },
+          "name": {
+            "$id": "#category/name",
+            "description": "Display name of the category.",
+            "type": "string"
+          },
+          "description": {
+            "$id": "#category/description",
+            "description": "Detailed description of what the category is.",
+            "type": "string"
+          },
+          "emoji": {
+            "$id": "#category/emoji",
+            "description": "Emoji representing the category.",
+            "type": "string"
+          }
+        }
+      }
+    },
+    "repository": {
+      "$id": "#repository",
+      "type": "object",
+      "description": "Repository information for the port.",
+      "required": ["name", "url", "current-maintainers", "past-maintainers"],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/key"
+        },
+        "url": {
+          "$id": "#repository/url",
+          "type": "string",
+          "description": "URL to the repository.",
+          "format": "uri"
+        },
+        "current-maintainers": {
+          "$id": "#repository/current-maintainers",
+          "type": "array",
+          "description": "List of all active maintainers for this port.",
+          "$ref": "#/$defs/collaborators"
+        },
+        "past-maintainers": {
+          "$id": "#repository/past-maintainers",
+          "type": "array",
+          "description": "List of all maintainers that have previously maintained this port.",
+          "$ref": "#/$defs/collaborators"
+        }
+      }
+    },
+    "collaborators": {
+      "$id": "#collaborators",
+      "type": "array",
+      "description": "List of all collaborators across all Catppuccin ports.",
+      "items": {
+        "$id": "#collaborator",
+        "type": "object",
+        "required": ["username", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "username": {
+            "$id": "#collaborator/username",
+            "type": "string",
+            "description": "GitHub username of the collaborator."
+          },
+          "url": {
+            "$id": "#collaborator/url",
+            "type": "string",
+            "description": "GitHub profile URL of the collaborator.",
+            "format": "uri"
+          }
+        }
+      }
+    },
+    "platform": {
+      "$id": "#platform",
+      "title": "Platform",
+      "description": "The platforms the port supports. Either an array of supported operating systems or \"agnostic\" (indicating support for all platforms).",
+      "oneOf": [
+        {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$id": "#platform/os",
+            "title": "Operating Systems",
+            "type": "string",
+            "enum": ["android", "ios", "linux", "macos", "windows"],
+            "examples": [
+              ["linux", "macos", "windows"],
+              ["android", "ios"]
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["agnostic"]
+          },
+          "minItems": 1,
+          "maxItems": 1
+        }
+      ]
+    },
+    "category-keys": {
+      "$id": "#category-keys",
+      "type": "string",
+      "enum": [
+        "3d_modelling",
+        "analytics",
+        "application_launcher",
+        "artificial_intelligence",
+        "boot_loader",
+        "browser",
+        "browser_extension",
+        "cli",
+        "code_editor",
+        "desktop_environment",
+        "development",
+        "discussion_forum",
+        "document_viewer",
+        "documentation_generator",
+        "education",
+        "email_client",
+        "entertainment",
+        "file_manager",
+        "game",
+        "game_development",
+        "health_and_fitness",
+        "library",
+        "music",
+        "news_and_journalism",
+        "note_taking",
+        "notification_daemon",
+        "package_registry",
+        "photo_and_video",
+        "productivity",
+        "search_engine",
+        "social_networking",
+        "syntax_highlighting",
+        "system",
+        "terminal",
+        "translation_tool",
+        "userstyle",
+        "wiki",
+        "window_manager"
+      ]
+    },
+    "color": {
+      "$id": "#color",
+      "title": "Color",
+      "description": "The fill color for the icon on the Catppuccin website.",
+      "type": "string",
+      "enum": [
+        "rosewater",
+        "flamingo",
+        "pink",
+        "mauve",
+        "red",
+        "maroon",
+        "peach",
+        "yellow",
+        "green",
+        "teal",
+        "sky",
+        "sapphire",
+        "blue",
+        "lavender",
+        "text"
+      ],
+      "examples": ["pink"]
+    },
+    "name": {
+      "$id": "#name",
+      "type": "string",
+      "description": "Display name of the port."
+    },
+    "key": {
+      "$id": "#key",
+      "type": "string",
+      "description": "Unique identifier for the port."
+    },
+    "icon": {
+      "$id": "#/icon",
+      "type": "string",
+      "description": "The icon to use on the Catppuccin website."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@catppuccin/catppuccin",
+  "private": "true",
+  "type": "module",
+  "packageManager": "pnpm@10.9.0",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "devDependencies": {
+    "@catppuccin/userstyles": "github:catppuccin/userstyles#d068d5d4736ae0581ed22eb01fe530673c706df8",
+    "@types/node": "^22.14.1",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "js-yaml": "^4.1.0",
+    "json-schema-to-typescript": "^15.0.4",
+    "tsx": "^4.19.3"
+  },
+  "scripts": {
+    "types": "sed -i 's|https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/main/resources/categories.schema.json|resources/categories.schema.json|g' resources/ports.schema.json && json2ts -i './resources/*.schema.json' -o ./resources/types && sed -i 's|resources/categories.schema.json|https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/main/resources/categories.schema.json|g' resources/ports.schema.json",
+    "generate": "tsx resources/generate/main.ts"
+  }
+}

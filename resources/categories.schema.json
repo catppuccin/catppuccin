@@ -19,22 +19,26 @@
       "key": {
         "$id": "#category-definitions/category/key",
         "title": "key",
+        "description": "Unique identifier for the category.",
         "type": "string",
         "$ref": "#/$defs/category"
       },
       "name": {
         "$id": "#category-definitions/category/name",
         "title": "Name",
+        "description": "Display name of the category.",
         "type": "string"
       },
       "description": {
         "$id": "#category-definitions/category/description",
         "title": "Description",
+        "description": "Detailed description of what the category is.",
         "type": "string"
       },
       "emoji": {
         "$id": "#category-definitions/category/emoji",
         "title": "Emoji",
+        "description": "Emoji representing the category.",
         "type": "string"
       }
     }
