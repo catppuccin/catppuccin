@@ -250,7 +250,7 @@ ports:
   atuin:
     name: atuin
     categories: [cli]
-    platform: [linux, macos] 
+    platform: [linux, macos]
     color: green
     current-maintainers: [*ruiiiijiiiiang]
   azuredatastudio:

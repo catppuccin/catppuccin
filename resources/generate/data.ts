@@ -1,23 +1,26 @@
-import portsSchema from "@/ports.schema.json" with { type: "json" };
-import categoriesSchema from "@/categories.schema.json" with { type: "json" };
-import userstylesSchema from "catppuccin-userstyles/scripts/userstyles.schema.json" with {
+import fs from "fs/promises";
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { MergeExclusive } from "type-fest";
+import { validateYaml } from "./schema";
+
+import portsSchema from "../ports.schema.json" with { type: "json" };
+import categoriesSchema from "../categories.schema.json" with { type: "json" };
+import userstylesSchema from "@catppuccin/userstyles/scripts/userstyles.schema.json" with {
   type: "json",
 };
 import {
   CategoriesSchema,
   PortsSchema,
   UserstylesSchema,
-} from "@/types/mod.ts";
-import { join } from "@std/path/join";
-import { MergeExclusive } from "type-fest";
-import { validateYaml } from "@/generate/schema.ts";
+} from "../types/mod";
 
 export type MergedPort = MergeExclusive<
   PortsSchema.Port,
   UserstylesSchema.Userstyle
 >;
 
-const root = new URL(".", import.meta.url).pathname;
+const root = path.dirname(fileURLToPath(import.meta.url));
 
 export const ghProfileUrl = (username: string): string =>
   `https://github.com/${username}`;
@@ -57,7 +60,7 @@ export const determineUrl = (
 
 export const getPorts = async () => {
   return await validateYaml<PortsSchema.PortsSchema>(
-    await Deno.readTextFile(join(root, "../ports.yml")),
+    await fs.readFile(path.join(root, "../ports.yml"), 'utf-8'),
     portsSchema,
     { schemas: [categoriesSchema] },
   );
@@ -67,8 +70,8 @@ export const getCategories = async () => {
   const categoriesData = await validateYaml<
     CategoriesSchema.CategoryDefinitions
   >(
-    await Deno.readTextFile(join(root, "../categories.yml")),
-    categoriesSchema,
+    await fs.readFile(path.join(root, "../categories.yml"), "utf-8"),
+    categoriesSchema
   );
   // Shim userstyles category data, maybe move to platform later on
   categoriesData.push({

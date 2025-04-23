@@ -1,4 +1,4 @@
-export * as PortsSchema from "@/types/ports.d.ts";
-export * as CategoriesSchema from "@/types/categories.d.ts";
-export * as PorcelainSchema from "@/types/ports.porcelain.d.ts";
-export * as UserstylesSchema from "catppuccin-userstyles/scripts/types/userstyles.d.ts";
+export * as PortsSchema from "./ports";
+export * as CategoriesSchema from "./categories";
+export * as PorcelainSchema from "./ports.porcelain";
+export * as UserstylesSchema from "@catppuccin/userstyles/scripts/types/userstyles";

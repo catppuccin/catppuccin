@@ -1,0 +1,27 @@
+{
+  "name": "@catppuccin/catppuccin",
+  "private": "true",
+  "type": "module",
+  "packageManager": "pnpm@10.9.0",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "devDependencies": {
+    "@catppuccin/userstyles": "github:catppuccin/userstyles#d068d5d4736ae0581ed22eb01fe530673c706df8",
+    "@types/node": "^22.14.1",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "tsx": "^4.19.3",
+    "type-fest": "^4.40.0",
+    "yaml": "^2.7.1"
+  },
+  "scripts": {
+    "schema:local": "sed -i 's|https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/main/resources/categories.schema.json|resources/categories.schema.json|g' resources/ports.schema.json",
+    "schema:remote": "sed -i 's|resources/categories.schema.json|https://raw.githubusercontent.com/catppuccin/catppuccin/refs/heads/main/resources/categories.schema.json|g' resources/ports.schema.json",
+    "types:ports": "pnpm run schema:local && npx json-schema-to-typescript ./resources/ports.schema.json ./resources/types/ports.d.ts && pnpm run schema:remote",
+    "types:categories": "npx json-schema-to-typescript ./resources/categories.schema.json ./resources/types/categories.d.ts",
+    "types:porcelain": "npx json-schema-to-typescript ./resources/ports.porcelain.schema.json ./resources/types/ports.porcelain.d.ts",
+    "types": "pnpm run types:ports && pnpm run types:categories && pnpm run types:porcelain",
+    "generate": "tsx resources/generate/main.ts"
+  }
+}

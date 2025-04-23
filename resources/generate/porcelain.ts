@@ -1,5 +1,7 @@
-import { join } from "@std/path";
-import portsPorcelainSchema from "@/ports.porcelain.schema.json" with {
+import fs from "fs/promises";
+import path from 'path';
+import { fileURLToPath } from 'url';
+import portsPorcelainSchema from "../ports.porcelain.schema.json" with {
   type: "json",
 };
 import type {
@@ -7,7 +9,7 @@ import type {
   PorcelainSchema,
   PortsSchema,
   UserstylesSchema,
-} from "@/types/mod.ts";
+} from "../types/mod";
 import {
   determineUrl,
   ghProfileUrl,
@@ -15,9 +17,9 @@ import {
   isArchivedPort,
   MergedPort,
   mergePortsAndUserstyles,
-} from "@/generate/data.ts";
-import { validateJson } from "@/generate/schema.ts";
-import { PortsPorcelainSchema } from "@/types/ports.porcelain.d.ts";
+} from "./data";
+import { validateJson } from "./schema";
+import { PortsPorcelainSchema } from "../types/ports.porcelain";
 
 const inflateCollaborators = (
   collaborators:
@@ -144,9 +146,9 @@ export const generatePorcelain = async (
     throw new Error("Generated porcelain data does not match schema");
   }
 
-  const root = new URL(".", import.meta.url).pathname;
-  await Deno.writeTextFile(
-    join(root, "../ports.porcelain.json"),
-    JSON.stringify(porcelain),
+  const root = path.dirname(fileURLToPath(import.meta.url));
+  await fs.writeFile(
+    path.join(root, "../ports.porcelain.json"),
+    JSON.stringify(porcelain)
   );
 };

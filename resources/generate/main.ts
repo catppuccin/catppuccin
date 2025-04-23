@@ -1,6 +1,6 @@
-import { generateReadme } from "@/generate/readme.ts";
-import { getCategories, getPorts, getUserstyles } from "@/generate/data.ts";
-import { generatePorcelain } from "@/generate/porcelain.ts";
+import { generateReadme } from "./readme";
+import { getCategories, getPorts, getUserstyles } from "./data";
+import { generatePorcelain } from "./porcelain";
 
 const main = async () => {
   const portsData = await getPorts();
