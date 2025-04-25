@@ -57,6 +57,7 @@ collaborators:
   - &fruzitent fruzitent
   - &g3rhard g3rhard
   - &gabrielmagno gabrielmagno
+  - &Gawidev Gawidev
   - &getchoo getchoo
   - &ghishadow ghishadow
   - &ghostx31 ghostx31
@@ -562,6 +563,12 @@ ports:
     color: text
     current-maintainers: [*kuromedayo]
     past-maintainers: [*ayamir]
+  file-pilot:
+    name: File Pilot
+    categories: [file_manager]
+    platform: [windows]
+    color: sky
+    current-maintainers: [*Gawidev]
   firefox:
     name: Firefox
     categories: [browser]
