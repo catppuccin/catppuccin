@@ -1162,6 +1162,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🗂️ File Managers</summary>
 
+- [File Pilot](https://github.com/catppuccin/file-pilot)
 - [Forklift 4](https://github.com/catppuccin/forklift-4)
 - [Midnight Commander](https://github.com/catppuccin/mc)
 - [MiXplorer](https://github.com/catppuccin/mixplorer)
