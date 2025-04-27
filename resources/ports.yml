@@ -419,7 +419,7 @@ ports:
     categories: [desktop_environment, system]
     platform: [linux]
     color: lavender
-    current-maintainers: [*EdenQwQ]
+    current-maintainers: [*EdenQwQ, *HeitorAugustoLN]
   crt:
     name: cool-retro-term
     categories: [terminal]
