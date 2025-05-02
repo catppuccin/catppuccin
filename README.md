@@ -1490,6 +1490,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [GitHub Readme Stats](https://github.com/catppuccin/github-readme-stats)
 - [GitHub Readme Streak Stats](https://github.com/catppuccin/github-readme-streak-stats)
 - [GitHub Readme Tech Stack](https://github.com/catppuccin/github-readme-tech-stack)
+- [MangoHud](https://github.com/catppuccin/mangohud)
 
 </details>
 <details open>
