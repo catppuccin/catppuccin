@@ -1165,6 +1165,12 @@ ports:
     icon: wayland
     color: yellow
     current-maintainers: [*lokesh-krishna]
+  mangohud:
+    name: MangoHud
+    categories: [analytics, system]
+    platform: [linux]
+    color: text
+    current-maintainers: [*claymorwan]
   matplotlib:
     name: Matplotlib
     categories: [development, analytics]
