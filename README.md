@@ -1213,6 +1213,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Tumblr](https://github.com/catppuccin/tumblr)
 - [Vimium](https://github.com/catppuccin/vimium)
 - [Web File Explorer Icons](https://github.com/catppuccin/web-file-explorer-icons)
+- [Yomitan](https://github.com/catppuccin/yomitan)
 
 </details>
 <details open>
