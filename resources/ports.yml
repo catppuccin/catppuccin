@@ -68,6 +68,7 @@ collaborators:
   - &IAmJafeth IAmJafeth
   - &icy-comet icy-comet
   - &ignamartinoli ignamartinoli
+  - &ImenaOphelia ImenaOphelia
   - &InvitedToHell InvitedToHell
   - &iruzo iruzo
   - &isabelincorp isabelincorp
@@ -2209,6 +2210,12 @@ ports:
     platform: [android, linux, macos, windows]
     color: peach
     current-maintainers: [*uncenter]
+  yomitan:
+    name: Yomitan
+    categories: [browser_extension]
+    platform: [agnostic]
+    color: mauve
+    current-maintainers: [*ImenaOphelia]
   youtubemusic:
     name: YouTube Music
     categories: [music]
