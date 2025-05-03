@@ -433,7 +433,7 @@ ports:
     platform: [linux]
     icon: cursors.svg
     color: text
-    current-maintainers: []
+    current-maintainers: [*Covkie]
     past-maintainers: [*elkrien]
   cutter:
     name: Cutter
