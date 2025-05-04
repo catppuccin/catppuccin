@@ -255,15 +255,6 @@ ports:
     platform: [linux, macos]
     color: green
     current-maintainers: [*ruiiiijiiiiang]
-  azuredatastudio:
-    name: Azure Data Studio
-    categories: [code_editor]
-    platform: [linux, macos, windows]
-    icon: microsoftazure
-    color: blue
-    alias: vscode
-    current-maintainers: [*backwardspy]
-    past-maintainers: [*nekowinston]
   base16:
     name: Base16
     categories: [system]
@@ -2291,6 +2282,13 @@ ports:
     current-maintainers: [*sakkke]
 
 archived:
+  azuredatastudio:
+    name: Azure Data Studio
+    reason: "Azure Data Studio has been retired by Microsoft."
+    categories: [code_editor]
+    platform: [linux, macos, windows]
+    icon: microsoftazure
+    color: blue
   chrome-devtools:
     name: Google Chrome DevTools
     reason: "Chrome has removed the experimental API required for the Catppuccin theme to be loaded."
