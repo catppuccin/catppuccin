@@ -1003,7 +1003,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Chroma](https://github.com/catppuccin/chroma)
 - [Glamour](https://github.com/catppuccin/glamour)
 - [highlight.js](https://github.com/catppuccin/highlightjs)
-- [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
+- [KSyntaxHighlighting](https://github.com/catppuccin/ksyntaxhighlighting)
 - [Prism.js](https://github.com/catppuccin/prismjs)
 - [Pygments](https://python.catppuccin.com/docs/catppuccin/extras/pygments.html)
 - [Shiki](https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode)
