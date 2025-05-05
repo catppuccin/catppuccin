@@ -225,7 +225,7 @@
           "minItems": 1,
           "items": {
             "$id": "#ports/port/platform",
-            "title": "Platforms",
+            "title": "PlatformKey",
             "type": "string",
             "enum": ["android", "ios", "linux", "macos", "windows", "web"],
             "examples": [

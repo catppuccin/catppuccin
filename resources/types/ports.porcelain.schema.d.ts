@@ -70,10 +70,10 @@ export type CategoryDescription = string;
  */
 export type CategoryEmoji = string;
 /**
- * The platforms the port supports. Either an array of supported operating systems or "agnostic" (indicating support for all platforms).
+ * The platforms the port supports. Either an array or "agnostic" (indicating support for all platforms).
  */
-export type Platform = [OperatingSystems, ...OperatingSystems[]] | ["agnostic"];
-export type OperatingSystems = "android" | "ios" | "linux" | "macos" | "windows";
+export type Platform = [PlatformKey, ...PlatformKey[]] | ["agnostic"];
+export type PlatformKey = "android" | "ios" | "linux" | "macos" | "windows" | "web";
 /**
  * The fill color for the icon on the Catppuccin website.
  */
