@@ -911,7 +911,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>👾 Code Editors & IDEs</summary>
 
-- [Azure Data Studio](https://github.com/catppuccin/vscode)
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
 - [CodeMirror](https://github.com/catppuccin/codemirror)
 - [Cutter](https://github.com/catppuccin/cutter)
