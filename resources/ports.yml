@@ -231,7 +231,7 @@ ports:
   anki:
     name: Anki
     categories: [education, productivity]
-    platform: [agnostic]
+    platform: [linux, macos, windows, android, ios, web]
     icon: anki
     color: blue
     current-maintainers: [*AnubisNekhet]
@@ -258,7 +258,7 @@ ports:
   base16:
     name: Base16
     categories: [system]
-    platform: [agnostic]
+    platform: []
     color: text
     current-maintainers: []
     past-maintainers: [*schoblaska]
@@ -387,7 +387,7 @@ ports:
   codemirror:
     name: CodeMirror
     categories: [code_editor, syntax_highlighting]
-    platform: [agnostic]
+    platform: []
     color: red
     icon: codemirror
     current-maintainers: []
@@ -435,7 +435,7 @@ ports:
   daisyui:
     name: daisyUI
     categories: [development]
-    platform: [agnostic]
+    platform: []
     color: mauve
     icon: daisyui
     current-maintainers: [*Liumingxun]
@@ -461,7 +461,7 @@ ports:
   discord:
     name: Discord
     categories: [social_networking]
-    platform: [agnostic]
+    platform: [linux, macos, windows, android, ios, web]
     color: blue
     icon: discord
     current-maintainers: [*rubyowo, *ToxicAven]
@@ -482,7 +482,7 @@ ports:
   docsify:
     name: Docsify
     categories: [documentation_generator]
-    platform: [agnostic]
+    platform: []
     color: green
     icon: docsify
     current-maintainers: [*nik-rev]
@@ -521,14 +521,14 @@ ports:
   element:
     name: Element
     categories: [social_networking]
-    platform: [agnostic]
+    platform: [linux, macos, windows, android, ios, web]
     color: green
     icon: element
     current-maintainers: [*ghostx31]
   elixir:
     name: Elixir
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: lavender
     icon: elixir
     current-maintainers: [*MikaelFangel]
@@ -611,7 +611,7 @@ ports:
   flutter:
     name: Flutter
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: blue
     icon: flutter
     current-maintainers: [*useEffects]
@@ -782,7 +782,7 @@ ports:
   gleam:
     name: Gleam
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: pink
     current-maintainers: [*MAHcodes]
   gnome-terminal:
@@ -796,7 +796,7 @@ ports:
   go:
     name: Go
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: sapphire
     icon: go
     current-maintainers: [*caarlos0, *jolheiser]
@@ -844,7 +844,7 @@ ports:
   highlightjs:
     name: highlight.js
     categories: [syntax_highlighting]
-    platform: [agnostic]
+    platform: []
     color: maroon
     links:
       - name: npm
@@ -950,7 +950,7 @@ ports:
   java:
     name: Java
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: maroon
     current-maintainers: [*sgoudham, *nullishamy]
   jellyfin:
@@ -1071,7 +1071,7 @@ ports:
   latex:
     name: LaTeX
     categories: [library]
-    platform: [agnostic]
+    platform: []
     icon: latex
     color: teal
     current-maintainers: [*walshyb, *atticus-sullivan]
@@ -1124,7 +1124,7 @@ ports:
   lua:
     name: Lua
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: blue
     icon: lua
     current-maintainers: [*0komo]
@@ -1166,7 +1166,7 @@ ports:
   matplotlib:
     name: Matplotlib
     categories: [development, analytics]
-    platform: [agnostic]
+    platform: []
     color: blue
     alias: python
     current-maintainers: [*backwardspy, *brambozz]
@@ -1187,7 +1187,7 @@ ports:
   mdBook:
     name: mdBook
     categories: [documentation_generator]
-    platform: [agnostic]
+    platform: []
     color: text
     icon: mdbook
     current-maintainers: [*sgoudham]
@@ -1301,7 +1301,7 @@ ports:
   nim:
     name: Nim
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: yellow
     icon: nim
     current-maintainers: [*daylinmorgan]
@@ -1394,8 +1394,8 @@ ports:
     past-maintainers: [*isabelroses]
   pantone:
     name: Pantone
-    categories: [library]
-    platform: [agnostic]
+    categories: [development]
+    platform: []
     color: text
     current-maintainers: [*BlueFalconHD]
   papirus-folders:
@@ -1441,8 +1441,8 @@ ports:
     current-maintainers: [*kkrypt0nn]
   powershell:
     name: PowerShell
-    categories: [cli]
-    platform: [agnostic]
+    categories: [development]
+    platform: [linux, macos, windows]
     color: blue
     icon: powershell
     current-maintainers: [*JK-Flip-Flop96]
@@ -1469,7 +1469,7 @@ ports:
   pygments:
     name: Pygments
     categories: [syntax_highlighting]
-    platform: [agnostic]
+    platform: []
     url: https://python.catppuccin.com/docs/catppuccin/extras/pygments.html
     color: text
     current-maintainers: [*backwardspy]
@@ -1483,7 +1483,7 @@ ports:
   python:
     name: Python
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: blue
     icon: python
     current-maintainers: [*backwardspy, *brambozz]
@@ -1554,7 +1554,7 @@ ports:
   remnote:
     name: RemNote
     categories: [note_taking]
-    platform: [agnostic]
+    platform: [linux, macos, windows, android, ios, web]
     color: blue
     current-maintainers: [*coldenate]
     past-maintainers: [*justTOBBI]
@@ -1606,14 +1606,14 @@ ports:
   ruby:
     name: Ruby
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: red
     icon: ruby
     current-maintainers: [*acm-wq]
   rust:
     name: Rust
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: text
     icon: rust
     current-maintainers: [*backwardspy]
@@ -1660,7 +1660,7 @@ ports:
   shiki:
     name: Shiki
     categories: [syntax_highlighting]
-    platform: [agnostic]
+    platform: []
     url: https://github.com/catppuccin/vscode/tree/main/packages/catppuccin-vscode
     color: sapphire
     current-maintainers: [*backwardspy]
@@ -1750,7 +1750,7 @@ ports:
   starlight:
     name: Starlight
     categories: [documentation_generator]
-    platform: [agnostic]
+    platform: []
     color: mauve
     icon: astro
     current-maintainers: [*TheOtterlord]
@@ -1826,7 +1826,7 @@ ports:
   tailwindcss:
     name: Tailwind CSS
     categories: [development]
-    platform: [agnostic]
+    platform: []
     color: sky
     icon: tailwindcss
     links:
@@ -1949,7 +1949,7 @@ ports:
   typst:
     name: Typst
     categories: [library, note_taking]
-    platform: [agnostic]
+    platform: []
     icon: typst
     color: teal
     current-maintainers: [*TimeTravelPenguin]
@@ -1962,7 +1962,7 @@ ports:
   ui:
     name: UI
     categories: [library]
-    platform: [agnostic]
+    platform: []
     icon: react
     color: sky
     links:
@@ -2002,7 +2002,7 @@ ports:
   v:
     name: V
     categories: [library]
-    platform: [agnostic]
+    platform: []
     color: lavender
     icon: v
     current-maintainers: [*Delta456]
@@ -2044,7 +2044,7 @@ ports:
   vitepress:
     name: VitePress
     categories: [documentation_generator]
-    platform: [agnostic]
+    platform: []
     color: blue
     icon: vitepress
     current-maintainers: [*42Willow]
@@ -2314,7 +2314,7 @@ archived:
     name: Matplotlib
     reason: "The package is now included within catppuccin/python, therefore the catppuccin/matplotlib repository has been archived."
     categories: [development, analytics]
-    platform: [agnostic]
+    platform: []
     color: blue
   oldtwitter:
     name: OldTwitter

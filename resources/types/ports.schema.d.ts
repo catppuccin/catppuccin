@@ -61,11 +61,11 @@ export type Category =
   | "userstyle"
   | "wiki"
   | "window_manager";
-/**
- * The platforms the port supports. Either an array or "agnostic" (indicating support for all platforms).
- */
-export type Platform = [PlatformKey, ...PlatformKey[]] | ["agnostic"];
 export type PlatformKey = "android" | "ios" | "linux" | "macos" | "windows" | "web";
+/**
+ * The platforms of the port where Catppuccin can be applied. Set to empty if defining platforms does not make sense for the port. For example, Tailwind CSS isn't restricted by platform. If empty, it will be excluded from the website's platform filters.
+ */
+export type Platform = PlatformKey[];
 /**
  * The fill color for the icon on the Catppuccin website, which should match the color used by Simple Icons. If the icon does not exist in Simple Icons, choose the most suitable color from the branding.
  */
