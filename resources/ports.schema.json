@@ -218,16 +218,16 @@
     "port-platform": {
       "$id": "#port-platform",
       "title": "Platform",
-      "description": "The platforms the port supports. Either an array of supported operating systems or \"agnostic\" (indicating support for all platforms).",
+      "description": "The platforms the port supports. Either an array or \"agnostic\" (indicating support for all platforms).",
       "oneOf": [
         {
           "type": "array",
           "minItems": 1,
           "items": {
-            "$id": "#ports/port/platform/os",
-            "title": "Operating Systems",
+            "$id": "#ports/port/platform",
+            "title": "Platforms",
             "type": "string",
-            "enum": ["android", "ios", "linux", "macos", "windows"],
+            "enum": ["android", "ios", "linux", "macos", "windows", "web"],
             "examples": [
               ["linux", "macos", "windows"],
               ["android", "ios"]
