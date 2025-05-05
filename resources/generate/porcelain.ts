@@ -91,7 +91,7 @@ export const generatePorcelain = async (
     const porcelainPort: PorcelainSchema.Port = {
       name: port.name,
       categories: inflateCategories(port.categories),
-      platform: port.platform ?? ["agnostic"],
+      platform: port.platform ?? ["web"],
       color: port.color,
       key,
       repository: inflateRepository(key, port),
