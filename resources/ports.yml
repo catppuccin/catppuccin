@@ -1056,7 +1056,7 @@ ports:
     color: blue
     current-maintainers: [*TheExistingOne]
   ksyntaxhighlighting:
-    name: KSyntaxHighlighting (Kate, Kwrite, etc)
+    name: KSyntaxHighlighting
     categories: [syntax_highlighting]
     platform: [linux, macos, windows]
     icon: kde
