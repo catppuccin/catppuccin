@@ -990,6 +990,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Docsify](https://github.com/catppuccin/docsify)
 - [mdBook](https://github.com/catppuccin/mdBook)
+- [mdBook](https://github.com/catppuccin/userstyles/tree/main/styles/mdbook)
 - [Starlight](https://github.com/catppuccin/starlight)
 - [VitePress](https://github.com/catppuccin/vitepress)
 
@@ -1252,7 +1253,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🧠 Wikis</summary>
 
 - [Arch Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/arch-wiki)
-- [mdBook](https://github.com/catppuccin/userstyles/tree/main/styles/mdbook)
 - [NixOS Wiki](https://github.com/catppuccin/userstyles/tree/main/styles/wiki.nixos.org)
 - [Wikipedia](https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia)
 - [Wikiwand](https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand)
