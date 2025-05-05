@@ -62,10 +62,10 @@ export type Category =
   | "wiki"
   | "window_manager";
 /**
- * The platforms the port supports. Either an array of supported operating systems or "agnostic" (indicating support for all platforms).
+ * The platforms the port supports. Either an array or "agnostic" (indicating support for all platforms).
  */
-export type Platform = [OperatingSystems, ...OperatingSystems[]] | ["agnostic"];
-export type OperatingSystems = "android" | "ios" | "linux" | "macos" | "windows";
+export type Platform = [PlatformKey, ...PlatformKey[]] | ["agnostic"];
+export type PlatformKey = "android" | "ios" | "linux" | "macos" | "windows" | "web";
 /**
  * The fill color for the icon on the Catppuccin website, which should match the color used by Simple Icons. If the icon does not exist in Simple Icons, choose the most suitable color from the branding.
  */
