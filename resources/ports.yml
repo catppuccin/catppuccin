@@ -345,7 +345,7 @@ ports:
   canva:
     name: Canva
     categories: [photo_and_video]
-    platform: [agnostic]
+    platform: [web]
     color: blue
     icon: canva
     current-maintainers: [*Sebaguardian]
@@ -578,7 +578,7 @@ ports:
   fitbit:
     name: Fitbit
     categories: [health_and_fitness]
-    platform: [agnostic]
+    platform: [android, ios]
     color: teal
     icon: fitbit
     current-maintainers: [*lighttigerXIV]
@@ -856,7 +856,7 @@ ports:
   home-assistant:
     name: Home Assistant
     categories: [productivity]
-    platform: [agnostic]
+    platform: [web]
     icon: homeassistant
     color: blue
     current-maintainers: []
@@ -1561,7 +1561,7 @@ ports:
   replit:
     name: Replit
     categories: [code_editor]
-    platform: [agnostic]
+    platform: [web]
     color: peach
     icon: replit
     current-maintainers: []
@@ -1680,7 +1680,7 @@ ports:
   slack:
     name: Slack
     categories: [social_networking]
-    platform: [agnostic]
+    platform: [linux, macos, windows, android, ios]
     color: mauve
     icon: slack
     current-maintainers: [*sgoudham]
