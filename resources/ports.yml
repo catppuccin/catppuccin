@@ -64,6 +64,7 @@ collaborators:
   - &Gingeh Gingeh
   - &griimick griimick
   - &HeitorAugustoLN HeitorAugustoLN
+  - &husa husa
   - &hyperreal64 hyperreal64
   - &IAmJafeth IAmJafeth
   - &icy-comet icy-comet
@@ -1028,6 +1029,12 @@ ports:
     icon: kde
     current-maintainers: []
     past-maintainers: [*Prayag2, *Sourcastic]
+  keybr:
+    name: keybr.com
+    categories: [productivity, education]
+    platform: [web]
+    color: text
+    current-maintainers: [*husa]
   keynote-slides:
     name: Apple Keynote Slides
     categories: [productivity]
