@@ -1307,6 +1307,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [homepage](https://github.com/catppuccin/userstyles/tree/main/styles/homepage)
 - [inoreader](https://github.com/catppuccin/userstyles/tree/main/styles/inoreader)
+- [keybr.com](https://github.com/catppuccin/keybr)
 - [keybr.com](https://github.com/catppuccin/userstyles/tree/main/styles/keybr.com)
 - [Linear](https://github.com/catppuccin/linear)
 - [Microsoft PowerPoint Slides](https://github.com/catppuccin/powerpoint-slides)
