@@ -784,6 +784,7 @@ ports:
     name: Gleam
     categories: [library]
     platform: []
+    icon: gleam
     color: pink
     current-maintainers: [*MAHcodes]
   gnome-terminal:
