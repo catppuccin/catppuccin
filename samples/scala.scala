@@ -27,7 +27,7 @@ class ScalaClass(x: Int) extends ScalaObject {
     case x => x
   }
   type G = Int
-  val xml = <element attibute="value">data</element>
+  val xml = <element attribute="value">data</element>
 }
 
 /*

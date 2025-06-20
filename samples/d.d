@@ -1,5 +1,5 @@
 /*
- * Some block commments
+ * Some block comments
  * go here
  */
 

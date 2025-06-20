@@ -11,7 +11,7 @@ let
     Generic escape sequence: $''\{literals.number}
     '';
   literals.paths = [/etc/gitconfig ~/.gitconfig .git/config];
-  # Note that unquoted URIs were deperecated by RFC 45
+  # Note that unquoted URIs were deprecated by RFC 45
   literals.uri = https://github.com/NixOS/rfcs/pull/45;
 in {
   inherit (literals) number string1 string2 paths uri;
