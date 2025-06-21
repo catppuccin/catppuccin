@@ -1054,6 +1054,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Starship](https://github.com/catppuccin/starship)
 - [television](https://github.com/catppuccin/television)
 - [tmux](https://github.com/catppuccin/tmux)
+- [vtop](https://github.com/catppuccin/vtop)
 - [Zellij](https://github.com/catppuccin/zellij)
 
 </details>
