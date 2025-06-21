@@ -7,6 +7,7 @@ collaborators:
   - &AdalZanabria AdalZanabria
   - &adamperkowski adamperkowski
   - &AlphaTechnolog AlphaTechnolog
+  - &AlwaysNur AlwaysNur
   - &Askerad Askerad
   - &unseen-ninja unseen-ninja
   - &AngelBerihuete AngelBerihuete
@@ -2098,6 +2099,12 @@ ports:
     platform: [web]
     color: lavender
     current-maintainers: [*Lichthagel]
+  vtop:
+    name: vtop
+    categories: [cli, analytics]
+    platform: [linux, macos]
+    color: text
+    current-maintainers: [*AlwaysNur]
   warp:
     name: Warp
     categories: [terminal]
