@@ -796,6 +796,13 @@ ports:
     icon: gnometerminal
     current-maintainers: [*beacon6]
     past-maintainers: [*nekowinston]
+  gnome-text-editor:
+    name: GNOME Text Editor
+    categories: [code_editor]
+    platform: [linux]
+    color: sky
+    icon: gnome
+    current-maintainers: [*sgoudham]
   go:
     name: Go
     categories: [library]
