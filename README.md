@@ -919,6 +919,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Geany](https://github.com/catppuccin/geany)
 - [Gedit](https://github.com/catppuccin/gedit)
 - [Ghidra](https://github.com/catppuccin/ghidra)
+- [GNOME Text Editor](https://github.com/catppuccin/gnome-text-editor)
 - [Helix](https://github.com/catppuccin/helix)
 - [IDA (Interactive Disassembler)](https://github.com/catppuccin/ida-debugger)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
