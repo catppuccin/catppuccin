@@ -981,6 +981,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PowerShell](https://github.com/catppuccin/powershell)
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
+- [shadcn/ui](https://github.com/catppuccin/shadcn-ui)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
