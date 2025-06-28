@@ -1668,6 +1668,13 @@ ports:
     platform: [linux, macos, windows]
     color: red
     current-maintainers: [*nullishamy]
+  shadcn-ui:
+    name: shadcn/ui
+    categories: [development]
+    platform: []
+    color: text
+    icon: shadcnui
+    current-maintainers: [*Tnixc]
   sharex:
     name: ShareX
     categories: [photo_and_video, productivity]
