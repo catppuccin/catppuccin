@@ -1464,6 +1464,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Jellyfin](https://github.com/catppuccin/jellyfin)
 - [Monkeytype](https://github.com/catppuccin/monkeytype)
 - [Picrew](https://github.com/catppuccin/userstyles/tree/main/styles/picrew)
+- [Supersonic](https://github.com/catppuccin/supersonic)
 - [theme.park](https://github.com/catppuccin/theme.park)
 - [Twitch](https://github.com/catppuccin/userstyles/tree/main/styles/twitch)
 - [YouTube](https://github.com/catppuccin/userstyles/tree/main/styles/youtube)
