@@ -82,7 +82,7 @@ collaborators:
   - &jayylmao jayylmao
   - &JK-Flip-Flop96 JK-Flip-Flop96
   - &jolheiser jolheiser
-  - &jollyDesign jollyDesign
+  - &jolleyDesign jolleyDesign
   - &JoshPaulie JoshPaulie
   - &justleoo justleoo
   - &jtbx jtbx
@@ -567,7 +567,7 @@ ports:
     url: https://www.figma.com/community/file/1520971467277232750
     color: peach
     icon: figma
-    current-maintainers: [*jollyDesign]
+    current-maintainers: [*jolleyDesign]
   file-pilot:
     name: File Pilot
     categories: [file_manager]
