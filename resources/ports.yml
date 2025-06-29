@@ -1585,6 +1585,13 @@ ports:
     color: blue
     current-maintainers: [*coldenate]
     past-maintainers: [*justTOBBI]
+  renoise:
+    name: Renoise
+    categories: [music]
+    platform: [linux, macos, windows]
+    color: red
+    icon: renoise.svg
+    current-maintainers: [*mrtnvgr]
   replit:
     name: Replit
     categories: [code_editor]
