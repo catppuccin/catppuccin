@@ -1323,6 +1323,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Proton](https://github.com/catppuccin/userstyles/tree/main/styles/proton)
 - [qBittorrent](https://github.com/catppuccin/qbittorrent)
 - [Raindrop](https://github.com/catppuccin/userstyles/tree/main/styles/raindrop)
+- [Renoise](https://github.com/catppuccin/renoise)
 - [Rentry.co](https://github.com/catppuccin/userstyles/tree/main/styles/rentry.co)
 - [Scrivener](https://github.com/catppuccin/scrivener)
 - [SpeedCrunch](https://github.com/catppuccin/speedcrunch)
