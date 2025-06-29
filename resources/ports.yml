@@ -1,4 +1,5 @@
 collaborators:
+  - &0komo 0komo
   - &112cxyz 112cxyz
   - &21st-centuryman 21st-centuryman
   - &42Willow 42Willow
@@ -33,12 +34,12 @@ collaborators:
   - &caarlos0 caarlos0
   - &CallMeEchoCodes CallMeEchoCodes
   - &catb00mer catb00mer
-  - &Covkie Covkie
-  - &0komo 0komo
-  - &Cristhyano Cristhyano
+  - &Chippit Chippit
   - &claymorwan claymorwan
   - &coldenate coldenate
   - &comfysage comfysage
+  - &Covkie Covkie
+  - &Cristhyano Cristhyano
   - &Daeraxa Daeraxa
   - &daveedmee daveedmee
   - &daveyholler daveyholler
@@ -1800,6 +1801,12 @@ ports:
     platform: [android, linux, macos, windows]
     color: blue
     current-maintainers: [*MuntasirSZN]
+  supersonic:
+    name: Supersonic
+    categories: [entertainment, music]
+    platform: [linux, macos, windows]
+    color: yellow
+    current-maintainers: [*Chippit]
   stable-diffusion-web-ui:
     name: Stable Diffusion WebUI
     categories: [artificial_intelligence, entertainment]
