@@ -952,6 +952,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
 - [daisyUI](https://github.com/catppuccin/daisyui)
+- [docs.deno.com](https://github.com/catppuccin/userstyles/tree/main/styles/docs.deno.com)
 - [docs.rs](https://github.com/catppuccin/userstyles/tree/main/styles/docs.rs)
 - [egui](https://github.com/catppuccin/egui)
 - [freedesktop.org](https://github.com/catppuccin/userstyles/tree/main/styles/freedesktop)
