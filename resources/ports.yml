@@ -381,7 +381,7 @@ ports:
     platform: [web]
     icon: googlechrome
     color: yellow
-    current-maintainers: []
+    current-maintainers: [*sgoudham]
     past-maintainers: [*elkrien]
   cider:
     name: Cider
