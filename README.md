@@ -985,6 +985,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [shadcn/ui](https://github.com/catppuccin/shadcn-ui)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
+- [UnoCSS](https://github.com/catppuccin/unocss)
 - [Vercel](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
 - [VSCord](https://github.com/catppuccin/vscord)
 - [web.dev](https://github.com/catppuccin/userstyles/tree/main/styles/web.dev)
