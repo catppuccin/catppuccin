@@ -34,6 +34,7 @@ collaborators:
   - &caarlos0 caarlos0
   - &CallMeEchoCodes CallMeEchoCodes
   - &catb00mer catb00mer
+  - &catuhana catuhana
   - &Chippit Chippit
   - &claymorwan claymorwan
   - &coldenate coldenate
@@ -2032,6 +2033,18 @@ ports:
     color: text
     current-maintainers: []
     past-maintainers: [*Gingeh]
+  unocss:
+    name: UnoCSS
+    categories: [development]
+    platform: []
+    color: text
+    icon: unocss
+    current-maintainers: [*catuhana]
+    links:
+      - name: npm
+        icon: npm
+        color: red
+        url: https://www.npmjs.com/package/@catppuccin/unocss
   unreal-engine:
     name: Unreal Engine
     categories: [game_development]
