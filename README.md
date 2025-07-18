@@ -935,6 +935,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Replit](https://github.com/catppuccin/replit)
 - [RStudio](https://github.com/catppuccin/rstudio)
 - [Spyder](https://github.com/catppuccin/spyder)
+- [SQL Server Management Studio](https://github.com/catppuccin/sql-server-management-studio)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
 - [Vim](https://github.com/catppuccin/vim)
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
