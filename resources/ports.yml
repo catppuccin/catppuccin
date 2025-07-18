@@ -154,10 +154,11 @@ collaborators:
   - &sacerd-OS sacerd-OS
   - &SadAlexa SadAlexa
   - &sakkke sakkke
+  - &schoblaska schoblaska
   - &Sebagabones Sebagabones
   - &Sebaguardian Sebaguardian
   - &Sekki21956 Sekki21956
-  - &schoblaska schoblaska
+  - &Sinirlan Sinirlan
   - &sgoudham sgoudham
   - &skinatro skinatro
   - &sofycat sofycat
@@ -1774,6 +1775,12 @@ ports:
     icon: spyderide
     color: red
     current-maintainers: [*meme8383]
+  sql-server-management-studio:
+    name: SQL Server Management Studio
+    categories: [code_editor]
+    platform: [windows]
+    color: text
+    current-maintainers: [*Sinirlan]
   squirrel:
     name: Squirrel (Rime for macOS)
     categories: [productivity]
@@ -1789,25 +1796,6 @@ ports:
     icon: suckless
     current-maintainers: []
     past-maintainers: [*tsjazil]
-  starlight:
-    name: Starlight
-    categories: [documentation_generator]
-    platform: []
-    color: mauve
-    icon: astro
-    current-maintainers: [*TheOtterlord]
-  superfile:
-    name: Superfile
-    categories: [file_manager, cli]
-    platform: [android, linux, macos, windows]
-    color: blue
-    current-maintainers: [*MuntasirSZN]
-  supersonic:
-    name: Supersonic
-    categories: [entertainment, music]
-    platform: [linux, macos, windows]
-    color: yellow
-    current-maintainers: [*Chippit]
   stable-diffusion-web-ui:
     name: Stable Diffusion WebUI
     categories: [artificial_intelligence, entertainment]
@@ -1815,6 +1803,13 @@ ports:
     color: text
     current-maintainers: []
     past-maintainers: [*Kettukaa]
+  starlight:
+    name: Starlight
+    categories: [documentation_generator]
+    platform: []
+    color: mauve
+    icon: astro
+    current-maintainers: [*TheOtterlord]
   starship:
     name: Starship
     categories: [cli]
@@ -1844,6 +1839,18 @@ ports:
     color: yellow
     current-maintainers: []
     past-maintainers: [*asrvd]
+  superfile:
+    name: Superfile
+    categories: [file_manager, cli]
+    platform: [android, linux, macos, windows]
+    color: blue
+    current-maintainers: [*MuntasirSZN]
+  supersonic:
+    name: Supersonic
+    categories: [entertainment, music]
+    platform: [linux, macos, windows]
+    color: yellow
+    current-maintainers: [*Chippit]
   swaylock:
     name: swaylock
     categories: [system]
