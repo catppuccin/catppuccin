@@ -270,7 +270,7 @@
         "$id": "#ports/port/platform",
         "title": "PlatformKey",
         "type": "string",
-        "enum": ["android", "ios", "linux", "macos", "windows", "web"],
+        "enum": ["android", "ios", "linux", "macos", "windows", "web", "xbox360"],
         "examples": [
           ["linux", "macos", "windows"],
           ["android", "ios"]
