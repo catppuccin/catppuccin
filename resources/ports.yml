@@ -1462,6 +1462,12 @@ ports:
     platform: [linux, macos, windows]
     color: red
     current-maintainers: [*coldenate]
+  posting:
+    name: Posting
+    categories: [development]
+    platform: [linux, macos, windows]
+    color: mauve
+    current-maintainers: [*ruiiiijiiiiang]
   powerpoint-slides:
     name: Microsoft PowerPoint Slides
     categories: [productivity]
