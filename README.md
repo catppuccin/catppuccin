@@ -980,6 +980,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Nixpkgs Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
 - [Pantone](https://github.com/catppuccin/pantone)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
+- [Posting](https://github.com/catppuccin/posting)
 - [PowerShell](https://github.com/catppuccin/powershell)
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
