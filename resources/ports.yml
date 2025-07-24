@@ -268,7 +268,7 @@ ports:
     categories: [game, entertainment]
     platform: []
     color: green
-    current-maintainers: [*uncreativexenon, *ozwaldorf]
+    current-maintainers: [*uncreativexenon]
   base16:
     name: Base16
     categories: [system]
