@@ -69,7 +69,7 @@ export type CategoryDescription = string;
  * Emoji representing the category.
  */
 export type CategoryEmoji = string;
-export type PlatformKey = "android" | "ios" | "linux" | "macos" | "windows" | "web" | "xbox360";
+export type PlatformKey = "android" | "ios" | "linux" | "macos" | "windows" | "web";
 /**
  * The platforms of the port where Catppuccin can be applied. Set to empty if defining platforms does not make sense for the port. For example, Tailwind CSS isn't restricted by platform. If empty, it will be excluded from the website's platform filters.
  */
