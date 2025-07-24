@@ -266,7 +266,7 @@ ports:
   aurora:
     name: Aurora Dashboard (Xbox 360)
     categories: [game, entertainment]
-    platform: [xbox360]
+    platform: []
     color: green
     current-maintainers: [*uncreativexenon, *ozwaldorf]
   base16:
