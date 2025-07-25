@@ -35,6 +35,7 @@ collaborators:
   - &CallMeEchoCodes CallMeEchoCodes
   - &catb00mer catb00mer
   - &catuhana catuhana
+  - &Suree33 Suree33
   - &Chippit Chippit
   - &claymorwan claymorwan
   - &coldenate coldenate
@@ -426,6 +427,12 @@ ports:
     platform: [linux, macos]
     color: green
     current-maintainers: [*iruzo]
+  coteditor:
+    name: CotEditor
+    categories: [code_editor]
+    platform: [macos]
+    color: green
+    current-maintainers: [*Suree33]
   cursors:
     name: Cursors
     categories: [system]
