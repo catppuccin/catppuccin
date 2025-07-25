@@ -168,6 +168,7 @@ collaborators:
   - &stellophiliac stellophiliac
   - &stevin-wilson stevin-wilson
   - &Stonks3141 Stonks3141
+  - &Suree33 Suree33
   - &Syndrizzle Syndrizzle
   - &taka0o taka0o
   - &TarunDaCoder TarunDaCoder
@@ -426,6 +427,12 @@ ports:
     platform: [linux, macos]
     color: green
     current-maintainers: [*iruzo]
+  coteditor:
+    name: CotEditor
+    categories: [code_editor]
+    platform: [macos]
+    color: green
+    current-maintainers: [*Suree33]
   cursors:
     name: Cursors
     categories: [system]
