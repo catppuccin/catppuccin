@@ -913,6 +913,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
 - [CodeMirror](https://github.com/catppuccin/codemirror)
+- [CotEditor](https://github.com/catppuccin/coteditor)
 - [Cutter](https://github.com/catppuccin/cutter)
 - [DrRacket](https://github.com/catppuccin/drracket)
 - [Emacs](https://github.com/catppuccin/emacs)
