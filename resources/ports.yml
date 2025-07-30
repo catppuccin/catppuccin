@@ -2436,6 +2436,9 @@ showcases:
   - title: Simple MP
     description: A simple music player based on Material You design.
     link: https://github.com/lighttigerXIV/SimpleMP-Compose
+  - title: Gith
+    description: A simple TUI git helper
+    link: https://github.com/a3chron/gith
   - title: Comfy
     description: A theme for [Spicetify](https://github.com/spicetify/spicetify-cli) with a basic catppuccin color scheme!
     link: https://github.com/Comfy-Themes/Spicetify
