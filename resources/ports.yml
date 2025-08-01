@@ -1,5 +1,6 @@
 collaborators:
   - &0komo 0komo
+  - &0xmayro 0xmayro
   - &112cxyz 112cxyz
   - &21st-centuryman 21st-centuryman
   - &42Willow 42Willow
@@ -1642,7 +1643,7 @@ ports:
     categories: [application_launcher, system]
     platform: [linux]
     color: text
-    current-maintainers: []
+    current-maintainers: [*0xmayro]
     past-maintainers: [*AlphaTechnolog]
   rstudio:
     name: RStudio
