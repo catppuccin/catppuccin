@@ -186,6 +186,7 @@ collaborators:
   - &tsjazil tsjazil
   - &typedrat typedrat
   - &uncenter uncenter
+  - &uncreativexenon UncreativeXenon
   - &useEffects useEffects
   - &ValentinTT ValentinTT
   - &vdbe vdbe
@@ -265,6 +266,12 @@ ports:
     platform: [linux, macos]
     color: green
     current-maintainers: [*ruiiiijiiiiang]
+  aurora:
+    name: Aurora Dashboard (Xbox 360)
+    categories: [game, entertainment]
+    platform: []
+    color: green
+    current-maintainers: [*uncreativexenon]
   base16:
     name: Base16
     categories: [system]
