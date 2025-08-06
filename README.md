@@ -1383,6 +1383,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Anki](https://github.com/catppuccin/anki)
 - [Canvas LMS](https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms)
+- [Desmos](https://github.com/catppuccin/userstyles/tree/main/styles/desmos)
 - [Formative](https://github.com/catppuccin/userstyles/tree/main/styles/formative)
 - [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)
 
@@ -1445,6 +1446,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🗣️ Discussion Forums</summary>
 
+- [DEV Community](https://github.com/catppuccin/userstyles/tree/main/styles/dev.to)
 - [Giscus](https://github.com/catppuccin/giscus)
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
 - [Infinity For Reddit](https://github.com/catppuccin/infinity)
