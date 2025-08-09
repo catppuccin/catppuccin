@@ -97,6 +97,7 @@ collaborators:
   - &kkrypt0nn kkrypt0nn
   - &kuromedayo kuromedayo
   - &lemon-sh lemon-sh
+  - &lewisbirks lewisbirks
   - &lewisakura lewisakura
   - &likendev likendev
   - &lighttigerXIV lighttigerXIV
@@ -992,6 +993,14 @@ ports:
     color: sky
     icon: jellyfin
     current-maintainers: [*adamperkowski, *mxgic1337]
+  jenkins:
+    name: Jenkins
+    categories: [development]
+    platform: [web]
+    url: https://plugins.jenkins.io/catppuccin-theme
+    color: maroon
+    icon: jenkins
+    current-maintainers: [*lewisbirks, *sgoudham]
   jetbrains:
     name: JetBrains
     categories: [code_editor]
