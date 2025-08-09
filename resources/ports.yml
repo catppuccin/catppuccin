@@ -28,6 +28,7 @@ collaborators:
   - &backwardspy backwardspy
   - &bagelwaffle bagelwaffle
   - &BANanaD3V BANanaD3V
+  - &bastaynav bastaynav
   - &beacon6 beacon6
   - &BlueFalconHD BlueFalconHD
   - &brambozz brambozz
@@ -1053,7 +1054,7 @@ ports:
     categories: [system]
     platform: [linux]
     color: text
-    current-maintainers: []
+    current-maintainers: [*bastaynav]
     past-maintainers: [*elkrien]
   kakoune:
     name: Kakoune
