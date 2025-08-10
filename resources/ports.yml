@@ -269,7 +269,7 @@ ports:
     color: green
     current-maintainers: [*ruiiiijiiiiang]
   aurora:
-    name: Aurora Dashboard (Xbox 360)
+    name: Aurora Dashboard
     categories: [game, entertainment]
     platform: []
     color: green
