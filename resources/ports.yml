@@ -273,7 +273,7 @@ ports:
     categories: [game, entertainment]
     platform: []
     color: green
-    current-maintainers: [*uncreativexenon]
+    current-maintainers: [*UncreativeXenon]
   base16:
     name: Base16
     categories: [system]
