@@ -1483,6 +1483,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🎮 Games</summary>
 
 - [Advent Of Code](https://github.com/catppuccin/userstyles/tree/main/styles/advent-of-code)
+- [Aurora Dashboard](https://github.com/catppuccin/aurora)
 - [Bitburner](https://github.com/catppuccin/bitburner)
 - [Chess.com](https://github.com/catppuccin/userstyles/tree/main/styles/chess.com)
 - [Dwarf Fortress](https://github.com/catppuccin/dwarf-fortress)
