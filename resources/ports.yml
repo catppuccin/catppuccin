@@ -1,5 +1,6 @@
 collaborators:
   - &0komo 0komo
+  - &0xmayro 0xmayro
   - &112cxyz 112cxyz
   - &21st-centuryman 21st-centuryman
   - &42Willow 42Willow
@@ -27,6 +28,7 @@ collaborators:
   - &backwardspy backwardspy
   - &bagelwaffle bagelwaffle
   - &BANanaD3V BANanaD3V
+  - &bastaynav bastaynav
   - &beacon6 beacon6
   - &BlueFalconHD BlueFalconHD
   - &brambozz brambozz
@@ -96,6 +98,7 @@ collaborators:
   - &kkrypt0nn kkrypt0nn
   - &kuromedayo kuromedayo
   - &lemon-sh lemon-sh
+  - &lewisbirks lewisbirks
   - &lewisakura lewisakura
   - &likendev likendev
   - &lighttigerXIV lighttigerXIV
@@ -154,10 +157,11 @@ collaborators:
   - &sacerd-OS sacerd-OS
   - &SadAlexa SadAlexa
   - &sakkke sakkke
+  - &schoblaska schoblaska
   - &Sebagabones Sebagabones
   - &Sebaguardian Sebaguardian
   - &Sekki21956 Sekki21956
-  - &schoblaska schoblaska
+  - &Sinirlan Sinirlan
   - &sgoudham sgoudham
   - &skinatro skinatro
   - &sofycat sofycat
@@ -167,6 +171,7 @@ collaborators:
   - &stellophiliac stellophiliac
   - &stevin-wilson stevin-wilson
   - &Stonks3141 Stonks3141
+  - &Suree33 Suree33
   - &Syndrizzle Syndrizzle
   - &taka0o taka0o
   - &TarunDaCoder TarunDaCoder
@@ -432,6 +437,12 @@ ports:
     platform: [linux, macos]
     color: green
     current-maintainers: [*iruzo]
+  coteditor:
+    name: CotEditor
+    categories: [code_editor]
+    platform: [macos]
+    color: green
+    current-maintainers: [*Suree33]
   cursors:
     name: Cursors
     categories: [system]
@@ -674,7 +685,7 @@ ports:
     categories: [productivity]
     platform: [linux, macos, windows]
     color: sapphire
-    current-maintainers: []
+    current-maintainers: [*mark-pitblado]
     past-maintainers: [*isabelroses]
   fuzzel:
     name: Fuzzel
@@ -990,6 +1001,14 @@ ports:
     color: sky
     icon: jellyfin
     current-maintainers: [*adamperkowski, *mxgic1337]
+  jenkins:
+    name: Jenkins
+    categories: [development]
+    platform: [web]
+    url: https://plugins.jenkins.io/catppuccin-theme
+    color: maroon
+    icon: jenkins
+    current-maintainers: [*lewisbirks, *sgoudham]
   jetbrains:
     name: JetBrains
     categories: [code_editor]
@@ -1042,7 +1061,7 @@ ports:
     categories: [system]
     platform: [linux]
     color: text
-    current-maintainers: []
+    current-maintainers: [*bastaynav]
     past-maintainers: [*elkrien]
   kakoune:
     name: Kakoune
@@ -1468,6 +1487,12 @@ ports:
     platform: [linux, macos, windows]
     color: red
     current-maintainers: [*coldenate]
+  posting:
+    name: Posting
+    categories: [development]
+    platform: [linux, macos, windows]
+    color: mauve
+    current-maintainers: [*ruiiiijiiiiang]
   powerpoint-slides:
     name: Microsoft PowerPoint Slides
     categories: [productivity]
@@ -1635,7 +1660,7 @@ ports:
     categories: [application_launcher, system]
     platform: [linux]
     color: text
-    current-maintainers: []
+    current-maintainers: [*0xmayro]
     past-maintainers: [*AlphaTechnolog]
   rstudio:
     name: RStudio
@@ -1781,6 +1806,12 @@ ports:
     icon: spyderide
     color: red
     current-maintainers: [*meme8383]
+  sql-server-management-studio:
+    name: SQL Server Management Studio
+    categories: [code_editor]
+    platform: [windows]
+    color: text
+    current-maintainers: [*Sinirlan]
   squirrel:
     name: Squirrel (Rime for macOS)
     categories: [productivity]
@@ -1796,25 +1827,6 @@ ports:
     icon: suckless
     current-maintainers: []
     past-maintainers: [*tsjazil]
-  starlight:
-    name: Starlight
-    categories: [documentation_generator]
-    platform: []
-    color: mauve
-    icon: astro
-    current-maintainers: [*TheOtterlord]
-  superfile:
-    name: Superfile
-    categories: [file_manager, cli]
-    platform: [android, linux, macos, windows]
-    color: blue
-    current-maintainers: [*MuntasirSZN]
-  supersonic:
-    name: Supersonic
-    categories: [entertainment, music]
-    platform: [linux, macos, windows]
-    color: yellow
-    current-maintainers: [*Chippit]
   stable-diffusion-web-ui:
     name: Stable Diffusion WebUI
     categories: [artificial_intelligence, entertainment]
@@ -1822,6 +1834,13 @@ ports:
     color: text
     current-maintainers: []
     past-maintainers: [*Kettukaa]
+  starlight:
+    name: Starlight
+    categories: [documentation_generator]
+    platform: []
+    color: mauve
+    icon: astro
+    current-maintainers: [*TheOtterlord]
   starship:
     name: Starship
     categories: [cli]
@@ -1851,6 +1870,18 @@ ports:
     color: yellow
     current-maintainers: []
     past-maintainers: [*asrvd]
+  superfile:
+    name: Superfile
+    categories: [file_manager, cli]
+    platform: [android, linux, macos, windows]
+    color: blue
+    current-maintainers: [*MuntasirSZN]
+  supersonic:
+    name: Supersonic
+    categories: [entertainment, music]
+    platform: [linux, macos, windows]
+    color: yellow
+    current-maintainers: [*Chippit]
   swaylock:
     name: swaylock
     categories: [system]

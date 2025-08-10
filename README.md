@@ -913,6 +913,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
 - [CodeMirror](https://github.com/catppuccin/codemirror)
+- [CotEditor](https://github.com/catppuccin/coteditor)
 - [Cutter](https://github.com/catppuccin/cutter)
 - [DrRacket](https://github.com/catppuccin/drracket)
 - [Emacs](https://github.com/catppuccin/emacs)
@@ -935,6 +936,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Replit](https://github.com/catppuccin/replit)
 - [RStudio](https://github.com/catppuccin/rstudio)
 - [Spyder](https://github.com/catppuccin/spyder)
+- [SQL Server Management Studio](https://github.com/catppuccin/sql-server-management-studio)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
 - [Vim](https://github.com/catppuccin/vim)
 - [Visual Studio](https://github.com/catppuccin/visual-studio)
@@ -952,6 +954,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
 - [daisyUI](https://github.com/catppuccin/daisyui)
+- [DevDocs](https://github.com/catppuccin/userstyles/tree/main/styles/devdocs)
 - [docs.deno.com](https://github.com/catppuccin/userstyles/tree/main/styles/docs.deno.com)
 - [docs.rs](https://github.com/catppuccin/userstyles/tree/main/styles/docs.rs)
 - [egui](https://github.com/catppuccin/egui)
@@ -968,6 +971,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [ImHex](https://github.com/catppuccin/imhex)
 - [Insomnia](https://github.com/catppuccin/insomnia)
 - [iSH](https://github.com/catppuccin/ish)
+- [Jenkins](https://plugins.jenkins.io/catppuccin-theme)
 - [JupyterLab](https://github.com/catppuccin/jupyterlab)
 - [Keyoxide](https://github.com/catppuccin/userstyles/tree/main/styles/keyoxide)
 - [KiCad](https://github.com/catppuccin/kicad)
@@ -979,6 +983,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Nixpkgs Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
 - [Pantone](https://github.com/catppuccin/pantone)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
+- [Posting](https://github.com/catppuccin/posting)
 - [PowerShell](https://github.com/catppuccin/powershell)
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
@@ -1379,6 +1384,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Anki](https://github.com/catppuccin/anki)
 - [Canvas LMS](https://github.com/catppuccin/userstyles/tree/main/styles/canvas-lms)
+- [Desmos](https://github.com/catppuccin/userstyles/tree/main/styles/desmos)
 - [Formative](https://github.com/catppuccin/userstyles/tree/main/styles/formative)
 - [Quizlet](https://github.com/catppuccin/userstyles/tree/main/styles/quizlet)
 
@@ -1441,6 +1447,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🗣️ Discussion Forums</summary>
 
+- [DEV Community](https://github.com/catppuccin/userstyles/tree/main/styles/dev.to)
 - [Giscus](https://github.com/catppuccin/giscus)
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
 - [Infinity For Reddit](https://github.com/catppuccin/infinity)

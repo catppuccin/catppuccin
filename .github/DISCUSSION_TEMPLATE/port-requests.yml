@@ -14,8 +14,10 @@ body:
   - type: textarea
     attributes:
       label: How can the suggested port be themed?
-      description: Please link to relevant documentation or other examples of themes
+      description: Link to documentation explaining how to theme the port or other examples of themes
         being applied to the suggested port.
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: Any additional comments?
