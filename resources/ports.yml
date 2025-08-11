@@ -341,6 +341,12 @@ ports:
     color: text
     current-maintainers: []
     past-maintainers: [*nekowinston]
+  broot:
+    name: Broot
+    categories: [file_manager, cli]
+    platform: [linux, macos, windows]
+    color: text
+    current-maintainers: [*ruiiiijiiiiang]
   btop:
     name: btop++
     categories: [cli, analytics]
