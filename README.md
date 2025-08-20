@@ -1173,6 +1173,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🗂️ File Managers</summary>
 
 - [Broot](https://github.com/catppuccin/broot)
+- [eza](https://github.com/catppuccin/eza)
 - [File Pilot](https://github.com/catppuccin/file-pilot)
 - [Forklift 4](https://github.com/catppuccin/forklift-4)
 - [Midnight Commander](https://github.com/catppuccin/mc)
