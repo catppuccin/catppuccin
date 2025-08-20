@@ -15,6 +15,7 @@ collaborators:
   - &unseen-ninja unseen-ninja
   - &AngelBerihuete AngelBerihuete
   - &AnicJov AnicJov
+  - &ankddev ankddev
   - &Anomalocaridid Anomalocaridid
   - &AnubisNekhet AnubisNekhet
   - &AwA-VR AwA-VR
@@ -579,6 +580,12 @@ ports:
     icon: discord
     alias: vendetta
     current-maintainers: [*112cxyz, *Covkie, *mollyvita, *mudaranrhiod]
+  eza:
+    name: eza
+    categories: [file_manager, cli, system]
+    platform: [linux, macos, windows]
+    color: green
+    current-maintainers: [*ankddev]
   fcitx5:
     name: fcitx5
     categories: [system]
