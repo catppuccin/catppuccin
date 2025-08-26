@@ -2500,4 +2500,7 @@ showcases:
   - title: ccrs
     description: A simple yet highly configurable set of widgets for Rainmeter.
     link: https://github.com/336conaN/ccrs
+  - title: vivid
+    description: A themeable generator for the `LS_COLORS` environment variable that controls the colorized output of many CLI tools.
+    link: https://github.com/sharkdp/vivid
 # yaml-language-server: $schema=./ports.schema.json
