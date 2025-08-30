@@ -181,6 +181,7 @@ collaborators:
   - &TheExistingOne TheExistingOne
   - &thelooter thelooter
   - &TheOtterlord TheOtterlord
+  - &thislooksfun thislooksfun
   - &tiepp tiepp
   - &TimeTravelPenguin TimeTravelPenguin
   - &Tnixc Tnixc
@@ -913,7 +914,7 @@ ports:
     platform: [web]
     icon: homeassistant
     color: blue
-    current-maintainers: []
+    current-maintainers: [*thislooksfun]
     past-maintainers: [*fapfaff]
   hyper:
     name: Hyper
