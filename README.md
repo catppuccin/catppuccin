@@ -1339,6 +1339,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Squirrel (Rime for macOS)](https://github.com/catppuccin/squirrel)
 - [tldraw](https://github.com/catppuccin/userstyles/tree/main/styles/tldraw)
 - [Vikunja](https://github.com/catppuccin/userstyles/tree/main/styles/vikunja)
+- [Zen Browser Docs](https://github.com/catppuccin/userstyles/tree/main/styles/zen-browser-docs)
 
 </details>
 <details open>
