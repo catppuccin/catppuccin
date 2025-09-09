@@ -141,9 +141,10 @@ collaborators:
   - &ozwaldorf ozwaldorf
   - &PanAeon PanAeon
   - &Paracetamol56 Paracetamol56
+  - &Prayag2 Prayag2
+  - &phntxx phntxx
   - &pocco81 pocco81
   - &prateektade prateektade
-  - &Prayag2 Prayag2
   - &prazdevs prazdevs
   - &pspiagicw pspiagicw
   - &quentinguidee quentinguidee
@@ -1936,6 +1937,12 @@ ports:
         url: https://www.npmjs.com/package/@catppuccin/tailwindcss
     current-maintainers: []
     past-maintainers: [*nekowinston]
+  tangara:
+    name: Tangara
+    categories: [music, system]
+    platform: []
+    color: mauve
+    current-maintainers: [*phntxx]
   telegram:
     name: Telegram
     categories: [social_networking]
