@@ -1299,6 +1299,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Spotify Web](https://github.com/catppuccin/userstyles/tree/main/styles/spotify-web)
 - [spotify-player](https://github.com/catppuccin/spotify-player)
 - [Symfonium](https://github.com/catppuccin/symfonium)
+- [Tangara](https://github.com/catppuccin/tangara)
 - [YouTube Music](https://github.com/catppuccin/youtubemusic)
 
 </details>
