@@ -2508,4 +2508,7 @@ showcases:
   - title: ccrs
     description: A simple yet highly configurable set of widgets for Rainmeter.
     link: https://github.com/336conaN/ccrs
+  - title: Gith
+    description: A simple TUI git helper
+    link: https://github.com/a3chron/gith
 # yaml-language-server: $schema=./ports.schema.json
