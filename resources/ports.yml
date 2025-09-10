@@ -2505,7 +2505,4 @@ showcases:
   - title: Catppuccin Startpage
     description: Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages
     link: https://github.com/pivoshenko/catppuccin-startpage
-  - title: ccrs
-    description: A simple yet highly configurable set of widgets for Rainmeter.
-    link: https://github.com/336conaN/ccrs
 # yaml-language-server: $schema=./ports.schema.json
