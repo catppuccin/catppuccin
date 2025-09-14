@@ -1561,7 +1561,6 @@ If you're making an application or tool using our palette, please let us know by
 - [Catbbrew](https://catbbrew.com/) - Easily create your own Catppuccin flavors.
 - [Tomatillo Timer](https://timer.flotes.app/?theme=mocha) - A modern pomodoro timer that syncs to your music
 - [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages
-- [ccrs](https://github.com/336conaN/ccrs) - A simple yet highly configurable set of widgets for Rainmeter.
 - [Gith](https://github.com/a3chron/gith) - A simple TUI git helper
 <!-- AUTOGEN:SHOWCASE END -->
 
