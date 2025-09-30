@@ -146,6 +146,16 @@
     </td>
   </tr>
   <tr>
+    <td>On Accent</td>
+    <td>Base</td>
+    <td>
+      <img src="../assets/palette/circles/latte_base.png" height="15" width="16"/>
+      <img src="../assets/palette/circles/frappe_base.png" height="15" width="16"/>
+      <img src="../assets/palette/circles/macchiato_base.png" height="15" width="16"/>
+      <img src="../assets/palette/circles/mocha_base.png" height="15" width="16"/>
+    </td>
+  </tr>
+  <tr>
     <td>Links, URLs</td>
     <td>Blue</td>
     <td>
