@@ -978,6 +978,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Learn X in Y Minutes](https://github.com/catppuccin/userstyles/tree/main/styles/learn-x-in-y-minutes)
 - [Matplotlib](https://github.com/catppuccin/python)
 - [MDN](https://github.com/catppuccin/userstyles/tree/main/styles/mdn)
+- [neovim.io](https://github.com/catppuccin/userstyles/tree/main/styles/neovim.io)
 - [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/vercel)
 - [NixOS Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
 - [Nixpkgs Manual](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-manual)
