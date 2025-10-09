@@ -117,7 +117,7 @@ collaborators:
   - &mekb-turtle mekb-turtle
   - &meme8383 meme8383
   - &MikaelFangel MikaelFangel
-  - &mudaranrhiod mudaranrhiod
+  - &mudrhiod mudrhiod
   - &moseeking moseeking
   - &Mqisty Mqisty
   - &mrdoge515 mrdoge515
@@ -363,7 +363,7 @@ ports:
     color: blue
     icon: discord
     alias: vendetta
-    current-maintainers: [*112cxyz, *Covkie, *mudaranrhiod, *mollyvita]
+    current-maintainers: [*112cxyz, *Covkie, *mudrhiod, *mollyvita]
   calibre:
     name: calibre
     categories: [document_viewer, productivity]
@@ -581,7 +581,7 @@ ports:
     color: blue
     icon: discord
     alias: vendetta
-    current-maintainers: [*112cxyz, *Covkie, *mollyvita, *mudaranrhiod]
+    current-maintainers: [*112cxyz, *Covkie, *mollyvita, *mudrhiod]
   eza:
     name: eza
     categories: [file_manager, cli, system]
@@ -1613,7 +1613,7 @@ ports:
     platform: [android]
     color: blue
     icon: gboard.svg
-    current-maintainers: [*mudaranrhiod]
+    current-maintainers: [*mudrhiod]
   refind:
     name: rEFInd
     categories: [boot_loader, system]
@@ -1655,7 +1655,7 @@ ports:
     color: blue
     icon: discord
     alias: vendetta
-    current-maintainers: [*112cxyz, *Covkie, *mudaranrhiod, *mollyvita]
+    current-maintainers: [*112cxyz, *Covkie, *mudrhiod, *mollyvita]
   revolt:
     name: Revolt
     categories: [social_networking]
@@ -2131,7 +2131,7 @@ ports:
     platform: [android, ios]
     color: blue
     icon: discord
-    current-maintainers: [*112cxyz, *Covkie, *mudaranrhiod, *mollyvita]
+    current-maintainers: [*112cxyz, *Covkie, *mudrhiod, *mollyvita]
   vim:
     name: Vim
     categories: [code_editor, cli]
