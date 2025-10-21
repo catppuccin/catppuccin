@@ -2502,6 +2502,9 @@ showcases:
   - title: Tomatillo Timer
     description: A modern pomodoro timer that syncs to your music
     link: https://timer.flotes.app/?theme=mocha
+  - title: Bookbank
+    description: The audiobook and podcast media server solution.
+    link: https://github.com/alwaysnur/bookbank
   - title: Catppuccin Startpage
     description: Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages
     link: https://github.com/pivoshenko/catppuccin-startpage
