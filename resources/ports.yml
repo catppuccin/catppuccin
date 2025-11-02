@@ -2463,6 +2463,9 @@ archived:
     icon: steam
 
 showcases:
+  - title: Bookbank
+    description: A self-hosted audiobook and podcast media server.
+    link: https://github.com/alwaysnur/bookbank 
   - title: flotes.app
     description: A free note-taking app enhanced with flashcard features.
     link: https://flotes.app/
@@ -2502,9 +2505,6 @@ showcases:
   - title: Tomatillo Timer
     description: A modern pomodoro timer that syncs to your music
     link: https://timer.flotes.app/?theme=mocha
-  - title: Bookbank
-    description: The audiobook and podcast media server solution.
-    link: https://github.com/alwaysnur/bookbank
   - title: Catppuccin Startpage
     description: Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages
     link: https://github.com/pivoshenko/catppuccin-startpage
