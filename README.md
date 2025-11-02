@@ -1563,6 +1563,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Tomatillo Timer](https://timer.flotes.app/?theme=mocha) - A modern pomodoro timer that syncs to your music
 - [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages
 - [Gith](https://github.com/a3chron/gith) - A simple TUI git helper
+- [n-recipe](https://play.google.com/store/apps/details?id=com.a3chron.nrecipe) - Recipe book for Android with Catppuccin & Material You themes
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
