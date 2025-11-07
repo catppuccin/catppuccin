@@ -1072,6 +1072,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <summary>🌱 Terminals</summary>
 
 - [Alacritty](https://github.com/catppuccin/alacritty)
+- [alacritty.org](https://github.com/catppuccin/userstyles/tree/main/styles/alacritty.org)
 - [Black Box](https://github.com/catppuccin/blackbox)
 - [Blink](https://github.com/catppuccin/blink)
 - [Contour](https://github.com/catppuccin/contour)
