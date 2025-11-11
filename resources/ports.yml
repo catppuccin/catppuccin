@@ -68,7 +68,7 @@ collaborators:
   - &Gawidev Gawidev
   - &getchoo getchoo
   - &ghishadow ghishadow
-  - &ghostx31 ghostx31
+  - &spookyintheam spookyintheam
   - &Gingeh Gingeh
   - &griimick griimick
   - &HeitorAugustoLN HeitorAugustoLN
@@ -89,7 +89,6 @@ collaborators:
   - &jolheiser jolheiser
   - &jolleyDesign jolleyDesign
   - &JoshPaulie JoshPaulie
-  - &justleoo justleoo
   - &jtbx jtbx
   - &JustLetterV JustLetterV
   - &justTOBBI justTOBBI
@@ -114,7 +113,7 @@ collaborators:
   - &MatthiasPortzel MatthiasPortzel
   - &mbaklor mbaklor
   - &mbeckrich mbeckrich
-  - &mekb-turtle mekb-turtle
+  - &sophuric sophuric
   - &meme8383 meme8383
   - &MikaelFangel MikaelFangel
   - &mudrhiod mudrhiod
@@ -290,7 +289,7 @@ ports:
     platform: [linux, macos, windows]
     icon: bat
     color: blue
-    current-maintainers: [*ghostx31]
+    current-maintainers: [*spookyintheam]
     past-maintainers: [*nekowinston]
   bemenu:
     name: bemenu
@@ -558,7 +557,7 @@ ports:
     platform: [linux, macos, windows, android, ios, web]
     color: green
     icon: element
-    current-maintainers: [*ghostx31]
+    current-maintainers: [*spookyintheam]
   elixir:
     name: Elixir
     categories: [library]
@@ -622,7 +621,7 @@ ports:
     platform: [linux, macos]
     color: green
     icon: fishshell
-    current-maintainers: [*ghostx31, *backwardspy]
+    current-maintainers: [*spookyintheam, *backwardspy]
   fitbit:
     name: Fitbit
     categories: [health_and_fitness]
@@ -675,7 +674,7 @@ ports:
     categories: [document_viewer, productivity]
     platform: [linux]
     color: teal
-    current-maintainers: [*ghostx31]
+    current-maintainers: [*spookyintheam]
   foot:
     name: foot
     categories: [terminal]
@@ -1055,7 +1054,7 @@ ports:
     platform: [linux, macos, windows]
     color: blue
     icon: joplin
-    current-maintainers: [*ghostx31]
+    current-maintainers: [*spookyintheam]
   jupyterlab:
     name: JupyterLab
     categories: [development, analytics]
@@ -1170,7 +1169,7 @@ ports:
     categories: [boot_loader, system]
     platform: [linux]
     color: mauve
-    current-maintainers: [*mekb-turtle]
+    current-maintainers: [*sophuric]
   linear:
     name: Linear
     categories: [productivity]
@@ -1877,7 +1876,7 @@ ports:
     color: yellow
     icon: sublimetext
     current-maintainers: [*MatthiasPortzel]
-    past-maintainers: [*ghostx31]
+    past-maintainers: [*spookyintheam]
   sumatra-pdf:
     name: SumatraPDF
     categories: [document_viewer, productivity]
@@ -2052,7 +2051,7 @@ ports:
     categories: [terminal]
     platform: [linux]
     color: text
-    current-maintainers: [*justleoo]
+    current-maintainers: []
   typst:
     name: Typst
     categories: [library, note_taking]
@@ -2190,7 +2189,7 @@ ports:
         color: blue
         url: https://open-vsx.org/extension/Catppuccin/catppuccin-vsc
     current-maintainers: [*backwardspy, *sgoudham]
-    past-maintainers: [*ghostx31, *VictorTennekes, *nekowinston]
+    past-maintainers: [*spookyintheam, *VictorTennekes, *nekowinston]
   vscode-icons:
     name: Visual Studio Code Icons
     categories: [code_editor]
