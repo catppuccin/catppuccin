@@ -155,7 +155,6 @@ collaborators:
   - &rithikasilva rithikasilva
   - &rubyowo rubyowo
   - &ruiiiijiiiiang ruiiiijiiiiang
-  - &sacerd-OS sacerd-OS
   - &SadAlexa SadAlexa
   - &sakkke sakkke
   - &schoblaska schoblaska
@@ -732,7 +731,7 @@ ports:
     categories: [code_editor]
     platform: [linux]
     color: text
-    current-maintainers: [*sacerd-OS]
+    current-maintainers: []
   gh-dash:
     name: gh-dash
     categories: [productivity]
