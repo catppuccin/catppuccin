@@ -2508,7 +2508,7 @@ showcases:
     link: https://github.com/a3chron/gith
   - title: n-recipe
     description: Recipe book for Android with Catppuccin & Material You themes
-    link: https://play.google.com/store/apps/details?id=com.a3chron.nrecipe
+    link: https://play.google.com/store/apps/details?id=com.a3chron.nrecipe&utm_source=catppuccin
   - title: Bookbank
     description: A self-hosted audiobook and podcast media server.
     link: https://github.com/alwaysnur/bookbank
