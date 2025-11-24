@@ -106,6 +106,7 @@ collaborators:
   - &LudoPinelli LudoPinelli
   - &Lichthagel Lichthagel
   - &Liumingxun Liumingxun
+  - &Luna-Terra-CG Luna-Terra-CG
   - &M3nny M3nny
   - &MAHcodes MAHcodes
   - &mainrs mainrs
@@ -1867,7 +1868,7 @@ ports:
     platform: [linux]
     color: blue
     icon: steamdeck
-    current-maintainers: [*soradotwav, *ozwaldorf]
+    current-maintainers: [*soradotwav, *ozwaldorf, *Luna-Terra-CG]
   sublime-text:
     name: Sublime Text
     categories: [code_editor]
