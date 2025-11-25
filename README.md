@@ -1521,6 +1521,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [ChatGPT](https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt)
 - [Claude](https://github.com/catppuccin/userstyles/tree/main/styles/claude)
+- [Gemini CLI](https://github.com/catppuccin/gemini-cli)
 - [Google Gemini](https://github.com/catppuccin/userstyles/tree/main/styles/google-gemini)
 - [InvokeAI](https://github.com/catppuccin/userstyles/tree/main/styles/invokeai)
 - [Ollama](https://github.com/catppuccin/userstyles/tree/main/styles/ollama)
