@@ -197,6 +197,7 @@ collaborators:
   - &VictorTennekes VictorTennekes
   - &vollowx vollowx
   - &walshyb walshyb
+  - &WalkQuackBack WalkQuackBack
   - &Waxxx333 Waxxx333
   - &WitherCubes WitherCubes
   - &maemachinebroke maemachinebroke
@@ -733,6 +734,13 @@ ports:
     platform: [linux]
     color: text
     current-maintainers: []
+  gemini-cli:
+    name: Gemini CLI
+    categories: [artificial_intelligence, cli]
+    platform: [linux, macos, windows]
+    color: mauve
+    icon: googlegemini
+    current-maintainers: [*WalkQuackBack]
   gh-dash:
     name: gh-dash
     categories: [productivity]
