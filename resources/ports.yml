@@ -2521,4 +2521,7 @@ showcases:
   - title: Bookbank
     description: A self-hosted audiobook and podcast media server.
     link: https://github.com/alwaysnur/bookbank
+  - title: Catppuccin Palette Picker
+    description: A VS Code extension to easily reference and copy Catppuccin colors directly from the editor.
+    link: https://github.com/lily-gh/catppuccin-palette-picker
 # yaml-language-server: $schema=./ports.schema.json
