@@ -2521,4 +2521,7 @@ showcases:
   - title: Bookbank
     description: A self-hosted audiobook and podcast media server.
     link: https://github.com/alwaysnur/bookbank
+  - title: Mega Hack
+    description: A paid Geometry Dash modding tool designed to seamlessly integrate with the game itself.
+    link: https://absolllute.com/store/mega_hack
 # yaml-language-server: $schema=./ports.schema.json
