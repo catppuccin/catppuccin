@@ -132,6 +132,7 @@ collaborators:
   - &NickSquiggles NickSquiggles
   - &nik-rev nik-rev
   - &NikSneMC NikSneMC
+  - &ninetailedtori NineTailedTori
   - &nullchilly nullchilly
   - &nullishamy nullishamy
   - &nyxkrage nyxkrage
@@ -290,7 +291,7 @@ ports:
     platform: [linux, macos, windows]
     icon: bat
     color: blue
-    current-maintainers: [*spookyintheam]
+    current-maintainers: [*spookyintheam, *ninetailedtori]
     past-maintainers: [*nekowinston]
   bemenu:
     name: bemenu
@@ -355,7 +356,7 @@ ports:
     categories: [cli, analytics]
     platform: [linux, macos]
     color: red
-    current-maintainers: [*lokesh-krishna]
+    current-maintainers: [*lokesh-krishna, *ninetailedtori]
   bunny:
     name: Bunny
     categories: [social_networking]
@@ -382,7 +383,7 @@ ports:
     categories: [music, cli]
     platform: [linux, macos]
     color: sky
-    current-maintainers: [*sgoudham]
+    current-maintainers: [*sgoudham, *ninetailedtori]
     past-maintainers: [*pocco81]
   chatterino2:
     name: Chatterino 2
@@ -458,7 +459,7 @@ ports:
     platform: [linux]
     icon: cursors.svg
     color: text
-    current-maintainers: [*Covkie]
+    current-maintainers: [*Covkie, *ninetailedtori]
     past-maintainers: [*elkrien]
   cutter:
     name: Cutter
@@ -491,14 +492,14 @@ ports:
     categories: [cli]
     platform: [linux, macos, windows]
     color: text
-    current-maintainers: [*Anomalocaridid]
+    current-maintainers: [*Anomalocaridid, *ninetailedtori]
   discord:
     name: Discord
     categories: [social_networking]
     platform: [linux, macos, windows, android, ios, web]
     color: blue
     icon: discord
-    current-maintainers: [*rubyowo, *ToxicAven]
+    current-maintainers: [*rubyowo, *ToxicAven, *ninetailedtori]
   diohub:
     name: DioHub
     categories: [productivity]
@@ -587,7 +588,7 @@ ports:
     categories: [file_manager, cli, system]
     platform: [linux, macos, windows]
     color: green
-    current-maintainers: [*ankddev]
+    current-maintainers: [*ankddev, *ninetailedtori]
   fcitx5:
     name: fcitx5
     categories: [system]
@@ -615,14 +616,14 @@ ports:
     platform: [web]
     color: peach
     icon: firefoxbrowser
-    current-maintainers: [*isabelincorp, *AwA-VR]
+    current-maintainers: [*isabelincorp, *AwA-VR, *ninetailedtori]
   fish:
     name: fish shell
     categories: [cli]
     platform: [linux, macos]
     color: green
     icon: fishshell
-    current-maintainers: [*spookyintheam, *backwardspy]
+    current-maintainers: [*spookyintheam, *backwardspy, *ninetailedtori]
   fitbit:
     name: Fitbit
     categories: [health_and_fitness]
@@ -707,7 +708,7 @@ ports:
     categories: [application_launcher, system]
     platform: [linux]
     color: text
-    current-maintainers: [*tetov]
+    current-maintainers: [*tetov, *ninetailedtori]
   fyne:
     name: Fyne
     categories: [development]
@@ -719,7 +720,7 @@ ports:
     categories: [cli]
     platform: [linux, macos]
     color: text
-    current-maintainers: [*sgoudham]
+    current-maintainers: [*sgoudham, *ninetailedtori]
     past-maintainers: [*WitherCubes]
   geany:
     name: Geany
@@ -820,7 +821,7 @@ ports:
     platform: [linux, macos]
     icon: gitui.svg
     color: text
-    current-maintainers: [*BlueFalconHD]
+    current-maintainers: [*BlueFalconHD, *ninetailedtori]
   glamour:
     name: Glamour
     categories: [syntax_highlighting, cli]
@@ -943,21 +944,21 @@ ports:
     platform: [linux]
     color: sapphire
     icon: hyprland
-    current-maintainers: [*rubyowo]
+    current-maintainers: [*rubyowo, *ninetailedtori]
   hyprlock:
     name: Hyprlock
     categories: [system]
     platform: [linux]
     color: sapphire
     icon: hyprland
-    current-maintainers: [*NikSneMC]
+    current-maintainers: [*NikSneMC, *ninetailedtori]
   i3:
     name: i3/sway
     categories: [window_manager, system]
     platform: [linux]
     color: sky
     icon: i3
-    current-maintainers: [*rubyowo]
+    current-maintainers: [*rubyowo, *ninetailedtori]
   ida-debugger:
     name: IDA (Interactive Disassembler)
     categories: [code_editor, development]
@@ -1042,7 +1043,7 @@ ports:
         icon: jetbrains
         color: text
         url: https://plugins.jetbrains.com/plugin/18682-catppuccin-theme
-    current-maintainers: [*sgoudham, *quentinguidee]
+    current-maintainers: [*sgoudham, *quentinguidee, *ninetailedtori]
     past-maintainers: [*tiepp]
   jetbrains-icons:
     name: JetBrains Icons
@@ -1055,7 +1056,7 @@ ports:
         icon: jetbrains
         color: text
         url: https://plugins.jetbrains.com/plugin/23029-catppuccin-icons
-    current-maintainers: [*quentinguidee, *thelooter]
+    current-maintainers: [*quentinguidee, *thelooter, *ninetailedtori]
   joplin:
     name: Joplin
     categories: [note_taking]
@@ -1118,13 +1119,13 @@ ports:
     platform: [linux, macos, windows]
     color: blue
     icon: kicad
-    current-maintainers: [*maemachinebroke]
+    current-maintainers: [*maemachinebroke, *ninetailedtori]
   kitty:
     name: kitty
     categories: [terminal]
     platform: [linux, macos]
     color: green
-    current-maintainers: [*unseen-ninja]
+    current-maintainers: [*unseen-ninja, *ninetailedtori]
   konsole:
     name: Konsole
     categories: [terminal]
@@ -1274,7 +1275,7 @@ ports:
     platform: [linux, macos, windows]
     color: lavender
     icon: microeditor
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*elkrien]
   minecraft:
     name: Minecraft
@@ -1373,7 +1374,7 @@ ports:
     categories: [browser_extension]
     platform: [web]
     color: text
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*justTOBBI]
   nim:
     name: Nim
@@ -1540,7 +1541,7 @@ ports:
     categories: [game, application_launcher]
     platform: [linux, macos, windows]
     color: text
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*Mqisty]
   process-compose:
     name: Process Compose
@@ -1561,7 +1562,7 @@ ports:
     categories: [music]
     platform: [linux, macos, windows]
     color: text
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*elkrien]
   python:
     name: Python
@@ -1626,7 +1627,7 @@ ports:
     categories: [boot_loader, system]
     platform: [linux]
     color: text
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*fapfaff]
   regolith:
     name: Regolith
@@ -1897,7 +1898,7 @@ ports:
     categories: [file_manager, cli]
     platform: [android, linux, macos, windows]
     color: blue
-    current-maintainers: [*MuntasirSZN]
+    current-maintainers: [*MuntasirSZN, *ninetailedtori]
   supersonic:
     name: Supersonic
     categories: [entertainment, music]
@@ -1910,14 +1911,14 @@ ports:
     platform: [linux]
     color: yellow
     icon: wayland
-    current-maintainers: [*remiposo]
+    current-maintainers: [*remiposo, *ninetailedtori]
   swaync:
     name: swaync
     categories: [notification_daemon, system]
     platform: [linux]
     color: yellow
     icon: wayland
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*isabelroses]
   symfonium:
     name: Symfonium
@@ -2011,7 +2012,7 @@ ports:
     platform: [linux, macos, windows]
     color: blue
     icon: thunderbird
-    current-maintainers: [*nullishamy]
+    current-maintainers: [*nullishamy, *ninetailedtori]
     past-maintainers: [*elkrien]
   tilix:
     name: Tilix
@@ -2033,7 +2034,7 @@ ports:
     categories: [application_launcher, system]
     platform: [linux]
     color: text
-    current-maintainers: [*iruzo]
+    current-maintainers: [*iruzo, *ninetailedtori]
   trilium-notes:
     name: Trilium Notes
     categories: [note_taking]
@@ -2046,7 +2047,7 @@ ports:
     categories: [terminal, system]
     platform: [linux]
     color: text
-    current-maintainers: [*CallMeEchoCodes]
+    current-maintainers: [*CallMeEchoCodes, *ninetailedtori]
   tumblr:
     name: Tumblr
     categories: [browser_extension, social_networking, photo_and_video]
@@ -2236,7 +2237,7 @@ ports:
     platform: [linux]
     color: yellow
     icon: wayland
-    current-maintainers: [*rubyowo]
+    current-maintainers: [*rubyowo, *ninetailedtori]
   wezterm:
     name: WezTerm
     categories: [terminal]
@@ -2244,7 +2245,7 @@ ports:
     color: mauve
     icon: wezterm
     upstreamed: true
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*nekowinston]
   where-is-my-sddm-theme:
     name: Where is my SDDM theme?
@@ -2291,7 +2292,7 @@ ports:
     categories: [system]
     platform: [linux]
     color: mauve
-    current-maintainers: [*Anomalocaridid]
+    current-maintainers: [*Anomalocaridid, *ninetailedtori]
   xcode:
     name: Xcode
     categories: [code_editor]
