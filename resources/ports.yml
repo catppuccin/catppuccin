@@ -1870,7 +1870,7 @@ ports:
     platform: [linux, macos, windows]
     color: pink
     icon: starship
-    current-maintainers: [*JoshPaulie]
+    current-maintainers: [*JoshPaulie, *ninetailedtori]
   steam-deck:
     name: Steam Deck
     categories: [game, entertainment]
