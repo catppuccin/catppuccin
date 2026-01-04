@@ -291,7 +291,7 @@ ports:
     platform: [linux, macos, windows]
     icon: bat
     color: blue
-    current-maintainers: [*spookyintheam, *ninetailedtori]
+    current-maintainers: [*spookyintheam]
     past-maintainers: [*nekowinston]
   bemenu:
     name: bemenu
@@ -383,7 +383,7 @@ ports:
     categories: [music, cli]
     platform: [linux, macos]
     color: sky
-    current-maintainers: [*sgoudham, *ninetailedtori]
+    current-maintainers: [*sgoudham]
     past-maintainers: [*pocco81]
   chatterino2:
     name: Chatterino 2
@@ -720,7 +720,7 @@ ports:
     categories: [cli]
     platform: [linux, macos]
     color: text
-    current-maintainers: [*sgoudham, *ninetailedtori]
+    current-maintainers: [*sgoudham]
     past-maintainers: [*WitherCubes]
   geany:
     name: Geany
@@ -944,14 +944,14 @@ ports:
     platform: [linux]
     color: sapphire
     icon: hyprland
-    current-maintainers: [*rubyowo, *ninetailedtori]
+    current-maintainers: [*rubyowo]
   hyprlock:
     name: Hyprlock
     categories: [system]
     platform: [linux]
     color: sapphire
     icon: hyprland
-    current-maintainers: [*NikSneMC, *ninetailedtori]
+    current-maintainers: [*NikSneMC]
   i3:
     name: i3/sway
     categories: [window_manager, system]
@@ -2012,7 +2012,7 @@ ports:
     platform: [linux, macos, windows]
     color: blue
     icon: thunderbird
-    current-maintainers: [*nullishamy, *ninetailedtori]
+    current-maintainers: [*nullishamy]
     past-maintainers: [*elkrien]
   tilix:
     name: Tilix
@@ -2047,7 +2047,7 @@ ports:
     categories: [terminal, system]
     platform: [linux]
     color: text
-    current-maintainers: [*CallMeEchoCodes, *ninetailedtori]
+    current-maintainers: [*CallMeEchoCodes]
   tumblr:
     name: Tumblr
     categories: [browser_extension, social_networking, photo_and_video]
@@ -2245,7 +2245,7 @@ ports:
     color: mauve
     icon: wezterm
     upstreamed: true
-    current-maintainers: [*ninetailedtori]
+    current-maintainers: []
     past-maintainers: [*nekowinston]
   where-is-my-sddm-theme:
     name: Where is my SDDM theme?
