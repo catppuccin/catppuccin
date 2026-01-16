@@ -988,6 +988,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PowerShell](https://github.com/catppuccin/powershell)
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
+- [regex101](https://github.com/catppuccin/userstyles/tree/main/styles/regex101)
+- [Searchix](https://github.com/catppuccin/userstyles/tree/main/styles/searchix)
 - [shadcn/ui](https://github.com/catppuccin/shadcn-ui)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
 - [Trinket](https://github.com/catppuccin/userstyles/tree/main/styles/trinket)
@@ -1313,6 +1315,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Aseprite](https://github.com/catppuccin/aseprite)
 - [Bento](https://github.com/catppuccin/bento)
 - [cobalt](https://github.com/catppuccin/userstyles/tree/main/styles/cobalt)
+- [CopyQ](https://github.com/catppuccin/copyq)
 - [DioHub](https://github.com/catppuccin/diohub)
 - [FreshRSS](https://github.com/catppuccin/freshrss)
 - [gh-dash](https://github.com/catppuccin/gh-dash)
@@ -1453,6 +1456,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details open>
 <summary>🗣️ Discussion Forums</summary>
 
+- [Anonymous Overflow](https://github.com/catppuccin/userstyles/tree/main/styles/anonymous-overflow)
 - [DEV Community](https://github.com/catppuccin/userstyles/tree/main/styles/dev.to)
 - [Giscus](https://github.com/catppuccin/giscus)
 - [Hacker News](https://github.com/catppuccin/userstyles/tree/main/styles/hacker-news)
@@ -1521,11 +1525,13 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [ChatGPT](https://github.com/catppuccin/userstyles/tree/main/styles/chatgpt)
 - [Claude](https://github.com/catppuccin/userstyles/tree/main/styles/claude)
+- [DeepSeek](https://github.com/catppuccin/userstyles/tree/main/styles/deepseek)
 - [Gemini CLI](https://github.com/catppuccin/gemini-cli)
 - [Google Gemini](https://github.com/catppuccin/userstyles/tree/main/styles/google-gemini)
 - [InvokeAI](https://github.com/catppuccin/userstyles/tree/main/styles/invokeai)
 - [Ollama](https://github.com/catppuccin/userstyles/tree/main/styles/ollama)
 - [Perplexity](https://github.com/catppuccin/userstyles/tree/main/styles/perplexity)
+- [Poe](https://github.com/catppuccin/userstyles/tree/main/styles/poe)
 - [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
 
 </details>
