@@ -291,8 +291,8 @@ ports:
     platform: [linux, macos, windows]
     icon: bat
     color: blue
-    current-maintainers: [*spookyintheam]
-    past-maintainers: [*nekowinston]
+    current-maintainers: [*ninetailedtori]
+    past-maintainers: [*nekowinston, *spookyintheam]
   bemenu:
     name: bemenu
     categories: [application_launcher, system]
