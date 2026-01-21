@@ -8,7 +8,7 @@ collaborators:
   - &a9lim a9lim
   - &abhishekmj303 abhishekmj303
   - &AdalZanabria AdalZanabria
-  - &adamperkowski adamperkowski
+  - &koibtw koibtw
   - &AlphaTechnolog AlphaTechnolog
   - &AlwaysNur AlwaysNur
   - &Askerad Askerad
@@ -1029,7 +1029,7 @@ ports:
     platform: [web]
     color: sky
     icon: jellyfin
-    current-maintainers: [*adamperkowski, *mxgic1337]
+    current-maintainers: [*koibtw, *mxgic1337]
   jenkins:
     name: Jenkins
     categories: [development]
