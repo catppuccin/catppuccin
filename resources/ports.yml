@@ -1501,7 +1501,7 @@ ports:
     name: PlugData
     categories: [productivity]
     platform: [windows, macos, linux]
-    color: sapphire
+    color: blue
     current-maintainers: [*scarcekoi]
   plymouth:
     name: Plymouth
