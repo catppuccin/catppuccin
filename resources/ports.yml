@@ -1497,6 +1497,12 @@ ports:
     color: sky
     current-maintainers: []
     past-maintainers: [*elkrien]
+  plugdata:
+    name: PlugData
+    categories: [productivity]
+    platform: [windows, macos, linux]
+    color: text
+    current-maintainers: [*scarcekoi]
   plymouth:
     name: Plymouth
     categories: [boot_loader, system]
