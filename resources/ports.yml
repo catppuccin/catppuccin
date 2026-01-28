@@ -72,6 +72,7 @@ collaborators:
   - &Gingeh Gingeh
   - &griimick griimick
   - &HeitorAugustoLN HeitorAugustoLN
+  - &hollymlem hollymlem
   - &husa husa
   - &hyperreal64 hyperreal64
   - &IAmJafeth IAmJafeth
@@ -1917,7 +1918,7 @@ ports:
     platform: [linux]
     color: yellow
     icon: wayland
-    current-maintainers: [*remiposo]
+    current-maintainers: [*remiposo, *hollymlem]
   swaync:
     name: swaync
     categories: [notification_daemon, system]
