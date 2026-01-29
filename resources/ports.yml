@@ -492,14 +492,14 @@ ports:
     categories: [cli]
     platform: [linux, macos, windows]
     color: text
-    current-maintainers: [*Anomalocaridid, *ninetailedtori]
+    current-maintainers: [*Anomalocaridid]
   discord:
     name: Discord
     categories: [social_networking]
     platform: [linux, macos, windows, android, ios, web]
     color: blue
     icon: discord
-    current-maintainers: [*rubyowo, *ToxicAven, *ninetailedtori]
+    current-maintainers: [*rubyowo, *ToxicAven]
   diohub:
     name: DioHub
     categories: [productivity]
@@ -616,7 +616,7 @@ ports:
     platform: [web]
     color: peach
     icon: firefoxbrowser
-    current-maintainers: [*isabelincorp, *AwA-VR, *ninetailedtori]
+    current-maintainers: [*isabelincorp, *AwA-VR]
   fish:
     name: fish shell
     categories: [cli]
@@ -958,7 +958,7 @@ ports:
     platform: [linux]
     color: sky
     icon: i3
-    current-maintainers: [*rubyowo, *ninetailedtori]
+    current-maintainers: [*rubyowo]
   ida-debugger:
     name: IDA (Interactive Disassembler)
     categories: [code_editor, development]
@@ -1475,7 +1475,7 @@ ports:
     categories: [development]
     platform: []
     color: text
-    current-maintainers: [*BlueFalconHD]
+    current-maintainers: [*BlueFalconHD, *ninetailedtori]
   papirus-folders:
     name: Papirus Folders
     categories: [system]
@@ -1541,7 +1541,7 @@ ports:
     categories: [game, application_launcher]
     platform: [linux, macos, windows]
     color: text
-    current-maintainers: [*ninetailedtori]
+    current-maintainers: []
     past-maintainers: [*Mqisty]
   process-compose:
     name: Process Compose
@@ -1562,7 +1562,7 @@ ports:
     categories: [music]
     platform: [linux, macos, windows]
     color: text
-    current-maintainers: [*ninetailedtori]
+    current-maintainers: []
     past-maintainers: [*elkrien]
   python:
     name: Python
@@ -1911,7 +1911,7 @@ ports:
     platform: [linux]
     color: yellow
     icon: wayland
-    current-maintainers: [*remiposo, *ninetailedtori]
+    current-maintainers: [*remiposo]
   swaync:
     name: swaync
     categories: [notification_daemon, system]
@@ -2292,7 +2292,7 @@ ports:
     categories: [system]
     platform: [linux]
     color: mauve
-    current-maintainers: [*Anomalocaridid, *ninetailedtori]
+    current-maintainers: [*Anomalocaridid]
   xcode:
     name: Xcode
     categories: [code_editor]
