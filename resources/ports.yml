@@ -1871,6 +1871,13 @@ ports:
     color: pink
     icon: starship
     current-maintainers: [*JoshPaulie, *ninetailedtori]
+  steam:
+    name: Steam
+    categories: [game, application_launcher, entertainment]
+    platform: [linux, macos, windows]
+    color: text
+    icon: steam
+    current-maintainers: [*ninetailedtori, *Luna-Terra-CG]
   steam-deck:
     name: Steam Deck
     categories: [game, entertainment]
@@ -2462,14 +2469,7 @@ archived:
     categories: [browser_extension]
     platform: [web]
     color: text
-  steam:
-    name: Steam
-    reason: "Incredibly difficult to theme and maintain, this port could be revived if better theming methods arise. (highly unlikely)"
-    categories: [game, application_launcher, entertainment]
-    platform: [linux, macos, windows]
-    color: text
-    icon: steam
-
+ 
 showcases:
   - title: flotes.app
     description: A free note-taking app enhanced with flashcard features.
