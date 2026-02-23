@@ -989,6 +989,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [PythonAnywhere](https://github.com/catppuccin/userstyles/tree/main/styles/pythonanywhere)
 - [React.dev](https://github.com/catppuccin/userstyles/tree/main/styles/react.dev)
 - [regex101](https://github.com/catppuccin/userstyles/tree/main/styles/regex101)
+- [Scalar](https://github.com/catppuccin/userstyles/tree/main/styles/scalar)
 - [Searchix](https://github.com/catppuccin/userstyles/tree/main/styles/searchix)
 - [shadcn/ui](https://github.com/catppuccin/shadcn-ui)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
