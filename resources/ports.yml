@@ -133,6 +133,7 @@ collaborators:
   - &NickSquiggles NickSquiggles
   - &nik-rev nik-rev
   - &NikSneMC NikSneMC
+  - &ninetailedtori NineTailedTori
   - &nullchilly nullchilly
   - &nullishamy nullishamy
   - &nyxkrage nyxkrage
@@ -292,8 +293,8 @@ ports:
     platform: [linux, macos, windows]
     icon: bat
     color: blue
-    current-maintainers: [*spookyintheam]
-    past-maintainers: [*nekowinston]
+    current-maintainers: [*ninetailedtori]
+    past-maintainers: [*nekowinston, *spookyintheam]
   bemenu:
     name: bemenu
     categories: [application_launcher, system]
@@ -357,7 +358,7 @@ ports:
     categories: [cli, analytics]
     platform: [linux, macos]
     color: red
-    current-maintainers: [*lokesh-krishna]
+    current-maintainers: [*lokesh-krishna, *ninetailedtori]
   bunny:
     name: Bunny
     categories: [social_networking]
@@ -466,7 +467,7 @@ ports:
     platform: [linux]
     icon: cursors.svg
     color: text
-    current-maintainers: [*Covkie]
+    current-maintainers: [*Covkie, *ninetailedtori]
     past-maintainers: [*elkrien]
   cutter:
     name: Cutter
@@ -595,7 +596,7 @@ ports:
     categories: [file_manager, cli, system]
     platform: [linux, macos, windows]
     color: green
-    current-maintainers: [*ankddev]
+    current-maintainers: [*ankddev, *ninetailedtori]
   fcitx5:
     name: fcitx5
     categories: [system]
@@ -630,7 +631,7 @@ ports:
     platform: [linux, macos]
     color: green
     icon: fishshell
-    current-maintainers: [*spookyintheam, *backwardspy]
+    current-maintainers: [*spookyintheam, *backwardspy, *ninetailedtori]
   fitbit:
     name: Fitbit
     categories: [health_and_fitness]
@@ -715,7 +716,7 @@ ports:
     categories: [application_launcher, system]
     platform: [linux]
     color: text
-    current-maintainers: [*tetov]
+    current-maintainers: [*tetov, *ninetailedtori]
   fyne:
     name: Fyne
     categories: [development]
@@ -828,7 +829,7 @@ ports:
     platform: [linux, macos]
     icon: gitui.svg
     color: text
-    current-maintainers: [*BlueFalconHD]
+    current-maintainers: [*BlueFalconHD, *ninetailedtori]
   glamour:
     name: Glamour
     categories: [syntax_highlighting, cli]
@@ -1050,7 +1051,7 @@ ports:
         icon: jetbrains
         color: text
         url: https://plugins.jetbrains.com/plugin/18682-catppuccin-theme
-    current-maintainers: [*sgoudham, *quentinguidee]
+    current-maintainers: [*sgoudham, *quentinguidee, *ninetailedtori]
     past-maintainers: [*tiepp]
   jetbrains-icons:
     name: JetBrains Icons
@@ -1063,7 +1064,7 @@ ports:
         icon: jetbrains
         color: text
         url: https://plugins.jetbrains.com/plugin/23029-catppuccin-icons
-    current-maintainers: [*quentinguidee, *thelooter]
+    current-maintainers: [*quentinguidee, *thelooter, *ninetailedtori]
   joplin:
     name: Joplin
     categories: [note_taking]
@@ -1126,13 +1127,13 @@ ports:
     platform: [linux, macos, windows]
     color: blue
     icon: kicad
-    current-maintainers: [*maemachinebroke]
+    current-maintainers: [*maemachinebroke, *ninetailedtori]
   kitty:
     name: kitty
     categories: [terminal]
     platform: [linux, macos]
     color: green
-    current-maintainers: [*unseen-ninja]
+    current-maintainers: [*unseen-ninja, *ninetailedtori]
   konsole:
     name: Konsole
     categories: [terminal]
@@ -1282,7 +1283,7 @@ ports:
     platform: [linux, macos, windows]
     color: lavender
     icon: microeditor
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*elkrien]
   minecraft:
     name: Minecraft
@@ -1381,7 +1382,7 @@ ports:
     categories: [browser_extension]
     platform: [web]
     color: text
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*justTOBBI]
   nim:
     name: Nim
@@ -1482,7 +1483,7 @@ ports:
     categories: [development]
     platform: []
     color: text
-    current-maintainers: [*BlueFalconHD]
+    current-maintainers: [*BlueFalconHD, *ninetailedtori]
   papirus-folders:
     name: Papirus Folders
     categories: [system]
@@ -1634,7 +1635,7 @@ ports:
     categories: [boot_loader, system]
     platform: [linux]
     color: text
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*fapfaff]
   regolith:
     name: Regolith
@@ -1877,7 +1878,14 @@ ports:
     platform: [linux, macos, windows]
     color: pink
     icon: starship
-    current-maintainers: [*JoshPaulie]
+    current-maintainers: [*JoshPaulie, *ninetailedtori]
+  steam:
+    name: Steam
+    categories: [game, application_launcher, entertainment]
+    platform: [linux, macos, windows]
+    color: text
+    icon: steam
+    current-maintainers: [*ninetailedtori, *Luna-Terra-CG]
   steam-deck:
     name: Steam Deck
     categories: [game, entertainment]
@@ -1905,7 +1913,7 @@ ports:
     categories: [file_manager, cli]
     platform: [android, linux, macos, windows]
     color: blue
-    current-maintainers: [*MuntasirSZN]
+    current-maintainers: [*MuntasirSZN, *ninetailedtori]
   supersonic:
     name: Supersonic
     categories: [entertainment, music]
@@ -1925,7 +1933,7 @@ ports:
     platform: [linux]
     color: yellow
     icon: wayland
-    current-maintainers: []
+    current-maintainers: [*ninetailedtori]
     past-maintainers: [*isabelroses]
   symfonium:
     name: Symfonium
@@ -2041,7 +2049,7 @@ ports:
     categories: [application_launcher, system]
     platform: [linux]
     color: text
-    current-maintainers: [*iruzo]
+    current-maintainers: [*iruzo, *ninetailedtori]
   trilium-notes:
     name: Trilium Notes
     categories: [note_taking]
@@ -2244,7 +2252,7 @@ ports:
     platform: [linux]
     color: yellow
     icon: wayland
-    current-maintainers: [*rubyowo]
+    current-maintainers: [*rubyowo, *ninetailedtori]
   wezterm:
     name: WezTerm
     categories: [terminal]
@@ -2469,14 +2477,7 @@ archived:
     categories: [browser_extension]
     platform: [web]
     color: text
-  steam:
-    name: Steam
-    reason: "Incredibly difficult to theme and maintain, this port could be revived if better theming methods arise. (highly unlikely)"
-    categories: [game, application_launcher, entertainment]
-    platform: [linux, macos, windows]
-    color: text
-    icon: steam
-
+ 
 showcases:
   - title: flotes.app
     description: A free note-taking app enhanced with flashcard features.
