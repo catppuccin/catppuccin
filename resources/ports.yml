@@ -257,7 +257,7 @@ ports:
   asciinema:
     name: Asciinema
     categories: [cli, productivity, development]
-    color: text
+    color: red
     icon: asciinema
     platform: [linux, macos, windows]
     current-maintainers: [*0komo]
