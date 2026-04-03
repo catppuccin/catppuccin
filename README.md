@@ -1240,7 +1240,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [DuckDuckGo](https://github.com/catppuccin/userstyles/tree/main/styles/duckduckgo)
 - [Ecosia](https://github.com/catppuccin/userstyles/tree/main/styles/ecosia)
 - [Google](https://github.com/catppuccin/userstyles/tree/main/styles/google)
-- [Mullvad Leta](https://github.com/catppuccin/userstyles/tree/main/styles/mullvad-leta)
 - [NixOS Search](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search)
 - [SearXNG](https://github.com/catppuccin/userstyles/tree/main/styles/searxng)
 - [Startpage](https://github.com/catppuccin/userstyles/tree/main/styles/startpage)
