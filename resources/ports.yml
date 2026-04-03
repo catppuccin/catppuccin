@@ -250,22 +250,23 @@ ports:
     name: Anki
     categories: [education, productivity]
     platform: [linux, macos, windows, android, ios, web]
-    icon: anki
     color: blue
+    icon: anki
     current-maintainers: [*AnubisNekhet]
     past-maintainers: [*BlueFalconHD]
   asciinema:
     name: Asciinema
     categories: [cli, productivity, development]
-    color: text
+    color: red
+    icon: asciinema
     platform: [linux, macos, windows]
     current-maintainers: [*0komo]
   aseprite:
     name: Aseprite
     categories: [productivity]
     platform: [linux, macos, windows]
-    icon: aseprite
     color: text
+    icon: aseprite
     current-maintainers: [*sofycat]
   atuin:
     name: atuin
@@ -290,8 +291,8 @@ ports:
     name: bat
     categories: [cli]
     platform: [linux, macos, windows]
-    icon: bat
     color: blue
+    icon: bat
     current-maintainers: [*spookyintheam]
     past-maintainers: [*nekowinston]
   bemenu:
@@ -304,8 +305,8 @@ ports:
     name: Bento
     categories: [productivity]
     platform: [web]
-    icon: bento
     color: lavender
+    icon: bento
     current-maintainers: [*BlueFalconHD]
   binary-ninja:
     name: Binary Ninja
@@ -336,8 +337,8 @@ ports:
     name: Blockbench
     categories: [3d_modelling, game]
     platform: [linux, macos, windows, web]
-    icon: blockbench
     color: sky
+    icon: blockbench
     current-maintainers: [*Tnixc]
   bottom:
     name: bottom
@@ -403,8 +404,8 @@ ports:
     name: Google Chrome
     categories: [browser]
     platform: [web]
-    icon: googlechrome
     color: yellow
+    icon: googlechrome
     current-maintainers: [*sgoudham]
     past-maintainers: [*elkrien]
   cider:
@@ -412,6 +413,7 @@ ports:
     categories: [music]
     platform: [linux, macos, windows]
     color: red
+    icon: applemusic
     current-maintainers: [*Flapperoo]
     past-maintainers: [*nekowinston]
   codemirror:
@@ -464,8 +466,8 @@ ports:
     name: Cursors
     categories: [system]
     platform: [linux]
-    icon: cursors.svg
     color: text
+    icon: cursors.svg
     current-maintainers: [*Covkie]
     past-maintainers: [*elkrien]
   cutter:
@@ -483,15 +485,15 @@ ports:
     current-maintainers: [*Liumingxun]
     links:
       - name: npm
-        icon: npm
         color: red
+        icon: npm
         url: https://www.npmjs.com/package/@catppuccin/daisyui
   dark-reader:
     name: Dark Reader
     categories: [browser_extension]
     platform: [web]
-    icon: darkreader
     color: teal
+    icon: darkreader
     current-maintainers: [*sgoudham]
     past-maintainers: [*WitherCubes]
   delta:
@@ -578,8 +580,8 @@ ports:
     name: Emacs
     categories: [code_editor, system]
     platform: [linux, macos, windows]
-    icon: gnuemacs
     color: mauve
+    icon: gnuemacs
     current-maintainers: [*nyxkrage, *jtbx]
     past-maintainers: [*pspiagicw, *NamesCode]
   enmity:
@@ -642,8 +644,8 @@ ports:
     name: JetBrains Fleet
     categories: [code_editor]
     platform: [linux, macos, windows]
-    icon: jetbrains
     color: text
+    icon: jetbrains
     current-maintainers: [*kkrypt0nn, *davfsa]
   florisboard:
     name: FlorisBoard
@@ -708,6 +710,7 @@ ports:
     categories: [productivity]
     platform: [linux, macos, windows]
     color: sapphire
+    icon: freshrss
     current-maintainers: [*mark-pitblado]
     past-maintainers: [*isabelroses]
   fuzzel:
@@ -760,6 +763,7 @@ ports:
     categories: [terminal]
     platform: [linux, macos, windows]
     color: blue
+    icon: ghostty
     current-maintainers: [*uncenter]
   ghostwriter:
     name: ghostwriter
@@ -826,8 +830,8 @@ ports:
     name: GitUI
     categories: [cli]
     platform: [linux, macos]
-    icon: gitui.svg
     color: text
+    icon: gitui.svg
     current-maintainers: [*BlueFalconHD]
   glamour:
     name: Glamour
@@ -846,8 +850,8 @@ ports:
     name: Gleam
     categories: [library]
     platform: []
-    icon: gleam
     color: pink
+    icon: gleam
     current-maintainers: [*MAHcodes]
   gnome-terminal:
     name: GNOME Terminal
@@ -882,8 +886,8 @@ ports:
     name: GRUB
     categories: [boot_loader, system]
     platform: [linux]
-    icon: gnu
     color: text
+    icon: gnu
     current-maintainers: [*isabelincorp]
     past-maintainers: [*elkrien]
   halloy:
@@ -897,6 +901,7 @@ ports:
     categories: [code_editor, cli]
     platform: [linux, macos, windows]
     color: mauve
+    icon: helix
     current-maintainers: [*backwardspy]
     past-maintainers: [*ohxxm]
   heroic:
@@ -904,13 +909,14 @@ ports:
     categories: [game, application_launcher]
     platform: [linux, macos, windows]
     color: sky
+    icon: heroicgameslauncher
     current-maintainers: [*ndsboy]
   hexchat:
     name: HexChat
     categories: [social_networking]
     platform: [linux, windows]
-    icon: hexchat.svg
     color: peach
+    icon: hexchat.svg
     current-maintainers: [*aszecsei]
   highlightjs:
     name: highlight.js
@@ -919,8 +925,8 @@ ports:
     color: maroon
     links:
       - name: npm
-        icon: npm
         color: red
+        icon: npm
         url: https://www.npmjs.com/package/@catppuccin/highlightjs
     current-maintainers: [*uncenter]
     past-maintainers: [*nekowinston]
@@ -928,8 +934,8 @@ ports:
     name: Home Assistant
     categories: [productivity]
     platform: [web]
-    icon: homeassistant
     color: blue
+    icon: homeassistant
     current-maintainers: [*thislooksfun]
     past-maintainers: [*fapfaff]
   hyper:
@@ -940,8 +946,8 @@ ports:
     icon: hyper
     links:
       - name: npm
-        icon: npm
         color: red
+        icon: npm
         url: https://www.npmjs.com/package/@catppuccin/hyper
     current-maintainers: []
     past-maintainers: [*asrvd]
@@ -989,8 +995,8 @@ ports:
     name: Infinity For Reddit
     categories: [discussion_forum, social_networking]
     platform: [android]
-    icon: reddit
     color: peach
+    icon: reddit
     current-maintainers: [*Xurdejl]
   insomnia:
     name: Insomnia
@@ -1001,8 +1007,8 @@ ports:
     current-maintainers: [*opakholis]
     links:
       - name: npm
-        icon: npm
         color: red
+        icon: npm
         url: https://www.npmjs.com/package/@catppuccin/insomnia-plugin-catppuccin
   ish:
     name: iSH
@@ -1014,8 +1020,8 @@ ports:
     name: iTerm2
     categories: [terminal]
     platform: [macos]
-    icon: iterm2
     color: green
+    icon: iterm2
     current-maintainers: []
     past-maintainers: [*VictorTennekes, *nekowinston]
   java:
@@ -1047,8 +1053,8 @@ ports:
     icon: jetbrains
     links:
       - name: JetBrains Marketplace
-        icon: jetbrains
         color: text
+        icon: jetbrains
         url: https://plugins.jetbrains.com/plugin/18682-catppuccin-theme
     current-maintainers: [*sgoudham, *quentinguidee]
     past-maintainers: [*tiepp]
@@ -1060,8 +1066,8 @@ ports:
     icon: jetbrains
     links:
       - name: JetBrains Marketplace
-        icon: jetbrains
         color: text
+        icon: jetbrains
         url: https://plugins.jetbrains.com/plugin/23029-catppuccin-icons
     current-maintainers: [*quentinguidee, *thelooter]
   joplin:
@@ -1082,8 +1088,8 @@ ports:
     name: k9s
     categories: [cli]
     platform: [linux, macos]
-    icon: kubernetes
     color: blue
+    icon: kubernetes
     current-maintainers: []
     past-maintainers: [*nekowinston]
   Kvantum:
@@ -1117,8 +1123,8 @@ ports:
     name: Apple Keynote Slides
     categories: [productivity]
     platform: [macos]
-    icon: apple
     color: text
+    icon: apple
     current-maintainers: [*stevin-wilson]
   kicad:
     name: KiCad
@@ -1137,15 +1143,15 @@ ports:
     name: Konsole
     categories: [terminal]
     platform: [linux]
-    icon: kde
     color: blue
+    icon: kde
     current-maintainers: [*TheExistingOne]
   ksyntaxhighlighting:
     name: KSyntaxHighlighting
     categories: [syntax_highlighting]
     platform: [linux, macos, windows]
-    icon: kde
     color: blue
+    icon: kde
     current-maintainers: [*Sourcastic]
   kvaesitso:
     name: Kvaesitso
@@ -1157,8 +1163,8 @@ ports:
     name: LaTeX
     categories: [library]
     platform: []
-    icon: latex
     color: teal
+    icon: latex
     current-maintainers: [*walshyb, *atticus-sullivan]
   lapce:
     name: Lapce
@@ -1217,15 +1223,15 @@ ports:
     name: LXQt
     categories: [desktop_environment, system]
     platform: [linux]
-    icon: lxqt.svg
     color: sky
+    icon: lxqt.svg
     current-maintainers: [*DonutDev]
   lxterminal:
     name: LXTerminal
     categories: [terminal]
     platform: [linux]
-    icon: lxqt.svg
     color: sky
+    icon: lxqt.svg
     current-maintainers: []
     past-maintainers: [*prateektade]
   mailspring:
@@ -1239,8 +1245,8 @@ ports:
     name: mako
     categories: [notification_daemon, system]
     platform: [linux]
-    icon: wayland
     color: yellow
+    icon: wayland
     current-maintainers: [*lokesh-krishna]
   mangohud:
     name: MangoHud
@@ -1349,6 +1355,7 @@ ports:
     categories: [photo_and_video, cli]
     platform: [linux]
     color: mauve
+    icon: mpv
     current-maintainers: [*Anomalocaridid]
   musicbee:
     name: MusicBee
@@ -1414,8 +1421,8 @@ ports:
     name: Notepad++
     categories: [code_editor]
     platform: [windows]
-    icon: notepadplusplus
     color: green
+    icon: notepadplusplus
     current-maintainers: [*InvitedToHell, *jack-mil]
   nova:
     name: Nova
@@ -1429,16 +1436,16 @@ ports:
   nushell:
     name: Nushell
     categories: [cli]
+    platform: [linux, macos, windows]
     color: green
     icon: nushell
-    platform: [linux, macos, windows]
     current-maintainers: [*nik-rev]
   nvim:
     name: Neovim
     categories: [code_editor, cli]
     platform: [linux, macos, windows]
-    icon: neovim
     color: green
+    icon: neovim
     current-maintainers: [*vollowx, *comfysage]
     past-maintainers: [*pocco81, *nullchilly, *mrtnvgr]
   obs:
@@ -1487,8 +1494,8 @@ ports:
     name: Papirus Folders
     categories: [system]
     platform: [linux]
-    icon: folders.svg
     color: text
+    icon: folders.svg
     current-maintainers: []
     past-maintainers: [*elkrien]
   plank:
@@ -1527,8 +1534,8 @@ ports:
     name: Microsoft PowerPoint Slides
     categories: [productivity]
     platform: [macos, windows]
-    icon: microsoftpowerpoint
     color: red
+    icon: microsoftpowerpoint
     current-maintainers: [*kkrypt0nn]
   powershell:
     name: PowerShell
@@ -1596,8 +1603,8 @@ ports:
     name: qutebrowser
     categories: [browser]
     platform: [linux, macos, windows, web]
-    icon: qutebrowser.svg
     color: blue
+    icon: qutebrowser.svg
     current-maintainers: []
     past-maintainers: [*nekowinston]
   qtcreator:
@@ -1611,8 +1618,8 @@ ports:
     name: QTerminal
     categories: [terminal]
     platform: [linux]
-    icon: lxqt.svg
     color: sky
+    icon: lxqt.svg
     current-maintainers: []
     past-maintainers: [*prateektade]
   raycast:
@@ -1774,6 +1781,7 @@ ports:
     categories: [social_networking]
     platform: [android]
     color: sapphire
+    icon: simplex
     current-maintainers: [*iruzo]
   skim:
     name: skim
@@ -1833,8 +1841,8 @@ ports:
     name: Spyder
     categories: [code_editor]
     platform: [linux, macos, windows]
-    icon: spyderide
     color: red
+    icon: spyderide
     current-maintainers: [*meme8383]
   sql-server-management-studio:
     name: SQL Server Management Studio
@@ -1947,8 +1955,8 @@ ports:
     icon: tailwindcss
     links:
       - name: npm
-        icon: npm
         color: red
+        icon: npm
         url: https://www.npmjs.com/package/@catppuccin/tailwindcss
     current-maintainers: []
     past-maintainers: [*nekowinston]
@@ -2059,8 +2067,8 @@ ports:
     name: Tumblr
     categories: [browser_extension, social_networking, photo_and_video]
     platform: [web]
-    icon: tumblr
     color: blue
+    icon: tumblr
     current-maintainers: [*stellophiliac]
   tym:
     name: tym
@@ -2072,8 +2080,8 @@ ports:
     name: Typst
     categories: [library, note_taking]
     platform: []
-    icon: typst
     color: teal
+    icon: typst
     current-maintainers: [*TimeTravelPenguin]
   ueli:
     name: Ueli
@@ -2085,12 +2093,12 @@ ports:
     name: UI
     categories: [library]
     platform: []
-    icon: react
     color: sky
+    icon: react
     links:
       - name: npm
-        icon: npm
         color: red
+        icon: npm
         url: https://www.npmjs.com/package/@catppuccin/ui
     current-maintainers: []
     past-maintainers: [*didair]
@@ -2116,15 +2124,15 @@ ports:
     current-maintainers: [*catuhana]
     links:
       - name: npm
-        icon: npm
         color: red
+        icon: npm
         url: https://www.npmjs.com/package/@catppuccin/unocss
   unreal-engine:
     name: Unreal Engine
     categories: [game_development]
     platform: [linux, macos, windows]
-    icon: unrealengine
     color: blue
+    icon: unrealengine
     current-maintainers: [*quentinguidee]
   urxvt:
     name: Urxvt
@@ -2170,8 +2178,8 @@ ports:
     icon: visualstudio
     links:
       - name: Visual Studio Marketplace
-        icon: visualstudio
         color: blue
+        icon: visualstudio
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.CatppuccinVS
     current-maintainers: []
     past-maintainers: [*djflan]
@@ -2197,12 +2205,12 @@ ports:
     icon: visualstudiocode
     links:
       - name: Visual Studio Marketplace
-        icon: visualstudio
         color: blue
+        icon: visualstudio
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
       - name: Open VSX Registry
-        icon: vscodium
         color: blue
+        icon: vscodium
         url: https://open-vsx.org/extension/Catppuccin/catppuccin-vsc
     current-maintainers: [*backwardspy, *sgoudham]
     past-maintainers: [*spookyintheam, *VictorTennekes, *nekowinston]
@@ -2214,8 +2222,8 @@ ports:
     icon: visualstudiocode
     links:
       - name: Visual Studio Marketplace
-        icon: visualstudio
         color: blue
+        icon: visualstudio
         url: https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
     current-maintainers: [*prazdevs]
   vscord:
@@ -2271,15 +2279,15 @@ ports:
     name: Windows Files
     categories: [file_manager, system]
     platform: [windows]
-    icon: windows-files.svg
     color: yellow
+    icon: windows-files.svg
     current-maintainers: [*sgoudham]
   windows-terminal:
     name: Windows Terminal
     categories: [terminal]
     platform: [windows]
-    icon: windowsterminal
     color: text
+    icon: windowsterminal
     current-maintainers: [*LudoPinelli]
   windows9x:
     name: Windows 9x
@@ -2326,8 +2334,8 @@ ports:
     name: Xresources
     categories: [system]
     platform: [linux]
-    icon: xdotorg
     color: peach
+    icon: xdotorg
     current-maintainers: [*pocco81]
   yakuake:
     name: Yakuake
@@ -2359,8 +2367,8 @@ ports:
     name: Zathura
     categories: [document_viewer, productivity]
     platform: [linux]
-    icon: zathura.svg
     color: teal
+    icon: zathura.svg
     current-maintainers: [*lokesh-krishna]
   zed:
     name: Zed
@@ -2368,28 +2376,28 @@ ports:
     platform: [linux, macos]
     upstreamed: true
     color: blue
-    current-maintainers: [*tecandrew]
     icon: zedindustries
+    current-maintainers: [*tecandrew]
   zed-icons:
     name: Zed Icons
     categories: [code_editor]
     platform: [linux, macos]
     upstreamed: true
     color: blue
-    current-maintainers: [*tecandrew]
     icon: zedindustries
+    current-maintainers: [*tecandrew]
     links:
       - name: Zed Extensions
-        icon: zedindustries
         color: blue
+        icon: zedindustries
         url: https://zed.dev/extensions?query=catppuccin+icons
   zellij:
     name: Zellij
     categories: [cli]
     platform: [linux, macos]
     upstreamed: true
-    icon: zellij.svg
     color: green
+    icon: zellij.svg
     current-maintainers: [*mainrs]
   zen-browser:
     name: Zen Browser
@@ -2427,15 +2435,15 @@ archived:
     reason: "Azure Data Studio has been retired by Microsoft."
     categories: [code_editor]
     platform: [linux, macos, windows]
-    icon: microsoftazure
     color: blue
+    icon: microsoftazure
   chrome-devtools:
     name: Google Chrome DevTools
     reason: "Chrome has removed the experimental API required for the Catppuccin theme to be loaded."
     categories: [browser_extension]
     platform: [web]
-    icon: googlechrome
     color: yellow
+    icon: googlechrome
   enmity:
     name: Enmity
     reason: "This theme is now included within catppuccin/vendetta, therefore the catppuccin/enmity repository has been archived."
@@ -2461,8 +2469,8 @@ archived:
     reason: "Extension is unusable due to X/Twitter's extensive measures to limit third party modifications, this port could be revived."
     categories: [browser_extension, social_networking]
     platform: [web]
-    icon: twitter
     color: blue
+    icon: twitter
   sidebery:
     name: Sidebery
     reason: "Sidebery automatically takes in colours from the Firefox theme, this port is now redundant."
