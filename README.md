@@ -1382,6 +1382,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [ghostwriter](https://github.com/catppuccin/ghostwriter)
 - [Joplin](https://github.com/catppuccin/joplin)
 - [Logseq](https://github.com/catppuccin/logseq)
+- [Notesnook](https://github.com/catppuccin/notesnook)
 - [Obsidian](https://github.com/catppuccin/obsidian)
 - [RemNote](https://github.com/catppuccin/remnote)
 - [The Archive](https://github.com/catppuccin/the-archive)
