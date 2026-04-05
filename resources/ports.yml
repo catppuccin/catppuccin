@@ -494,6 +494,12 @@ ports:
         color: red
         icon: npm
         url: https://www.npmjs.com/package/@catppuccin/daisyui
+  dankmaterialshell:
+    name: DankMaterialShell
+    categories: [system]
+    platform: [linux]
+    color: mauve
+    current-maintainers: [*scarcekoi]
   dark-reader:
     name: Dark Reader
     categories: [browser_extension]
