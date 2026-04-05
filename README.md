@@ -953,6 +953,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
+- [CustomTkinter](https://github.com/catppuccin/customtkinter)
 - [daisyUI](https://github.com/catppuccin/daisyui)
 - [DevDocs](https://github.com/catppuccin/userstyles/tree/main/styles/devdocs)
 - [docs.deno.com](https://github.com/catppuccin/userstyles/tree/main/styles/docs.deno.com)
@@ -1240,7 +1241,6 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [DuckDuckGo](https://github.com/catppuccin/userstyles/tree/main/styles/duckduckgo)
 - [Ecosia](https://github.com/catppuccin/userstyles/tree/main/styles/ecosia)
 - [Google](https://github.com/catppuccin/userstyles/tree/main/styles/google)
-- [Mullvad Leta](https://github.com/catppuccin/userstyles/tree/main/styles/mullvad-leta)
 - [NixOS Search](https://github.com/catppuccin/userstyles/tree/main/styles/nixos-search)
 - [SearXNG](https://github.com/catppuccin/userstyles/tree/main/styles/searxng)
 - [Startpage](https://github.com/catppuccin/userstyles/tree/main/styles/startpage)
@@ -1383,6 +1383,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [ghostwriter](https://github.com/catppuccin/ghostwriter)
 - [Joplin](https://github.com/catppuccin/joplin)
 - [Logseq](https://github.com/catppuccin/logseq)
+- [Notesnook](https://github.com/catppuccin/notesnook)
 - [Obsidian](https://github.com/catppuccin/obsidian)
 - [RemNote](https://github.com/catppuccin/remnote)
 - [The Archive](https://github.com/catppuccin/the-archive)
@@ -1574,6 +1575,7 @@ If you're making an application or tool using our palette, please let us know by
 - [Gith](https://github.com/a3chron/gith) - A simple TUI git helper
 - [n-recipe](https://play.google.com/store/apps/details?id=com.a3chron.nrecipe) - Recipe book for Android with Catppuccin & Material You themes
 - [Bookbank](https://github.com/alwaysnur/bookbank) - A self-hosted audiobook and podcast media server.
+- [Yaw](https://yaw.sh) - A modern SSH terminal with Catppuccin Mocha as its default theme.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
