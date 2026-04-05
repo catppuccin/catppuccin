@@ -470,6 +470,12 @@ ports:
     icon: cursors.svg
     current-maintainers: [*Covkie]
     past-maintainers: [*elkrien]
+  customtkinter:
+    name: CustomTkinter
+    categories: [development]
+    platform: [windows, macos, linux]
+    color: blue
+    current-maintainers: [*scarcekoi]
   cutter:
     name: Cutter
     categories: [code_editor, development]
