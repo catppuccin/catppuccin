@@ -204,6 +204,7 @@ collaborators:
   - &WitherCubes WitherCubes
   - &maemachinebroke maemachinebroke
   - &xhayper xhayper
+  - &Xerrion Xerrion
   - &Xurdejl Xurdejl
   - &Zazucki Zazucki
   - &zspher zspher
@@ -1111,7 +1112,7 @@ ports:
     platform: [linux]
     color: blue
     icon: kde
-    current-maintainers: []
+    current-maintainers: [*Xerrion]
     past-maintainers: [*Prayag2, *Sourcastic]
   keybr:
     name: keybr.com
