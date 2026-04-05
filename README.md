@@ -953,6 +953,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [boringproxy](https://github.com/catppuccin/userstyles/tree/main/styles/boringproxy)
 - [Codeberg](https://github.com/catppuccin/userstyles/tree/main/styles/codeberg)
+- [CustomTkinter](https://github.com/catppuccin/customtkinter)
 - [daisyUI](https://github.com/catppuccin/daisyui)
 - [DevDocs](https://github.com/catppuccin/userstyles/tree/main/styles/devdocs)
 - [docs.deno.com](https://github.com/catppuccin/userstyles/tree/main/styles/docs.deno.com)
