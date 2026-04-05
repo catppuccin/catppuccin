@@ -1417,6 +1417,12 @@ ports:
     icon: notepadplusplus
     color: green
     current-maintainers: [*InvitedToHell, *jack-mil]
+  notesnook:
+    name: Notesnook
+    categories: [note_taking]
+    platform: [windows, macos, linux, android, ios, web]
+    color: text
+    current-maintainers: [*scarcekoi]
   nova:
     name: Nova
     categories: [code_editor]
