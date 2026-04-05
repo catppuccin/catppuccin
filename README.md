@@ -1117,6 +1117,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Base16](https://github.com/catppuccin/base16)
 - [Conky](https://github.com/catppuccin/conky)
 - [Cursors](https://github.com/catppuccin/cursors)
+- [DankMaterialShell](https://github.com/catppuccin/dankmaterialshell)
 - [fcitx5](https://github.com/catppuccin/fcitx5)
 - [FlorisBoard](https://github.com/catppuccin/florisboard)
 - [Hyprlock](https://github.com/catppuccin/hyprlock)
