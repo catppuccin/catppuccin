@@ -419,7 +419,7 @@ ports:
   clipse:
     name: clipse
     categories: [cli, productivity, system]
-    platform: [macos, linux]
+    platform: [linux, macos]
     color: text
     current-maintainers: [*scarcekoi]
   codemirror:
