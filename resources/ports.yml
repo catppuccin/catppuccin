@@ -1501,6 +1501,12 @@ ports:
     color: sky
     current-maintainers: []
     past-maintainers: [*prateektade]
+  opencode:
+    name: OpenCode
+    categories: [artificial_intelligence, cli]
+    platform: [linux, macos, windows]
+    color: blue
+    current-maintainers: [*scarcekoi]
   opera-gx:
     name: Opera GX
     categories: [browser]
