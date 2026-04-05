@@ -470,7 +470,7 @@ ports:
     past-maintainers: [*elkrien]
   customtkinter:
     name: CustomTkinter
-    categories: [library]
+    categories: [development]
     platform: [windows, macos, linux]
     color: blue
     current-maintainers: [*scarcekoi]
