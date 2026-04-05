@@ -959,6 +959,13 @@ ports:
     color: sapphire
     icon: hyprland
     current-maintainers: [*NikSneMC]
+  hyprtoolkit:
+    name: hyprtoolkit
+    categories: [system]
+    platform: [linux]
+    color: sapphire
+    icon: hyprland
+    current-maintainers: [*scarcekoi]
   i3:
     name: i3/sway
     categories: [window_manager, system]
