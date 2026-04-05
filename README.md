@@ -1535,6 +1535,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Google Gemini](https://github.com/catppuccin/userstyles/tree/main/styles/google-gemini)
 - [InvokeAI](https://github.com/catppuccin/userstyles/tree/main/styles/invokeai)
 - [Ollama](https://github.com/catppuccin/userstyles/tree/main/styles/ollama)
+- [OpenCode](https://github.com/catppuccin/opencode)
 - [Perplexity](https://github.com/catppuccin/userstyles/tree/main/styles/perplexity)
 - [Poe](https://github.com/catppuccin/userstyles/tree/main/styles/poe)
 - [Stable Diffusion WebUI](https://github.com/catppuccin/stable-diffusion-web-ui)
