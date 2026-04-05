@@ -791,7 +791,7 @@ The color values for `black` and `white` are mapped as shown below:
           <td>
             Classes, Interfaces,<br>
             Annotations, Metadata,<br>
-            Enums, Types
+            Enums, Types, Units
           </td>
           <td>Yellow</td>
           <td>
