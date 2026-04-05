@@ -1053,6 +1053,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [bat](https://github.com/catppuccin/bat)
 - [bottom](https://github.com/catppuccin/bottom)
 - [btop++](https://github.com/catppuccin/btop)
+- [clipse](https://github.com/catppuccin/clipse)
 - [delta](https://github.com/catppuccin/delta)
 - [fish shell](https://github.com/catppuccin/fish)
 - [fzf](https://github.com/catppuccin/fzf)
