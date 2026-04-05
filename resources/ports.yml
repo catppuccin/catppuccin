@@ -416,6 +416,12 @@ ports:
     icon: applemusic
     current-maintainers: [*Flapperoo]
     past-maintainers: [*nekowinston]
+  clipse:
+    name: clipse
+    categories: [cli, productivity, system]
+    platform: [macos, linux]
+    color: text
+    current-maintainers: [*scarcekoi]
   codemirror:
     name: CodeMirror
     categories: [code_editor, syntax_highlighting]
