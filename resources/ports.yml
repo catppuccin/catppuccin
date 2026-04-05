@@ -468,6 +468,12 @@ ports:
     color: text
     current-maintainers: [*Covkie]
     past-maintainers: [*elkrien]
+  customtkinter:
+    name: CustomTkinter
+    categories: [library]
+    platform: [windows, macos, linux]
+    color: blue
+    current-maintainers: [*scarcekoi]
   cutter:
     name: Cutter
     categories: [code_editor, development]
