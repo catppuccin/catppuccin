@@ -1281,7 +1281,7 @@ ports:
     current-maintainers: [*claymorwan]
   matplotlib:
     name: Matplotlib
-    categories: [development, analytics]
+    categories: [development, analytics, library]
     platform: []
     color: blue
     alias: python
