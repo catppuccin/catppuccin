@@ -8,12 +8,7 @@
     "$id": "#category-definitions/item",
     "title": "Category Item",
     "type": "object",
-    "required": [
-      "key",
-      "name",
-      "description",
-      "emoji"
-    ],
+    "required": ["key", "name", "description", "emoji"],
     "additionalProperties": false,
     "properties": {
       "key": {
@@ -58,6 +53,7 @@
         "cli",
         "code_editor",
         "desktop_environment",
+        "design",
         "development",
         "discussion_forum",
         "document_viewer",
