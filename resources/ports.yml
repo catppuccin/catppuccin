@@ -1910,7 +1910,7 @@ ports:
     past-maintainers: [*tsjazil]
   stable-diffusion-web-ui:
     name: Stable Diffusion WebUI
-    categories: [artificial_intelligence, entertainment]
+    categories: [artificial_intelligence, entertainment, photo_and_video]
     platform: [web]
     color: text
     current-maintainers: []
