@@ -19,6 +19,7 @@ export type Key =
   | "cli"
   | "code_editor"
   | "desktop_environment"
+  | "design"
   | "development"
   | "discussion_forum"
   | "document_viewer"

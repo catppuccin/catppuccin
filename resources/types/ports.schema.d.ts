@@ -21,7 +21,10 @@ export type Name = string;
  * @minItems 1
  * @maxItems 3
  */
-export type Categories = [Category] | [Category, Category] | [Category, Category, Category];
+export type Categories =
+  | [Category]
+  | [Category, Category]
+  | [Category, Category, Category];
 export type Category =
   | "3d_modelling"
   | "analytics"
@@ -33,6 +36,7 @@ export type Category =
   | "cli"
   | "code_editor"
   | "desktop_environment"
+  | "design"
   | "development"
   | "discussion_forum"
   | "document_viewer"
@@ -61,7 +65,13 @@ export type Category =
   | "userstyle"
   | "wiki"
   | "window_manager";
-export type PlatformKey = "android" | "ios" | "linux" | "macos" | "windows" | "web";
+export type PlatformKey =
+  | "android"
+  | "ios"
+  | "linux"
+  | "macos"
+  | "windows"
+  | "web";
 /**
  * The platforms of the port where Catppuccin can be applied. Set to empty if defining platforms does not make sense for the port. For example, Tailwind CSS isn't restricted by platform. If empty, it will be excluded from the website's platform filters.
  */
