@@ -263,7 +263,7 @@ ports:
     current-maintainers: [*0komo]
   aseprite:
     name: Aseprite
-    categories: [productivity]
+    categories: [productivity, photo_and_video]
     platform: [linux, macos, windows]
     color: text
     icon: aseprite
