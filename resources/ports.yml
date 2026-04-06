@@ -335,7 +335,7 @@ ports:
     current-maintainers: [*rithikasilva]
   blockbench:
     name: Blockbench
-    categories: [3d_modelling, game]
+    categories: [3d_modelling, game_development]
     platform: [linux, macos, windows, web]
     color: sky
     icon: blockbench
