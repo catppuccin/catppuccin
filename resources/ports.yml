@@ -1773,8 +1773,8 @@ ports:
     past-maintainers: [*nekowinston]
   scrivener:
     name: Scrivener
-    categories: [productivity]
-    platform: [macos]
+    categories: [productivity, note_taking, document_viewer]
+    platform: [macos, windows]
     color: maroon
     current-maintainers: [*NickSquiggles]
   sddm:
