@@ -2583,4 +2583,7 @@ showcases:
   - title: Yaw
     description: A modern SSH terminal with Catppuccin Mocha as its default theme.
     link: https://yaw.sh
+  - title: Julia
+    description: A WebGL based fractal renderer.
+    link: https://destructor-ben.github.io/julia/
 # yaml-language-server: $schema=./ports.schema.json
