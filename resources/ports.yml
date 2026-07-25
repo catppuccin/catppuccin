@@ -44,6 +44,7 @@ collaborators:
   - &comfysage comfysage
   - &Covkie Covkie
   - &Cristhyano Cristhyano
+  - &CyberHuman-bot CyberHuman-bot
   - &Daeraxa Daeraxa
   - &daveedmee daveedmee
   - &daveyholler daveyholler
@@ -2351,6 +2352,12 @@ ports:
     platform: [linux]
     color: mauve
     current-maintainers: [*Anomalocaridid]
+  wofi:
+    name: wofi
+    categories: [application_launcher, system]
+    platform: [linux]
+    color: text
+    current-maintainers: [*CyberHuman-bot]
   xcode:
     name: Xcode
     categories: [code_editor]
