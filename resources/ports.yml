@@ -2529,6 +2529,9 @@ archived:
     icon: steam
 
 showcases:
+  - title: Thoth Tarot Handbook
+    description: An interactive, open-source encyclopedia of the Thoth Tarot — cards, Tree of Life, and astrology cross-linked.
+    link: https://toth.jakub.computer
   - title: flotes.app
     description: A free note-taking app enhanced with flashcard features.
     link: https://flotes.app/
