@@ -263,7 +263,7 @@ ports:
     current-maintainers: [*0komo]
   aseprite:
     name: Aseprite
-    categories: [productivity]
+    categories: [productivity, photo_and_video]
     platform: [linux, macos, windows]
     color: text
     icon: aseprite
@@ -335,7 +335,7 @@ ports:
     current-maintainers: [*rithikasilva]
   blockbench:
     name: Blockbench
-    categories: [3d_modelling, game]
+    categories: [3d_modelling, game_development]
     platform: [linux, macos, windows, web]
     color: sky
     icon: blockbench
@@ -1281,7 +1281,7 @@ ports:
     current-maintainers: [*claymorwan]
   matplotlib:
     name: Matplotlib
-    categories: [development, analytics]
+    categories: [development, analytics, library]
     platform: []
     color: blue
     alias: python
@@ -1910,7 +1910,7 @@ ports:
     past-maintainers: [*tsjazil]
   stable-diffusion-web-ui:
     name: Stable Diffusion WebUI
-    categories: [artificial_intelligence, entertainment]
+    categories: [artificial_intelligence, entertainment, photo_and_video]
     platform: [web]
     color: text
     current-maintainers: []
