@@ -1584,6 +1584,11 @@ If you're making an application or tool using our palette, please let us know by
 - [Bookbank](https://github.com/alwaysnur/bookbank) - A self-hosted audiobook and podcast media server.
 - [Yaw](https://yaw.sh) - A modern SSH terminal with Catppuccin Mocha as its default theme.
 - [Julia](https://destructor-ben.github.io/julia/) - A WebGL based fractal renderer.
+- [Jadeite](https://github.com/sudo-megas/JADEITE) - JADEITE keeps your income, expenses, payments and valuables in one encrypted file on your own machine.
+- [Saat](https://github.com/sudo-megas/SAAT) - Local/Mobile/Portable desktop app for cataloguing a personal wristwatch collection.
+- [Parachron](https://github.com/sudo-megas/PARACHRON) - The app for organising and tracking for invoices, legal documents, warranty issue pdf's and similar.
+- [Resonance](https://github.com/sudo-megas/RESONANCE) - .dotfile syncing that is for "users" not developers.
+- [Tritium](https://github.com/sudo-megas/TRITIUM) - Fuel Logging / Maintenance Tracking for any ICE Vehicle.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
