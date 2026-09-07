@@ -2593,4 +2593,7 @@ showcases:
   - title: Julia
     description: A WebGL based fractal renderer.
     link: https://destructor-ben.github.io/julia/
+  - title: alphai-tui
+    description: A terminal stock dashboard for quotes, charts, AI-scored news and SEC insider trades, with all four flavors built in as presets.
+    link: https://alphai.io/tui
 # yaml-language-server: $schema=./ports.schema.json
