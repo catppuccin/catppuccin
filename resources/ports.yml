@@ -2593,4 +2593,7 @@ showcases:
   - title: Julia
     description: A WebGL based fractal renderer.
     link: https://destructor-ben.github.io/julia/
+  - title: Stackboard
+    description: A free, open-source Chrome new tab that turns your bookmarks into a board, in Catppuccin Mocha or Latte.
+    link: https://github.com/swole/stackboard
 # yaml-language-server: $schema=./ports.schema.json
