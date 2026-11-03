@@ -198,6 +198,7 @@ collaborators:
   - &ValentinTT ValentinTT
   - &vdbe vdbe
   - &VictorTennekes VictorTennekes
+  - &Villoh Villoh
   - &vollowx vollowx
   - &walshyb walshyb
   - &WalkQuackBack WalkQuackBack
@@ -534,6 +535,13 @@ ports:
     platform: [android]
     color: text
     current-maintainers: [*0komo]
+  ditto:
+    name: Ditto
+    categories: [productivity, system]
+    platform: [windows]
+    color: blue
+    url: https://github.com/Villoh/ditto
+    current-maintainers: [*Villoh]
   dmenu:
     name: dmenu
     categories: [application_launcher, system]
