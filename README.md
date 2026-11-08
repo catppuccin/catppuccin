@@ -1210,6 +1210,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Tofi](https://github.com/catppuccin/tofi)
 - [Ueli](https://github.com/catppuccin/ueli)
 - [Ulauncher](https://github.com/catppuccin/ulauncher)
+- [wofi](https://github.com/catppuccin/wofi)
 
 </details>
 <details open>
@@ -1257,6 +1258,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [crates.io](https://github.com/catppuccin/userstyles/tree/main/styles/crates.io)
 - [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
+- [npmx](https://github.com/catppuccin/userstyles/tree/main/styles/npmx)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 
 </details>
@@ -1581,6 +1583,7 @@ If you're making an application or tool using our palette, please let us know by
 - [n-recipe](https://play.google.com/store/apps/details?id=com.a3chron.nrecipe) - Recipe book for Android with Catppuccin & Material You themes
 - [Bookbank](https://github.com/alwaysnur/bookbank) - A self-hosted audiobook and podcast media server.
 - [Yaw](https://yaw.sh) - A modern SSH terminal with Catppuccin Mocha as its default theme.
+- [Julia](https://destructor-ben.github.io/julia/) - A WebGL based fractal renderer.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;

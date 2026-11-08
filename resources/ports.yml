@@ -44,6 +44,7 @@ collaborators:
   - &comfysage comfysage
   - &Covkie Covkie
   - &Cristhyano Cristhyano
+  - &CyberHuman-bot CyberHuman-bot
   - &Daeraxa Daeraxa
   - &daveedmee daveedmee
   - &daveyholler daveyholler
@@ -1773,8 +1774,8 @@ ports:
     past-maintainers: [*nekowinston]
   scrivener:
     name: Scrivener
-    categories: [productivity]
-    platform: [macos]
+    categories: [productivity, note_taking, document_viewer]
+    platform: [macos, windows]
     color: maroon
     current-maintainers: [*NickSquiggles]
   sddm:
@@ -2351,6 +2352,12 @@ ports:
     platform: [linux]
     color: mauve
     current-maintainers: [*Anomalocaridid]
+  wofi:
+    name: wofi
+    categories: [application_launcher, system]
+    platform: [linux]
+    color: text
+    current-maintainers: [*CyberHuman-bot]
   xcode:
     name: Xcode
     categories: [code_editor]
@@ -2583,4 +2590,7 @@ showcases:
   - title: Yaw
     description: A modern SSH terminal with Catppuccin Mocha as its default theme.
     link: https://yaw.sh
+  - title: Julia
+    description: A WebGL based fractal renderer.
+    link: https://destructor-ben.github.io/julia/
 # yaml-language-server: $schema=./ports.schema.json
